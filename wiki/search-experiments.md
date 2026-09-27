@@ -2,6 +2,7 @@
 
 ## Two-day source pass — 2026-09-27
 
+- Build the seven-day weekly ranking from creator-reported game creation when present; otherwise label the repository creation date as a proxy. Exclude older creations even when their game evidence is recent. Keep publication-date rankings separate.
 - Filter exact repository creation timestamps to September 26–27 in Asia/Ho_Chi_Minh; include September 25 after 17:00 UTC.
 - Search broad game metadata once, then partition by Opus, GPT-6, and Fable. Switch the capped Opus query to the narrower September 26–27 UTC partition and updated ordering.
 - Keep 30 new repositories and 30 game units. Distinguish the two explicit creator-reported creation dates from the 28 repository-creation-only dates.
@@ -2109,7 +2110,7 @@ Accept [Zombie Shooter](https://github.com/poralmi233-spec/zombie-shooter), [Bat
 
 Reject [desafio-gaymer](https://github.com/GuidaGaita/desafio-gaymer) as a score calculator with no game loop. Reject [Astra Game Center](https://github.com/gncll/astra-game-center) and [Astra](https://github.com/windvill/Astra-) as real games without qualifying GPT-6 Astra, Claude Opus or Claude Fable evidence; do not treat the word “Astra” in a product name as model attribution. Preserve private or unreachable demos as source-verified only, and do not claim a playtest when the URL cannot be reached.
 
-Regenerate the README with date-ranked **Top games today**, **Top games this week**, and **Top games this month** sections. Use the repository verification date for today and the publication or qualifying gameplay-evidence date for the week and month windows. Keep WebGL and native-engine categories separate.
+Regenerate the README with date-ranked **Top games today**, **Top games this week**, and **Top games this month** sections. Use the repository verification date for today, the creator-reported game-creation date or labeled repository-creation proxy for the last seven days, and the publication or qualifying gameplay-evidence date for the month. Keep WebGL and native-engine categories separate.
 
 ### Repository README screenshot scan
 

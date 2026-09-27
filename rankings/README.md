@@ -33,6 +33,7 @@
 
 - Treat `published_on` as the preferred publication date.
 - Use recent gameplay evidence or fresh repository activity only when no publication date exists, and label the basis in the report.
+- Use game-creation evidence or a labeled repository-creation proxy for the seven-day weekly ranking only.
 - Keep repository creation and `verified_on` dates separate from publication.
 - Exclude low-quality records below the 7.0 curated-list threshold; keep them in [bad-games.md](../bad-games.md).
 - Show unknown dates instead of guessing.

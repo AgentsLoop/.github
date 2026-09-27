@@ -63,6 +63,25 @@ for (const relative of ['README.md', 'this-week.md', 'this-month.md']) {
   if (!report.includes(`As of: **${asOf}**`)) throw new Error(`Report has wrong as-of date: rankings/${relative}`);
 }
 
+const weekly = fs.readFileSync(path.join(rankings, 'this-week.md'), 'utf8');
+const weekStart = dateOffset(asOf, -6);
+const weeklyRows = [...weekly.matchAll(/^\| \d+ \| \*\*[^|]+\*\* \| [^|]+ \| (\d{4}-\d{2}-\d{2}) · ([^|]+) \|/gm)];
+if (!weeklyRows.length) throw new Error('Weekly ranking has no dated games');
+for (const [, date, basis] of weeklyRows) {
+  if (date < weekStart || date > asOf) throw new Error(`Weekly game outside seven-day creation window: ${date}`);
+  if (!['creator_reported_creation', 'repository_creation_proxy'].includes(basis.trim())) {
+    throw new Error(`Weekly game uses non-creation date basis: ${basis}`);
+  }
+}
+const readme = fs.readFileSync(path.join(root, 'README.md'), 'utf8');
+const weeklySection = readme.split('## Top games this week\n')[1]?.split('\n## ')[0];
+if (!weeklySection) throw new Error('Missing weekly README ranking');
+const readmeDates = [...weeklySection.matchAll(/^\| \d+ \| .* \| (\d{4}-\d{2}-\d{2}) · (creator-reported game creation|repository creation proxy) \|$/gm)];
+if (!readmeDates.length) throw new Error('README weekly ranking has no dated games');
+for (const [, date] of readmeDates) {
+  if (date < weekStart || date > asOf) throw new Error(`README weekly game outside seven-day creation window: ${date}`);
+}
+
 for (const relative of required.filter((file) => file.endsWith('.md'))) {
   const filePath = path.join(rankings, relative);
   const report = fs.readFileSync(filePath, 'utf8');

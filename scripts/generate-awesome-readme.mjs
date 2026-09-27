@@ -154,6 +154,10 @@ const dateOffset = (date, days) => {
   return value.toISOString().slice(0, 10);
 };
 const recentDate = (row) => row.recent_game_evidence_on ?? row.published_on ?? row.record.recent_game_evidence_on ?? row.record.published_on ?? '';
+const createdDate = (row) => row.estimate?.game_created_on ?? row.record.game_created_on
+  ?? (row.record.repository_created_at ? localDate(row.record.repository_created_at) : '');
+const createdBasis = (row) => row.estimate?.game_created_on || row.record.game_created_on
+  ? 'creator-reported game creation' : 'repository creation proxy';
 const uniqueRanked = (predicate, limit) => {
   const seen = new Set();
   return rankedRows.filter((row) => {
@@ -174,7 +178,7 @@ const newlyCreated = [...games]
 const weekStart = dateOffset(today, -6);
 const monthStart = `${today.slice(0, 8)}01`;
 const topWeek = uniqueRanked((row) => {
-  const date = recentDate(row);
+  const date = createdDate(row);
   return date >= weekStart && date <= today;
 }, 15);
 const topMonth = uniqueRanked((row) => {
@@ -229,10 +233,11 @@ const screenshotGallery = () => {
 const periodTable = (title, description, items, period) => {
   let text = `## ${title}\n\n> ${description}\n\n`;
   if (!items.length) return `${text}_No verified entries match this period yet._\n\n`;
-  const dateHeading = period === 'today' ? 'Verified date' : 'Evidence date';
+  const dateHeading = period === 'today' ? 'Verified date' : period === 'week' ? 'Created date (basis)' : 'Evidence date';
   text += `| Rank | Game | Score | Model | ${dateHeading} |\n| ---: | --- | ---: | --- | --- |\n`;
   items.forEach((row, index) => {
-    const date = period === 'today' ? row.record.verified_on : recentDate(row);
+    const date = period === 'today' ? row.record.verified_on : period === 'week'
+      ? `${createdDate(row)} · ${createdBasis(row)}` : recentDate(row);
     text += `| ${index + 1} | [**${esc(row.name)}**](${gameNoteUrl(row)}) | ⭐ **${Number(row.rating).toFixed(1)}** | ${esc(modelText(row.record, row))} | ${esc(date)} |\n`;
   });
   return `${text}\n`;
@@ -278,7 +283,7 @@ if (newlyCreated.length) {
   }
   output += `\n`;
 } else output += `_No qualifying repositories were created in this window._\n\n`;
-output += periodTable('Top games this week', `Rank the highest-rated games with publication or qualifying gameplay evidence from **${weekStart}** through **${today}**.`, topWeek, 'week');
+output += periodTable('Top games this week', `Rank source-verified games with a creation signal in the last seven calendar days, **${weekStart}–${today}** (Asia/Ho_Chi_Minh). Prefer an explicit creator-reported game-creation date; otherwise use repository creation as a proxy, not proof of the game's actual creation or publication. Exclude older creation dates even when gameplay evidence is recent.`, topWeek, 'week');
 output += periodTable('Top games this month', `Rank the highest-rated games with publication or qualifying gameplay evidence from **${monthStart}** through **${today}**.`, topMonth, 'month');
 output += `## Top-rated picks\n\n`;
 output += `> **Start here. These projects have the strongest combined evidence, scope, and source quality. Ratings do not replace evidence grades.**\n\n`;

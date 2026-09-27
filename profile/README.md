@@ -155,12 +155,25 @@ Filter repository creation to **2026-09-26–2026-09-27** in **Asia/Ho_Chi_Minh 
 
 ## Top games this week
 
-> Rank the highest-rated games with publication or qualifying gameplay evidence from **2026-09-21** through **2026-09-27**.
+> Rank source-verified games with a creation signal in the last seven calendar days, **2026-09-21–2026-09-27** (Asia/Ho_Chi_Minh). Prefer an explicit creator-reported game-creation date; otherwise use repository creation as a proxy, not proof of the game's actual creation or publication. Exclude older creation dates even when gameplay evidence is recent.
 
-| Rank | Game | Score | Model | Evidence date |
+| Rank | Game | Score | Model | Created date (basis) |
 | ---: | --- | ---: | --- | --- |
-| 1 | [**Barista Shift**](../games/barista-shift/readme.md) | ⭐ **9.5** | Claude Opus 5.5 | 2026-09-23 |
-| 2 | [**OVERRUN: Dockyard Nine**](../games/overrun-dockyard-nine/readme.md) | ⭐ **8.5** | Claude Opus 5.5 | 2026-09-22 |
+| 1 | [**Barista Shift**](../games/barista-shift/readme.md) | ⭐ **9.5** | Claude Opus 5.5 | 2026-09-24 · repository creation proxy |
+| 2 | [**Turbo Kart Rally**](../games/turbo-kart-rally/readme.md) | ⭐ **9.3** | Claude Opus 5.5 | 2026-09-23 · repository creation proxy |
+| 3 | [**Dead Signal: Exclusion Zone**](../games/dead-signal-exclusion-zone/readme.md) | ⭐ **9.2** | Claude Opus 5.5 | 2026-09-23 · repository creation proxy |
+| 4 | [**Tater's Flight Sim**](../games/tater-s-flight-sim/readme.md) | ⭐ **9.2** | Claude Opus 5.5 | 2026-09-23 · repository creation proxy |
+| 5 | [**Ashes of Aether — Act I: The Unravelling**](../games/ashes-of-aether-act-i-the-unravelling/readme.md) | ⭐ **9.1** | Claude Opus 5.5 | 2026-09-24 · repository creation proxy |
+| 6 | [**Fishslop**](../games/fishslop/readme.md) | ⭐ **9.1** | Claude Opus 5.5 | 2026-09-23 · repository creation proxy |
+| 7 | [**QQ Speed**](../games/qq-speed/readme.md) | ⭐ **9.1** | Claude Opus 5.5 | 2026-09-23 · repository creation proxy |
+| 8 | [**Terrabrowser**](../games/terrabrowser/readme.md) | ⭐ **9.1** | Claude Opus 5.5 | 2026-09-23 · repository creation proxy |
+| 9 | [**The Hourglass City**](../games/the-hourglass-city/readme.md) | ⭐ **9.1** | Claude Opus 5.5 | 2026-09-25 · repository creation proxy |
+| 10 | [**Fall Line**](../games/fall-line/readme.md) | ⭐ **9.0** | Claude Opus 5.5 | 2026-09-24 · repository creation proxy |
+| 11 | [**Long Wind**](../games/long-wind/readme.md) | ⭐ **9.0** | Claude Opus 5.5 | 2026-09-26 · repository creation proxy |
+| 12 | [**QQ Speed**](../games/qq-speed-xiiyioozzz-opus55-3d-games/readme.md) | ⭐ **9.0** | Claude Opus 5.5 | 2026-09-25 · repository creation proxy |
+| 13 | [**Slide Rush**](../games/slide-rush/readme.md) | ⭐ **9.0** | Claude Opus 5.5 | 2026-09-23 · repository creation proxy |
+| 14 | [**Web Grand Prix**](../games/web-grand-prix/readme.md) | ⭐ **9.0** | Claude Opus 5.5 | 2026-09-23 · repository creation proxy |
+| 15 | [**Wouf Kart**](../games/wouf-kart/readme.md) | ⭐ **8.9** | Claude Opus 5.5 | 2026-09-23 · repository creation proxy |
 
 ## Top games this month
 

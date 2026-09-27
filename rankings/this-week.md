@@ -1,6 +1,6 @@
 # Top Games This Week
 
-> Rank games dated from **2026-09-21** through **2026-09-27**.
+> Rank source-verified games with a creation signal in the last seven calendar days, **2026-09-21–2026-09-27** (Asia/Ho_Chi_Minh). Label repository creation as a proxy when no creator-reported game-creation date exists; exclude older creation dates even when gameplay evidence is recent.
 
 ## Coverage
 
@@ -12,23 +12,23 @@
 
 | Rank | Game | Score | Date basis | Model | Technology | Links |
 | ---: | --- | ---: | --- | --- | --- | --- |
-| 1 | **Barista Shift** | ⭐ **9.5** | 2026-09-23 · recent_game_evidence | Claude Opus 5.5 | JavaScript, HTML, Three.js, WebGL, Browser | [source](https://github.com/swan4er/opus-100-projects/blob/main/103-barista-shift/index.html) · [evidence](https://github.com/swan4er/opus-100-projects/blob/main/README.md) · [play](https://swan4er.github.io/opus-100-projects/103-barista-shift/) |
-| 2 | **Rally Navigator** | ⭐ **9.5** | 2026-09-23 · recent_game_evidence | Claude Opus 5.5 | JavaScript, HTML, Three.js, WebGL, Browser | [source](https://github.com/swan4er/opus-100-projects/blob/main/038-rally-navigator/index.html) · [evidence](https://github.com/swan4er/opus-100-projects/blob/main/README.md) · [play](https://swan4er.github.io/opus-100-projects/038-rally-navigator/) |
-| 3 | **Chess with Character** | ⭐ **9.4** | 2026-09-23 · recent_game_evidence | Claude Opus 5.5 | JavaScript, HTML, Three.js, WebGL, Browser | [source](https://github.com/swan4er/opus-100-projects/blob/main/101-chess-characters/index.html) · [evidence](https://github.com/swan4er/opus-100-projects/blob/main/README.md) · [play](https://swan4er.github.io/opus-100-projects/101-chess-characters/) |
-| 4 | **The Precinct Officer** | ⭐ **9.4** | 2026-09-23 · recent_game_evidence | Claude Opus 5.5 | JavaScript, HTML, Three.js, WebGL, Browser | [source](https://github.com/swan4er/opus-100-projects/blob/main/027-uchastkovy-rpg/index.html) · [evidence](https://github.com/swan4er/opus-100-projects/blob/main/README.md) · [play](https://swan4er.github.io/opus-100-projects/027-uchastkovy-rpg/) |
-| 5 | **Interrogation** | ⭐ **9.3** | 2026-09-23 · recent_game_evidence | Claude Opus 5.5 | JavaScript, HTML, Three.js, WebGL, Browser | [source](https://github.com/swan4er/opus-100-projects/blob/main/054-interrogation/index.html) · [evidence](https://github.com/swan4er/opus-100-projects/blob/main/README.md) · [play](https://swan4er.github.io/opus-100-projects/054-interrogation/) |
-| 6 | **Mafia** | ⭐ **9.3** | 2026-09-23 · recent_game_evidence | Claude Opus 5.5 | JavaScript, HTML, Three.js, WebGL, Browser | [source](https://github.com/swan4er/opus-100-projects/blob/main/064-ai-mafia/index.html) · [evidence](https://github.com/swan4er/opus-100-projects/blob/main/README.md) · [play](https://swan4er.github.io/opus-100-projects/064-ai-mafia/) |
-| 7 | **Night Museum** | ⭐ **9.3** | 2026-09-23 · recent_game_evidence | Claude Opus 5.5 | JavaScript, HTML, Canvas 2D, Raycasting, Browser | [source](https://github.com/swan4er/opus-100-projects/blob/main/037-night-museum/index.html) · [evidence](https://github.com/swan4er/opus-100-projects/blob/main/README.md) · [play](https://swan4er.github.io/opus-100-projects/037-night-museum/) |
-| 8 | **Alchemy Automaton** | ⭐ **9.2** | 2026-09-23 · recent_game_evidence | Claude Opus 5.5 | JavaScript, HTML, Canvas 2D, Browser | [source](https://github.com/swan4er/opus-100-projects/blob/main/109-alchemy-automaton/index.html) · [evidence](https://github.com/swan4er/opus-100-projects/blob/main/README.md) · [play](https://swan4er.github.io/opus-100-projects/109-alchemy-automaton/) |
-| 9 | **Deeper** | ⭐ **9.2** | 2026-09-23 · recent_game_evidence | Claude Opus 5.5 | JavaScript, HTML, Canvas 2D, Browser | [source](https://github.com/swan4er/opus-100-projects/blob/main/060-deeper-roguelike/index.html) · [evidence](https://github.com/swan4er/opus-100-projects/blob/main/README.md) · [play](https://swan4er.github.io/opus-100-projects/060-deeper-roguelike/) |
-| 10 | **Gravity Golf** | ⭐ **9.2** | 2026-09-23 · recent_game_evidence | Claude Opus 5.5 | JavaScript, HTML, Canvas 2D, Browser | [source](https://github.com/swan4er/opus-100-projects/blob/main/096-gravity-golf/index.html) · [evidence](https://github.com/swan4er/opus-100-projects/blob/main/README.md) · [play](https://swan4er.github.io/opus-100-projects/096-gravity-golf/) |
+| 1 | **Barista Shift** | ⭐ **9.5** | 2026-09-24 · repository_creation_proxy | Claude Opus 5.5 | JavaScript, HTML, Three.js, WebGL, Browser | [source](https://github.com/swan4er/opus-100-projects/blob/main/103-barista-shift/index.html) · [evidence](https://github.com/swan4er/opus-100-projects) · [play](https://swan4er.github.io/opus-100-projects/103-barista-shift/) |
+| 2 | **Turbo Kart Rally** | ⭐ **9.3** | 2026-09-23 · repository_creation_proxy | Claude Opus 5.5 | Three.js, JavaScript, WebGL, Browser | [source](https://github.com/bridge-mind/turbo-kart-rally/blob/main/README.md) · [evidence](https://github.com/bridge-mind/turbo-kart-rally) · [play](https://bridge-mind.github.io/turbo-kart-rally/) |
+| 3 | **Tater's Flight Sim** | ⭐ **9.2** | 2026-09-23 · repository_creation_proxy | Claude Opus 5.5 | Three.js, TypeScript, Vite, WebGL, Browser | [source](https://github.com/JaredTate/tatertotsflightsim/blob/main/README.md) · [evidence](https://github.com/JaredTate/tatertotsflightsim) |
+| 4 | **Dead Signal: Exclusion Zone** | ⭐ **9.2** | 2026-09-23 · repository_creation_proxy | Claude Opus 5.5 | Three.js, TypeScript, Vite, WebGL, Browser | [source](https://github.com/bridge-mind/claude-opus-5.5-zombies-game/blob/main/README.md) · [evidence](https://github.com/bridge-mind/claude-opus-5.5-zombies-game) |
+| 5 | **Fishslop** | ⭐ **9.1** | 2026-09-23 · repository_creation_proxy | Claude Opus 5.5 | Three.js, TypeScript, WebGL, Browser | [source](https://github.com/vasu-devs/FishSlop_Opus5.5/blob/main/README.md) · [evidence](https://github.com/vasu-devs/FishSlop_Opus5.5) · [play](https://vasu-devs.github.io/FishSlop_Opus5.5/) |
+| 6 | **Terrabrowser** | ⭐ **9.1** | 2026-09-23 · repository_creation_proxy | Claude Opus 5.5 | JavaScript, Canvas 2D, Web Audio, Browser | [source](https://github.com/Wimmboo2/Terrabrowser/blob/main/README.md) · [evidence](https://github.com/Wimmboo2/Terrabrowser) · [play](https://terrabrowser.vercel.app) |
+| 7 | **QQ Speed** | ⭐ **9.1** | 2026-09-23 · repository_creation_proxy | Claude Opus 5.5 | Three.js, JavaScript, WebGL, Browser | [source](https://github.com/riba2534/claude-opus-5-5-demo/blob/main/qq-speed/src/main.js) · [evidence](https://github.com/riba2534/claude-opus-5-5-demo) · [play](https://claude-opus-5-5-qqfeiche3d.pages.dev/) |
+| 8 | **The Hourglass City** | ⭐ **9.1** | 2026-09-25 · repository_creation_proxy | Claude Opus 5.5 | JavaScript, Canvas 2D, Browser | [source](https://github.com/Odiriuss/PixelArtGameOpus/blob/main/hourglass_city.html) · [evidence](https://github.com/Odiriuss/PixelArtGameOpus) · [play](https://odiriuss.github.io/PixelArtGameOpus/hourglass_city.html) |
+| 9 | **Ashes of Aether — Act I: The Unravelling** | ⭐ **9.1** | 2026-09-24 · repository_creation_proxy | Claude Opus 5.5 | Python, JavaScript, Three.js, HTML/CSS, Browser | [source](https://github.com/0xPatrickMartin/AshesOfAether/blob/main/ashes/engine/game.py) · [evidence](https://github.com/0xPatrickMartin/AshesOfAether) |
+| 10 | **Fall Line** | ⭐ **9.0** | 2026-09-24 · repository_creation_proxy | Claude Opus 5.5 | Three.js, JavaScript, WebGL, Browser | [source](https://github.com/Nipale-ai/opus-5-5-overnight-builds/blob/main/fall-line/index.html) · [evidence](https://github.com/Nipale-ai/opus-5-5-overnight-builds) · [play](https://nipale-ai.github.io/opus-5-5-overnight-builds/fall-line/) |
 
 
 ## Date policy
 
-- Include `published_on`, `recent_game_evidence_on`, or `fresh_activity_date` when the field contains an exact calendar date.
-- Exclude records with no publication or qualifying evidence date from this ranking.
-- Keep repository creation dates in the audit file only.
+- Prefer `game_created_on` when the creator explicitly reports it.
+- Otherwise, use the repository-created local date as a proxy; do not call it a verified game creation or publication date.
+- Exclude entries outside the seven-day window or without either creation signal.
 - Keep this report generated; do not edit it manually.
 
 Period: **2026-09-21 through 2026-09-27**

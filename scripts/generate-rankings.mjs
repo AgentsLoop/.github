@@ -104,6 +104,28 @@ function dateInfo(record, unit = null) {
   };
 }
 
+function creationDateInfo(record, unit = null) {
+  const reported = unit?.game_created_on ?? record.game_created_on;
+  if (validDate(reported)) return {
+    date: reported,
+    published_date_type: 'creator_reported_creation',
+    published_date_source: unit?.game_creation_date_source ?? record.game_creation_date_source ?? evidenceSource(record, unit),
+    published_date_confidence: 'recorded',
+  };
+  const created = record.repository_created_at;
+  if (!created || Number.isNaN(Date.parse(created))) return null;
+  const parts = new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'Asia/Ho_Chi_Minh', year: 'numeric', month: '2-digit', day: '2-digit',
+  }).formatToParts(new Date(created));
+  const values = Object.fromEntries(parts.filter((part) => part.type !== 'literal').map((part) => [part.type, part.value]));
+  return {
+    date: `${values.year}-${values.month}-${values.day}`,
+    published_date_type: 'repository_creation_proxy',
+    published_date_source: repositorySource(record),
+    published_date_confidence: 'recorded',
+  };
+}
+
 function unitRows(record) {
   const target = Number(record.counted_game_units ?? 1);
   if (!Number.isInteger(target) || target < 1) return [];
@@ -151,7 +173,7 @@ const rows = games.flatMap((record) => unitRows(record).map((unit) => ({
 })));
 const totalUnits = rows.reduce((sum, row) => sum + row.unitCount, 0);
 
-function rank(items) {
+function rank(items, uniqueRepositories = false) {
   const seen = new Set();
   return [...items]
     .sort((a, b) => (
@@ -162,8 +184,9 @@ function rank(items) {
       || a.record.github_url.localeCompare(b.record.github_url)
     ))
     .filter((row) => {
-      if (seen.has(row.key)) return false;
-      seen.add(row.key);
+      const key = uniqueRepositories ? row.record.github_url : row.key;
+      if (seen.has(key)) return false;
+      seen.add(key);
       return true;
     })
     .slice(0, requestedLimit);
@@ -201,12 +224,17 @@ const monthStart = `${asOf.slice(0, 8)}01`;
 const datedRows = rows.filter((row) => row.dateInfo.has_publication_or_evidence_date && row.dateInfo.date);
 const dailyDates = Array.from({ length: 7 }, (_, index) => dateOffset(asOf, index - 6));
 const dailyRows = new Map(dailyDates.map((date) => [date, rank(datedRows.filter((row) => row.dateInfo.date === date))]));
-const weekRows = rank(datedRows.filter((row) => row.dateInfo.date >= weekStart && row.dateInfo.date <= asOf));
+const weekRows = rank(rows.map((row) => ({
+  ...row, dateInfo: creationDateInfo(row.record, row.estimate),
+})).filter((row) => row.dateInfo && row.dateInfo.date >= weekStart && row.dateInfo.date <= asOf), true);
 const monthRows = rank(datedRows.filter((row) => row.dateInfo.date >= monthStart && row.dateInfo.date <= asOf));
 
-function report(title, description, items, period) {
+function report(title, description, items, period, creationOnly = false) {
   const count = items.reduce((sum, row) => sum + row.unitCount, 0);
-  return `# ${title}\n\n> ${description}\n\n## Coverage\n\n- Ranked rows: **${items.length}**\n- Counted game units represented: **${count}**\n- Use the date basis shown in each row. Do not interpret repository creation or curation verification as publication.\n\n## Ranking\n\n${table(items)}\n\n## Date policy\n\n- Include \`published_on\`, \`recent_game_evidence_on\`, or \`fresh_activity_date\` when the field contains an exact calendar date.\n- Exclude records with no publication or qualifying evidence date from this ranking.\n- Keep repository creation dates in the audit file only.\n- Keep this report generated; do not edit it manually.\n\nPeriod: **${period}**\nAs of: **${asOf}**\n`;
+  const policy = creationOnly
+    ? '- Prefer `game_created_on` when the creator explicitly reports it.\n- Otherwise, use the repository-created local date as a proxy; do not call it a verified game creation or publication date.\n- Exclude entries outside the seven-day window or without either creation signal.\n'
+    : '- Include `published_on`, `recent_game_evidence_on`, or `fresh_activity_date` when the field contains an exact calendar date.\n- Exclude records with no publication or qualifying evidence date from this ranking.\n- Keep repository creation dates in the audit file only.\n';
+  return `# ${title}\n\n> ${description}\n\n## Coverage\n\n- Ranked rows: **${items.length}**\n- Counted game units represented: **${count}**\n- Use the date basis shown in each row. Do not interpret repository creation or curation verification as publication.\n\n## Ranking\n\n${table(items)}\n\n## Date policy\n\n${policy}- Keep this report generated; do not edit it manually.\n\nPeriod: **${period}**\nAs of: **${asOf}**\n`;
 }
 
 fs.mkdirSync(dailyDirectory, { recursive: true });
@@ -218,7 +246,7 @@ for (const date of dailyDates) {
   const description = `Rank games with a publication or qualifying evidence date of **${date}**.`;
   fs.writeFileSync(path.join(dailyDirectory, `${date}.md`), report(`Top Games — ${date}`, description, items, date));
 }
-fs.writeFileSync(path.join(outputDirectory, 'this-week.md'), report('Top Games This Week', `Rank games dated from **${weekStart}** through **${asOf}**.`, weekRows, `${weekStart} through ${asOf}`));
+fs.writeFileSync(path.join(outputDirectory, 'this-week.md'), report('Top Games This Week', `Rank source-verified games with a creation signal in the last seven calendar days, **${weekStart}–${asOf}** (Asia/Ho_Chi_Minh). Label repository creation as a proxy when no creator-reported game-creation date exists; exclude older creation dates even when gameplay evidence is recent.`, weekRows, `${weekStart} through ${asOf}`, true));
 fs.writeFileSync(path.join(outputDirectory, 'this-month.md'), report('Top Games This Month', `Rank games dated from **${monthStart}** through **${asOf}**.`, monthRows, `${monthStart} through ${asOf}`));
 
 const audit = rows.map((row) => ({
@@ -251,6 +279,7 @@ index += `| Repository creation metadata | ${stats.repositoryDateRecords} | ${st
 index += `## Date policy\n\n`;
 index += `- Treat ` + '`published_on`' + ` as the preferred publication date.\n`;
 index += `- Use recent gameplay evidence or fresh repository activity only when no publication date exists, and label the basis in the report.\n`;
+index += `- Use game-creation evidence or a labeled repository-creation proxy for the seven-day weekly ranking only.\n`;
 index += `- Keep repository creation and ` + '`verified_on`' + ` dates separate from publication.\n`;
 index += `- Exclude low-quality records below the 7.0 curated-list threshold; keep them in [bad-games.md](../bad-games.md).\n`;
 index += `- Show unknown dates instead of guessing.\n`;
