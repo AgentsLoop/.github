@@ -2,6 +2,8 @@
 
 # 🎮 Awesome AI Games
 
+<img src="assets/social-preview.jpg" alt="Awesome AI Games: a curated field guide to AI-made games" width="100%" />
+
 ### 794 curated game units. 521 qualifying source repositories.
 
 [![Games](https://img.shields.io/badge/GAMES-794-7c3aed?style=for-the-badge&logo=itchdotio&logoColor=white)](#browse-by-model) [![Source repositories](https://img.shields.io/badge/SOURCE%20REPOSITORIES-521-2563eb?style=for-the-badge&logo=github&logoColor=white)](games.json) [![WebGL family](https://img.shields.io/badge/WEBGL%20FAMILY-240-111827?style=for-the-badge&logo=threedotjs&logoColor=white)](#collection-at-a-glance)
