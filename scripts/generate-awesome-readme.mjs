@@ -144,7 +144,10 @@ const topPicks = rankedRows.filter((row) => {
   featuredRepos.add(row.record.github_url);
   return true;
 }).slice(0, 15);
-const today = new Date().toISOString().slice(0, 10);
+const localDate = (value) => new Intl.DateTimeFormat('en-CA', {
+  timeZone: 'Asia/Ho_Chi_Minh', year: 'numeric', month: '2-digit', day: '2-digit',
+}).format(new Date(value));
+const today = localDate(new Date());
 const dateOffset = (date, days) => {
   const value = new Date(`${date}T00:00:00Z`);
   value.setUTCDate(value.getUTCDate() + days);
@@ -164,7 +167,7 @@ const topToday = uniqueRanked((row) => row.record.verified_on === today, 10);
 const yesterday = dateOffset(today, -1);
 const newlyCreated = [...games]
   .filter((record) => {
-    const date = record.repository_created_at?.slice(0, 10);
+    const date = record.repository_created_at ? localDate(record.repository_created_at) : '';
     return date === yesterday || date === today;
   })
   .sort((a, b) => b.repository_created_at.localeCompare(a.repository_created_at));
@@ -248,6 +251,7 @@ const evidenceCount = (key) => evidenceCounts[key] ?? 0;
 
 let output = `<div align="center">\n\n`;
 output += `# 🎮 Awesome AI Games\n\n`;
+output += `<img src="assets/social-preview.jpg" alt="Awesome AI Games: a curated field guide to AI-made games" width="100%" />\n\n`;
 output += `### ${count} curated game units. ${repoCount} qualifying source repositories.\n\n`;
 output += `[![Games](https://img.shields.io/badge/GAMES-${count}-7c3aed?style=for-the-badge&logo=itchdotio&logoColor=white)](#browse-by-model) `;
 output += `[![Source repositories](https://img.shields.io/badge/SOURCE%20REPOSITORIES-${repoCount}-2563eb?style=for-the-badge&logo=github&logoColor=white)](games.json) `;
@@ -265,7 +269,7 @@ for (const [model, modelRows] of modelPages) output += `| [${esc(model)}](models
 output += `\n`;
 output += periodTable('Top games today', `Rank the highest-rated repositories verified in this curation run on **${today}**.`, topToday, 'today');
 output += `## New source repositories yesterday and today\n\n`;
-output += `Repository creation on **${yesterday}–${today}** is not proof of game publication. Inspect the source and model-evidence links before using an entry.\n\n`;
+output += `Filter repository creation to **${yesterday}–${today}** in **Asia/Ho_Chi_Minh (UTC+7)**; read the UTC dates below separately. Do not treat repository creation as proof of game publication. Inspect the source and model-evidence links before using an entry.\n\n`;
 if (newlyCreated.length) {
   output += `| Repository | Game units | Model | Created (UTC) |\n| --- | ---: | --- | --- |\n`;
   for (const record of newlyCreated) {
@@ -287,6 +291,7 @@ output += `The source of truth is [games.json](games.json). It was last verified
 output += `Browse [the awesome-list index](awesomelists.md) for verified game catalogs with their counted entry totals.\n\n`;
 output += `Browse [latest game additions by date](latest-games.md) to compare each source repository's creation time with the date this collection first recorded it.\n\n`;
 output += `Browse [AI game generators and engines](ai-game-generators.md) for tools that build or edit playable games from prompts.\n\n`;
+output += `Browse [Awesome Game Resources](awesome-game-resources.md) to find game assets, VFX, shaders, sound effects, music, and production tools.\n\n`;
 output += `Browse [Claude Opus 5.5 release-week games](opus-5.5-games.md) for direct source and model-evidence links.\n\n`;
 output += `Browse [publication-date rankings](rankings/README.md) for daily, weekly, and monthly reports. These reports exclude games without a reliable publication or qualifying evidence date. The audit keeps repository creation dates separate from publication dates.\n\n`;
 output += `The dataset stores source-derived reconstruction prompts without presenting them as original transcripts. Newly expanded Opus 5.5 entries link to their per-game prompt notes.\n\n`;

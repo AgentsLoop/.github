@@ -1,0 +1,281 @@
+{
+  "verified_on": "2026-09-27",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "window_start": "2026-09-26",
+  "window_end": "2026-09-27",
+  "expected_repositories": 30,
+  "expected_game_units": 30,
+  "date_basis": "Repository creation timestamps filtered to UTC+7; not evidence of publication. Two creators explicitly report September 26 game creation.",
+  "records": [
+    {
+      "name": "Lethal Company: Opus Edition",
+      "github_url": "https://github.com/TESTYEE-09/opus5.5Lethal",
+      "repository_id": 1389314037,
+      "repository_created_at": "2026-09-26T14:14:03Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/TESTYEE-09/opus5.5Lethal/commit/298c0b204bd4ce0010a575c2322baf744fbba445",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "HOMUNCULUS",
+      "github_url": "https://github.com/Efkrdnz/opus-test-game",
+      "repository_id": 1389435542,
+      "repository_created_at": "2026-09-26T15:34:13Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/Efkrdnz/opus-test-game/commit/1d70d2acdaedc4426d37da47c61096cd7b2f5d0b",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "LUMENRIFT",
+      "github_url": "https://github.com/WhiteBlackGoose/Lumenrift",
+      "repository_id": 1388695085,
+      "repository_created_at": "2026-09-26T06:37:45Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/WhiteBlackGoose/Lumenrift/commit/97ae9b51a3b73c5137786db634c606eee81ebfa4",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Uplift",
+      "github_url": "https://github.com/Starwaves1/Uplift",
+      "repository_id": 1389964281,
+      "repository_created_at": "2026-09-27T01:57:11Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/Starwaves1/Uplift/blob/a0e40db8a08f152de1359b51c234f10bb599e5bc/README.md",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Arkanoid Neon",
+      "github_url": "https://github.com/Jack-c3l2w/arkanoid-neon",
+      "repository_id": 1389758044,
+      "repository_created_at": "2026-09-26T20:19:37Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/Jack-c3l2w/arkanoid-neon/commit/0add432a3a761c5f8ad9cb451bcdd550823504dc",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Crabhouse v2",
+      "github_url": "https://github.com/kamibukuro18/opuscrabhouse",
+      "repository_id": 1388745503,
+      "repository_created_at": "2026-09-26T07:07:50Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/kamibukuro18/opuscrabhouse/commit/3c2a6897a1fe3a291f96991ba3591704c88646a7",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Neon Hunter",
+      "github_url": "https://github.com/Prashant7380/Neon-Hunter",
+      "repository_id": 1389403780,
+      "repository_created_at": "2026-09-26T15:13:26Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/Prashant7380/Neon-Hunter/blob/59a6fcf51531e99d4f354f8f39b7fb5cd9764545/README.md",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Emberwake",
+      "github_url": "https://github.com/mogita/emberwake",
+      "repository_id": 1388070400,
+      "repository_created_at": "2026-09-25T18:57:59Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/mogita/emberwake",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Gale Kart",
+      "github_url": "https://github.com/fants/Gale-kart",
+      "repository_id": 1389909874,
+      "repository_created_at": "2026-09-27T00:31:44Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/fants/Gale-kart/blob/522597902bc61f2cefcf4b5cccab569d72dbe8d5/README.md",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "ClaudeJump",
+      "github_url": "https://github.com/PrabhjotSodhi/ClaudeJump",
+      "repository_id": 1389053784,
+      "repository_created_at": "2026-09-26T10:58:25Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/PrabhjotSodhi/ClaudeJump/blob/d93c2c1f1982724cb72747dc7405f193293ecdf1/README.md",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Wind & Rain",
+      "github_url": "https://github.com/michalbe/viatr-and-deshch",
+      "repository_id": 1388821597,
+      "repository_created_at": "2026-09-26T07:54:13Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/michalbe/viatr-and-deshch/blob/0a0df20c58d4c0221fb939ecf715de631e0beec7/README.md",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Path of Werdna",
+      "github_url": "https://github.com/Werdna1976/PathOfWerdna",
+      "repository_id": 1389512066,
+      "repository_created_at": "2026-09-26T16:29:28Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/Werdna1976/PathOfWerdna/commit/a041367aa46f107226c2520a0ba42a56d96dc2c0",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "DRIFTWING",
+      "github_url": "https://github.com/KyleBuildsAI/driftwing",
+      "repository_id": 1389600182,
+      "repository_created_at": "2026-09-26T17:46:23Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/KyleBuildsAI/driftwing/blob/ec17f78a9c3615adf90ecedc57f606143f1862d4/README.md",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "CARVE LINE",
+      "github_url": "https://github.com/TetrisSQC/carveline",
+      "repository_id": 1389737118,
+      "repository_created_at": "2026-09-26T19:52:57Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/TetrisSQC/carveline/blob/efe3bf22020986de38ad29e987a3b065e331d77e/README.md",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "ZOMBIES LAN",
+      "github_url": "https://github.com/mitotkp/ZOMBIES-LAN",
+      "repository_id": 1387987108,
+      "repository_created_at": "2026-09-25T17:51:37Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/mitotkp/ZOMBIES-LAN/commit/0eebee2fd33c162055284fd147a67d16283f90d9",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Véspera — O Último Sino",
+      "github_url": "https://github.com/BrunoRS17/vespera-game-experiment-gpt6",
+      "repository_id": 1388139644,
+      "repository_created_at": "2026-09-25T20:08:43Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/BrunoRS17/vespera-game-experiment-gpt6/blob/832111a06ae499a1e3026f62220d84decc04e43f/README.md",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Meridian Wake",
+      "github_url": "https://github.com/michaelcrosato/meridian-wake-g6a",
+      "repository_id": 1390110944,
+      "repository_created_at": "2026-09-27T04:27:41Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/michaelcrosato/meridian-wake-g6a/blob/32850bbc39005a5b245c57f63133bdfd1f3f893c/README.md",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Shallow Steel",
+      "github_url": "https://github.com/adamholter/shallow-steel",
+      "repository_id": 1389798801,
+      "repository_created_at": "2026-09-26T21:17:37Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/adamholter/shallow-steel/blob/06d2931f63a925254768c900b66f3ea5e48523a4/README.md",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "LUCID SKY",
+      "github_url": "https://github.com/MI3312/Fable5.1",
+      "repository_id": 1388202138,
+      "repository_created_at": "2026-09-25T21:23:10Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/MI3312/Fable5.1/commit/81278501af3426a85ebaed5f26b1d10349d08470",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Deep Dive",
+      "github_url": "https://github.com/chichiroxursox-droid/deep-dive",
+      "repository_id": 1389611608,
+      "repository_created_at": "2026-09-26T17:56:40Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/chichiroxursox-droid/deep-dive/commit/35b948bb372b46b1931528b6d62fe77a30356a9a",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Pet Island",
+      "github_url": "https://github.com/tahcin/pet-island",
+      "repository_id": 1388761446,
+      "repository_created_at": "2026-09-26T07:18:20Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/tahcin/pet-island/blob/90f371a0d9eb08ea0fe3777da7a6f5c31a6428c2/README.md",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Sakura Rally",
+      "github_url": "https://github.com/SummerEngine/sakura-rally",
+      "repository_id": 1389421599,
+      "repository_created_at": "2026-09-26T15:24:44Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/SummerEngine/sakura-rally/blob/72b0443210888eca53b621d86a653d2de303dfb5/README.md",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Forja Abisal",
+      "github_url": "https://github.com/Carte1972/forja-abisal",
+      "repository_id": 1389367750,
+      "repository_created_at": "2026-09-26T14:53:36Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/Carte1972/forja-abisal/blob/7e9477a2c04a2ac28fee6a5b6a4ee6dab70149ac/README.md",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Tempora",
+      "github_url": "https://github.com/Mofferato/tempora",
+      "repository_id": 1389612692,
+      "repository_created_at": "2026-09-26T17:57:37Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/Mofferato/tempora/commit/3819b2327ddc9e21f01f3ec2cbe9685da960ab3f",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "OUT OF THE BOX",
+      "github_url": "https://github.com/tanuu5/out-of-the-box",
+      "repository_id": 1389691423,
+      "repository_created_at": "2026-09-26T19:05:37Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/tanuu5/out-of-the-box/blob/31f6147c463b329bf6c554026857e9d133c6f65d/README.md",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "KAIJU DOKAN!",
+      "github_url": "https://github.com/tanuu5/kaiju-dokan",
+      "repository_id": 1388958220,
+      "repository_created_at": "2026-09-26T09:20:11Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/tanuu5/kaiju-dokan/blob/d245060aa3784c30cf2bea885a842edb9f74e37c/README.md",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Radikal Riders",
+      "github_url": "https://github.com/javichur/radikal-bikers",
+      "repository_id": 1388656628,
+      "repository_created_at": "2026-09-26T06:14:00Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/javichur/radikal-bikers/blob/9013ee9b4c2a27fbdbe733413ea0a94b8f7dcb61/README.md",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Survive Coders",
+      "github_url": "https://github.com/travisstephenfraser/survive-coders",
+      "repository_id": 1389917140,
+      "repository_created_at": "2026-09-27T00:43:18Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/README.md",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Tea Rush — Kitchen Core",
+      "github_url": "https://github.com/kpkrr/tea-game",
+      "repository_id": 1389337656,
+      "repository_created_at": "2026-09-26T14:33:34Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/kpkrr/tea-game/commit/4bbcb7d65e7b88c5a053f2e38b6a7ef713369b79",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "OxCity",
+      "github_url": "https://github.com/exdal/opus5.5-test",
+      "repository_id": 1388042983,
+      "repository_created_at": "2026-09-25T18:34:02Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/exdal/opus5.5-test/commit/4ef903e87806822861b52505feaa8b8fec302181",
+      "publication_date_status": "repository_created_only"
+    }
+  ]
+}

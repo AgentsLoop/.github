@@ -203,10 +203,10 @@
     "thumbnail": "assets/screenshot-gallery/6de63bab6a1abdca5369.webp"
   },
   {
-    "name": "DRIFTLANDS",
-    "github_url": "https://github.com/DEADover/DRIFTLANDS",
-    "screenshot_rating_10": 8,
-    "source_url": "https://github.com/DEADover/DRIFTLANDS/blob/main/docs/banner.jpg",
-    "thumbnail": "assets/screenshot-gallery/0e9ad41d0a535a98d32a.webp"
+    "name": "LUMENRIFT",
+    "github_url": "https://github.com/WhiteBlackGoose/Lumenrift",
+    "screenshot_rating_10": 8.1,
+    "source_url": "https://github.com/WhiteBlackGoose/Lumenrift/blob/56517f60a44d49ef14e0e51b5df93d933b1a4f20/docs/img/hero.jpg",
+    "thumbnail": "assets/screenshot-gallery/7a77b5a52bc990b2e186.webp"
   }
 ]

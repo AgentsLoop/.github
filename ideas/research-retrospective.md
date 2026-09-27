@@ -4,11 +4,14 @@ Use the completed two-day search to improve the next collection pass.
 
 ## Keep what worked
 
+- Save a fixed discovery-batch manifest; validate unique repository IDs, the local date window, and dataset agreement before regenerating the README.
+- Verify resource licenses on the current primary page and the specific asset pack; flag conflicting legacy terms rather than assuming a site-wide free-use license.
 - Search commit trailers before broad repository metadata. Exact Claude Opus and Claude Fable trailers produced the strongest attribution evidence.
 - Inspect candidates serially. Record the query, candidate, decision and reason immediately.
 - Separate repository count from game-unit count. Airgap and Top-10 Tension showed that one repository can contain several independently playable games.
 - Inspect the README, entry point, source tree and gameplay state before accepting a game.
 - Store repository creation, publication, verification and gameplay-evidence dates separately.
+- Store creator-reported game creation dates separately from publication dates; run the ranking validator as well as the dataset validator.
 - Generate prompts from source behavior. Mark reconstructed prompts clearly instead of presenting them as original prompts.
 - Rank only after refreshing dates and validating the dataset. Keep today, week and month reports generated from the same source of truth.
 - Preserve rejected candidates and rejection reasons. This prevents repeated inspection of catalogs, benchmarks, engines and non-games.

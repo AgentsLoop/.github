@@ -1,5 +1,18 @@
 # Search experiments
 
+## Two-day source pass — 2026-09-27
+
+- Filter exact repository creation timestamps to September 26–27 in Asia/Ho_Chi_Minh; include September 25 after 17:00 UTC.
+- Search broad game metadata once, then partition by Opus, GPT-6, and Fable. Switch the capped Opus query to the narrower September 26–27 UTC partition and updated ordering.
+- Keep 30 new repositories and 30 game units. Distinguish the two explicit creator-reported creation dates from the 28 repository-creation-only dates.
+- Inspect the real entry point; check single-file HTML when a React component is only a compatibility stub. Reject README-only and missing-implementation repositories.
+- Separate authoring models from runtime models. Record Opus planning/review versus Sonnet implementation for ClaudeJump; do not infer Fable authorship from LUCID SKY's repository name.
+- Exclude Gale Kart's generated hero and track illustrations from gameplay screenshots. Exclude the stale OxCity screenshot and the HOMUNCULUS anatomy asset sheet.
+- Record HTTP availability separately from interaction. Use the three bounded browser smoke tests for Arkanoid Neon, Crabhouse, and LUMENRIFT; do not generalize them to the other 27 games.
+- Avoid naming a Python research helper `inspect.py`; it shadows the standard library and breaks Pillow dependencies. Use `collect_metadata.py`.
+- Validate the saved batch with `bash scripts/validate-discovery-batch.sh research/2026-09-27-game-batch.json`.
+- Maintain [Awesome Game Resources](../awesome-game-resources.md) separately from game catalogs and prompt-to-game generators. Preserve its README link and the existing social banner in the README generator.
+
 Use this page to record discovery methods, scores, and the next serial test.
 
 ## X feed and focused search — 2026-09-09

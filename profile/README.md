@@ -4,9 +4,9 @@
 
 <img src="../assets/social-preview.jpg" alt="Awesome AI Games: a curated field guide to AI-made games" width="100%" />
 
-### 794 curated game units. 521 qualifying source repositories.
+### 823 curated game units. 550 qualifying source repositories.
 
-[![Games](https://img.shields.io/badge/GAMES-794-7c3aed?style=for-the-badge&logo=itchdotio&logoColor=white)](#browse-by-model) [![Source repositories](https://img.shields.io/badge/SOURCE%20REPOSITORIES-521-2563eb?style=for-the-badge&logo=github&logoColor=white)](../games.json) [![WebGL family](https://img.shields.io/badge/WEBGL%20FAMILY-240-111827?style=for-the-badge&logo=threedotjs&logoColor=white)](#collection-at-a-glance)
+[![Games](https://img.shields.io/badge/GAMES-823-7c3aed?style=for-the-badge&logo=itchdotio&logoColor=white)](#browse-by-model) [![Source repositories](https://img.shields.io/badge/SOURCE%20REPOSITORIES-550-2563eb?style=for-the-badge&logo=github&logoColor=white)](../games.json) [![WebGL family](https://img.shields.io/badge/WEBGL%20FAMILY-256-111827?style=for-the-badge&logo=threedotjs&logoColor=white)](#collection-at-a-glance)
 
 [![Stars](https://img.shields.io/github/stars/AgentsLoop/awesome-opus-5.5-games?style=for-the-badge&logo=github&color=f59e0b)](https://github.com/AgentsLoop/awesome-opus-5.5-games/stargazers) [![Forks](https://img.shields.io/github/forks/AgentsLoop/awesome-opus-5.5-games?style=for-the-badge&logo=github&color=06b6d4)](https://github.com/AgentsLoop/awesome-opus-5.5-games/forks)
 
@@ -70,7 +70,7 @@ Rank 30 games by the score of each game's best manually reviewed screenshot, not
 <tr>
 <td align="center" width="33%"><a href="../games/tater-s-flight-sim/readme.md"><img src="../assets/screenshot-gallery/af3f32934824f5faa83c.webp" alt="Tater's Flight Sim screenshot" width="100%"></a><br><a href="../games/tater-s-flight-sim/readme.md"><strong>Tater's Flight Sim</strong></a> · 📸 8.2/10</td>
 <td align="center" width="33%"><a href="../games/buildyourtown/readme.md"><img src="../assets/screenshot-gallery/6de63bab6a1abdca5369.webp" alt="BuildYourTown screenshot" width="100%"></a><br><a href="../games/buildyourtown/readme.md"><strong>BuildYourTown</strong></a> · 📸 8.1/10</td>
-<td align="center" width="33%"><a href="../games/driftlands/readme.md"><img src="../assets/screenshot-gallery/0e9ad41d0a535a98d32a.webp" alt="DRIFTLANDS screenshot" width="100%"></a><br><a href="../games/driftlands/readme.md"><strong>DRIFTLANDS</strong></a> · 📸 8.0/10</td>
+<td align="center" width="33%"><a href="../games/lumenrift/readme.md"><img src="../assets/screenshot-gallery/7a77b5a52bc990b2e186.webp" alt="LUMENRIFT screenshot" width="100%"></a><br><a href="../games/lumenrift/readme.md"><strong>LUMENRIFT</strong></a> · 📸 8.1/10</td>
 </tr>
 </table>
 
@@ -81,59 +81,81 @@ Select a model to browse its ranked games and screenshots. Count each multi-mode
 | Model | Game units | Source repositories |
 | --- | ---: | ---: |
 | [Claude Fable 5](../models/claude-fable-5.md) | **205** | 97 |
-| [Claude Fable 5.1](../models/claude-fable-5-1.md) | **126** | 58 |
+| [Claude Fable 5.1](../models/claude-fable-5-1.md) | **127** | 59 |
 | [Claude Opus 5](../models/claude-opus-5.md) | **126** | 111 |
-| [GPT-6 Astra](../models/gpt-6-astra.md) | **109** | 80 |
+| [GPT-6 Astra](../models/gpt-6-astra.md) | **111** | 82 |
+| [Claude Opus 5.5](../models/claude-opus-5-5.md) | **88** | 57 |
 | [Claude Opus 4.6](../models/claude-opus-4-6.md) | **83** | 69 |
 | [Claude Opus 4.8](../models/claude-opus-4-8.md) | **67** | 53 |
-| [Claude Opus 5.5](../models/claude-opus-5-5.md) | **62** | 31 |
 | [Claude Opus 4.7](../models/claude-opus-4-7.md) | **25** | 25 |
 | [Claude Opus 4.5](../models/claude-opus-4-5.md) | **13** | 13 |
 | [Codex](../models/codex.md) | **7** | 7 |
 | [Claude Opus 4](../models/claude-opus-4.md) | **4** | 2 |
 | [GPT-6](../models/gpt-6.md) | **4** | 4 |
+| [Claude Opus](../models/claude-opus.md) | **3** | 3 |
 | [Claude Code](../models/claude-code.md) | **2** | 2 |
-| [Claude Opus](../models/claude-opus.md) | **2** | 2 |
 | [ChatGPT 5.6 Soul](../models/chatgpt-5-6-soul.md) | **1** | 1 |
 | [Codex Opus 4.8](../models/codex-opus-4-8.md) | **1** | 1 |
 | [GPT-5.6 Sol](../models/gpt-5-6-sol.md) | **1** | 1 |
 
 ## Top games today
 
-> Rank the highest-rated repositories verified in this curation run on **2026-09-26**.
+> Rank the highest-rated repositories verified in this curation run on **2026-09-27**.
 
 | Rank | Game | Score | Model | Verified date |
 | ---: | --- | ---: | --- | --- |
-| 1 | [**Long Wind**](../games/long-wind/readme.md) | ⭐ **9.0** | Claude Opus 5.5 | 2026-09-26 |
-| 2 | [**Ponpoko Kart**](../games/ponpoko-kart/readme.md) | ⭐ **8.8** | Claude Opus 5.5 | 2026-09-26 |
-| 3 | [**HELLAS — Greek Civilization**](../games/hellas-greek-civilization/readme.md) | ⭐ **8.5** | GPT-6 Astra | 2026-09-26 |
-| 4 | [**Sky Rings**](../games/sky-rings/readme.md) | ⭐ **8.4** | Claude Opus 5.5 | 2026-09-26 |
-| 5 | [**F1 Racing Game**](../games/f1-racing-game/readme.md) | ⭐ **8.3** | Claude Opus 5.5 | 2026-09-26 |
-| 6 | [**Harbor Master**](../games/harbor-master/readme.md) | ⭐ **8.2** | Claude Opus 5.5 | 2026-09-26 |
-| 7 | [**League of Legends Simulation**](../games/league-of-legends-simulation/readme.md) | ⭐ **8.1** | Claude Opus 5.5 | 2026-09-26 |
-| 8 | [**GunBros**](../games/gunbros/readme.md) | ⭐ **8.0** | Claude Opus 5.5, Claude Fable 5.1 | 2026-09-26 |
-| 9 | [**High Effort Strategy Game**](../games/high-effort-strategy-game/readme.md) | ⭐ **7.6** | Claude Opus 5.5 | 2026-09-26 |
+| 1 | [**CARVE LINE**](../games/carve-line/readme.md) | ⭐ **8.0** | Claude Opus | 2026-09-27 |
+| 2 | [**Emberwake**](../games/emberwake/readme.md) | ⭐ **8.0** | Claude Opus 5.5 | 2026-09-27 |
+| 3 | [**Forja Abisal**](../games/forja-abisal/readme.md) | ⭐ **8.0** | Claude Opus 5.5 | 2026-09-27 |
+| 4 | [**Gale Kart**](../games/gale-kart/readme.md) | ⭐ **8.0** | Claude Opus 5.5 | 2026-09-27 |
+| 5 | [**KAIJU DOKAN!**](../games/kaiju-dokan/readme.md) | ⭐ **8.0** | Claude Opus 5.5 | 2026-09-27 |
+| 6 | [**Lethal Company: Opus Edition**](../games/lethal-company-opus-edition/readme.md) | ⭐ **8.0** | Claude Opus 5.5 | 2026-09-27 |
+| 7 | [**LUCID SKY**](../games/lucid-sky/readme.md) | ⭐ **8.0** | Claude Opus 5.5 | 2026-09-27 |
+| 8 | [**LUMENRIFT**](../games/lumenrift/readme.md) | ⭐ **8.0** | Claude Opus 5.5 | 2026-09-27 |
+| 9 | [**Meridian Wake**](../games/meridian-wake/readme.md) | ⭐ **8.0** | GPT-6 Astra | 2026-09-27 |
+| 10 | [**OUT OF THE BOX**](../games/out-of-the-box/readme.md) | ⭐ **8.0** | Claude Opus 5.5 | 2026-09-27 |
 
 ## New source repositories yesterday and today
 
-Repository creation on **2026-09-25–2026-09-26** is not proof of game publication. Inspect the source and model-evidence links before using an entry.
+Filter repository creation to **2026-09-26–2026-09-27** in **Asia/Ho_Chi_Minh (UTC+7)**; read the UTC dates below separately. Do not treat repository creation as proof of game publication. Inspect the source and model-evidence links before using an entry.
 
 | Repository | Game units | Model | Created (UTC) |
 | --- | ---: | --- | --- |
+| [Meridian Wake](../games/meridian-wake/readme.md) ([source](https://github.com/michaelcrosato/meridian-wake-g6a)) | 1 | GPT-6 Astra | 2026-09-27 |
+| [Uplift](../games/uplift/readme.md) ([source](https://github.com/Starwaves1/Uplift)) | 1 | Claude Opus 5.5 | 2026-09-27 |
+| [Survive Coders](../games/survive-coders/readme.md) ([source](https://github.com/travisstephenfraser/survive-coders)) | 1 | Claude Opus 5.5 | 2026-09-27 |
+| [Gale Kart](../games/gale-kart/readme.md) ([source](https://github.com/fants/Gale-kart)) | 1 | Claude Opus 5.5 | 2026-09-27 |
+| [Shallow Steel](../games/shallow-steel/readme.md) ([source](https://github.com/adamholter/shallow-steel)) | 1 | GPT-6 Astra | 2026-09-26 |
+| [Arkanoid Neon](../games/arkanoid-neon/readme.md) ([source](https://github.com/Jack-c3l2w/arkanoid-neon)) | 1 | Claude Opus 5.5 | 2026-09-26 |
+| [CARVE LINE](../games/carve-line/readme.md) ([source](https://github.com/TetrisSQC/carveline)) | 1 | Claude Opus | 2026-09-26 |
+| [OUT OF THE BOX](../games/out-of-the-box/readme.md) ([source](https://github.com/tanuu5/out-of-the-box)) | 1 | Claude Opus 5.5 | 2026-09-26 |
+| [Tempora](../games/tempora/readme.md) ([source](https://github.com/Mofferato/tempora)) | 1 | Claude Opus 5.5 | 2026-09-26 |
+| [Deep Dive](../games/deep-dive/readme.md) ([source](https://github.com/chichiroxursox-droid/deep-dive)) | 1 | Claude Opus 5.5 | 2026-09-26 |
+| [DRIFTWING](../games/driftwing/readme.md) ([source](https://github.com/KyleBuildsAI/driftwing)) | 1 | Claude Opus 5.5 | 2026-09-26 |
+| [Path of Werdna](../games/path-of-werdna/readme.md) ([source](https://github.com/Werdna1976/PathOfWerdna)) | 1 | Claude Opus 5.5 | 2026-09-26 |
+| [HOMUNCULUS](../games/homunculus/readme.md) ([source](https://github.com/Efkrdnz/opus-test-game)) | 1 | Claude Opus 5.5 | 2026-09-26 |
+| [Sakura Rally](../games/sakura-rally/readme.md) ([source](https://github.com/SummerEngine/sakura-rally)) | 1 | Claude Opus 5.5 | 2026-09-26 |
+| [Neon Hunter](../games/neon-hunter/readme.md) ([source](https://github.com/Prashant7380/Neon-Hunter)) | 1 | Claude Opus 5.5 | 2026-09-26 |
+| [Forja Abisal](../games/forja-abisal/readme.md) ([source](https://github.com/Carte1972/forja-abisal)) | 1 | Claude Opus 5.5 | 2026-09-26 |
+| [Tea Rush — Kitchen Core](../games/tea-rush-kitchen-core/readme.md) ([source](https://github.com/kpkrr/tea-game)) | 1 | Claude Opus 5.5 | 2026-09-26 |
+| [Lethal Company: Opus Edition](../games/lethal-company-opus-edition/readme.md) ([source](https://github.com/TESTYEE-09/opus5.5Lethal)) | 1 | Claude Opus 5.5 | 2026-09-26 |
+| [ClaudeJump](../games/claudejump/readme.md) ([source](https://github.com/PrabhjotSodhi/ClaudeJump)) | 1 | Claude Opus 5.5 | 2026-09-26 |
+| [KAIJU DOKAN!](../games/kaiju-dokan/readme.md) ([source](https://github.com/tanuu5/kaiju-dokan)) | 1 | Claude Opus 5.5 | 2026-09-26 |
+| [Wind & Rain](../games/wind-rain/readme.md) ([source](https://github.com/michalbe/viatr-and-deshch)) | 1 | Claude Opus 5.5, Claude Fable 5.1 | 2026-09-26 |
+| [Pet Island](../games/pet-island/readme.md) ([source](https://github.com/tahcin/pet-island)) | 1 | Claude Opus 5.5 | 2026-09-26 |
+| [Crabhouse v2](../games/crabhouse-v2/readme.md) ([source](https://github.com/kamibukuro18/opuscrabhouse)) | 1 | Claude Opus 5.5 | 2026-09-26 |
+| [LUMENRIFT](../games/lumenrift/readme.md) ([source](https://github.com/WhiteBlackGoose/Lumenrift)) | 1 | Claude Opus 5.5 | 2026-09-26 |
+| [Radikal Riders](../games/radikal-riders/readme.md) ([source](https://github.com/javichur/radikal-bikers)) | 1 | Claude Opus 5.5 | 2026-09-26 |
 | [Long Wind](../games/long-wind/readme.md) ([source](https://github.com/jbang2004/long-wind)) | 1 | Claude Opus 5.5 | 2026-09-26 |
+| [LUCID SKY](../games/lucid-sky/readme.md) ([source](https://github.com/MI3312/Fable5.1)) | 1 | Claude Opus 5.5 | 2026-09-25 |
+| [Emberwake](../games/emberwake/readme.md) ([source](https://github.com/mogita/emberwake)) | 1 | Claude Opus 5.5 | 2026-09-25 |
 | [Ponpoko Kart](../games/ponpoko-kart/readme.md) ([source](https://github.com/tanuu5/ponpoko-kart)) | 1 | Claude Opus 5.5 | 2026-09-25 |
-| [Harbor Master](../games/harbor-master/readme.md) ([source](https://github.com/hirosichen/ai-harbor-master-game)) | 1 | Claude Opus 5.5 | 2026-09-25 |
-| [Vibe Games Arcade](../games/league-of-legends-simulation/readme.md) ([source](https://github.com/icebear0828/vibe-games)) | 4 | Claude Opus 5.5 | 2026-09-25 |
-| [Opus 5.5 Strategy Game Comparison](../games/low-effort-strategy-game/readme.md) ([source](https://github.com/Barty-Bart/opus-55-effort-comparison)) | 6 | Claude Opus 5.5 | 2026-09-25 |
-| [GunBros](../games/gunbros/readme.md) ([source](https://github.com/skelzer/gunbros-public)) | 1 | Claude Opus 5.5, Claude Fable 5.1 | 2026-09-25 |
-| [Sky Rings](../games/sky-rings/readme.md) ([source](https://github.com/hirosichen/ai-sky-rings-game)) | 1 | Claude Opus 5.5 | 2026-09-25 |
-| [F1 Racing Game](../games/f1-racing-game/readme.md) ([source](https://github.com/hirosichen/ai-f1-racing-game)) | 1 | Claude Opus 5.5 | 2026-09-25 |
-| [GPT-6 Astra One-Sentence Games](../games/hellas-greek-civilization/readme.md) ([source](https://github.com/MXMX0811/gpt-6-astra-game)) | 2 | GPT-6 Astra | 2026-09-25 |
-| [Claude Opus 5.5 One-Shot 3D Games — 3 Projects](../games/pelican-bike-xiiyioozzz-opus55-3d-games/readme.md) ([source](https://github.com/xiiyioozzz/opus55-3d-games)) | 3 | Claude Opus 5.5 | 2026-09-25 |
+| [OxCity](../games/oxcity/readme.md) ([source](https://github.com/exdal/opus5.5-test)) | 1 | Claude Opus 5.5 | 2026-09-25 |
+| [ZOMBIES LAN](../games/zombies-lan/readme.md) ([source](https://github.com/mitotkp/ZOMBIES-LAN)) | 1 | Claude Opus 5.5 | 2026-09-25 |
 
 ## Top games this week
 
-> Rank the highest-rated games with publication or qualifying gameplay evidence from **2026-09-20** through **2026-09-26**.
+> Rank the highest-rated games with publication or qualifying gameplay evidence from **2026-09-21** through **2026-09-27**.
 
 | Rank | Game | Score | Model | Evidence date |
 | ---: | --- | ---: | --- | --- |
@@ -142,7 +164,7 @@ Repository creation on **2026-09-25–2026-09-26** is not proof of game publicat
 
 ## Top games this month
 
-> Rank the highest-rated games with publication or qualifying gameplay evidence from **2026-09-01** through **2026-09-26**.
+> Rank the highest-rated games with publication or qualifying gameplay evidence from **2026-09-01** through **2026-09-27**.
 
 | Rank | Game | Score | Model | Evidence date |
 | ---: | --- | ---: | --- | --- |
@@ -193,13 +215,15 @@ Repository creation on **2026-09-25–2026-09-26** is not proof of game publicat
 
 This is a curated index of playable game units with public GitHub source and evidence that connects them to GPT-6 Astra, Claude Opus, or Claude Fable. “Curated” does not mean every attribution has the same strength: the per-entry evidence grade states whether the model claim is direct, creator-reported, repository-level, or inferred.
 
-The source of truth is [games.json](../games.json). It was last verified on **2026-09-26**.
+The source of truth is [games.json](../games.json). It was last verified on **2026-09-27**.
 
 Browse [the awesome-list index](../awesomelists.md) for verified game catalogs with their counted entry totals.
 
 Browse [latest game additions by date](../latest-games.md) to compare each source repository's creation time with the date this collection first recorded it.
 
 Browse [AI game generators and engines](../ai-game-generators.md) for tools that build or edit playable games from prompts.
+
+Browse [Awesome Game Resources](../awesome-game-resources.md) to find game assets, VFX, shaders, sound effects, music, and production tools.
 
 Browse [Claude Opus 5.5 release-week games](../opus-5.5-games.md) for direct source and model-evidence links.
 
@@ -211,33 +235,33 @@ The dataset stores source-derived reconstruction prompts without presenting them
 
 | Signal | Result |
 | --- | ---: |
-| Counted game units | **794** |
-| Qualifying source repositories | **521** |
-| Dataset records, including related or excluded records | **601** |
-| Low-quality game units moved to bad-games.md | **28** (28 repositories) |
+| Counted game units | **823** |
+| Qualifying source repositories | **550** |
+| Dataset records, including related or excluded records | **631** |
+| Low-quality game units moved to bad-games.md | **29** (29 repositories) |
 | Other non-game records moved to other.md | **52** |
-| WebGL-family game units, across all categories | **240** |
-| Non-browser engine game units | **255** |
-| Game units with screenshot links | **182** |
+| WebGL-family game units, across all categories | **256** |
+| Non-browser engine game units | **260** |
+| Game units with screenshot links | **194** |
 | Game units with direct prompt links | **17** |
-| Game units with source-derived prompt fields | **794** |
+| Game units with source-derived prompt fields | **823** |
 | Game units with exact publication dates | **287** (152 repositories) |
-| Game units with repository creation dates | **794** (521 repositories) |
+| Game units with repository creation dates | **823** (550 repositories) |
 
 ## Verification snapshot
 
-The list contains **794** game units from **521** qualifying repositories. The dataset also retains **80** related or excluded records for audit history. Each row uses one of these model-evidence grades.
+The list contains **823** game units from **550** qualifying repositories. The dataset also retains **81** related or excluded records for audit history. Each row uses one of these model-evidence grades.
 
 | Grade | Meaning | Game units |
 | --- | --- | ---: |
-| ✓ Direct | A public primary source directly attributes the listed model. | **520** |
-| ≈ Creator report | The creator attributes the listed model. | **230** |
+| ✓ Direct | A public primary source directly attributes the listed model. | **532** |
+| ≈ Creator report | The creator attributes the listed model. | **247** |
 | △ Repository trail | A repository, directory, or topic trail supports the model claim. | **42** |
 | ? Inferred | The model attribution is inferred and should be independently checked. | **2** |
 
 ## More records
 
-- ⚠️ [Bad games](../bad-games.md) — **28** low-quality game units excluded from the curated library
+- ⚠️ [Bad games](../bad-games.md) — **29** low-quality game units excluded from the curated library
 - 📦 [Other](../other.md) — **52** related, derivative, forked, or non-game records
 
 ## How to use this guide

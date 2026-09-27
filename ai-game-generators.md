@@ -1,5 +1,9 @@
 # AI Game Generators and Engines
 
+## Local agent workflow discovered on 2026-09-27
+
+- Use [Claude Code Game Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) to coordinate local game-development agents, prototype workflows, engine-specific work, and testing. Inspect the [primary README](https://github.com/Donchitos/Claude-Code-Game-Studios/blob/main/README.md), which reports running tested games from its workflow comparison. Provide Claude Code access, model usage, and your engine/toolchain separately; do not treat this repository as a hosted one-click game exporter. Keep its MIT-licensed workflow distinct from the license and export capabilities of each generated project. Record verification on **2026-09-27**; keep the framework out of `games.json`. Count the separately source-verified Tea Rush prototype in `kpkrr/tea-game`, not the framework's agents or skills.
+
 Use this directory to compare AI-assisted game-creation tools, adjacent game-development services, and discovery platforms. Keep these tools separate from the game repositories in `games.json` and the game collections in `awesomelists.md`.
 
 ## Compare game-creation tools

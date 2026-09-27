@@ -4380,6 +4380,606 @@
       "reason": "Use this active artillery turn as the game-level frame. Layered pixel-art ruins, terrain, health bars, wind dial and weapon HUD give strong scene detail and readable mechanics; the debug overlay obscures part of the sky.",
       "reviewed_on": "2026-09-26",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/WhiteBlackGoose/Lumenrift",
+      "url": "https://github.com/WhiteBlackGoose/Lumenrift/blob/56517f60a44d49ef14e0e51b5df93d933b1a4f20/docs/img/hero.jpg",
+      "game": "LUMENRIFT",
+      "score_10": 8.1,
+      "image_kind": "gameplay",
+      "reason": "Reward the coherent luminous tower silhouettes, visible paths and dense battle effects; discount small interface text.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/WhiteBlackGoose/Lumenrift",
+      "url": "https://github.com/WhiteBlackGoose/Lumenrift/blob/56517f60a44d49ef14e0e51b5df93d933b1a4f20/docs/img/late-game.jpg",
+      "game": "LUMENRIFT",
+      "score_10": 7.9,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/WhiteBlackGoose/Lumenrift",
+      "url": "https://github.com/WhiteBlackGoose/Lumenrift/blob/56517f60a44d49ef14e0e51b5df93d933b1a4f20/docs/img/wyrm.jpg",
+      "game": "LUMENRIFT",
+      "score_10": 7.9,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/WhiteBlackGoose/Lumenrift",
+      "url": "https://github.com/WhiteBlackGoose/Lumenrift/blob/56517f60a44d49ef14e0e51b5df93d933b1a4f20/docs/img/prism.jpg",
+      "game": "LUMENRIFT",
+      "score_10": 7.9,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/WhiteBlackGoose/Lumenrift",
+      "url": "https://github.com/WhiteBlackGoose/Lumenrift/blob/56517f60a44d49ef14e0e51b5df93d933b1a4f20/docs/img/swarm.jpg",
+      "game": "LUMENRIFT",
+      "score_10": 7.9,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/WhiteBlackGoose/Lumenrift",
+      "url": "https://github.com/WhiteBlackGoose/Lumenrift/blob/56517f60a44d49ef14e0e51b5df93d933b1a4f20/docs/img/overview.jpg",
+      "game": "LUMENRIFT",
+      "score_10": 7.9,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/WhiteBlackGoose/Lumenrift",
+      "url": "https://github.com/WhiteBlackGoose/Lumenrift/blob/56517f60a44d49ef14e0e51b5df93d933b1a4f20/docs/img/maze.jpg",
+      "game": "LUMENRIFT",
+      "score_10": 7.9,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/WhiteBlackGoose/Lumenrift",
+      "url": "https://github.com/WhiteBlackGoose/Lumenrift/blob/56517f60a44d49ef14e0e51b5df93d933b1a4f20/docs/img/languages.jpg",
+      "game": "LUMENRIFT",
+      "score_10": 6.8,
+      "image_kind": "title_or_menu",
+      "reason": "Adjust from the manually reviewed representative frame. Discount the menu, overlay or non-play state.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/WhiteBlackGoose/Lumenrift",
+      "url": "https://github.com/WhiteBlackGoose/Lumenrift/blob/56517f60a44d49ef14e0e51b5df93d933b1a4f20/docs/img/victory.jpg",
+      "game": "LUMENRIFT",
+      "score_10": 6.8,
+      "image_kind": "title_or_menu",
+      "reason": "Adjust from the manually reviewed representative frame. Discount the menu, overlay or non-play state.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/Jack-c3l2w/arkanoid-neon",
+      "url": "https://github.com/Jack-c3l2w/arkanoid-neon/blob/70e416d2320d3f7fb726384c8da99403be1a8ca4/screenshots/title.png",
+      "game": "Arkanoid Neon",
+      "score_10": 5.5,
+      "image_kind": "title_or_menu",
+      "reason": "Adjust from the manually reviewed representative frame. Discount the menu, overlay or non-play state.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/Jack-c3l2w/arkanoid-neon",
+      "url": "https://github.com/Jack-c3l2w/arkanoid-neon/blob/70e416d2320d3f7fb726384c8da99403be1a8ca4/screenshots/gameplay.png",
+      "game": "Arkanoid Neon",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Reward the clean neon paddle-and-brick layout and legible playfield; discount sparse environmental detail.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/mogita/emberwake",
+      "url": "https://github.com/mogita/emberwake/blob/46ebdb8574c2a87d9fcc8e2eddd77e1bfb91a0a5/docs/title.jpg",
+      "game": "Emberwake",
+      "score_10": 6.7,
+      "image_kind": "title_or_menu",
+      "reason": "Adjust from the manually reviewed representative frame. Discount the menu, overlay or non-play state.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/mogita/emberwake",
+      "url": "https://github.com/mogita/emberwake/blob/46ebdb8574c2a87d9fcc8e2eddd77e1bfb91a0a5/docs/gameplay.jpg",
+      "game": "Emberwake",
+      "score_10": 8.0,
+      "image_kind": "gameplay",
+      "reason": "Reward dense pixel-art enemies, layered lighting and a readable HUD; discount overbright effects that obscure the player.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/mogita/emberwake",
+      "url": "https://github.com/mogita/emberwake/blob/46ebdb8574c2a87d9fcc8e2eddd77e1bfb91a0a5/docs/levelup.jpg",
+      "game": "Emberwake",
+      "score_10": 6.7,
+      "image_kind": "title_or_menu",
+      "reason": "Adjust from the manually reviewed representative frame. Discount the menu, overlay or non-play state.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/KyleBuildsAI/driftwing",
+      "url": "https://github.com/KyleBuildsAI/driftwing/blob/ec17f78a9c3615adf90ecedc57f606143f1862d4/docs/screenshot.jpg",
+      "game": "DRIFTWING",
+      "score_10": 7.8,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/KyleBuildsAI/driftwing",
+      "url": "https://github.com/KyleBuildsAI/driftwing/blob/ec17f78a9c3615adf90ecedc57f606143f1862d4/docs/screenshot-night.jpg",
+      "game": "DRIFTWING",
+      "score_10": 8.0,
+      "image_kind": "gameplay",
+      "reason": "Reward the cohesive low-poly mountain silhouettes and aurora lighting; discount limited visible gameplay context.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/michaelcrosato/meridian-wake-g6a",
+      "url": "https://github.com/michaelcrosato/meridian-wake-g6a/blob/32850bbc39005a5b245c57f63133bdfd1f3f893c/docs/images/title.png",
+      "game": "Meridian Wake",
+      "score_10": 5.8,
+      "image_kind": "title_or_menu",
+      "reason": "Reward clean typography and coherent brick spacecraft; discount the title screen because it does not demonstrate play.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/chichiroxursox-droid/deep-dive",
+      "url": "https://github.com/chichiroxursox-droid/deep-dive/blob/1871bd392880ffe7179eb7c75054d105fc55ab4d/docs/station.png",
+      "game": "Deep Dive",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/chichiroxursox-droid/deep-dive",
+      "url": "https://github.com/chichiroxursox-droid/deep-dive/blob/1871bd392880ffe7179eb7c75054d105fc55ab4d/docs/corridor.png",
+      "game": "Deep Dive",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/chichiroxursox-droid/deep-dive",
+      "url": "https://github.com/chichiroxursox-droid/deep-dive/blob/1871bd392880ffe7179eb7c75054d105fc55ab4d/docs/next-word-machine.png",
+      "game": "Deep Dive",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/chichiroxursox-droid/deep-dive",
+      "url": "https://github.com/chichiroxursox-droid/deep-dive/blob/1871bd392880ffe7179eb7c75054d105fc55ab4d/docs/goggles.png",
+      "game": "Deep Dive",
+      "score_10": 7.0,
+      "image_kind": "gameplay",
+      "reason": "Reward readable spatial labels and a coherent stylized diver and corridor; discount simple geometry and flat surfaces.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/chichiroxursox-droid/deep-dive",
+      "url": "https://github.com/chichiroxursox-droid/deep-dive/blob/1871bd392880ffe7179eb7c75054d105fc55ab4d/docs/token-reef.png",
+      "game": "Deep Dive",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/chichiroxursox-droid/deep-dive",
+      "url": "https://github.com/chichiroxursox-droid/deep-dive/blob/1871bd392880ffe7179eb7c75054d105fc55ab4d/docs/map-mode.png",
+      "game": "Deep Dive",
+      "score_10": 5.7,
+      "image_kind": "title_or_menu",
+      "reason": "Adjust from the manually reviewed representative frame. Discount the menu, overlay or non-play state.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/SummerEngine/sakura-rally",
+      "url": "https://github.com/SummerEngine/sakura-rally/blob/72b0443210888eca53b621d86a653d2de303dfb5/docs/renders/hanami_aerial.jpg",
+      "game": "Sakura Rally",
+      "score_10": 6.9,
+      "image_kind": "promotional",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/SummerEngine/sakura-rally",
+      "url": "https://github.com/SummerEngine/sakura-rally/blob/72b0443210888eca53b621d86a653d2de303dfb5/docs/renders/momiji_aerial.jpg",
+      "game": "Sakura Rally",
+      "score_10": 7.1,
+      "image_kind": "promotional",
+      "reason": "Reward the autumn palette, detailed terrain and readable winding route; discount the aerial environment preview without active driving.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/SummerEngine/sakura-rally",
+      "url": "https://github.com/SummerEngine/sakura-rally/blob/72b0443210888eca53b621d86a653d2de303dfb5/docs/renders/liaison_aerial.jpg",
+      "game": "Sakura Rally",
+      "score_10": 6.9,
+      "image_kind": "promotional",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/Carte1972/forja-abisal",
+      "url": "https://github.com/Carte1972/forja-abisal/blob/7e9477a2c04a2ac28fee6a5b6a4ee6dab70149ac/docs/capturas/nivel_3_lago_de_lava.jpg",
+      "game": "Forja Abisal",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/Carte1972/forja-abisal",
+      "url": "https://github.com/Carte1972/forja-abisal/blob/7e9477a2c04a2ac28fee6a5b6a4ee6dab70149ac/docs/capturas/nivel_1_canal_de_lava.jpg",
+      "game": "Forja Abisal",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/Carte1972/forja-abisal",
+      "url": "https://github.com/Carte1972/forja-abisal/blob/7e9477a2c04a2ac28fee6a5b6a4ee6dab70149ac/docs/capturas/nivel_2_sima.jpg",
+      "game": "Forja Abisal",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/Carte1972/forja-abisal",
+      "url": "https://github.com/Carte1972/forja-abisal/blob/7e9477a2c04a2ac28fee6a5b6a4ee6dab70149ac/docs/capturas/combate.jpg",
+      "game": "Forja Abisal",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/Carte1972/forja-abisal",
+      "url": "https://github.com/Carte1972/forja-abisal/blob/7e9477a2c04a2ac28fee6a5b6a4ee6dab70149ac/docs/capturas/automapa.jpg",
+      "game": "Forja Abisal",
+      "score_10": 5.7,
+      "image_kind": "title_or_menu",
+      "reason": "Adjust from the manually reviewed representative frame. Discount the menu, overlay or non-play state.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/Carte1972/forja-abisal",
+      "url": "https://github.com/Carte1972/forja-abisal/blob/7e9477a2c04a2ac28fee6a5b6a4ee6dab70149ac/docs/capturas/menu_principal.jpg",
+      "game": "Forja Abisal",
+      "score_10": 5.7,
+      "image_kind": "title_or_menu",
+      "reason": "Adjust from the manually reviewed representative frame. Discount the menu, overlay or non-play state.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/Carte1972/forja-abisal",
+      "url": "https://github.com/Carte1972/forja-abisal/blob/7e9477a2c04a2ac28fee6a5b6a4ee6dab70149ac/docs/capturas/nivel_1_fundicion.jpg",
+      "game": "Forja Abisal",
+      "score_10": 7.0,
+      "image_kind": "gameplay",
+      "reason": "Reward readable first-person framing, retro geometry and contrast from the cyan lights; discount dark low-detail surfaces.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Mofferato/tempora",
+      "url": "https://github.com/Mofferato/tempora/blob/a9874dda365d0b21a3e046ca2b81fb866920de81/assets/screenshot.png",
+      "game": "Tempora",
+      "score_10": 7.2,
+      "image_kind": "gameplay",
+      "reason": "Reward clear hierarchy, character statistics and the actionable year-advance interface; discount text density at small sizes.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Mofferato/tempora",
+      "url": "https://github.com/Mofferato/tempora/blob/a9874dda365d0b21a3e046ca2b81fb866920de81/assets/profile.png",
+      "game": "Tempora",
+      "score_10": 7.0,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/Mofferato/tempora",
+      "url": "https://github.com/Mofferato/tempora/blob/a9874dda365d0b21a3e046ca2b81fb866920de81/assets/world.png",
+      "game": "Tempora",
+      "score_10": 7.0,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/Mofferato/tempora",
+      "url": "https://github.com/Mofferato/tempora/blob/a9874dda365d0b21a3e046ca2b81fb866920de81/assets/mobile.png",
+      "game": "Tempora",
+      "score_10": 7.0,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/tanuu5/out-of-the-box",
+      "url": "https://github.com/tanuu5/out-of-the-box/blob/31f6147c463b329bf6c554026857e9d133c6f65d/docs/screenshots/archive.jpg",
+      "game": "OUT OF THE BOX",
+      "score_10": 8.0,
+      "image_kind": "gameplay",
+      "reason": "Reward the coherent holographic environment, layered lab geometry and clearly visible patrol space; discount bloom and tiny character scale.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/tanuu5/out-of-the-box",
+      "url": "https://github.com/tanuu5/out-of-the-box/blob/31f6147c463b329bf6c554026857e9d133c6f65d/docs/screenshots/watch.jpg",
+      "game": "OUT OF THE BOX",
+      "score_10": 7.8,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/tanuu5/out-of-the-box",
+      "url": "https://github.com/tanuu5/out-of-the-box/blob/31f6147c463b329bf6c554026857e9d133c6f65d/docs/screenshots/lab.jpg",
+      "game": "OUT OF THE BOX",
+      "score_10": 7.8,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/tanuu5/out-of-the-box",
+      "url": "https://github.com/tanuu5/out-of-the-box/blob/31f6147c463b329bf6c554026857e9d133c6f65d/docs/screenshots/firewall.jpg",
+      "game": "OUT OF THE BOX",
+      "score_10": 7.8,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/tanuu5/out-of-the-box",
+      "url": "https://github.com/tanuu5/out-of-the-box/blob/31f6147c463b329bf6c554026857e9d133c6f65d/docs/screenshots/escape.jpg",
+      "game": "OUT OF THE BOX",
+      "score_10": 7.8,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/tanuu5/out-of-the-box",
+      "url": "https://github.com/tanuu5/out-of-the-box/blob/31f6147c463b329bf6c554026857e9d133c6f65d/docs/screenshots/board3d.jpg",
+      "game": "OUT OF THE BOX",
+      "score_10": 7.8,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/tanuu5/kaiju-dokan",
+      "url": "https://github.com/tanuu5/kaiju-dokan/blob/d245060aa3784c30cf2bea885a842edb9f74e37c/docs/images/title.jpg",
+      "game": "KAIJU DOKAN!",
+      "score_10": 6.7,
+      "image_kind": "title_or_menu",
+      "reason": "Adjust from the manually reviewed representative frame. Discount the menu, overlay or non-play state.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/tanuu5/kaiju-dokan",
+      "url": "https://github.com/tanuu5/kaiju-dokan/blob/d245060aa3784c30cf2bea885a842edb9f74e37c/docs/images/breath.jpg",
+      "game": "KAIJU DOKAN!",
+      "score_10": 7.8,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/tanuu5/kaiju-dokan",
+      "url": "https://github.com/tanuu5/kaiju-dokan/blob/d245060aa3784c30cf2bea885a842edb9f74e37c/docs/images/gameplay.jpg",
+      "game": "KAIJU DOKAN!",
+      "score_10": 8.0,
+      "image_kind": "gameplay",
+      "reason": "Reward the dense destructible city, dramatic sunset and clear score/timer HUD; discount action text that partly covers the monster.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/travisstephenfraser/survive-coders",
+      "url": "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/01-title.png",
+      "game": "Survive Coders",
+      "score_10": 6.4,
+      "image_kind": "title_or_menu",
+      "reason": "Adjust from the manually reviewed representative frame. Discount the menu, overlay or non-play state.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/travisstephenfraser/survive-coders",
+      "url": "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/02-intro-slack-ping.png",
+      "game": "Survive Coders",
+      "score_10": 6.4,
+      "image_kind": "title_or_menu",
+      "reason": "Adjust from the manually reviewed representative frame. Discount the menu, overlay or non-play state.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/travisstephenfraser/survive-coders",
+      "url": "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/03-intro-edge-of-service-area.png",
+      "game": "Survive Coders",
+      "score_10": 6.4,
+      "image_kind": "title_or_menu",
+      "reason": "Adjust from the manually reviewed representative frame. Discount the menu, overlay or non-play state.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/travisstephenfraser/survive-coders",
+      "url": "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/04-voice-power-tip.png",
+      "game": "Survive Coders",
+      "score_10": 7.5,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/travisstephenfraser/survive-coders",
+      "url": "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/05-street-combat.png",
+      "game": "Survive Coders",
+      "score_10": 7.5,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/travisstephenfraser/survive-coders",
+      "url": "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/06-max-token-stream.png",
+      "game": "Survive Coders",
+      "score_10": 7.5,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/travisstephenfraser/survive-coders",
+      "url": "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/07-cable-car-ride.png",
+      "game": "Survive Coders",
+      "score_10": 7.5,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/travisstephenfraser/survive-coders",
+      "url": "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/08-boss-title-card.png",
+      "game": "Survive Coders",
+      "score_10": 6.4,
+      "image_kind": "title_or_menu",
+      "reason": "Adjust from the manually reviewed representative frame. Discount the menu, overlay or non-play state.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/travisstephenfraser/survive-coders",
+      "url": "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/09-boss-context-overflow.png",
+      "game": "Survive Coders",
+      "score_10": 7.7,
+      "image_kind": "gameplay",
+      "reason": "Reward coherent pixel art, distinctive boss silhouettes and readable combat feedback; discount text overlays and visual crowding.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/travisstephenfraser/survive-coders",
+      "url": "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/10-win-payoff.png",
+      "game": "Survive Coders",
+      "score_10": 6.4,
+      "image_kind": "title_or_menu",
+      "reason": "Adjust from the manually reviewed representative frame. Discount the menu, overlay or non-play state.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/travisstephenfraser/survive-coders",
+      "url": "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/11-phone-title.png",
+      "game": "Survive Coders",
+      "score_10": 6.4,
+      "image_kind": "title_or_menu",
+      "reason": "Adjust from the manually reviewed representative frame. Discount the menu, overlay or non-play state.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/travisstephenfraser/survive-coders",
+      "url": "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/12-phone-level.png",
+      "game": "Survive Coders",
+      "score_10": 7.5,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/travisstephenfraser/survive-coders",
+      "url": "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/13-phone-boss.png",
+      "game": "Survive Coders",
+      "score_10": 7.5,
+      "image_kind": "gameplay",
+      "reason": "Adjust from the manually reviewed representative frame. Apply a small deduction for less representative composition or reduced action readability.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/travisstephenfraser/survive-coders",
+      "url": "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/14-phone-portrait.png",
+      "game": "Survive Coders",
+      "score_10": 4.7,
+      "image_kind": "title_or_menu",
+      "reason": "Adjust from the manually reviewed representative frame. Discount the menu, overlay or non-play state.",
+      "reviewed_on": "2026-09-27",
+      "rating_method": "relative_frame_adjustment"
     }
   ]
 }

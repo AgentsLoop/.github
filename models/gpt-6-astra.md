@@ -1,6 +1,6 @@
 # GPT-6 Astra games
 
-Browse **109 curated game units** from **80 source repositories** attributed to GPT-6 Astra. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
+Browse **111 curated game units** from **82 source repositories** attributed to GPT-6 Astra. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
 
 [Back to all models](../README.md#browse-by-model) · [Source data](../games.json)
 
@@ -42,14 +42,14 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 
 ## Game library
 
-- 💥 [Action and Shooters](#action-and-shooters) — **20 game units**
+- 💥 [Action and Shooters](#action-and-shooters) — **21 game units**
 - 🛠️ [Non-Browser Engines](#nonbrowser-engines) — **30 game units**
 - 🧊 [Three.js and WebGL](#threejs-and-webgl) — **17 game units**
 - 🧩 [Puzzle, Arcade, and Platformers](#puzzle-arcade-and-platformers) — **12 game units**
 - ♟️ [Strategy, Simulation, and Sports](#strategy-simulation-and-sports) — **3 game units**
 - 🏎️ [Racing and Vehicles](#racing-and-vehicles) — **14 game units**
 - 🎮 [Other Browser Games](#other-browser-games) — **5 game units**
-- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **8 game units**
+- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **9 game units**
 
 ## Action and Shooters
 
@@ -73,6 +73,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**Astra — Chapter I: A delivery for Gundren**](../games/astra-chapter-i-a-delivery-for-gundren/readme.md) — ⭐ **8.0/10** · GPT-6 Astra · Three.js, TypeScript, Vite, WebGL, Web Audio API · [? inferred model evidence](https://github.com/LucasM25-max/dnd-astra/blob/main/README.md)
 - [**A Thousand Skies**](../games/a-thousand-skies/readme.md) — ⭐ **7.5/10** · GPT-6 Astra · Three.js, Vite, WebGL, Web Audio API · [≈ creator-reported model evidence](https://github.com/threapchills/MagicCarpetWizard) · [play](https://threapchills.github.io/MagicCarpetWizard/)
 - [**Gogh Strike**](../games/gogh-strike/readme.md) — ⭐ **7.5/10** · GPT-6 Astra · Three.js, WebGL, JavaScript · [≈ creator-reported model evidence](https://github.com/petergpt/gogh-strike) · [play](https://gogh-strike.petergostev.chatgpt.site/) · 📸 **7.0/10** · [screenshot](https://github.com/petergpt/gogh-strike/blob/main/docs/screenshots/gameplay.png) · +2 more screenshots in data
+- [**Shallow Steel**](../games/shallow-steel/readme.md) — ⭐ **7.5/10** · GPT-6 Astra · Three.js, JavaScript, WebGL, Browser · [≈ creator-reported model evidence](https://github.com/adamholter/shallow-steel/blob/06d2931f63a925254768c900b66f3ea5e48523a4/README.md) · [files](https://github.com/adamholter/shallow-steel/blob/06d2931f63a925254768c900b66f3ea5e48523a4/src/combat.js)
 
 [Back to game library](#game-library)
 
@@ -194,6 +195,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**AZURA — L'île aux toits d'argile**](../games/azura-l-ile-aux-toits-d-argile/readme.md) — ⭐ **8.7/10** · GPT-6 Astra, Claude Code · WebGL2, HTML, JavaScript, Python build script, Browser · [✓ direct model evidence](https://github.com/Orgxsm/azura#jouer) · [play](https://orgxsm.github.io/azura/)
 - [**Bad Idea**](../games/bad-idea/readme.md) — ⭐ **8.7/10** · GPT-6 Astra · TypeScript, Three.js, Rapier, Vite, Web browser · [✓ direct model evidence](https://github.com/ToukoUrsin/bad-idea#bad-idea)
 - [**Reigns CEO — GPT 6 Astra Founder**](../games/reigns-ceo-gpt-6-astra-founder/readme.md) — ⭐ **8.6/10** · GPT-6 Astra · HTML, CSS, JavaScript, Browser · [✓ direct model evidence](https://github.com/GaintEnemyCrabBurger/reigns-ceo#-gpt-6-astra-) · [files](https://github.com/GaintEnemyCrabBurger/reigns-ceo/tree/main/game/versions/v5-sixthirty) · [play](https://gaintenemycrabburger.github.io/reigns-ceo/gpt-6-astra/)
+- [**Meridian Wake**](../games/meridian-wake/readme.md) — ⭐ **8.0/10** · GPT-6 Astra · Three.js, JavaScript, WebGL, Browser · [≈ creator-reported model evidence](https://github.com/michaelcrosato/meridian-wake-g6a/blob/32850bbc39005a5b245c57f63133bdfd1f3f893c/README.md) · [files](https://github.com/michaelcrosato/meridian-wake-g6a/blob/32850bbc39005a5b245c57f63133bdfd1f3f893c/src/game.js) · 📸 **5.8/10** · [screenshot](https://github.com/michaelcrosato/meridian-wake-g6a/blob/32850bbc39005a5b245c57f63133bdfd1f3f893c/docs/images/title.png)
 - [**Trashketball — Out of Office (Max)**](../games/trashketball-out-of-office-max/readme.md) — ⭐ **8.0/10** · GPT-6 Astra · React, TypeScript, Three.js, WebGL, Vite · [≈ creator-reported model evidence](https://github.com/swathidbhat/gpt6-astra-max-codex-trashketball)
 - [**Trashketball (High)**](../games/trashketball-high/readme.md) — ⭐ **8.0/10** · GPT-6 Astra · React, TypeScript, Three.js, WebGL, Vite · [≈ creator-reported model evidence](https://github.com/swathidbhat/gpt6-astra-high-codex-trashketball)
 - [**Trashketball (Ultra)**](../games/trashketball-ultra/readme.md) — ⭐ **8.0/10** · GPT-6 Astra · React, TypeScript, Three.js, WebGL, Vite · [≈ creator-reported model evidence](https://github.com/swathidbhat/gpt6-astra-ultra-codex-trashketball)

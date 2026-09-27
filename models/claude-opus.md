@@ -1,6 +1,6 @@
 # Claude Opus games
 
-Browse **2 curated game units** from **2 source repositories** attributed to Claude Opus. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
+Browse **3 curated game units** from **3 source repositories** attributed to Claude Opus. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
 
 [Back to all models](../README.md#browse-by-model) · [Source data](../games.json)
 
@@ -10,11 +10,13 @@ Browse **2 curated game units** from **2 source repositories** attributed to Cla
 | --- | ---: | --- |
 | [Starcluster](../games/starcluster/readme.md) | ⭐ 9.4 | [✓ direct model evidence](https://github.com/Jirnyak/starcluster/commit/bc827455aadd234574fa4353c3993d55dff9e907) |
 | [KamiKakushi — An Incremental RPG](../games/kamikakushi-an-incremental-rpg/readme.md) | ⭐ 9.3 | [≈ creator-reported model evidence](https://github.com/Raynos/kami-kakushi/blob/main/project/archive/fable-2026-07-07-storywave-game.md) |
+| [CARVE LINE](../games/carve-line/readme.md) | ⭐ 8.0 | [≈ creator-reported model evidence](https://github.com/TetrisSQC/carveline/blob/efe3bf22020986de38ad29e987a3b065e331d77e/README.md) |
 
 ## Game library
 
 - 💥 [Action and Shooters](#action-and-shooters) — **1 game units**
 - 🛠️ [Non-Browser Engines](#nonbrowser-engines) — **1 game units**
+- ♟️ [Strategy, Simulation, and Sports](#strategy-simulation-and-sports) — **1 game units**
 
 ## Action and Shooters
 
@@ -25,6 +27,12 @@ Browse **2 curated game units** from **2 source repositories** attributed to Cla
 ## Non-Browser Engines
 
 - [**Starcluster**](../games/starcluster/readme.md) — ⭐ **9.4/10** · Claude Opus · C++, SDL2, Native desktop, Native Android, Space economy sandbox, +1 more · [✓ direct model evidence](https://github.com/Jirnyak/starcluster/commit/bc827455aadd234574fa4353c3993d55dff9e907) · [files](https://github.com/Jirnyak/starcluster/blob/main/README.md) · [play](https://Jirnyak.github.io/starcluster/)
+
+[Back to game library](#game-library)
+
+## Strategy, Simulation, and Sports
+
+- [**CARVE LINE**](../games/carve-line/readme.md) — ⭐ **8.0/10** · Claude Opus · Three.js, JavaScript, WebGL, Browser · [≈ creator-reported model evidence](https://github.com/TetrisSQC/carveline/blob/efe3bf22020986de38ad29e987a3b065e331d77e/README.md) · [files](https://github.com/TetrisSQC/carveline/blob/efe3bf22020986de38ad29e987a3b065e331d77e/index.html)
 
 [Back to game library](#game-library)
 

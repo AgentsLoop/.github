@@ -1,6 +1,6 @@
 # Claude Fable 5.1 games
 
-Browse **126 curated game units** from **58 source repositories** attributed to Claude Fable 5.1. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
+Browse **127 curated game units** from **59 source repositories** attributed to Claude Fable 5.1. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
 
 [Back to all models](../README.md#browse-by-model) · [Source data](../games.json)
 
@@ -37,7 +37,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 ## Game library
 
 - 🛠️ [Non-Browser Engines](#nonbrowser-engines) — **59 game units**
-- 💥 [Action and Shooters](#action-and-shooters) — **27 game units**
+- 💥 [Action and Shooters](#action-and-shooters) — **28 game units**
 - 🧊 [Three.js and WebGL](#threejs-and-webgl) — **7 game units**
 - 🏎️ [Racing and Vehicles](#racing-and-vehicles) — **7 game units**
 - 🧩 [Puzzle, Arcade, and Platformers](#puzzle-arcade-and-platformers) — **17 game units**
@@ -101,6 +101,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**Reablo 2**](../games/reablo-2/readme.md) — ⭐ **8.0/10** · Claude Fable 5.1 · TypeScript, Canvas 2D, Bun, WebSocket · [✓ direct model evidence](https://github.com/oeo/reablo-2) · [play](https://diablo-2-web.fly.dev/)
 - [**Rocket Arena**](../games/rocket-arena/readme.md) — ⭐ **8.0/10** · Claude Fable 5.1 · Three.js, JavaScript, WebGL · [✓ direct model evidence](https://github.com/AlfredBrowser/Rocket-Arena-Rocket-League-Remake-Fable-5.1)
 - [**Voxelcraft**](../games/voxelcraft-alfredbrowser-voxelcraft-minecraft-remake-fable-5-1/readme.md) — ⭐ **8.0/10** · Claude Fable 5.1 · Three.js, JavaScript, WebGL · [✓ direct model evidence](https://github.com/AlfredBrowser/Voxelcraft-Minecraft-Remake-Fable-5.1)
+- [**Wind & Rain**](../games/wind-rain/readme.md) — ⭐ **8.0/10** · Claude Opus 5.5, Claude Fable 5.1 · Three.js, JavaScript, WebGL, Browser · [≈ creator-reported model evidence](https://github.com/michalbe/viatr-and-deshch/blob/0a0df20c58d4c0221fb939ecf715de631e0beec7/README.md) · [files](https://github.com/michalbe/viatr-and-deshch/blob/0a0df20c58d4c0221fb939ecf715de631e0beec7/game/src/systems.js)
 - [**THRESHOLD**](../games/threshold/readme.md) — ⭐ **7.5/10** · Claude Fable 5.1 · WebGL2, JavaScript, Web Audio API · [≈ creator-reported model evidence](https://github.com/CantankerousPotatomancer/threshold-fable-5-1)
 
 [Back to game library](#game-library)

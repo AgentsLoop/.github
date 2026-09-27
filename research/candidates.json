@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-09-25",
+  "checked_on": "2026-09-27",
   "pending": [
     {
       "game_name": "Yakko Kart",
@@ -30,6 +30,132 @@
       "creator": "sneid1",
       "source": "https://www.reddit.com/r/ClaudeAI/comments/1wp8uxb/i_gave_opus_55_four_reference_images_and_build/",
       "reason": "The creator describes a playable Claude Opus 5.5 Godot chess roguelite and links an itch.io build, but no canonical public GitHub source repository was found. Keep it pending and out of games.json until source is located."
+    },
+    {
+      "repository_hint": "AidenAllredOfficial/backrooms-oneshot-opus5-5",
+      "repository_id": 1389732590,
+      "source": "https://github.com/AidenAllredOfficial/backrooms-oneshot-opus5-5",
+      "checked_on": "2026-09-27",
+      "reason": "Metadata inspected during bounded two-day discovery. Not accepted in the 30-game batch; recheck gameplay implementation, model attribution and exact local creation date before counting."
+    },
+    {
+      "repository_hint": "CHENLongyeLucien/arclight",
+      "repository_id": 1389871867,
+      "source": "https://github.com/CHENLongyeLucien/arclight",
+      "checked_on": "2026-09-27",
+      "reason": "Metadata inspected during bounded two-day discovery. Not accepted in the 30-game batch; recheck gameplay implementation, model attribution and exact local creation date before counting."
+    },
+    {
+      "repository_hint": "Deluze/hovorun",
+      "repository_id": 1388281882,
+      "source": "https://github.com/Deluze/hovorun",
+      "checked_on": "2026-09-27",
+      "reason": "Metadata inspected during bounded two-day discovery. Not accepted in the 30-game batch; recheck gameplay implementation, model attribution and exact local creation date before counting."
+    },
+    {
+      "repository_hint": "Dizzysky1/mineopus-play",
+      "repository_id": 1388307594,
+      "source": "https://github.com/Dizzysky1/mineopus-play",
+      "checked_on": "2026-09-27",
+      "reason": "Metadata inspected during bounded two-day discovery. Not accepted in the 30-game batch; recheck gameplay implementation, model attribution and exact local creation date before counting."
+    },
+    {
+      "repository_hint": "JVrachnis/survival-game",
+      "repository_id": 1388963992,
+      "source": "https://github.com/JVrachnis/survival-game",
+      "checked_on": "2026-09-27",
+      "reason": "Metadata inspected during bounded two-day discovery. Not accepted in the 30-game batch; recheck gameplay implementation, model attribution and exact local creation date before counting."
+    },
+    {
+      "repository_hint": "JoshBong/zorkinator",
+      "repository_id": 1389334894,
+      "source": "https://github.com/JoshBong/zorkinator",
+      "checked_on": "2026-09-27",
+      "reason": "Metadata inspected during bounded two-day discovery. Not accepted in the 30-game batch; recheck gameplay implementation, model attribution and exact local creation date before counting."
+    },
+    {
+      "repository_hint": "KrazyCheesitz/ai-games-test",
+      "repository_id": 1389024734,
+      "source": "https://github.com/KrazyCheesitz/ai-games-test",
+      "checked_on": "2026-09-27",
+      "reason": "Metadata inspected during bounded two-day discovery. Not accepted in the 30-game batch; recheck gameplay implementation, model attribution and exact local creation date before counting."
+    },
+    {
+      "repository_hint": "SuryaK999/CloudTram-Web-2d-Game",
+      "repository_id": 1388082027,
+      "source": "https://github.com/SuryaK999/CloudTram-Web-2d-Game",
+      "checked_on": "2026-09-27",
+      "reason": "Metadata inspected during bounded two-day discovery. Not accepted in the 30-game batch; recheck gameplay implementation, model attribution and exact local creation date before counting."
+    },
+    {
+      "repository_hint": "ZJUxjy/opus55_ow",
+      "repository_id": 1389032973,
+      "source": "https://github.com/ZJUxjy/opus55_ow",
+      "checked_on": "2026-09-27",
+      "reason": "Metadata inspected during bounded two-day discovery. Not accepted in the 30-game batch; recheck gameplay implementation, model attribution and exact local creation date before counting."
+    },
+    {
+      "repository_hint": "akashyap14/upshift",
+      "repository_id": 1388726782,
+      "source": "https://github.com/akashyap14/upshift",
+      "checked_on": "2026-09-27",
+      "reason": "Metadata inspected during bounded two-day discovery. Not accepted in the 30-game batch; recheck gameplay implementation, model attribution and exact local creation date before counting."
+    },
+    {
+      "repository_hint": "eRebernisek/voxelcraft-opus-test",
+      "repository_id": 1388114452,
+      "source": "https://github.com/eRebernisek/voxelcraft-opus-test",
+      "checked_on": "2026-09-27",
+      "reason": "Metadata inspected during bounded two-day discovery. Not accepted in the 30-game batch; recheck gameplay implementation, model attribution and exact local creation date before counting."
+    },
+    {
+      "repository_hint": "elSomewhere/opus_destruct",
+      "repository_id": 1389914966,
+      "source": "https://github.com/elSomewhere/opus_destruct",
+      "checked_on": "2026-09-27",
+      "reason": "Metadata inspected during bounded two-day discovery. Not accepted in the 30-game batch; recheck gameplay implementation, model attribution and exact local creation date before counting."
+    },
+    {
+      "repository_hint": "irgegh2/Unity-Opus-5.5-Minecraft",
+      "repository_id": 1389565390,
+      "source": "https://github.com/irgegh2/Unity-Opus-5.5-Minecraft",
+      "checked_on": "2026-09-27",
+      "reason": "Metadata inspected during bounded two-day discovery. Not accepted in the 30-game batch; recheck gameplay implementation, model attribution and exact local creation date before counting."
+    },
+    {
+      "repository_hint": "jas2k/Gameboy-game-watch-opus-5.5-",
+      "repository_id": 1389091374,
+      "source": "https://github.com/jas2k/Gameboy-game-watch-opus-5.5-",
+      "checked_on": "2026-09-27",
+      "reason": "Metadata inspected during bounded two-day discovery. Not accepted in the 30-game batch; recheck gameplay implementation, model attribution and exact local creation date before counting."
+    },
+    {
+      "repository_hint": "jrcn1991/game_monster_pinball_relicario-do-abismo-3d",
+      "repository_id": 1389548701,
+      "source": "https://github.com/jrcn1991/game_monster_pinball_relicario-do-abismo-3d",
+      "checked_on": "2026-09-27",
+      "reason": "Metadata inspected during bounded two-day discovery. Not accepted in the 30-game batch; recheck gameplay implementation, model attribution and exact local creation date before counting."
+    },
+    {
+      "repository_hint": "kirishimarisano-rgb/2d-ani-game-by-opus5.5",
+      "repository_id": 1388280873,
+      "source": "https://github.com/kirishimarisano-rgb/2d-ani-game-by-opus5.5",
+      "checked_on": "2026-09-27",
+      "reason": "Metadata inspected during bounded two-day discovery. Not accepted in the 30-game batch; recheck gameplay implementation, model attribution and exact local creation date before counting."
+    },
+    {
+      "repository_hint": "lightdarkgreen/the-falling",
+      "repository_id": 1388195103,
+      "source": "https://github.com/lightdarkgreen/the-falling",
+      "checked_on": "2026-09-27",
+      "reason": "Metadata inspected during bounded two-day discovery. Not accepted in the 30-game batch; recheck gameplay implementation, model attribution and exact local creation date before counting."
+    },
+    {
+      "repository_hint": "tscherrie/salmon-survival-extreme",
+      "repository_id": 1389529462,
+      "source": "https://github.com/tscherrie/salmon-survival-extreme",
+      "checked_on": "2026-09-27",
+      "reason": "Metadata inspected during bounded two-day discovery. Not accepted in the 30-game batch; recheck gameplay implementation, model attribution and exact local creation date before counting."
     }
   ],
   "rejected": [

@@ -34,9 +34,6 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 <td align="center" width="33%"><a href="../games/clawd-pop-3d/readme.md"><img src="../assets/screenshot-gallery/6863d9b6c3fc888ee518.webp" alt="Clawd Pop 3D screenshot" width="100%"></a><br><a href="../games/clawd-pop-3d/readme.md"><strong>Clawd Pop 3D</strong></a> · 📸 8.5/10</td>
 <td align="center" width="33%"><a href="../games/operation-ironhold/readme.md"><img src="../assets/screenshot-gallery/22a7987f9c6b65b5d8a1.webp" alt="Operation Ironhold screenshot" width="100%"></a><br><a href="../games/operation-ironhold/readme.md"><strong>Operation Ironhold</strong></a> · 📸 8.2/10</td>
 </tr>
-<tr>
-<td align="center" width="33%"><a href="../games/driftlands/readme.md"><img src="../assets/screenshot-gallery/0e9ad41d0a535a98d32a.webp" alt="DRIFTLANDS screenshot" width="100%"></a><br><a href="../games/driftlands/readme.md"><strong>DRIFTLANDS</strong></a> · 📸 8.0/10</td>
-</tr>
 </table>
 
 ## Game library

@@ -4,6 +4,41 @@ Compare when each source repository was created with when this collection first 
 
 [Back to the game collection](README.md) · [Source data](games.json)
 
+## Added 2026-09-27 (UTC)
+
+| Added to this repo (UTC) | Game | Source repository | Original repository created (UTC) | Model | Quality |
+| --- | --- | --- | --- | --- | ---: |
+| 2026-09-27 | [Arkanoid Neon](games/arkanoid-neon/readme.md) | [Jack-c3l2w/arkanoid-neon](https://github.com/Jack-c3l2w/arkanoid-neon) | 2026-09-26 20:19:37 UTC | Claude Opus 5.5 | 7.5/10 |
+| 2026-09-27 | [CARVE LINE](games/carve-line/readme.md) | [TetrisSQC/carveline](https://github.com/TetrisSQC/carveline) | 2026-09-26 19:52:57 UTC | Claude Opus | 8.0/10 |
+| 2026-09-27 | [ClaudeJump](games/claudejump/readme.md) | [PrabhjotSodhi/ClaudeJump](https://github.com/PrabhjotSodhi/ClaudeJump) | 2026-09-26 10:58:25 UTC | Claude Opus 5.5 | 7.0/10 |
+| 2026-09-27 | [Crabhouse v2](games/crabhouse-v2/readme.md) | [kamibukuro18/opuscrabhouse](https://github.com/kamibukuro18/opuscrabhouse) | 2026-09-26 07:07:50 UTC | Claude Opus 5.5 | 7.5/10 |
+| 2026-09-27 | [Deep Dive](games/deep-dive/readme.md) | [chichiroxursox-droid/deep-dive](https://github.com/chichiroxursox-droid/deep-dive) | 2026-09-26 17:56:40 UTC | Claude Opus 5.5 | 7.5/10 |
+| 2026-09-27 | [DRIFTWING](games/driftwing/readme.md) | [KyleBuildsAI/driftwing](https://github.com/KyleBuildsAI/driftwing) | 2026-09-26 17:46:23 UTC | Claude Opus 5.5 | 7.5/10 |
+| 2026-09-27 | [Emberwake](games/emberwake/readme.md) | [mogita/emberwake](https://github.com/mogita/emberwake) | 2026-09-25 18:57:59 UTC | Claude Opus 5.5 | 8.0/10 |
+| 2026-09-27 | [Forja Abisal](games/forja-abisal/readme.md) | [Carte1972/forja-abisal](https://github.com/Carte1972/forja-abisal) | 2026-09-26 14:53:36 UTC | Claude Opus 5.5 | 8.0/10 |
+| 2026-09-27 | [Gale Kart](games/gale-kart/readme.md) | [fants/Gale-kart](https://github.com/fants/Gale-kart) | 2026-09-27 00:31:44 UTC | Claude Opus 5.5 | 8.0/10 |
+| 2026-09-27 | [HOMUNCULUS](games/homunculus/readme.md) | [Efkrdnz/opus-test-game](https://github.com/Efkrdnz/opus-test-game) | 2026-09-26 15:34:13 UTC | Claude Opus 5.5 | 7.5/10 |
+| 2026-09-27 | [KAIJU DOKAN!](games/kaiju-dokan/readme.md) | [tanuu5/kaiju-dokan](https://github.com/tanuu5/kaiju-dokan) | 2026-09-26 09:20:11 UTC | Claude Opus 5.5 | 8.0/10 |
+| 2026-09-27 | [Lethal Company: Opus Edition](games/lethal-company-opus-edition/readme.md) | [TESTYEE-09/opus5.5Lethal](https://github.com/TESTYEE-09/opus5.5Lethal) | 2026-09-26 14:14:03 UTC | Claude Opus 5.5 | 8.0/10 |
+| 2026-09-27 | [LUCID SKY](games/lucid-sky/readme.md) | [MI3312/Fable5.1](https://github.com/MI3312/Fable5.1) | 2026-09-25 21:23:10 UTC | Claude Opus 5.5 | 8.0/10 |
+| 2026-09-27 | [LUMENRIFT](games/lumenrift/readme.md) | [WhiteBlackGoose/Lumenrift](https://github.com/WhiteBlackGoose/Lumenrift) | 2026-09-26 06:37:45 UTC | Claude Opus 5.5 | 8.0/10 |
+| 2026-09-27 | [Meridian Wake](games/meridian-wake/readme.md) | [michaelcrosato/meridian-wake-g6a](https://github.com/michaelcrosato/meridian-wake-g6a) | 2026-09-27 04:27:41 UTC | GPT-6 Astra | 8.0/10 |
+| 2026-09-27 | [Neon Hunter](games/neon-hunter/readme.md) | [Prashant7380/Neon-Hunter](https://github.com/Prashant7380/Neon-Hunter) | 2026-09-26 15:13:26 UTC | Claude Opus 5.5 | 7.0/10 |
+| 2026-09-27 | [OUT OF THE BOX](games/out-of-the-box/readme.md) | [tanuu5/out-of-the-box](https://github.com/tanuu5/out-of-the-box) | 2026-09-26 19:05:37 UTC | Claude Opus 5.5 | 8.0/10 |
+| 2026-09-27 | [OxCity](games/oxcity/readme.md) | [exdal/opus5.5-test](https://github.com/exdal/opus5.5-test) | 2026-09-25 18:34:02 UTC | Claude Opus 5.5 | 7.5/10 |
+| 2026-09-27 | [Path of Werdna](games/path-of-werdna/readme.md) | [Werdna1976/PathOfWerdna](https://github.com/Werdna1976/PathOfWerdna) | 2026-09-26 16:29:28 UTC | Claude Opus 5.5 | 7.5/10 |
+| 2026-09-27 | [Pet Island](games/pet-island/readme.md) | [tahcin/pet-island](https://github.com/tahcin/pet-island) | 2026-09-26 07:18:20 UTC | Claude Opus 5.5 | 8.0/10 |
+| 2026-09-27 | [Radikal Riders](games/radikal-riders/readme.md) | [javichur/radikal-bikers](https://github.com/javichur/radikal-bikers) | 2026-09-26 06:14:00 UTC | Claude Opus 5.5 | 8.0/10 |
+| 2026-09-27 | [Sakura Rally](games/sakura-rally/readme.md) | [SummerEngine/sakura-rally](https://github.com/SummerEngine/sakura-rally) | 2026-09-26 15:24:44 UTC | Claude Opus 5.5 | 8.0/10 |
+| 2026-09-27 | [Shallow Steel](games/shallow-steel/readme.md) | [adamholter/shallow-steel](https://github.com/adamholter/shallow-steel) | 2026-09-26 21:17:37 UTC | GPT-6 Astra | 7.5/10 |
+| 2026-09-27 | [Survive Coders](games/survive-coders/readme.md) | [travisstephenfraser/survive-coders](https://github.com/travisstephenfraser/survive-coders) | 2026-09-27 00:43:18 UTC | Claude Opus 5.5 | 7.5/10 |
+| 2026-09-27 | [Tea Rush — Kitchen Core](games/tea-rush-kitchen-core/readme.md) | [kpkrr/tea-game](https://github.com/kpkrr/tea-game) | 2026-09-26 14:33:34 UTC | Claude Opus 5.5 | 7.0/10 |
+| 2026-09-27 | [Tempora](games/tempora/readme.md) | [Mofferato/tempora](https://github.com/Mofferato/tempora) | 2026-09-26 17:57:37 UTC | Claude Opus 5.5 | 7.5/10 |
+| 2026-09-27 | [Uplift](games/uplift/readme.md) | [Starwaves1/Uplift](https://github.com/Starwaves1/Uplift) | 2026-09-27 01:57:11 UTC | Claude Opus 5.5 | 7.5/10 |
+| 2026-09-27 | [Véspera — O Último Sino](games/vespera-o-ultimo-sino/readme.md) | [BrunoRS17/vespera-game-experiment-gpt6](https://github.com/BrunoRS17/vespera-game-experiment-gpt6) | 2026-09-25 20:08:43 UTC | GPT-6 Astra | 6.5/10 (excluded) |
+| 2026-09-27 | [Wind & Rain](games/wind-rain/readme.md) | [michalbe/viatr-and-deshch](https://github.com/michalbe/viatr-and-deshch) | 2026-09-26 07:54:13 UTC | Claude Opus 5.5, Claude Fable 5.1 | 8.0/10 |
+| 2026-09-27 | [ZOMBIES LAN](games/zombies-lan/readme.md) | [mitotkp/ZOMBIES-LAN](https://github.com/mitotkp/ZOMBIES-LAN) | 2026-09-25 17:51:37 UTC | Claude Opus 5.5 | 8.0/10 |
+
 ## Added 2026-09-26 (UTC)
 
 | Added to this repo (UTC) | Game | Source repository | Original repository created (UTC) | Model | Quality |

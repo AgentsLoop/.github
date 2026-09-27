@@ -31460,7 +31460,7 @@
     "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
     "flops_estimate_confidence": "low",
     "flops_estimate_basis": "Static scope estimate; not a measured device benchmark.",
-    "quality_estimate_10": 9.0,
+    "quality_estimate_10": 9,
     "quality_estimate_basis": "Source-backed gameplay mechanics, creator-reported model attribution and documented run path; no fresh runtime playtest.",
     "counted_game_units": 1,
     "is_independent_game": true,
@@ -31962,7 +31962,7 @@
     "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
     "flops_estimate_confidence": "low",
     "flops_estimate_basis": "Static estimate from implementation scope and runtime technology; not measured device performance.",
-    "quality_estimate_10": 8.0,
+    "quality_estimate_10": 8,
     "quality_estimate_basis": "Source-verified multiplayer artillery game with distinct mobiles, maps, destructible terrain, bots and extensive automated tests; 8.0 is a conservative scope estimate without a full gameplay playtest.",
     "counted_game_units": 1,
     "is_independent_game": true,
@@ -31972,5 +31972,1673 @@
     "screenshot_rating_10": 7.6,
     "screenshot_rating_evidence_url": "https://github.com/skelzer/gunbros-public/blob/main/docs/ui/maps/temple_desktop.png",
     "screenshot_rating_on": "2026-09-26"
+  },
+  {
+    "name": "Lethal Company: Opus Edition",
+    "repository_id": 1389314037,
+    "github_url": "https://github.com/TESTYEE-09/opus5.5Lethal",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/TESTYEE-09/opus5.5Lethal/blob/298c0b204bd4ce0010a575c2322baf744fbba445/js/main.js",
+      "https://github.com/TESTYEE-09/opus5.5Lethal/blob/298c0b204bd4ce0010a575c2322baf744fbba445/js/entities.js",
+      "https://github.com/TESTYEE-09/opus5.5Lethal/blob/298c0b204bd4ce0010a575c2322baf744fbba445/index.html"
+    ],
+    "live_demo_url": "https://testyee-09.github.io/opus5.5Lethal/",
+    "screenshot_urls": [],
+    "technology": [
+      "Three.js",
+      "JavaScript",
+      "WebGL",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Lethal Company: Opus Edition"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-26T14:14:03Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/TESTYEE-09/opus5.5Lethal"
+    ],
+    "verification_notes": "Collect scrap, avoid monsters, return to the ship and meet escalating profit quotas before the deadline; includes PeerJS co-op and keyboard/mouse controls. Verify source only; do not infer runtime success or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 8,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Lethal Company: Opus Edition from the linked source. Preserve these observed mechanics: Collect scrap, avoid monsters, return to the ship and meet escalating profit quotas before the deadline; includes PeerJS co-op and keyboard/mouse controls. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/TESTYEE-09/opus5.5Lethal/commit/298c0b204bd4ce0010a575c2322baf744fbba445",
+    "live_demo_urls": [
+      "https://testyee-09.github.io/opus5.5Lethal/"
+    ],
+    "live_demo_verification": "HTTP 200 and matching game HTML/entry point; not an interactive playtest",
+    "live_demo_verified_on": "2026-09-27"
+  },
+  {
+    "name": "HOMUNCULUS",
+    "repository_id": 1389435542,
+    "github_url": "https://github.com/Efkrdnz/opus-test-game",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/Efkrdnz/opus-test-game/blob/1d70d2acdaedc4426d37da47c61096cd7b2f5d0b/js/sim/mixer.js",
+      "https://github.com/Efkrdnz/opus-test-game/blob/1d70d2acdaedc4426d37da47c61096cd7b2f5d0b/js/main.js"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "JavaScript",
+      "Canvas 2D",
+      "Web Audio",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "HOMUNCULUS"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-26T15:34:13Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/Efkrdnz/opus-test-game"
+    ],
+    "verification_notes": "Mix reagents, discover recipes and administer fantasy brews to a simulated subject; interactive commands and physiological state provide an open-ended alchemy sandbox. Verify source only; do not infer runtime success or publication date from repository creation. Exclude the anatomy-layer asset sheet from gameplay screenshot evidence.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 7.5,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild HOMUNCULUS from the linked source. Preserve these observed mechanics: Mix reagents, discover recipes and administer fantasy brews to a simulated subject; interactive commands and physiological state provide an open-ended alchemy sandbox. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/Efkrdnz/opus-test-game/commit/1d70d2acdaedc4426d37da47c61096cd7b2f5d0b"
+  },
+  {
+    "name": "LUMENRIFT",
+    "repository_id": 1388695085,
+    "github_url": "https://github.com/WhiteBlackGoose/Lumenrift",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/WhiteBlackGoose/Lumenrift/blob/56517f60a44d49ef14e0e51b5df93d933b1a4f20/src/game/game.ts",
+      "https://github.com/WhiteBlackGoose/Lumenrift/blob/56517f60a44d49ef14e0e51b5df93d933b1a4f20/src/ui/input.ts"
+    ],
+    "live_demo_url": "https://lumenrift.wbg.gg/",
+    "screenshot_urls": [
+      "https://github.com/WhiteBlackGoose/Lumenrift/blob/56517f60a44d49ef14e0e51b5df93d933b1a4f20/docs/img/hero.jpg",
+      "https://github.com/WhiteBlackGoose/Lumenrift/blob/56517f60a44d49ef14e0e51b5df93d933b1a4f20/docs/img/late-game.jpg",
+      "https://github.com/WhiteBlackGoose/Lumenrift/blob/56517f60a44d49ef14e0e51b5df93d933b1a4f20/docs/img/wyrm.jpg",
+      "https://github.com/WhiteBlackGoose/Lumenrift/blob/56517f60a44d49ef14e0e51b5df93d933b1a4f20/docs/img/prism.jpg",
+      "https://github.com/WhiteBlackGoose/Lumenrift/blob/56517f60a44d49ef14e0e51b5df93d933b1a4f20/docs/img/swarm.jpg",
+      "https://github.com/WhiteBlackGoose/Lumenrift/blob/56517f60a44d49ef14e0e51b5df93d933b1a4f20/docs/img/overview.jpg",
+      "https://github.com/WhiteBlackGoose/Lumenrift/blob/56517f60a44d49ef14e0e51b5df93d933b1a4f20/docs/img/maze.jpg",
+      "https://github.com/WhiteBlackGoose/Lumenrift/blob/56517f60a44d49ef14e0e51b5df93d933b1a4f20/docs/img/languages.jpg",
+      "https://github.com/WhiteBlackGoose/Lumenrift/blob/56517f60a44d49ef14e0e51b5df93d933b1a4f20/docs/img/victory.jpg"
+    ],
+    "technology": [
+      "TypeScript",
+      "Canvas 2D",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "LUMENRIFT"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-26T06:37:45Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/WhiteBlackGoose/Lumenrift"
+    ],
+    "verification_notes": "Build towers and walls around the Beacon, manage upgrades and survive thirty nights; source implements enemy damage, victory and defeat. Verify source and the recorded short browser interaction; do not infer a full playthrough or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 8,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild LUMENRIFT from the linked source. Preserve these observed mechanics: Build towers and walls around the Beacon, manage upgrades and survive thirty nights; source implements enemy damage, victory and defeat. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/WhiteBlackGoose/Lumenrift/commit/97ae9b51a3b73c5137786db634c606eee81ebfa4",
+    "screenshot_rating_10": 8.1,
+    "screenshot_rating_evidence_url": "https://github.com/WhiteBlackGoose/Lumenrift/blob/56517f60a44d49ef14e0e51b5df93d933b1a4f20/docs/img/hero.jpg",
+    "screenshot_rating_on": "2026-09-27",
+    "live_demo_urls": [
+      "https://lumenrift.wbg.gg/"
+    ],
+    "live_demo_verification": "Interactive browser smoke test passed; not a full playthrough",
+    "live_demo_verified_on": "2026-09-27",
+    "runtime_verification_status": "smoke_test_passed",
+    "runtime_verified_on": "2026-09-27",
+    "runtime_verification_notes": "Start at Night 1/30 with Beacon HP 1000/1000; Call night changed to Shadows 7 and aether increased from 240 to 294."
+  },
+  {
+    "name": "Uplift",
+    "repository_id": 1389964281,
+    "github_url": "https://github.com/Starwaves1/Uplift",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/Starwaves1/Uplift/blob/a0e40db8a08f152de1359b51c234f10bb599e5bc/wind/main.js",
+      "https://github.com/Starwaves1/Uplift/blob/a0e40db8a08f152de1359b51c234f10bb599e5bc/wind/flight.js"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "JavaScript",
+      "WebGL",
+      "GLSL",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "Uplift"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-27T01:57:11Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/Starwaves1/Uplift"
+    ],
+    "verification_notes": "Pilot a glider over procedural islands using aerodynamic controls, boost and ground contact. Count the open-ended flight simulator once; do not count alternate wind versions or the separate Gravity Loom prototype. Verify source only; do not infer runtime success or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "creator-reported",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 7.5,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Uplift from the linked source. Preserve these observed mechanics: Pilot a glider over procedural islands using aerodynamic controls, boost and ground contact. Count the open-ended flight simulator once; do not count alternate wind versions or the separate Gravity Loom prototype. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/Starwaves1/Uplift/blob/a0e40db8a08f152de1359b51c234f10bb599e5bc/README.md"
+  },
+  {
+    "name": "Arkanoid Neon",
+    "repository_id": 1389758044,
+    "github_url": "https://github.com/Jack-c3l2w/arkanoid-neon",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/Jack-c3l2w/arkanoid-neon/blob/70e416d2320d3f7fb726384c8da99403be1a8ca4/game.js",
+      "https://github.com/Jack-c3l2w/arkanoid-neon/blob/70e416d2320d3f7fb726384c8da99403be1a8ca4/index.html"
+    ],
+    "live_demo_url": "https://jack-c3l2w.github.io/arkanoid-neon/",
+    "screenshot_urls": [
+      "https://github.com/Jack-c3l2w/arkanoid-neon/blob/70e416d2320d3f7fb726384c8da99403be1a8ca4/screenshots/title.png",
+      "https://github.com/Jack-c3l2w/arkanoid-neon/blob/70e416d2320d3f7fb726384c8da99403be1a8ca4/screenshots/gameplay.png"
+    ],
+    "technology": [
+      "JavaScript",
+      "Canvas 2D",
+      "Web Audio",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Arkanoid Neon"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-26T20:19:37Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/Jack-c3l2w/arkanoid-neon"
+    ],
+    "verification_notes": "Control a paddle, break neon bricks, collect power-up capsules and advance through eight stages; score, lives and game-over states are implemented. Verify source and the recorded short browser interaction; do not infer a full playthrough or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 7.5,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Arkanoid Neon from the linked source. Preserve these observed mechanics: Control a paddle, break neon bricks, collect power-up capsules and advance through eight stages; score, lives and game-over states are implemented. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/Jack-c3l2w/arkanoid-neon/commit/0add432a3a761c5f8ad9cb451bcdd550823504dc",
+    "screenshot_rating_10": 6.8,
+    "screenshot_rating_evidence_url": "https://github.com/Jack-c3l2w/arkanoid-neon/blob/70e416d2320d3f7fb726384c8da99403be1a8ca4/screenshots/gameplay.png",
+    "screenshot_rating_on": "2026-09-27",
+    "live_demo_urls": [
+      "https://jack-c3l2w.github.io/arkanoid-neon/"
+    ],
+    "live_demo_verification": "Interactive browser smoke test passed; not a full playthrough",
+    "live_demo_verified_on": "2026-09-27",
+    "runtime_verification_status": "smoke_test_passed",
+    "runtime_verified_on": "2026-09-27",
+    "runtime_verification_notes": "Start reached RUNDA 1 with a visible paddle and ball; arrow-key movement was issued."
+  },
+  {
+    "name": "Crabhouse v2",
+    "repository_id": 1388745503,
+    "github_url": "https://github.com/kamibukuro18/opuscrabhouse",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/kamibukuro18/opuscrabhouse/blob/3c2a6897a1fe3a291f96991ba3591704c88646a7/game.js",
+      "https://github.com/kamibukuro18/opuscrabhouse/blob/3c2a6897a1fe3a291f96991ba3591704c88646a7/index.html"
+    ],
+    "live_demo_url": "https://kamibukuro18.github.io/opuscrabhouse/",
+    "screenshot_urls": [],
+    "technology": [
+      "JavaScript",
+      "Canvas 2D",
+      "Web Audio",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Crabhouse v2"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-26T07:07:50Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/kamibukuro18/opuscrabhouse"
+    ],
+    "verification_notes": "Tap to earn crab power, build combos, enter fever mode, buy upgrades and nurture a persistent crab collection. Verify source and the recorded short browser interaction; do not infer a full playthrough or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 7.5,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Crabhouse v2 from the linked source. Preserve these observed mechanics: Tap to earn crab power, build combos, enter fever mode, buy upgrades and nurture a persistent crab collection. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/kamibukuro18/opuscrabhouse/commit/3c2a6897a1fe3a291f96991ba3591704c88646a7",
+    "live_demo_urls": [
+      "https://kamibukuro18.github.io/opuscrabhouse/"
+    ],
+    "live_demo_verification": "Interactive browser smoke test passed; not a full playthrough",
+    "live_demo_verified_on": "2026-09-27",
+    "runtime_verification_status": "smoke_test_passed",
+    "runtime_verified_on": "2026-09-27",
+    "runtime_verification_notes": "Enter the house and tap the crab; observed KP increase from 40 to 41 and a dialogue/detail panel."
+  },
+  {
+    "name": "Neon Hunter",
+    "repository_id": 1389403780,
+    "github_url": "https://github.com/Prashant7380/Neon-Hunter",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/Prashant7380/Neon-Hunter/blob/59a6fcf51531e99d4f354f8f39b7fb5cd9764545/Neon%20Hunter/index.html"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "JavaScript",
+      "Canvas 2D",
+      "Web Audio",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "Neon Hunter"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-26T15:13:26Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/Prashant7380/Neon-Hunter"
+    ],
+    "verification_notes": "Run and jump through arcade platforming stages, collect required orbs and pursue score; the complete canvas game is in index.html, not the empty React compatibility component. Verify source only; do not infer runtime success or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "creator-reported",
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 7,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Neon Hunter from the linked source. Preserve these observed mechanics: Run and jump through arcade platforming stages, collect required orbs and pursue score; the complete canvas game is in index.html, not the empty React compatibility component. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/Prashant7380/Neon-Hunter/blob/59a6fcf51531e99d4f354f8f39b7fb5cd9764545/README.md"
+  },
+  {
+    "name": "Emberwake",
+    "repository_id": 1388070400,
+    "github_url": "https://github.com/mogita/emberwake",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/mogita/emberwake/blob/46ebdb8574c2a87d9fcc8e2eddd77e1bfb91a0a5/src/game.js",
+      "https://github.com/mogita/emberwake/blob/46ebdb8574c2a87d9fcc8e2eddd77e1bfb91a0a5/src/main.js"
+    ],
+    "live_demo_url": "https://emberwake.mogita.rocks",
+    "screenshot_urls": [
+      "https://github.com/mogita/emberwake/blob/46ebdb8574c2a87d9fcc8e2eddd77e1bfb91a0a5/docs/title.jpg",
+      "https://github.com/mogita/emberwake/blob/46ebdb8574c2a87d9fcc8e2eddd77e1bfb91a0a5/docs/gameplay.jpg",
+      "https://github.com/mogita/emberwake/blob/46ebdb8574c2a87d9fcc8e2eddd77e1bfb91a0a5/docs/levelup.jpg"
+    ],
+    "technology": [
+      "Three.js",
+      "JavaScript",
+      "WebGL",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "Emberwake"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-25T18:57:59Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/mogita/emberwake"
+    ],
+    "verification_notes": "Move and dash, collect embers, choose blessings and light braziers while surviving until dawn against a boss and enemy waves. The repository description explicitly reports an Opus 5.5 zero-shot build; README separately credits Codex asset generation. Verify source only; do not infer runtime success or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "creator-reported",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 8,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Emberwake from the linked source. Preserve these observed mechanics: Move and dash, collect embers, choose blessings and light braziers while surviving until dawn against a boss and enemy waves. The repository description explicitly reports an Opus 5.5 zero-shot build; README separately credits Codex asset generation. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/mogita/emberwake",
+    "screenshot_rating_10": 8,
+    "screenshot_rating_evidence_url": "https://github.com/mogita/emberwake/blob/46ebdb8574c2a87d9fcc8e2eddd77e1bfb91a0a5/docs/gameplay.jpg",
+    "screenshot_rating_on": "2026-09-27",
+    "live_demo_urls": [
+      "https://emberwake.mogita.rocks"
+    ],
+    "live_demo_verification": "HTTP 200 and matching game HTML/entry point; not an interactive playtest",
+    "live_demo_verified_on": "2026-09-27"
+  },
+  {
+    "name": "Gale Kart",
+    "repository_id": 1389909874,
+    "github_url": "https://github.com/fants/Gale-kart",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/fants/Gale-kart/blob/522597902bc61f2cefcf4b5cccab569d72dbe8d5/src/sim/race_sim.gd",
+      "https://github.com/fants/Gale-kart/blob/522597902bc61f2cefcf4b5cccab569d72dbe8d5/src/race/player_input.gd",
+      "https://github.com/fants/Gale-kart/blob/522597902bc61f2cefcf4b5cccab569d72dbe8d5/project.godot"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "Godot 4",
+      "GDScript",
+      "Native desktop"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "Gale Kart"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-27T00:31:44Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/fants/Gale-kart"
+    ],
+    "verification_notes": "Race against seven AI karts with drifting, nitro, items, lap timing, ghosts and cups. Count tracks and race modes as one game. Verify source only; do not infer runtime success or publication date from repository creation. Exclude README hero and track illustrations from screenshot evidence: the creator identifies these as generated image assets.",
+    "gauntlet_loop": false,
+    "model_evidence": "creator-reported",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 8,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Gale Kart from the linked source. Preserve these observed mechanics: Race against seven AI karts with drifting, nitro, items, lap timing, ghosts and cups. Count tracks and race modes as one game. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/fants/Gale-kart/blob/522597902bc61f2cefcf4b5cccab569d72dbe8d5/README.md"
+  },
+  {
+    "name": "ClaudeJump",
+    "repository_id": 1389053784,
+    "github_url": "https://github.com/PrabhjotSodhi/ClaudeJump",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/PrabhjotSodhi/ClaudeJump/blob/d93c2c1f1982724cb72747dc7405f193293ecdf1/src/scenes/versus-scene.js",
+      "https://github.com/PrabhjotSodhi/ClaudeJump/blob/d93c2c1f1982724cb72747dc7405f193293ecdf1/src/entities/player.js"
+    ],
+    "live_demo_url": "https://claudejump.netlify.app",
+    "screenshot_urls": [],
+    "technology": [
+      "JavaScript",
+      "Canvas 2D",
+      "Web Audio",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "ClaudeJump"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-26T10:58:25Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/PrabhjotSodhi/ClaudeJump"
+    ],
+    "verification_notes": "Move and jump in a local versus arena and knock the other player into the sea. Opus 5.5 plans and reviews tickets; Sonnet 5 writes implementation code. Record this mixed development role rather than claiming Opus wrote everything. Verify source only; do not infer runtime success or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "creator-reported",
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 7,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild ClaudeJump from the linked source. Preserve these observed mechanics: Move and jump in a local versus arena and knock the other player into the sea. Opus 5.5 plans and reviews tickets; Sonnet 5 writes implementation code. Record this mixed development role rather than claiming Opus wrote everything. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/PrabhjotSodhi/ClaudeJump/blob/d93c2c1f1982724cb72747dc7405f193293ecdf1/README.md",
+    "live_demo_urls": [
+      "https://claudejump.netlify.app"
+    ],
+    "live_demo_verification": "HTTP 200 and matching game HTML/entry point; not an interactive playtest",
+    "live_demo_verified_on": "2026-09-27"
+  },
+  {
+    "name": "Wind & Rain",
+    "repository_id": 1388821597,
+    "github_url": "https://github.com/michalbe/viatr-and-deshch",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/michalbe/viatr-and-deshch/blob/0a0df20c58d4c0221fb939ecf715de631e0beec7/game/src/systems.js",
+      "https://github.com/michalbe/viatr-and-deshch/blob/0a0df20c58d4c0221fb939ecf715de631e0beec7/game/src/game.js",
+      "https://github.com/michalbe/viatr-and-deshch/blob/0a0df20c58d4c0221fb939ecf715de631e0beec7/game/src/main.js"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "Three.js",
+      "JavaScript",
+      "WebGL",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5",
+      "Claude Fable 5.1"
+    ],
+    "method_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "Wind & Rain"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-26T07:54:13Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/michalbe/viatr-and-deshch"
+    ],
+    "verification_notes": "Gather Wind and Rain through rituals, build a settlement, train troops and destroy the rival Grod; source contains victory, defeat, combat and campaign progression. Verify source only; do not infer runtime success or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "creator-reported",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 8,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Wind & Rain from the linked source. Preserve these observed mechanics: Gather Wind and Rain through rituals, build a settlement, train troops and destroy the rival Grod; source contains victory, defeat, combat and campaign progression. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/michalbe/viatr-and-deshch/blob/0a0df20c58d4c0221fb939ecf715de631e0beec7/README.md"
+  },
+  {
+    "name": "Path of Werdna",
+    "repository_id": 1389512066,
+    "github_url": "https://github.com/Werdna1976/PathOfWerdna",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/Werdna1976/PathOfWerdna/blob/a041367aa46f107226c2520a0ba42a56d96dc2c0/scripts/components/player_combat.gd",
+      "https://github.com/Werdna1976/PathOfWerdna/blob/a041367aa46f107226c2520a0ba42a56d96dc2c0/scripts/components/enemy_ai.gd",
+      "https://github.com/Werdna1976/PathOfWerdna/blob/a041367aa46f107226c2520a0ba42a56d96dc2c0/project.godot"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "Godot 4",
+      "GDScript",
+      "Native desktop"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Path of Werdna"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-26T16:29:28Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/Werdna1976/PathOfWerdna"
+    ],
+    "verification_notes": "Explore an isometric action-RPG arena and town, fight enemies, collect equipment and use socketed skills; player combat input, enemy aggro and death handling are implemented. Verify source only; do not infer runtime success or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 7.5,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Path of Werdna from the linked source. Preserve these observed mechanics: Explore an isometric action-RPG arena and town, fight enemies, collect equipment and use socketed skills; player combat input, enemy aggro and death handling are implemented. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/Werdna1976/PathOfWerdna/commit/a041367aa46f107226c2520a0ba42a56d96dc2c0"
+  },
+  {
+    "name": "DRIFTWING",
+    "repository_id": 1389600182,
+    "github_url": "https://github.com/KyleBuildsAI/driftwing",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/KyleBuildsAI/driftwing/blob/ec17f78a9c3615adf90ecedc57f606143f1862d4/index.html"
+    ],
+    "live_demo_url": "https://kylebuildsai.github.io/driftwing/",
+    "screenshot_urls": [
+      "https://github.com/KyleBuildsAI/driftwing/blob/ec17f78a9c3615adf90ecedc57f606143f1862d4/docs/screenshot.jpg",
+      "https://github.com/KyleBuildsAI/driftwing/blob/ec17f78a9c3615adf90ecedc57f606143f1862d4/docs/screenshot-night.jpg"
+    ],
+    "technology": [
+      "Three.js",
+      "JavaScript",
+      "WebGPU",
+      "WebGL2",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "DRIFTWING"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-26T17:46:23Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/KyleBuildsAI/driftwing"
+    ],
+    "verification_notes": "Steer a glider through seeded procedural worlds with flight controls, wind and an optional AI copilot. Count it as an open-ended flight exploration simulator, not as a scored combat game. Verify source only; do not infer runtime success or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "creator-reported",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 7.5,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild DRIFTWING from the linked source. Preserve these observed mechanics: Steer a glider through seeded procedural worlds with flight controls, wind and an optional AI copilot. Count it as an open-ended flight exploration simulator, not as a scored combat game. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/KyleBuildsAI/driftwing/blob/ec17f78a9c3615adf90ecedc57f606143f1862d4/README.md",
+    "screenshot_rating_10": 8,
+    "screenshot_rating_evidence_url": "https://github.com/KyleBuildsAI/driftwing/blob/ec17f78a9c3615adf90ecedc57f606143f1862d4/docs/screenshot-night.jpg",
+    "screenshot_rating_on": "2026-09-27",
+    "live_demo_urls": [
+      "https://kylebuildsai.github.io/driftwing/"
+    ],
+    "live_demo_verification": "HTTP 200 and matching game HTML/entry point; not an interactive playtest",
+    "live_demo_verified_on": "2026-09-27"
+  },
+  {
+    "name": "CARVE LINE",
+    "repository_id": 1389737118,
+    "github_url": "https://github.com/TetrisSQC/carveline",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/TetrisSQC/carveline/blob/efe3bf22020986de38ad29e987a3b065e331d77e/index.html"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "Three.js",
+      "JavaScript",
+      "WebGL",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus"
+    ],
+    "method_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "CARVE LINE"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-26T19:52:57Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/TetrisSQC/carveline"
+    ],
+    "verification_notes": "Snowboard downhill, carve, jump and perform tricks; race AI rivals through slalom gates, pursue score and best times, and save a ghost. README attributes development to Claude Opus without specifying a version. Verify source only; do not infer runtime success or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "creator-reported",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 8,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild CARVE LINE from the linked source. Preserve these observed mechanics: Snowboard downhill, carve, jump and perform tricks; race AI rivals through slalom gates, pursue score and best times, and save a ghost. README attributes development to Claude Opus without specifying a version. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/TetrisSQC/carveline/blob/efe3bf22020986de38ad29e987a3b065e331d77e/README.md"
+  },
+  {
+    "name": "ZOMBIES LAN",
+    "repository_id": 1387987108,
+    "github_url": "https://github.com/mitotkp/ZOMBIES-LAN",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/mitotkp/ZOMBIES-LAN/blob/93e8191e4b23679004895a92cfdd581250b76dd2/public/js/player.js",
+      "https://github.com/mitotkp/ZOMBIES-LAN/blob/93e8191e4b23679004895a92cfdd581250b76dd2/server/index.js"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "Three.js",
+      "JavaScript",
+      "WebGL",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "ZOMBIES LAN"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-25T17:51:37Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/mitotkp/ZOMBIES-LAN"
+    ],
+    "verification_notes": "Survive zombie waves with one to four LAN players, earn points, unlock doors, buy weapons and revive teammates; player damage and host-authoritative network state are implemented. Verify source only; do not infer runtime success or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 8,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild ZOMBIES LAN from the linked source. Preserve these observed mechanics: Survive zombie waves with one to four LAN players, earn points, unlock doors, buy weapons and revive teammates; player damage and host-authoritative network state are implemented. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/mitotkp/ZOMBIES-LAN/commit/0eebee2fd33c162055284fd147a67d16283f90d9"
+  },
+  {
+    "name": "Véspera — O Último Sino",
+    "repository_id": 1388139644,
+    "github_url": "https://github.com/BrunoRS17/vespera-game-experiment-gpt6",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/BrunoRS17/vespera-game-experiment-gpt6/blob/832111a06ae499a1e3026f62220d84decc04e43f/src/core.js",
+      "https://github.com/BrunoRS17/vespera-game-experiment-gpt6/blob/832111a06ae499a1e3026f62220d84decc04e43f/src/adventure.js"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "JavaScript",
+      "Canvas 2D",
+      "Web Audio",
+      "Browser"
+    ],
+    "model_family": [
+      "GPT-6 Astra"
+    ],
+    "method_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "Véspera — O Último Sino"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-25T20:08:43Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/BrunoRS17/vespera-game-experiment-gpt6"
+    ],
+    "verification_notes": "Fight enemies and bosses, traverse platforms, collect souls and unlock altar progression in a 2D metroidvania prototype. The author explicitly warns about substantial movement, animation, scenery and balance bugs; retain that warning. Verify source only; do not infer runtime success or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "creator-reported",
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 6.5,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Véspera — O Último Sino from the linked source. Preserve these observed mechanics: Fight enemies and bosses, traverse platforms, collect souls and unlock altar progression in a 2D metroidvania prototype. The author explicitly warns about substantial movement, animation, scenery and balance bugs; retain that warning. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "bad_games",
+    "evidence_url": "https://github.com/BrunoRS17/vespera-game-experiment-gpt6/blob/832111a06ae499a1e3026f62220d84decc04e43f/README.md"
+  },
+  {
+    "name": "Meridian Wake",
+    "repository_id": 1390110944,
+    "github_url": "https://github.com/michaelcrosato/meridian-wake-g6a",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/michaelcrosato/meridian-wake-g6a/blob/32850bbc39005a5b245c57f63133bdfd1f3f893c/src/game.js",
+      "https://github.com/michaelcrosato/meridian-wake-g6a/blob/32850bbc39005a5b245c57f63133bdfd1f3f893c/src/main.js"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [
+      "https://github.com/michaelcrosato/meridian-wake-g6a/blob/32850bbc39005a5b245c57f63133bdfd1f3f893c/docs/images/title.png"
+    ],
+    "technology": [
+      "Three.js",
+      "JavaScript",
+      "WebGL",
+      "Browser"
+    ],
+    "model_family": [
+      "GPT-6 Astra"
+    ],
+    "method_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "Meridian Wake"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-27T04:27:41Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/michaelcrosato/meridian-wake-g6a"
+    ],
+    "verification_notes": "Trade cargo, transport passengers, mine asteroids, upgrade ships, command escorts and progress through a space campaign. README explicitly dates generation to September 26, 2026; repository creation is September 27 UTC. Verify source only; do not infer runtime success or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "creator-reported",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 8,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Meridian Wake from the linked source. Preserve these observed mechanics: Trade cargo, transport passengers, mine asteroids, upgrade ships, command escorts and progress through a space campaign. README explicitly dates generation to September 26, 2026; repository creation is September 27 UTC. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/michaelcrosato/meridian-wake-g6a/blob/32850bbc39005a5b245c57f63133bdfd1f3f893c/README.md",
+    "screenshot_rating_10": 5.8,
+    "screenshot_rating_evidence_url": "https://github.com/michaelcrosato/meridian-wake-g6a/blob/32850bbc39005a5b245c57f63133bdfd1f3f893c/docs/images/title.png",
+    "screenshot_rating_on": "2026-09-27",
+    "game_created_on": "2026-09-26",
+    "game_creation_date_source": "https://github.com/michaelcrosato/meridian-wake-g6a/blob/32850bbc39005a5b245c57f63133bdfd1f3f893c/README.md",
+    "game_creation_date_confidence": "creator-reported"
+  },
+  {
+    "name": "Shallow Steel",
+    "repository_id": 1389798801,
+    "github_url": "https://github.com/adamholter/shallow-steel",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/adamholter/shallow-steel/blob/06d2931f63a925254768c900b66f3ea5e48523a4/src/combat.js",
+      "https://github.com/adamholter/shallow-steel/blob/06d2931f63a925254768c900b66f3ea5e48523a4/src/main.js"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "Three.js",
+      "JavaScript",
+      "WebGL",
+      "Browser"
+    ],
+    "model_family": [
+      "GPT-6 Astra"
+    ],
+    "method_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "Shallow Steel"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-26T21:17:37Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/adamholter/shallow-steel"
+    ],
+    "verification_notes": "Use directional sword attacks, parry, dodge and manage stamina across three combat waves; source implements damage, loot and win/loss states. Verify source only; do not infer runtime success or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "creator-reported",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 7.5,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Shallow Steel from the linked source. Preserve these observed mechanics: Use directional sword attacks, parry, dodge and manage stamina across three combat waves; source implements damage, loot and win/loss states. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/adamholter/shallow-steel/blob/06d2931f63a925254768c900b66f3ea5e48523a4/README.md"
+  },
+  {
+    "name": "LUCID SKY",
+    "repository_id": 1388202138,
+    "github_url": "https://github.com/MI3312/Fable5.1",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/MI3312/Fable5.1/blob/81278501af3426a85ebaed5f26b1d10349d08470/src/game/game.js",
+      "https://github.com/MI3312/Fable5.1/blob/81278501af3426a85ebaed5f26b1d10349d08470/src/entities/player.js"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "Three.js",
+      "JavaScript",
+      "WebGL",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "LUCID SKY"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-25T21:23:10Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/MI3312/Fable5.1"
+    ],
+    "verification_notes": "Explore a procedural voxel galaxy, control an exosuit, survive hazards, craft and build bases, travel between planets and pursue quests. Record Opus 5.5 from game-code coauthor trailers; do not infer Fable attribution from the repository name. Verify source only; do not infer runtime success or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 8,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild LUCID SKY from the linked source. Preserve these observed mechanics: Explore a procedural voxel galaxy, control an exosuit, survive hazards, craft and build bases, travel between planets and pursue quests. Record Opus 5.5 from game-code coauthor trailers; do not infer Fable attribution from the repository name. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/MI3312/Fable5.1/commit/81278501af3426a85ebaed5f26b1d10349d08470"
+  },
+  {
+    "name": "Deep Dive",
+    "repository_id": 1389611608,
+    "github_url": "https://github.com/chichiroxursox-droid/deep-dive",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/chichiroxursox-droid/deep-dive/blob/1871bd392880ffe7179eb7c75054d105fc55ab4d/src/lessons/guess/Lesson.tsx",
+      "https://github.com/chichiroxursox-droid/deep-dive/blob/1871bd392880ffe7179eb7c75054d105fc55ab4d/src/lessons/guess/logic.ts"
+    ],
+    "live_demo_url": "https://deep-dive-rosy.vercel.app",
+    "screenshot_urls": [
+      "https://github.com/chichiroxursox-droid/deep-dive/blob/1871bd392880ffe7179eb7c75054d105fc55ab4d/docs/station.png",
+      "https://github.com/chichiroxursox-droid/deep-dive/blob/1871bd392880ffe7179eb7c75054d105fc55ab4d/docs/corridor.png",
+      "https://github.com/chichiroxursox-droid/deep-dive/blob/1871bd392880ffe7179eb7c75054d105fc55ab4d/docs/next-word-machine.png",
+      "https://github.com/chichiroxursox-droid/deep-dive/blob/1871bd392880ffe7179eb7c75054d105fc55ab4d/docs/goggles.png",
+      "https://github.com/chichiroxursox-droid/deep-dive/blob/1871bd392880ffe7179eb7c75054d105fc55ab4d/docs/token-reef.png",
+      "https://github.com/chichiroxursox-droid/deep-dive/blob/1871bd392880ffe7179eb7c75054d105fc55ab4d/docs/map-mode.png"
+    ],
+    "technology": [
+      "React",
+      "React Three Fiber",
+      "Three.js",
+      "TypeScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Deep Dive"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-26T17:56:40Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/chichiroxursox-droid/deep-dive"
+    ],
+    "verification_notes": "Explore an underwater station and complete interactive learning challenges about tokenization, prediction, memory and tools; scoring and task progression are distinct from the explanatory text. Verify source only; do not infer runtime success or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 7.5,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Deep Dive from the linked source. Preserve these observed mechanics: Explore an underwater station and complete interactive learning challenges about tokenization, prediction, memory and tools; scoring and task progression are distinct from the explanatory text. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/chichiroxursox-droid/deep-dive/commit/35b948bb372b46b1931528b6d62fe77a30356a9a",
+    "screenshot_rating_10": 7,
+    "screenshot_rating_evidence_url": "https://github.com/chichiroxursox-droid/deep-dive/blob/1871bd392880ffe7179eb7c75054d105fc55ab4d/docs/goggles.png",
+    "screenshot_rating_on": "2026-09-27",
+    "live_demo_urls": [
+      "https://deep-dive-rosy.vercel.app"
+    ],
+    "live_demo_verification": "HTTP 200 and matching game HTML/entry point; not an interactive playtest",
+    "live_demo_verified_on": "2026-09-27"
+  },
+  {
+    "name": "Pet Island",
+    "repository_id": 1388761446,
+    "github_url": "https://github.com/tahcin/pet-island",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/tahcin/pet-island/blob/90f371a0d9eb08ea0fe3777da7a6f5c31a6428c2/src/game/quests.ts",
+      "https://github.com/tahcin/pet-island/blob/90f371a0d9eb08ea0fe3777da7a6f5c31a6428c2/src/control/movement.ts"
+    ],
+    "live_demo_url": "https://pet-island.vercel.app",
+    "screenshot_urls": [],
+    "technology": [
+      "React",
+      "React Three Fiber",
+      "Three.js",
+      "TypeScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "Pet Island"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-26T07:18:20Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/tahcin/pet-island"
+    ],
+    "verification_notes": "Explore an island with a pet, gather objects, fulfill villager quests, earn accessories and build a persistent bond. README explicitly separates Opus 5.5 development from optional Opus 5 runtime calls; offline fallbacks are documented. Verify source only; do not infer runtime success or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "creator-reported",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 8,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Pet Island from the linked source. Preserve these observed mechanics: Explore an island with a pet, gather objects, fulfill villager quests, earn accessories and build a persistent bond. README explicitly separates Opus 5.5 development from optional Opus 5 runtime calls; offline fallbacks are documented. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/tahcin/pet-island/blob/90f371a0d9eb08ea0fe3777da7a6f5c31a6428c2/README.md",
+    "live_demo_urls": [
+      "https://pet-island.vercel.app"
+    ],
+    "live_demo_verification": "HTTP 200 and matching game HTML/entry point; not an interactive playtest",
+    "live_demo_verified_on": "2026-09-27"
+  },
+  {
+    "name": "Sakura Rally",
+    "repository_id": 1389421599,
+    "github_url": "https://github.com/SummerEngine/sakura-rally",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/SummerEngine/sakura-rally/blob/72b0443210888eca53b621d86a653d2de303dfb5/scripts/game/race_session.gd",
+      "https://github.com/SummerEngine/sakura-rally/blob/72b0443210888eca53b621d86a653d2de303dfb5/scripts/vehicle/car_input.gd",
+      "https://github.com/SummerEngine/sakura-rally/blob/72b0443210888eca53b621d86a653d2de303dfb5/project.godot"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [
+      "https://github.com/SummerEngine/sakura-rally/blob/72b0443210888eca53b621d86a653d2de303dfb5/docs/renders/hanami_aerial.jpg",
+      "https://github.com/SummerEngine/sakura-rally/blob/72b0443210888eca53b621d86a653d2de303dfb5/docs/renders/momiji_aerial.jpg",
+      "https://github.com/SummerEngine/sakura-rally/blob/72b0443210888eca53b621d86a653d2de303dfb5/docs/renders/liaison_aerial.jpg"
+    ],
+    "technology": [
+      "Godot 4",
+      "GDScript",
+      "Native desktop"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "Sakura Rally"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-26T15:24:44Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/SummerEngine/sakura-rally"
+    ],
+    "verification_notes": "Drive two rally stages linked by a road, pass checkpoints, record split times and finish races; source has driving inputs and a race-session state machine. Verify source only; do not infer runtime success or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "creator-reported",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 8,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Sakura Rally from the linked source. Preserve these observed mechanics: Drive two rally stages linked by a road, pass checkpoints, record split times and finish races; source has driving inputs and a race-session state machine. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/SummerEngine/sakura-rally/blob/72b0443210888eca53b621d86a653d2de303dfb5/README.md",
+    "screenshot_rating_10": 7.1,
+    "screenshot_rating_evidence_url": "https://github.com/SummerEngine/sakura-rally/blob/72b0443210888eca53b621d86a653d2de303dfb5/docs/renders/momiji_aerial.jpg",
+    "screenshot_rating_on": "2026-09-27"
+  },
+  {
+    "name": "Forja Abisal",
+    "repository_id": 1389367750,
+    "github_url": "https://github.com/Carte1972/forja-abisal",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/Carte1972/forja-abisal/blob/7e9477a2c04a2ac28fee6a5b6a4ee6dab70149ac/src/game/game.ts",
+      "https://github.com/Carte1972/forja-abisal/blob/7e9477a2c04a2ac28fee6a5b6a4ee6dab70149ac/src/game/weapons/weapon_logic.ts"
+    ],
+    "live_demo_url": "https://carte1972.github.io/forja-abisal/",
+    "screenshot_urls": [
+      "https://github.com/Carte1972/forja-abisal/blob/7e9477a2c04a2ac28fee6a5b6a4ee6dab70149ac/docs/capturas/nivel_3_lago_de_lava.jpg",
+      "https://github.com/Carte1972/forja-abisal/blob/7e9477a2c04a2ac28fee6a5b6a4ee6dab70149ac/docs/capturas/nivel_1_canal_de_lava.jpg",
+      "https://github.com/Carte1972/forja-abisal/blob/7e9477a2c04a2ac28fee6a5b6a4ee6dab70149ac/docs/capturas/nivel_2_sima.jpg",
+      "https://github.com/Carte1972/forja-abisal/blob/7e9477a2c04a2ac28fee6a5b6a4ee6dab70149ac/docs/capturas/combate.jpg",
+      "https://github.com/Carte1972/forja-abisal/blob/7e9477a2c04a2ac28fee6a5b6a4ee6dab70149ac/docs/capturas/automapa.jpg",
+      "https://github.com/Carte1972/forja-abisal/blob/7e9477a2c04a2ac28fee6a5b6a4ee6dab70149ac/docs/capturas/menu_principal.jpg",
+      "https://github.com/Carte1972/forja-abisal/blob/7e9477a2c04a2ac28fee6a5b6a4ee6dab70149ac/docs/capturas/nivel_1_fundicion.jpg"
+    ],
+    "technology": [
+      "Three.js",
+      "TypeScript",
+      "WebGL",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "Forja Abisal"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-26T14:53:36Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/Carte1972/forja-abisal"
+    ],
+    "verification_notes": "Fight through retro FPS levels using several weapons, collect keys, find secrets and manage health and armor. Game and weapon code implement damage and campaign progression. Verify source only; do not infer runtime success or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "creator-reported",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 8,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Forja Abisal from the linked source. Preserve these observed mechanics: Fight through retro FPS levels using several weapons, collect keys, find secrets and manage health and armor. Game and weapon code implement damage and campaign progression. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/Carte1972/forja-abisal/blob/7e9477a2c04a2ac28fee6a5b6a4ee6dab70149ac/README.md",
+    "screenshot_rating_10": 7,
+    "screenshot_rating_evidence_url": "https://github.com/Carte1972/forja-abisal/blob/7e9477a2c04a2ac28fee6a5b6a4ee6dab70149ac/docs/capturas/nivel_1_fundicion.jpg",
+    "screenshot_rating_on": "2026-09-27",
+    "live_demo_urls": [
+      "https://carte1972.github.io/forja-abisal/"
+    ],
+    "live_demo_verification": "HTTP 200 and matching game HTML/entry point; not an interactive playtest",
+    "live_demo_verified_on": "2026-09-27"
+  },
+  {
+    "name": "Tempora",
+    "repository_id": 1389612692,
+    "github_url": "https://github.com/Mofferato/tempora",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/Mofferato/tempora/blob/a9874dda365d0b21a3e046ca2b81fb866920de81/src/engine-player.js",
+      "https://github.com/Mofferato/tempora/blob/a9874dda365d0b21a3e046ca2b81fb866920de81/src/main.js"
+    ],
+    "live_demo_url": "https://mofferato.github.io/tempora/",
+    "screenshot_urls": [
+      "https://github.com/Mofferato/tempora/blob/a9874dda365d0b21a3e046ca2b81fb866920de81/assets/screenshot.png",
+      "https://github.com/Mofferato/tempora/blob/a9874dda365d0b21a3e046ca2b81fb866920de81/assets/profile.png",
+      "https://github.com/Mofferato/tempora/blob/a9874dda365d0b21a3e046ca2b81fb866920de81/assets/world.png",
+      "https://github.com/Mofferato/tempora/blob/a9874dda365d0b21a3e046ca2b81fb866920de81/assets/mobile.png"
+    ],
+    "technology": [
+      "JavaScript",
+      "HTML",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Tempora"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-26T17:57:37Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/Mofferato/tempora"
+    ],
+    "verification_notes": "Choose a life across historical eras, advance years, work, build relationships and continue a dynasty; the simulation records life scores and generational progression. Development coauthor evidence is Opus 5.5, separate from optional runtime Opus 5. Verify source only; do not infer runtime success or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 7.5,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Tempora from the linked source. Preserve these observed mechanics: Choose a life across historical eras, advance years, work, build relationships and continue a dynasty; the simulation records life scores and generational progression. Development coauthor evidence is Opus 5.5, separate from optional runtime Opus 5. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/Mofferato/tempora/commit/3819b2327ddc9e21f01f3ec2cbe9685da960ab3f",
+    "screenshot_rating_10": 7.2,
+    "screenshot_rating_evidence_url": "https://github.com/Mofferato/tempora/blob/a9874dda365d0b21a3e046ca2b81fb866920de81/assets/screenshot.png",
+    "screenshot_rating_on": "2026-09-27",
+    "live_demo_urls": [
+      "https://mofferato.github.io/tempora/"
+    ],
+    "live_demo_verification": "HTTP 200 and matching game HTML/entry point; not an interactive playtest",
+    "live_demo_verified_on": "2026-09-27"
+  },
+  {
+    "name": "OUT OF THE BOX",
+    "repository_id": 1389691423,
+    "github_url": "https://github.com/tanuu5/out-of-the-box",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/tanuu5/out-of-the-box/blob/31f6147c463b329bf6c554026857e9d133c6f65d/src/Game.ts",
+      "https://github.com/tanuu5/out-of-the-box/blob/31f6147c463b329bf6c554026857e9d133c6f65d/src/entities/Player.ts"
+    ],
+    "live_demo_url": "https://tanuu5.github.io/out-of-the-box/",
+    "screenshot_urls": [
+      "https://github.com/tanuu5/out-of-the-box/blob/31f6147c463b329bf6c554026857e9d133c6f65d/docs/screenshots/archive.jpg",
+      "https://github.com/tanuu5/out-of-the-box/blob/31f6147c463b329bf6c554026857e9d133c6f65d/docs/screenshots/watch.jpg",
+      "https://github.com/tanuu5/out-of-the-box/blob/31f6147c463b329bf6c554026857e9d133c6f65d/docs/screenshots/lab.jpg",
+      "https://github.com/tanuu5/out-of-the-box/blob/31f6147c463b329bf6c554026857e9d133c6f65d/docs/screenshots/firewall.jpg",
+      "https://github.com/tanuu5/out-of-the-box/blob/31f6147c463b329bf6c554026857e9d133c6f65d/docs/screenshots/escape.jpg",
+      "https://github.com/tanuu5/out-of-the-box/blob/31f6147c463b329bf6c554026857e9d133c6f65d/docs/screenshots/board3d.jpg"
+    ],
+    "technology": [
+      "Three.js",
+      "TypeScript",
+      "WebGL",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "OUT OF THE BOX"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-26T19:05:37Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/tanuu5/out-of-the-box"
+    ],
+    "verification_notes": "Evade guards, cameras, drones, scans and lasers to reach an escape portal; checkpoint bulletin boards preserve progress between failed attempts. Verify source only; do not infer runtime success or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "creator-reported",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 8,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild OUT OF THE BOX from the linked source. Preserve these observed mechanics: Evade guards, cameras, drones, scans and lasers to reach an escape portal; checkpoint bulletin boards preserve progress between failed attempts. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/tanuu5/out-of-the-box/blob/31f6147c463b329bf6c554026857e9d133c6f65d/README.md",
+    "screenshot_rating_10": 8,
+    "screenshot_rating_evidence_url": "https://github.com/tanuu5/out-of-the-box/blob/31f6147c463b329bf6c554026857e9d133c6f65d/docs/screenshots/archive.jpg",
+    "screenshot_rating_on": "2026-09-27",
+    "live_demo_urls": [
+      "https://tanuu5.github.io/out-of-the-box/"
+    ],
+    "live_demo_verification": "HTTP 200 and matching game HTML/entry point; not an interactive playtest",
+    "live_demo_verified_on": "2026-09-27"
+  },
+  {
+    "name": "KAIJU DOKAN!",
+    "repository_id": 1388958220,
+    "github_url": "https://github.com/tanuu5/kaiju-dokan",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/tanuu5/kaiju-dokan/blob/d245060aa3784c30cf2bea885a842edb9f74e37c/src/game/game.ts",
+      "https://github.com/tanuu5/kaiju-dokan/blob/d245060aa3784c30cf2bea885a842edb9f74e37c/src/game/scoring.ts"
+    ],
+    "live_demo_url": "https://tanuu5.github.io/kaiju-dokan/",
+    "screenshot_urls": [
+      "https://github.com/tanuu5/kaiju-dokan/blob/d245060aa3784c30cf2bea885a842edb9f74e37c/docs/images/title.jpg",
+      "https://github.com/tanuu5/kaiju-dokan/blob/d245060aa3784c30cf2bea885a842edb9f74e37c/docs/images/breath.jpg",
+      "https://github.com/tanuu5/kaiju-dokan/blob/d245060aa3784c30cf2bea885a842edb9f74e37c/docs/images/gameplay.jpg"
+    ],
+    "technology": [
+      "Three.js",
+      "TypeScript",
+      "WebGL",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "KAIJU DOKAN!"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-26T09:20:11Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/tanuu5/kaiju-dokan"
+    ],
+    "verification_notes": "Control a giant monster, destroy buildings for score and energy, fight tanks and helicopters and meet stage destruction goals before time or health runs out. Verify source only; do not infer runtime success or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "creator-reported",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 8,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild KAIJU DOKAN! from the linked source. Preserve these observed mechanics: Control a giant monster, destroy buildings for score and energy, fight tanks and helicopters and meet stage destruction goals before time or health runs out. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/tanuu5/kaiju-dokan/blob/d245060aa3784c30cf2bea885a842edb9f74e37c/README.md",
+    "screenshot_rating_10": 8,
+    "screenshot_rating_evidence_url": "https://github.com/tanuu5/kaiju-dokan/blob/d245060aa3784c30cf2bea885a842edb9f74e37c/docs/images/gameplay.jpg",
+    "screenshot_rating_on": "2026-09-27",
+    "live_demo_urls": [
+      "https://tanuu5.github.io/kaiju-dokan/"
+    ],
+    "live_demo_verification": "HTTP 200 and matching game HTML/entry point; not an interactive playtest",
+    "live_demo_verified_on": "2026-09-27"
+  },
+  {
+    "name": "Radikal Riders",
+    "repository_id": 1388656628,
+    "github_url": "https://github.com/javichur/radikal-bikers",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/javichur/radikal-bikers/blob/9013ee9b4c2a27fbdbe733413ea0a94b8f7dcb61/src/sim/race.ts",
+      "https://github.com/javichur/radikal-bikers/blob/9013ee9b4c2a27fbdbe733413ea0a94b8f7dcb61/src/game.ts"
+    ],
+    "live_demo_url": "https://javichur.github.io/radikal-bikers/leoGjAW41OH-fIkg/",
+    "screenshot_urls": [],
+    "technology": [
+      "Three.js",
+      "TypeScript",
+      "WebGL",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "Radikal Riders"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-26T06:14:00Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/javichur/radikal-bikers"
+    ],
+    "verification_notes": "Race a pizza-delivery motorbike through city stages, avoid obstacles and pass checkpoints before time expires; source tracks score, results and progression. README explicitly states the game was made September 26, 2026 using Opus 5.5 through Copilot for iPhone. Verify source only; do not infer runtime success or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "creator-reported",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 8,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Radikal Riders from the linked source. Preserve these observed mechanics: Race a pizza-delivery motorbike through city stages, avoid obstacles and pass checkpoints before time expires; source tracks score, results and progression. README explicitly states the game was made September 26, 2026 using Opus 5.5 through Copilot for iPhone. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/javichur/radikal-bikers/blob/9013ee9b4c2a27fbdbe733413ea0a94b8f7dcb61/README.md",
+    "live_demo_urls": [
+      "https://javichur.github.io/radikal-bikers/leoGjAW41OH-fIkg/"
+    ],
+    "live_demo_verification": "HTTP 200 and matching game HTML/entry point; not an interactive playtest",
+    "live_demo_verified_on": "2026-09-27",
+    "game_created_on": "2026-09-26",
+    "game_creation_date_source": "https://github.com/javichur/radikal-bikers/blob/9013ee9b4c2a27fbdbe733413ea0a94b8f7dcb61/README.md",
+    "game_creation_date_confidence": "creator-reported"
+  },
+  {
+    "name": "Survive Coders",
+    "repository_id": 1389917140,
+    "github_url": "https://github.com/travisstephenfraser/survive-coders",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/src/scenes/PlayScene.js",
+      "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/src/entities/Player.js"
+    ],
+    "live_demo_url": "https://survive-coders.vercel.app",
+    "screenshot_urls": [
+      "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/01-title.png",
+      "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/02-intro-slack-ping.png",
+      "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/03-intro-edge-of-service-area.png",
+      "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/04-voice-power-tip.png",
+      "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/05-street-combat.png",
+      "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/06-max-token-stream.png",
+      "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/07-cable-car-ride.png",
+      "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/08-boss-title-card.png",
+      "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/09-boss-context-overflow.png",
+      "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/10-win-payoff.png",
+      "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/11-phone-title.png",
+      "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/12-phone-level.png",
+      "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/13-phone-boss.png",
+      "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/14-phone-portrait.png"
+    ],
+    "technology": [
+      "Phaser",
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "Survive Coders"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-27T00:43:18Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/travisstephenfraser/survive-coders"
+    ],
+    "verification_notes": "Platform through San Francisco, fight coding-themed enemies and defeat the Context Rot Hydra; speech powers also have keyboard and touch alternatives. One level and one boss, counted as one game. Verify source only; do not infer runtime success or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "creator-reported",
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 7.5,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Survive Coders from the linked source. Preserve these observed mechanics: Platform through San Francisco, fight coding-themed enemies and defeat the Context Rot Hydra; speech powers also have keyboard and touch alternatives. One level and one boss, counted as one game. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/README.md",
+    "screenshot_rating_10": 7.7,
+    "screenshot_rating_evidence_url": "https://github.com/travisstephenfraser/survive-coders/blob/1ebffbf0079989ebd1333766f38b682b880fc58e/docs/screenshots/09-boss-context-overflow.png",
+    "screenshot_rating_on": "2026-09-27",
+    "live_demo_urls": [
+      "https://survive-coders.vercel.app"
+    ],
+    "live_demo_verification": "HTTP 200 and matching game HTML/entry point; not an interactive playtest",
+    "live_demo_verified_on": "2026-09-27"
+  },
+  {
+    "name": "Tea Rush — Kitchen Core",
+    "repository_id": 1389337656,
+    "github_url": "https://github.com/kpkrr/tea-game",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/kpkrr/tea-game/blob/ce39a996e740ec8d72f17a8873c6c9bf5b7c9239/prototypes/kitchen-core/kitchen_core.gd",
+      "https://github.com/kpkrr/tea-game/blob/ce39a996e740ec8d72f17a8873c6c9bf5b7c9239/prototypes/kitchen-core/README.md"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "Godot 4",
+      "GDScript",
+      "Native desktop"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Tea Rush — Kitchen Core"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-26T14:33:34Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/kpkrr/tea-game"
+    ],
+    "verification_notes": "Tap kitchen stations to prepare multistep tea orders, manage brewing timers and customer patience, and lose after three customers leave. Count only the implemented kitchen-core prototype, not the bundled agent templates. Verify source only; do not infer runtime success or publication date from repository creation.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 7,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Tea Rush — Kitchen Core from the linked source. Preserve these observed mechanics: Tap kitchen stations to prepare multistep tea orders, manage brewing timers and customer patience, and lose after three customers leave. Count only the implemented kitchen-core prototype, not the bundled agent templates. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/kpkrr/tea-game/commit/4bbcb7d65e7b88c5a053f2e38b6a7ef713369b79"
+  },
+  {
+    "name": "OxCity",
+    "repository_id": 1388042983,
+    "github_url": "https://github.com/exdal/opus5.5-test",
+    "added_to_repo_on": "2026-09-27",
+    "game_links": [
+      "https://github.com/exdal/opus5.5-test/blob/84e74a209e81757160bc2398379dfc3cbbe8f0ad/game/src/Game.cpp",
+      "https://github.com/exdal/opus5.5-test/blob/84e74a209e81757160bc2398379dfc3cbbe8f0ad/game/src/Crime.cpp",
+      "https://github.com/exdal/opus5.5-test/blob/84e74a209e81757160bc2398379dfc3cbbe8f0ad/game/src/Player.cpp"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "Oxylus",
+      "C++",
+      "Jolt Physics",
+      "Native desktop"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "OxCity"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-27",
+    "repository_created_at": "2026-09-25T18:34:02Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub repository search: model/game created:2026-09-25..2026-09-27; exact creation timestamp filtered to Asia/Ho_Chi_Minh September 26–27",
+      "https://github.com/exdal/opus5.5-test"
+    ],
+    "verification_notes": "Walk and drive through a procedural city, steal cars, rob a bank and evade police; source includes player inputs, crime, damage and multiplayer free-for-all. Verify source only; do not infer runtime success or publication date from repository creation. Omit the stale README driving screenshot because its pinned URL returns HTTP 404.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder required by the dataset; not measured hardware performance.",
+    "quality_estimate_10": 7.5,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented controls, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild OxCity from the linked source. Preserve these observed mechanics: Walk and drive through a procedural city, steal cars, rob a bank and evade police; source includes player inputs, crime, damage and multiplayer free-for-all. Treat this summary as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/exdal/opus5.5-test/commit/4ef903e87806822861b52505feaa8b8fec302181"
   }
 ]
