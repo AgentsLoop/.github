@@ -1,5 +1,12 @@
 # Search experiments
 
+## Game-submission destination audit — 2026-09-28
+
+- Separate self-publishing sites from curated GitHub lists. Do not describe a submitted game as an accepted or indexed game.
+- Verify the submission route and limits from each destination's own guide or contribution file. Prefer a direct form or pull-request path over a generic homepage.
+- Count 63 named game bullets in `lappemic/awesome-ai-built-games` across six game sections; stop before its tools and directory sections. Add the list to `awesomelists.md`, not `games.json`.
+- Recheck destination rules before any actual submission. Keep this pass as a comparison only; do not create accounts or submit games without a specific game and authorization.
+
 ## Two-day source pass — 2026-09-27
 
 - Build the seven-day weekly ranking from creator-reported game creation when present; otherwise label the repository creation date as a proxy. Exclude older creations even when their game evidence is recent. Keep publication-date rankings separate.

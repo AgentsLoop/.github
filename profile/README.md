@@ -232,6 +232,8 @@ The source of truth is [games.json](../games.json). It was last verified on **20
 
 Browse [the awesome-list index](../awesomelists.md) for verified game catalogs with their counted entry totals.
 
+Browse [where to submit a game](../game-submission-options.md) to compare publishing sites and GitHub lists by fit, route, and review rules.
+
 Browse [latest game additions by date](../latest-games.md) to compare each source repository's creation time with the date this collection first recorded it.
 
 Browse [AI game generators and engines](../ai-game-generators.md) for tools that build or edit playable games from prompts.

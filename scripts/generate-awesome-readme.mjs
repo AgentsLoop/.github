@@ -294,6 +294,7 @@ output += `## What is this?\n\n`;
 output += `This is a curated index of playable game units with public GitHub source and evidence that connects them to GPT-6 Astra, Claude Opus, or Claude Fable. “Curated” does not mean every attribution has the same strength: the per-entry evidence grade states whether the model claim is direct, creator-reported, repository-level, or inferred.\n\n`;
 output += `The source of truth is [games.json](games.json). It was last verified on **${verifiedOn}**.\n\n`;
 output += `Browse [the awesome-list index](awesomelists.md) for verified game catalogs with their counted entry totals.\n\n`;
+output += `Browse [where to submit a game](game-submission-options.md) to compare publishing sites and GitHub lists by fit, route, and review rules.\n\n`;
 output += `Browse [latest game additions by date](latest-games.md) to compare each source repository's creation time with the date this collection first recorded it.\n\n`;
 output += `Browse [AI game generators and engines](ai-game-generators.md) for tools that build or edit playable games from prompts.\n\n`;
 output += `Browse [Awesome Game Resources](awesome-game-resources.md) to find game assets, VFX, shaders, sound effects, music, and production tools.\n\n`;
