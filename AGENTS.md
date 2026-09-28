@@ -18,6 +18,12 @@
 - Record the tool link, creation capability, access or export limits, primary evidence link, and verification date.
 - Keep generator-only tools out of `games.json` unless their repository also contains a playable game.
 
+## Game assets and resources
+
+- Add verified game assets, asset libraries, and production tools encountered during other research to `awesome-game-resources.md`.
+- Record the source link, use, license or access limits, primary evidence link, and verification date.
+- Keep resource-only repositories out of `games.json`.
+
 ## Game link collection
 
 - Save every verified GitHub game repository link in `games.json`.
