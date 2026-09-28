@@ -2,7 +2,7 @@
 
 # 🎮 Awesome AI Games
 
-<img src="assets/awesome-ai-games.svg" alt="Awesome AI Games: a curated field guide to AI-made games" width="100%" />
+<a href="https://omgithub.com/"><img src="assets/awesome-ai-games.svg" alt="Awesome AI Games: a curated field guide to AI-made games" width="100%" /></a>
 
 ### 843 curated game units. 570 qualifying source repositories.
 
