@@ -1,6 +1,6 @@
 # Claude Fable 5.1 games
 
-Browse **127 curated game units** from **59 source repositories** attributed to Claude Fable 5.1. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
+Browse **129 curated game units** from **61 source repositories** attributed to Claude Fable 5.1. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
 
 [Back to all models](../README.md#browse-by-model) · [Source data](../games.json)
 
@@ -36,11 +36,11 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 
 ## Game library
 
-- 🛠️ [Non-Browser Engines](#nonbrowser-engines) — **59 game units**
+- 🛠️ [Non-Browser Engines](#nonbrowser-engines) — **60 game units**
 - 💥 [Action and Shooters](#action-and-shooters) — **28 game units**
 - 🧊 [Three.js and WebGL](#threejs-and-webgl) — **7 game units**
 - 🏎️ [Racing and Vehicles](#racing-and-vehicles) — **7 game units**
-- 🧩 [Puzzle, Arcade, and Platformers](#puzzle-arcade-and-platformers) — **17 game units**
+- 🧩 [Puzzle, Arcade, and Platformers](#puzzle-arcade-and-platformers) — **18 game units**
 - 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **5 game units**
 - 🎮 [Other Browser Games](#other-browser-games) — **1 game units**
 - ♟️ [Strategy, Simulation, and Sports](#strategy-simulation-and-sports) — **3 game units**
@@ -69,6 +69,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**Silent Hill**](../games/silent-hill/readme.md) — ⭐ **8.8/10** · Claude Opus 4.6, Claude Opus 4.7, Claude Fable 5.1 · C, C++, PsyCross, SDL2, OpenAL, +3 more · [✓ direct model evidence](https://github.com/SlickAmogus/silent-hill-decomp#features) · [files](https://github.com/SlickAmogus/silent-hill-decomp/tree/pc-port/pc_port) · [play](https://sh1pc.com)
 - [**Tic-Tac-Toe MCP Game**](../games/tic-tac-toe-mcp-game/readme.md) — ⭐ **8.6/10** · Claude Fable 5.1 · TypeScript, React, Vite, MCP Apps, Docker, +1 more · [✓ direct model evidence](https://github.com/worgho2/tic-tac-toe-mcp-game/commit/0f29b0b7f5bb68b17422bcdd3ea7130497f9312d) · [files](https://github.com/worgho2/tic-tac-toe-mcp-game/blob/main/README.md) · [play](https://tic-tac-toe-mcp-game.baziewi.cz/mcp) · 📸 **5.9/10** · [screenshot](https://github.com/worgho2/tic-tac-toe-mcp-game/blob/main/docs/media/game.png)
 - [**Branch Zero**](../games/branch-zero/readme.md) — ⭐ **8.3/10** · Claude Fable 5.1 · Godot 4.5.2, GDScript, Godot Web export, TypeScript, Vite · [✓ direct model evidence](https://github.com/JaCoderX/Branch-Zero#status) · [files](https://github.com/JaCoderX/Branch-Zero/tree/main/apps/game)
+- [**Arena Roguelike**](../games/arena-roguelike/readme.md) — ⭐ **8.0/10** · Claude Fable 5.1 · Godot 4, GDScript, Native desktop · [✓ direct model evidence](https://github.com/beben-games/2d-game/commit/398d7a117290f7bbebdd7608a1acda8198676427) · [files](https://github.com/beben-games/2d-game/blob/573f870fc440244f0a68be8cbebc119f2b528025/project.godot)
 - [**Party Chaos**](../games/party-chaos/readme.md) — ⭐ **7.5/10** · Claude Fable 5.1 · Roblox, Luau · [≈ creator-reported model evidence](https://github.com/lawrenceandrewlargo/roblox-extreme-minigames) · **37 documented units:** 37 original Roblox party minigames
 
 [Back to game library](#game-library)
@@ -146,6 +147,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**Rail Rush**](../games/rail-rush/readme.md) — ⭐ **8.3/10** · Claude Fable 5.1 · HTML, JavaScript, Three.js, WebGL, Browser · [✓ direct model evidence](https://github.com/sorrycc/fable-arcade#games) · [files](https://github.com/sorrycc/fable-arcade/tree/main/games/subway-runner) · [play](https://sorrycc.github.io/fable-arcade/games/subway-runner/) · [prompt](https://github.com/sorrycc/fable-arcade/tree/main/games/flappy-bird) · +7 more prompts in data
 - [**Hollowmere**](../games/hollowmere-sorrycc-fable-arcade/readme.md) — ⭐ **8.1/10** · Claude Fable 5.1 · HTML, JavaScript, Canvas, Browser · [✓ direct model evidence](https://github.com/sorrycc/fable-arcade#games) · [files](https://github.com/sorrycc/fable-arcade/tree/main/games/terraria-sandbox) · [play](https://sorrycc.github.io/fable-arcade/games/terraria-sandbox/) · [prompt](https://github.com/sorrycc/fable-arcade/tree/main/games/flappy-bird) · +7 more prompts in data
 - [**World 1-1**](../games/world-1-1/readme.md) — ⭐ **8.0/10** · Claude Fable 5.1 · HTML, JavaScript, Canvas, Browser · [✓ direct model evidence](https://github.com/sorrycc/fable-arcade#games) · [files](https://github.com/sorrycc/fable-arcade/tree/main/games/mario-1-1) · [play](https://sorrycc.github.io/fable-arcade/games/mario-1-1/) · [prompt](https://github.com/sorrycc/fable-arcade/tree/main/games/flappy-bird) · +7 more prompts in data
+- [**Blunday**](../games/blunday/readme.md) — ⭐ **7.8/10** · Claude Fable 5.1 · React, Vite, JavaScript, Canvas 2D, Browser · [≈ creator-reported model evidence](https://github.com/EZpixel/Blunday/blob/d42f521bf4d527edbdbe36edea328f162ff5bbd9/README.md) · [files](https://github.com/EZpixel/Blunday/blob/d42f521bf4d527edbdbe36edea328f162ff5bbd9/src/components/GameCanvas.jsx)
 - [**Crossy Farm**](../games/crossy-farm/readme.md) — ⭐ **7.8/10** · Claude Fable 5.1 · HTML, JavaScript, Canvas, Browser · [✓ direct model evidence](https://github.com/sorrycc/fable-arcade#games) · [files](https://github.com/sorrycc/fable-arcade/tree/main/games/crossy-farm-car) · [play](https://sorrycc.github.io/fable-arcade/games/crossy-farm-car/) · [prompt](https://github.com/sorrycc/fable-arcade/tree/main/games/flappy-bird) · +7 more prompts in data
 - [**Flappy Skies**](../games/flappy-skies/readme.md) — ⭐ **7.8/10** · Claude Fable 5.1 · HTML, JavaScript, Canvas, Browser · [✓ direct model evidence](https://github.com/sorrycc/fable-arcade#games) · [files](https://github.com/sorrycc/fable-arcade/tree/main/games/flappy-bird) · [play](https://sorrycc.github.io/fable-arcade/games/flappy-bird/) · [prompt](https://github.com/sorrycc/fable-arcade/tree/main/games/flappy-bird) · +7 more prompts in data
 - [**Robo Tennis**](../games/robo-tennis/readme.md) — ⭐ **7.8/10** · Claude Fable 5.1 · HTML, JavaScript, Canvas, Browser · [✓ direct model evidence](https://github.com/sorrycc/fable-arcade#games) · [files](https://github.com/sorrycc/fable-arcade/tree/main/games/robot-tennis) · [play](https://sorrycc.github.io/fable-arcade/games/robot-tennis/) · [prompt](https://github.com/sorrycc/fable-arcade/tree/main/games/flappy-bird) · +7 more prompts in data

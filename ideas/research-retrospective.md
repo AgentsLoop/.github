@@ -4,6 +4,8 @@ Use the completed two-day search to improve the next collection pass.
 
 ## Keep what worked
 
+- Exhaust the requested two-day window before widening a count target to the last seven days; report both date groups explicitly.
+- Check the actual source path again before recording it. One candidate's input code lived under a nested `input/` directory, not the first reported path.
 - Save a fixed discovery-batch manifest; validate unique repository IDs, the local date window, and dataset agreement before regenerating the README.
 - Verify resource licenses on the current primary page and the specific asset pack; flag conflicting legacy terms rather than assuming a site-wide free-use license.
 - Search commit trailers before broad repository metadata. Exact Claude Opus and Claude Fable trailers produced the strongest attribution evidence.
@@ -18,6 +20,7 @@ Use the completed two-day search to improve the next collection pass.
 
 ## Fix what did not work
 
+- Reject movement-only demos without a game objective or substantive sandbox loop; count a repository only after checking state and an outcome.
 - Do not treat a game-themed repository name as model evidence. Require a creator statement, commit trailer, prompt file or equivalent public attribution.
 - Do not treat a recent repository update as a newly published game. Label it as recent gameplay evidence when the repository is older.
 - Do not promote repository-level model attribution to direct gameplay attribution. Keep a distinct evidence grade.

@@ -58,6 +58,8 @@ Use the primary links below; treat **2026-09-27** as the verification date for e
 | [Piskel](https://www.piskelapp.com/) | Draw pixel sprites and preview frame animation in a free online editor. | Export your work; check the editor's supported export formats before building a pipeline. |
 | [Tiled](https://www.mapeditor.org/) | Assemble tile maps and object layers for 2D levels. | Match the exported map format to your engine's loader. Keep tileset rights separate from the editor license. |
 | [TexturePacker](https://www.codeandweb.com/texturepacker) | Pack sprites into texture atlases and export engine-specific metadata. | Compare available licensing options and required features before purchasing. |
+| [Blender](https://www.blender.org/) | Model, rig, animate, render, and export 3D game assets; Pro Skater uses Blender-built models. | Verify on **2026-09-28** against the [official GPL and artwork terms](https://www.blender.org/about/license/). Keep the software license, Python add-on obligations, generated artwork rights, and third-party asset rights distinct. |
+| [Godot Engine](https://godotengine.org/) | Build and export 2D or 3D games; several new source-verified games use it. | Verify on **2026-09-28** against the [official MIT license guide](https://godotengine.org/license/). Credit the engine when distributing its binary; license your own game content separately. |
 
 ## Search effectively
 

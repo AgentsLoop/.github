@@ -4,6 +4,31 @@ Compare when each source repository was created with when this collection first 
 
 [Back to the game collection](README.md) · [Source data](games.json)
 
+## Added 2026-09-28 (UTC)
+
+| Added to this repo (UTC) | Game | Source repository | Original repository created (UTC) | Model | Quality |
+| --- | --- | --- | --- | --- | ---: |
+| 2026-09-28 | [3D Arcade Racer](games/3d-arcade-racer/readme.md) | [letawskylyndon-cloud/Claude-Driving-Racing-gAme](https://github.com/letawskylyndon-cloud/Claude-Driving-Racing-gAme) | 2026-09-25 15:46:39 UTC | Claude Opus 5.5 | 7.8/10 |
+| 2026-09-28 | [Akhbar Rush](games/akhbar-rush/readme.md) | [Shiva78388789/Akhbar-Rush](https://github.com/Shiva78388789/Akhbar-Rush) | 2026-09-26 12:46:06 UTC | Claude Opus 5.5 | 7.4/10 |
+| 2026-09-28 | [Arena Roguelike](games/arena-roguelike/readme.md) | [beben-games/2d-game](https://github.com/beben-games/2d-game) | 2026-09-25 05:40:21 UTC | Claude Fable 5.1 | 8.0/10 |
+| 2026-09-28 | [Blunday](games/blunday/readme.md) | [EZpixel/Blunday](https://github.com/EZpixel/Blunday) | 2026-09-25 09:37:45 UTC | Claude Fable 5.1 | 7.8/10 |
+| 2026-09-28 | [Call of Naija](games/call-of-naija/readme.md) | [bigbadbillion/game](https://github.com/bigbadbillion/game) | 2026-09-27 12:16:52 UTC | Claude Opus 5.5 | 8.2/10 |
+| 2026-09-28 | [Casa de Gemas](games/casa-de-gemas/readme.md) | [deepujain/casadegema](https://github.com/deepujain/casadegema) | 2026-09-28 01:09:34 UTC | Claude Opus 5.5 | 7.5/10 |
+| 2026-09-28 | [Dungeon Heart](games/dungeon-heart/readme.md) | [Efkrdnz/opus-game-test-2](https://github.com/Efkrdnz/opus-game-test-2) | 2026-09-27 12:10:31 UTC | Claude Opus 5.5 | 7.9/10 |
+| 2026-09-28 | [Felt World](games/felt-world/readme.md) | [az9713/opus-5.5-open-world-game](https://github.com/az9713/opus-5.5-open-world-game) | 2026-09-27 05:47:52 UTC | Claude Opus 5.5 | 7.6/10 |
+| 2026-09-28 | [Hop Bot Party](games/hop-bot-party/readme.md) | [abc-wvc/hop-bot](https://github.com/abc-wvc/hop-bot) | 2026-09-25 01:35:18 UTC | Claude Opus 5.5 | 7.7/10 |
+| 2026-09-28 | [Mashup RPG](games/mashup-rpg/readme.md) | [ggdover/mashuprpg](https://github.com/ggdover/mashuprpg) | 2026-09-27 13:55:07 UTC | Claude Opus 5.5 | 8.1/10 |
+| 2026-09-28 | [Modern Frontline](games/modern-frontline/readme.md) | [zty828/OPUS5.5-COD](https://github.com/zty828/OPUS5.5-COD) | 2026-09-25 06:39:23 UTC | Claude Opus 5.5 | 8.3/10 |
+| 2026-09-28 | [Moonpull](games/moonpull/readme.md) | [Efkrdnz/opus-game-test-3](https://github.com/Efkrdnz/opus-game-test-3) | 2026-09-27 20:45:42 UTC | Claude Opus 5.5 | 7.9/10 |
+| 2026-09-28 | [Ombres](games/ombres/readme.md) | [briossant/ombres](https://github.com/briossant/ombres) | 2026-09-27 14:04:10 UTC | Claude Opus 5.5 | 8.0/10 |
+| 2026-09-28 | [Pixel Survivors: Nocturne](games/pixel-survivors-nocturne/readme.md) | [Black2856/pixel_survivors_opus5.5test](https://github.com/Black2856/pixel_survivors_opus5.5test) | 2026-09-25 23:15:38 UTC | Claude Opus 5.5 | 8.1/10 |
+| 2026-09-28 | [Pokémon Claude Red](games/pokemon-claude-red/readme.md) | [levy-street/pokemon-claude-red](https://github.com/levy-street/pokemon-claude-red) | 2026-09-26 22:55:32 UTC | Claude Opus 5.5 | 8.4/10 |
+| 2026-09-28 | [Pro Skater: The Warehouse](games/pro-skater-the-warehouse/readme.md) | [3D-Stories/skate-game-opus-5-5](https://github.com/3D-Stories/skate-game-opus-5-5) | 2026-09-27 05:38:02 UTC | Claude Opus 5.5 | 8.5/10 |
+| 2026-09-28 | [Quiet Hours](games/quiet-hours/readme.md) | [wellscurrence-a11y/Zombie-game-opus5.5](https://github.com/wellscurrence-a11y/Zombie-game-opus5.5) | 2026-09-27 16:30:10 UTC | Claude Opus 5.5 | 8.1/10 |
+| 2026-09-28 | [Scribble: Impostor](games/scribble-impostor/readme.md) | [Anshul1336/scribble-impostor](https://github.com/Anshul1336/scribble-impostor) | 2026-09-27 17:54:46 UTC | Claude Opus | 7.9/10 |
+| 2026-09-28 | [The Ruins of Bezan](games/the-ruins-of-bezan/readme.md) | [tuniveza/Generative-Games](https://github.com/tuniveza/Generative-Games) | 2026-09-26 15:00:51 UTC | Claude Opus 5.5 | 8.1/10 |
+| 2026-09-28 | [Voxel Galleons — The Pirate Republic](games/voxel-galleons-the-pirate-republic/readme.md) | [GraceUnderGravity/VoxelGalleons](https://github.com/GraceUnderGravity/VoxelGalleons) | 2026-09-28 04:53:46 UTC | GPT-6 Astra | 8.0/10 |
+
 ## Added 2026-09-27 (UTC)
 
 | Added to this repo (UTC) | Game | Source repository | Original repository created (UTC) | Model | Quality |

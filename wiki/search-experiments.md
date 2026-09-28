@@ -1,5 +1,14 @@
 # Search experiments
 
+## Seven-day expansion — 2026-09-28
+
+- Search September 27–28 in Asia/Ho_Chi_Minh first. Accept 12 new source-verified repositories from those dates; widen to September 25–26 for eight more rather than lower the game-source gate.
+- Keep one game unit per repository. Count alternate modes and implementations as one game; count only The Ruins of Bezan inside Generative-Games.
+- Reject the pawn movement demo because it has no objective or outcome. Reject LastTrainHome as release-only without checked-in game source. Reject model-name collisions, empty repositories, and visual-only simulations.
+- Record Voxel Galleons as creator-reported “Astra xHigh”; do not present that phrase as an exact GPT-6 co-author trailer.
+- Separate HTTP 200 from playtesting. Record bounded interactive smoke tests only for Casa de Gemas and Felt World.
+- Validate the 20-record batch with `bash scripts/validate-discovery-batch.sh research/2026-09-28-game-batch.json`.
+
 ## Game-submission destination audit — 2026-09-28
 
 - Separate self-publishing sites from curated GitHub lists. Do not describe a submitted game as an accepted or indexed game.

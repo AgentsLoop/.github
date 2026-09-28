@@ -1,6 +1,6 @@
 # GPT-6 Astra games
 
-Browse **111 curated game units** from **82 source repositories** attributed to GPT-6 Astra. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
+Browse **112 curated game units** from **83 source repositories** attributed to GPT-6 Astra. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
 
 [Back to all models](../README.md#browse-by-model) · [Source data](../games.json)
 
@@ -44,7 +44,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 
 - 💥 [Action and Shooters](#action-and-shooters) — **21 game units**
 - 🛠️ [Non-Browser Engines](#nonbrowser-engines) — **30 game units**
-- 🧊 [Three.js and WebGL](#threejs-and-webgl) — **17 game units**
+- 🧊 [Three.js and WebGL](#threejs-and-webgl) — **18 game units**
 - 🧩 [Puzzle, Arcade, and Platformers](#puzzle-arcade-and-platformers) — **12 game units**
 - ♟️ [Strategy, Simulation, and Sports](#strategy-simulation-and-sports) — **3 game units**
 - 🏎️ [Racing and Vehicles](#racing-and-vehicles) — **14 game units**
@@ -123,6 +123,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**VOIDWRENCH**](../games/voidwrench/readme.md) — ⭐ **8.5/10** · GPT-6 Astra · Three.js, Canvas 2D, WebGL, JavaScript · [✓ direct model evidence](https://github.com/octopus7/astracraft/blob/main/web/README.md)
 - [**Wilderness**](../games/wilderness/readme.md) — ⭐ **8.4/10** · GPT-6 Astra · JavaScript, Three.js, WebGL, Vite, Browser · [✓ direct model evidence](https://github.com/lortkipa/minecraft-astra#preview) · [files](https://github.com/lortkipa/minecraft-astra/blob/main/index.html)
 - [**Trashketball (Extra High 2)**](../games/trashketball-extra-high-2/readme.md) — ⭐ **8.0/10** · GPT-6 Astra · React, TypeScript, Three.js, WebGL, Vite · [≈ creator-reported model evidence](https://github.com/swathidbhat/gpt6-astra-extrahigh-codex-trashketball-2)
+- [**Voxel Galleons — The Pirate Republic**](../games/voxel-galleons-the-pirate-republic/readme.md) — ⭐ **8.0/10** · GPT-6 Astra · Three.js, JavaScript, WebGL, Browser · [≈ creator-reported model evidence](https://github.com/GraceUnderGravity/VoxelGalleons) · [files](https://github.com/GraceUnderGravity/VoxelGalleons/blob/31d17b32aebb466d38ed8e4c345f90c3e9321eae/dist/game.js)
 - [**Balance Astronaut**](../games/balance-astronaut/readme.md) — ⭐ **7.5/10** · GPT-6 Astra · Three.js, TypeScript, Vite, cannon-es · [△ repository-topic model evidence](https://github.com/asmoyou/toy2game)
 - [**Frog Feast**](../games/frog-feast/readme.md) — ⭐ **7.5/10** · GPT-6 Astra · Three.js, TypeScript, Vite, cannon-es · [△ repository-topic model evidence](https://github.com/asmoyou/toy2game)
 - [**Jelly Baby**](../games/jelly-baby/readme.md) — ⭐ **7.5/10** · GPT-6 Astra · Three.js, WebGPU, JavaScript · [≈ creator-reported model evidence](https://github.com/scottstts/Jelly-Baby)

@@ -1,0 +1,191 @@
+{
+  "verified_on": "2026-09-28",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "window_start": "2026-09-21",
+  "window_end": "2026-09-28",
+  "expected_repositories": 20,
+  "expected_game_units": 20,
+  "date_basis": "Exact repository creation date in UTC+7; this does not prove publication or actual game creation. Twelve selected repositories were created September 27–28 local; eight were created September 25–26 local.",
+  "records": [
+    {
+      "name": "Quiet Hours",
+      "github_url": "https://github.com/wellscurrence-a11y/Zombie-game-opus5.5",
+      "repository_id": 1391132501,
+      "repository_created_at": "2026-09-27T16:30:10Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/wellscurrence-a11y/Zombie-game-opus5.5/commit/4825fd5407b851a08e80c87feacd301330bf98be",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Dungeon Heart",
+      "github_url": "https://github.com/Efkrdnz/opus-game-test-2",
+      "repository_id": 1390759998,
+      "repository_created_at": "2026-09-27T12:10:31Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/Efkrdnz/opus-game-test-2/commit/3e7efc0528385e25fea3daf1a11373d9ec4b965f",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Moonpull",
+      "github_url": "https://github.com/Efkrdnz/opus-game-test-3",
+      "repository_id": 1391391478,
+      "repository_created_at": "2026-09-27T20:45:42Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/Efkrdnz/opus-game-test-3/commit/c2ac0560aa72ebbba549f73f0f8287de4e4f4803",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Pro Skater: The Warehouse",
+      "github_url": "https://github.com/3D-Stories/skate-game-opus-5-5",
+      "repository_id": 1390201664,
+      "repository_created_at": "2026-09-27T05:38:02Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/3D-Stories/skate-game-opus-5-5/commit/2aa72bee42d32a739dc18b3bcb7a258e348f09a9",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Mashup RPG",
+      "github_url": "https://github.com/ggdover/mashuprpg",
+      "repository_id": 1390919401,
+      "repository_created_at": "2026-09-27T13:55:07Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/ggdover/mashuprpg/commit/ec646f5ef216ace34bb9106251f64acdff9ee43e",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Ombres",
+      "github_url": "https://github.com/briossant/ombres",
+      "repository_id": 1390930633,
+      "repository_created_at": "2026-09-27T14:04:10Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/briossant/ombres/commit/403840d83740eee4e264e7a1cc04390b8d346787",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Casa de Gemas",
+      "github_url": "https://github.com/deepujain/casadegema",
+      "repository_id": 1391558507,
+      "repository_created_at": "2026-09-28T01:09:34Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/deepujain/casadegema/blob/30cec53ef2cc8a71be9e6fada66242f0b2887746/README.md",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Felt World",
+      "github_url": "https://github.com/az9713/opus-5.5-open-world-game",
+      "repository_id": 1390218891,
+      "repository_created_at": "2026-09-27T05:47:52Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/az9713/opus-5.5-open-world-game/commit/3ede8b7d451d765c75c3c3aacd1c7ff77901d5f4",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Voxel Galleons — The Pirate Republic",
+      "github_url": "https://github.com/GraceUnderGravity/VoxelGalleons",
+      "repository_id": 1391828103,
+      "repository_created_at": "2026-09-28T04:53:46Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/GraceUnderGravity/VoxelGalleons",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Blunday",
+      "github_url": "https://github.com/EZpixel/Blunday",
+      "repository_id": 1387202348,
+      "repository_created_at": "2026-09-25T09:37:45Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/EZpixel/Blunday/blob/d42f521bf4d527edbdbe36edea328f162ff5bbd9/README.md",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "The Ruins of Bezan",
+      "github_url": "https://github.com/tuniveza/Generative-Games",
+      "repository_id": 1389381169,
+      "repository_created_at": "2026-09-26T15:00:51Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/tuniveza/Generative-Games/commit/89469de5d3ca351d7ecfb465578272ea9ec60ac6",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "3D Arcade Racer",
+      "github_url": "https://github.com/letawskylyndon-cloud/Claude-Driving-Racing-gAme",
+      "repository_id": 1387804831,
+      "repository_created_at": "2026-09-25T15:46:39Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/letawskylyndon-cloud/Claude-Driving-Racing-gAme/commit/02bea568d095d5f0267b2b0a6018b463f6d8d11a",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Arena Roguelike",
+      "github_url": "https://github.com/beben-games/2d-game",
+      "repository_id": 1386839974,
+      "repository_created_at": "2026-09-25T05:40:21Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/beben-games/2d-game/commit/398d7a117290f7bbebdd7608a1acda8198676427",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Hop Bot Party",
+      "github_url": "https://github.com/abc-wvc/hop-bot",
+      "repository_id": 1386565985,
+      "repository_created_at": "2026-09-25T01:35:18Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/abc-wvc/hop-bot/commit/bade05ef8c8579664b278252b95f854dd839b952",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Akhbar Rush",
+      "github_url": "https://github.com/Shiva78388789/Akhbar-Rush",
+      "repository_id": 1389201487,
+      "repository_created_at": "2026-09-26T12:46:06Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/Shiva78388789/Akhbar-Rush/commit/e801a8411713269f45874f9613ae4f4b53b54525",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Modern Frontline",
+      "github_url": "https://github.com/zty828/OPUS5.5-COD",
+      "repository_id": 1386918793,
+      "repository_created_at": "2026-09-25T06:39:23Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/zty828/OPUS5.5-COD/blob/f30f142d4dd98d3d450ec44148fd1dc6610635de/README.md",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Pixel Survivors: Nocturne",
+      "github_url": "https://github.com/Black2856/pixel_survivors_opus5.5test",
+      "repository_id": 1388277331,
+      "repository_created_at": "2026-09-25T23:15:38Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/Black2856/pixel_survivors_opus5.5test/commit/f3ee447273c7633ed649a219a98f8d955ee13339",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Pokémon Claude Red",
+      "github_url": "https://github.com/levy-street/pokemon-claude-red",
+      "repository_id": 1389857617,
+      "repository_created_at": "2026-09-26T22:55:32Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/levy-street/pokemon-claude-red/commit/232bf71094780de0c0d2cb5abf3d4199721a570b",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Call of Naija",
+      "github_url": "https://github.com/bigbadbillion/game",
+      "repository_id": 1390768998,
+      "repository_created_at": "2026-09-27T12:16:52Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/bigbadbillion/game/commit/2dcfa48dd46cf99cce3da5a7f482cf359e10aef2",
+      "publication_date_status": "repository_created_only"
+    },
+    {
+      "name": "Scribble: Impostor",
+      "github_url": "https://github.com/Anshul1336/scribble-impostor",
+      "repository_id": 1391239742,
+      "repository_created_at": "2026-09-27T17:54:46Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/Anshul1336/scribble-impostor/blob/eef6f8737d05212bb00b673946d068237d96e731/README.md",
+      "publication_date_status": "repository_created_only"
+    }
+  ]
+}

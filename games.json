@@ -33640,5 +33640,1002 @@
     "prompt_origin": "reverse_engineered_from_source",
     "quality_category": "curated_games",
     "evidence_url": "https://github.com/exdal/opus5.5-test/commit/4ef903e87806822861b52505feaa8b8fec302181"
+  },
+  {
+    "name": "Quiet Hours",
+    "repository_id": 1391132501,
+    "github_url": "https://github.com/wellscurrence-a11y/Zombie-game-opus5.5",
+    "added_to_repo_on": "2026-09-28",
+    "game_links": [
+      "https://github.com/wellscurrence-a11y/Zombie-game-opus5.5/blob/9d9e92c709e9629aa4ff6e87913b872a67f59e92/src/input.ts"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "Three.js",
+      "TypeScript",
+      "WebGL",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Quiet Hours"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-28",
+    "repository_created_at": "2026-09-27T16:30:10Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub model/game source search; creation filtered to 2026-09-21..2026-09-28 Asia/Ho_Chi_Minh",
+      "https://github.com/wellscurrence-a11y/Zombie-game-opus5.5"
+    ],
+    "verification_notes": "Survive zombies while managing noise, injuries and needs; craft, drive vehicles and continue a persistent succession run. Source and primary model evidence reviewed; no interactive runtime playtest performed. Repository creation is not proof of game publication.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder; not measured hardware performance.",
+    "quality_estimate_10": 8.1,
+    "quality_estimate_basis": "Conservative source-scope estimate from documented mechanics and code; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Quiet Hours from the linked source. Preserve these observed mechanics: Survive zombies while managing noise, injuries and needs; craft, drive vehicles and continue a persistent succession run. Treat this as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/wellscurrence-a11y/Zombie-game-opus5.5/commit/4825fd5407b851a08e80c87feacd301330bf98be"
+  },
+  {
+    "name": "Dungeon Heart",
+    "repository_id": 1390759998,
+    "github_url": "https://github.com/Efkrdnz/opus-game-test-2",
+    "added_to_repo_on": "2026-09-28",
+    "game_links": [
+      "https://github.com/Efkrdnz/opus-game-test-2/blob/3e7efc0528385e25fea3daf1a11373d9ec4b965f/index.html"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "HTML",
+      "JavaScript",
+      "Canvas 2D",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Dungeon Heart"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-28",
+    "repository_created_at": "2026-09-27T12:10:31Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub model/game source search; creation filtered to 2026-09-21..2026-09-28 Asia/Ho_Chi_Minh",
+      "https://github.com/Efkrdnz/opus-game-test-2"
+    ],
+    "verification_notes": "Build a defensive maze, validate paths, start enemy waves and use powers to protect the heart; lose when the heart is destroyed. Source and primary model evidence reviewed; no interactive runtime playtest performed. Repository creation is not proof of game publication.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder; not measured hardware performance.",
+    "quality_estimate_10": 7.9,
+    "quality_estimate_basis": "Conservative source-scope estimate from documented mechanics and code; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Dungeon Heart from the linked source. Preserve these observed mechanics: Build a defensive maze, validate paths, start enemy waves and use powers to protect the heart; lose when the heart is destroyed. Treat this as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/Efkrdnz/opus-game-test-2/commit/3e7efc0528385e25fea3daf1a11373d9ec4b965f"
+  },
+  {
+    "name": "Moonpull",
+    "repository_id": 1391391478,
+    "github_url": "https://github.com/Efkrdnz/opus-game-test-3",
+    "added_to_repo_on": "2026-09-28",
+    "game_links": [
+      "https://github.com/Efkrdnz/opus-game-test-3/blob/c2ac0560aa72ebbba549f73f0f8287de4e4f4803/index.html"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "HTML",
+      "JavaScript",
+      "Canvas 2D",
+      "Web Audio",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Moonpull"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-28",
+    "repository_created_at": "2026-09-27T20:45:42Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub model/game source search; creation filtered to 2026-09-21..2026-09-28 Asia/Ho_Chi_Minh",
+      "https://github.com/Efkrdnz/opus-game-test-3"
+    ],
+    "verification_notes": "Steer a boat with tide-pull energy, collect stars and reach the lighthouse while avoiding hazards across eight nights and endless mode. Source and primary model evidence reviewed; no interactive runtime playtest performed. Repository creation is not proof of game publication.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder; not measured hardware performance.",
+    "quality_estimate_10": 7.9,
+    "quality_estimate_basis": "Conservative source-scope estimate from documented mechanics and code; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Moonpull from the linked source. Preserve these observed mechanics: Steer a boat with tide-pull energy, collect stars and reach the lighthouse while avoiding hazards across eight nights and endless mode. Treat this as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/Efkrdnz/opus-game-test-3/commit/c2ac0560aa72ebbba549f73f0f8287de4e4f4803"
+  },
+  {
+    "name": "Pro Skater: The Warehouse",
+    "repository_id": 1390201664,
+    "github_url": "https://github.com/3D-Stories/skate-game-opus-5-5",
+    "added_to_repo_on": "2026-09-28",
+    "game_links": [
+      "https://github.com/3D-Stories/skate-game-opus-5-5/blob/2aa72bee42d32a739dc18b3bcb7a258e348f09a9/scripts/game/main.gd"
+    ],
+    "live_demo_url": "https://skate-game-opus-5-5-blush.vercel.app/",
+    "screenshot_urls": [],
+    "technology": [
+      "Godot 4",
+      "GDScript",
+      "Native desktop",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Pro Skater: The Warehouse"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-28",
+    "repository_created_at": "2026-09-27T05:38:02Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub model/game source search; creation filtered to 2026-09-21..2026-09-28 Asia/Ho_Chi_Minh",
+      "https://github.com/3D-Stories/skate-game-opus-5-5"
+    ],
+    "verification_notes": "Skate two parks, chain tricks and combos, recover from bails and complete scored two-minute goals. Count two skate parks and the character builder as one game; README reports a browser export and recorded run. Repository creation is not proof of game publication.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder; not measured hardware performance.",
+    "quality_estimate_10": 8.5,
+    "quality_estimate_basis": "Conservative source-scope estimate from documented mechanics and code; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Pro Skater: The Warehouse from the linked source. Preserve these observed mechanics: Skate two parks, chain tricks and combos, recover from bails and complete scored two-minute goals. Treat this as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/3D-Stories/skate-game-opus-5-5/commit/2aa72bee42d32a739dc18b3bcb7a258e348f09a9",
+    "live_demo_urls": [
+      "https://skate-game-opus-5-5-blush.vercel.app/"
+    ],
+    "live_demo_verification": "HTTP 200 and matching documented game URL; not an interactive playtest",
+    "live_demo_verified_on": "2026-09-28"
+  },
+  {
+    "name": "Mashup RPG",
+    "repository_id": 1390919401,
+    "github_url": "https://github.com/ggdover/mashuprpg",
+    "added_to_repo_on": "2026-09-28",
+    "game_links": [
+      "https://github.com/ggdover/mashuprpg/blob/ec646f5ef216ace34bb9106251f64acdff9ee43e/project.godot"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "Godot 4",
+      "GDScript",
+      "Native desktop"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Mashup RPG"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-28",
+    "repository_created_at": "2026-09-27T13:55:07Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub model/game source search; creation filtered to 2026-09-21..2026-09-28 Asia/Ho_Chi_Minh",
+      "https://github.com/ggdover/mashuprpg"
+    ],
+    "verification_notes": "Fight through procedural dungeons using dodge, parry and skills; collect loot, level up and progress through three acts with saves. Source and primary model evidence reviewed; no interactive runtime playtest performed. Repository creation is not proof of game publication.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder; not measured hardware performance.",
+    "quality_estimate_10": 8.1,
+    "quality_estimate_basis": "Conservative source-scope estimate from documented mechanics and code; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Mashup RPG from the linked source. Preserve these observed mechanics: Fight through procedural dungeons using dodge, parry and skills; collect loot, level up and progress through three acts with saves. Treat this as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/ggdover/mashuprpg/commit/ec646f5ef216ace34bb9106251f64acdff9ee43e"
+  },
+  {
+    "name": "Ombres",
+    "repository_id": 1390930633,
+    "github_url": "https://github.com/briossant/ombres",
+    "added_to_repo_on": "2026-09-28",
+    "game_links": [
+      "https://github.com/briossant/ombres/blob/403840d83740eee4e264e7a1cc04390b8d346787/src/sim/rules.ts"
+    ],
+    "live_demo_url": "https://ombres.deploy.breizhware.com/",
+    "screenshot_urls": [],
+    "technology": [
+      "React",
+      "Three.js",
+      "TypeScript",
+      "WebGL",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Ombres"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-28",
+    "repository_created_at": "2026-09-27T14:04:10Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub model/game source search; creation filtered to 2026-09-21..2026-09-28 Asia/Ho_Chi_Minh",
+      "https://github.com/briossant/ombres"
+    ],
+    "verification_notes": "Control a creature by phone, keyboard or gamepad; paint territory, strike opponents and score across timed party-game rounds. Source and primary model evidence reviewed; no interactive runtime playtest performed. Repository creation is not proof of game publication.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder; not measured hardware performance.",
+    "quality_estimate_10": 8.0,
+    "quality_estimate_basis": "Conservative source-scope estimate from documented mechanics and code; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Ombres from the linked source. Preserve these observed mechanics: Control a creature by phone, keyboard or gamepad; paint territory, strike opponents and score across timed party-game rounds. Treat this as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/briossant/ombres/commit/403840d83740eee4e264e7a1cc04390b8d346787",
+    "live_demo_urls": [
+      "https://ombres.deploy.breizhware.com/"
+    ],
+    "live_demo_verification": "HTTP 200 and matching documented game URL; not an interactive playtest",
+    "live_demo_verified_on": "2026-09-28"
+  },
+  {
+    "name": "Casa de Gemas",
+    "repository_id": 1391558507,
+    "github_url": "https://github.com/deepujain/casadegema",
+    "added_to_repo_on": "2026-09-28",
+    "game_links": [
+      "https://github.com/deepujain/casadegema/blob/30cec53ef2cc8a71be9e6fada66242f0b2887746/index.html"
+    ],
+    "live_demo_url": "https://deepujain.github.io/casadegema/",
+    "screenshot_urls": [],
+    "technology": [
+      "HTML",
+      "JavaScript",
+      "Canvas 2D",
+      "Web Audio",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "Casa de Gemas"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-28",
+    "repository_created_at": "2026-09-28T01:09:34Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub model/game source search; creation filtered to 2026-09-21..2026-09-28 Asia/Ho_Chi_Minh",
+      "https://github.com/deepujain/casadegema"
+    ],
+    "verification_notes": "Interact with a seasonal garden, water and shake objects to find five gems per season and reach the final state. Source and primary model evidence reviewed; no interactive runtime playtest performed. Repository creation is not proof of game publication. Interactive browser smoke test: a click on the blue heart/gem produced Oli owl dialogue; the spring-gems counter remained 0/5. This confirms UI interaction, not a completed level.",
+    "gauntlet_loop": false,
+    "model_evidence": "creator-reported",
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder; not measured hardware performance.",
+    "quality_estimate_10": 7.5,
+    "quality_estimate_basis": "Conservative source-scope estimate from documented mechanics and code; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Casa de Gemas from the linked source. Preserve these observed mechanics: Interact with a seasonal garden, water and shake objects to find five gems per season and reach the final state. Treat this as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/deepujain/casadegema/blob/30cec53ef2cc8a71be9e6fada66242f0b2887746/README.md",
+    "live_demo_urls": [
+      "https://deepujain.github.io/casadegema/"
+    ],
+    "live_demo_verification": "Interactive browser smoke test: a click on the blue heart/gem produced Oli owl dialogue; the spring-gems counter remained 0/5. This confirms UI interaction, not a completed level.",
+    "live_demo_verified_on": "2026-09-28"
+  },
+  {
+    "name": "Felt World",
+    "repository_id": 1390218891,
+    "github_url": "https://github.com/az9713/opus-5.5-open-world-game",
+    "added_to_repo_on": "2026-09-28",
+    "game_links": [
+      "https://github.com/az9713/opus-5.5-open-world-game/blob/53adf4f7be44d0ccc653f7e43b162dfdfcf079bf/feltworld/index.html"
+    ],
+    "live_demo_url": "https://az9713.github.io/opus-5.5-open-world-game/feltworld/",
+    "screenshot_urls": [],
+    "technology": [
+      "Three.js",
+      "JavaScript",
+      "WebGL",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Felt World"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-28",
+    "repository_created_at": "2026-09-27T05:47:52Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub model/game source search; creation filtered to 2026-09-21..2026-09-28 Asia/Ho_Chi_Minh",
+      "https://github.com/az9713/opus-5.5-open-world-game"
+    ],
+    "verification_notes": "Explore a procedural felt world by walking, driving, flying and diving; switch vehicles and animal forms and collect interactive music buttons. Source and primary model evidence reviewed; no interactive runtime playtest performed. Repository creation is not proof of game publication. Interactive browser smoke test: Start entered the driving world; pressing W changed the speed HUD from 0 to 2 km/h and advanced game time. This confirms a responsive control, not full game coverage.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder; not measured hardware performance.",
+    "quality_estimate_10": 7.6,
+    "quality_estimate_basis": "Conservative source-scope estimate from documented mechanics and code; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Felt World from the linked source. Preserve these observed mechanics: Explore a procedural felt world by walking, driving, flying and diving; switch vehicles and animal forms and collect interactive music buttons. Treat this as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/az9713/opus-5.5-open-world-game/commit/3ede8b7d451d765c75c3c3aacd1c7ff77901d5f4",
+    "live_demo_urls": [
+      "https://az9713.github.io/opus-5.5-open-world-game/feltworld/"
+    ],
+    "live_demo_verification": "Interactive browser smoke test: Start entered the driving world; pressing W changed the speed HUD from 0 to 2 km/h and advanced game time. This confirms a responsive control, not full game coverage.",
+    "live_demo_verified_on": "2026-09-28"
+  },
+  {
+    "name": "Voxel Galleons — The Pirate Republic",
+    "repository_id": 1391828103,
+    "github_url": "https://github.com/GraceUnderGravity/VoxelGalleons",
+    "added_to_repo_on": "2026-09-28",
+    "game_links": [
+      "https://github.com/GraceUnderGravity/VoxelGalleons/blob/31d17b32aebb466d38ed8e4c345f90c3e9321eae/dist/game.js"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "Three.js",
+      "JavaScript",
+      "WebGL",
+      "Browser"
+    ],
+    "model_family": [
+      "GPT-6 Astra"
+    ],
+    "method_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "Voxel Galleons — The Pirate Republic"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-28",
+    "repository_created_at": "2026-09-28T04:53:46Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub model/game source search; creation filtered to 2026-09-21..2026-09-28 Asia/Ho_Chi_Minh",
+      "https://github.com/GraceUnderGravity/VoxelGalleons"
+    ],
+    "verification_notes": "Sail and fire broadside cannons, collect five salvage bundles, sink two navy patrols and return to Nassau; manage hull and cargo. Repository description says \"Made with Astra xHigh\" without spelling out GPT-6; record creator-reported Astra attribution, not a co-authored commit. Repository creation is not proof of game publication.",
+    "gauntlet_loop": false,
+    "model_evidence": "creator-reported",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder; not measured hardware performance.",
+    "quality_estimate_10": 8.0,
+    "quality_estimate_basis": "Conservative source-scope estimate from documented mechanics and code; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Voxel Galleons — The Pirate Republic from the linked source. Preserve these observed mechanics: Sail and fire broadside cannons, collect five salvage bundles, sink two navy patrols and return to Nassau; manage hull and cargo. Treat this as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/GraceUnderGravity/VoxelGalleons"
+  },
+  {
+    "name": "Blunday",
+    "repository_id": 1387202348,
+    "github_url": "https://github.com/EZpixel/Blunday",
+    "added_to_repo_on": "2026-09-28",
+    "game_links": [
+      "https://github.com/EZpixel/Blunday/blob/d42f521bf4d527edbdbe36edea328f162ff5bbd9/src/components/GameCanvas.jsx"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "React",
+      "Vite",
+      "JavaScript",
+      "Canvas 2D",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Fable 5.1"
+    ],
+    "method_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "Blunday"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-28",
+    "repository_created_at": "2026-09-25T09:37:45Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub model/game source search; creation filtered to 2026-09-21..2026-09-28 Asia/Ho_Chi_Minh",
+      "https://github.com/EZpixel/Blunday"
+    ],
+    "verification_notes": "Jump and dodge through platform stages, collect gold, buy upgrades and try to reach the Moon; falling ends the run. Source and primary model evidence reviewed; no interactive runtime playtest performed. Repository creation is not proof of game publication.",
+    "gauntlet_loop": false,
+    "model_evidence": "creator-reported",
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder; not measured hardware performance.",
+    "quality_estimate_10": 7.8,
+    "quality_estimate_basis": "Conservative source-scope estimate from documented mechanics and code; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Blunday from the linked source. Preserve these observed mechanics: Jump and dodge through platform stages, collect gold, buy upgrades and try to reach the Moon; falling ends the run. Treat this as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/EZpixel/Blunday/blob/d42f521bf4d527edbdbe36edea328f162ff5bbd9/README.md"
+  },
+  {
+    "name": "The Ruins of Bezan",
+    "repository_id": 1389381169,
+    "github_url": "https://github.com/tuniveza/Generative-Games",
+    "added_to_repo_on": "2026-09-28",
+    "game_links": [
+      "https://github.com/tuniveza/Generative-Games/blob/831f115caeea2201fdac5315bac4fcb707eeaf85/The-Ruins-of-Bezan/main.c"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "C",
+      "SDL3",
+      "OpenGL",
+      "Native desktop"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "The Ruins of Bezan"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-28",
+    "repository_created_at": "2026-09-26T15:00:51Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub model/game source search; creation filtered to 2026-09-21..2026-09-28 Asia/Ho_Chi_Minh",
+      "https://github.com/tuniveza/Generative-Games"
+    ],
+    "verification_notes": "Explore and fight in an RPG, fish, sail, manage inventory and complete the Ember and Tide quests to return the bell for the festival. Count only the implemented The-Ruins-of-Bezan game folder, not the repository name as a catalog of multiple games. Repository creation is not proof of game publication.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder; not measured hardware performance.",
+    "quality_estimate_10": 8.1,
+    "quality_estimate_basis": "Conservative source-scope estimate from documented mechanics and code; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild The Ruins of Bezan from the linked source. Preserve these observed mechanics: Explore and fight in an RPG, fish, sail, manage inventory and complete the Ember and Tide quests to return the bell for the festival. Treat this as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/tuniveza/Generative-Games/commit/89469de5d3ca351d7ecfb465578272ea9ec60ac6"
+  },
+  {
+    "name": "3D Arcade Racer",
+    "repository_id": 1387804831,
+    "github_url": "https://github.com/letawskylyndon-cloud/Claude-Driving-Racing-gAme",
+    "added_to_repo_on": "2026-09-28",
+    "game_links": [
+      "https://github.com/letawskylyndon-cloud/Claude-Driving-Racing-gAme/blob/ebd6c55980107b5a129eb72bc8f03567f5ba20b1/index.html"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "Three.js",
+      "JavaScript",
+      "WebGL",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "3D Arcade Racer"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-28",
+    "repository_created_at": "2026-09-25T15:46:39Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub model/game source search; creation filtered to 2026-09-21..2026-09-28 Asia/Ho_Chi_Minh",
+      "https://github.com/letawskylyndon-cloud/Claude-Driving-Racing-gAme"
+    ],
+    "verification_notes": "Drive against AI opponents, drift for boosts, cross lap checkpoints and finish races; track position and results. Source and primary model evidence reviewed; no interactive runtime playtest performed. Repository creation is not proof of game publication.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder; not measured hardware performance.",
+    "quality_estimate_10": 7.8,
+    "quality_estimate_basis": "Conservative source-scope estimate from documented mechanics and code; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild 3D Arcade Racer from the linked source. Preserve these observed mechanics: Drive against AI opponents, drift for boosts, cross lap checkpoints and finish races; track position and results. Treat this as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/letawskylyndon-cloud/Claude-Driving-Racing-gAme/commit/02bea568d095d5f0267b2b0a6018b463f6d8d11a"
+  },
+  {
+    "name": "Arena Roguelike",
+    "repository_id": 1386839974,
+    "github_url": "https://github.com/beben-games/2d-game",
+    "added_to_repo_on": "2026-09-28",
+    "game_links": [
+      "https://github.com/beben-games/2d-game/blob/573f870fc440244f0a68be8cbebc119f2b528025/project.godot"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "Godot 4",
+      "GDScript",
+      "Native desktop"
+    ],
+    "model_family": [
+      "Claude Fable 5.1"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Arena Roguelike"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-28",
+    "repository_created_at": "2026-09-25T05:40:21Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub model/game source search; creation filtered to 2026-09-21..2026-09-28 Asia/Ho_Chi_Minh",
+      "https://github.com/beben-games/2d-game"
+    ],
+    "verification_notes": "Fight through eight rooms with attacks and dashes, choose upgrade cards and weapon effects, and defeat the final boss. Source and primary model evidence reviewed; no interactive runtime playtest performed. Repository creation is not proof of game publication.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder; not measured hardware performance.",
+    "quality_estimate_10": 8.0,
+    "quality_estimate_basis": "Conservative source-scope estimate from documented mechanics and code; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Arena Roguelike from the linked source. Preserve these observed mechanics: Fight through eight rooms with attacks and dashes, choose upgrade cards and weapon effects, and defeat the final boss. Treat this as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/beben-games/2d-game/commit/398d7a117290f7bbebdd7608a1acda8198676427"
+  },
+  {
+    "name": "Hop Bot Party",
+    "repository_id": 1386565985,
+    "github_url": "https://github.com/abc-wvc/hop-bot",
+    "added_to_repo_on": "2026-09-28",
+    "game_links": [
+      "https://github.com/abc-wvc/hop-bot/blob/bade05ef8c8579664b278252b95f854dd839b952/src/js/sim.js"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "JavaScript",
+      "HTML",
+      "Canvas 2D",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Hop Bot Party"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-28",
+    "repository_created_at": "2026-09-25T01:35:18Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub model/game source search; creation filtered to 2026-09-21..2026-09-28 Asia/Ho_Chi_Minh",
+      "https://github.com/abc-wvc/hop-bot"
+    ],
+    "verification_notes": "Race hopping robots in solo, AI-race or two-player modes; jump between sky platforms and compete for finish times. Source and primary model evidence reviewed; no interactive runtime playtest performed. Repository creation is not proof of game publication.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder; not measured hardware performance.",
+    "quality_estimate_10": 7.7,
+    "quality_estimate_basis": "Conservative source-scope estimate from documented mechanics and code; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Hop Bot Party from the linked source. Preserve these observed mechanics: Race hopping robots in solo, AI-race or two-player modes; jump between sky platforms and compete for finish times. Treat this as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/abc-wvc/hop-bot/commit/bade05ef8c8579664b278252b95f854dd839b952"
+  },
+  {
+    "name": "Akhbar Rush",
+    "repository_id": 1389201487,
+    "github_url": "https://github.com/Shiva78388789/Akhbar-Rush",
+    "added_to_repo_on": "2026-09-28",
+    "game_links": [
+      "https://github.com/Shiva78388789/Akhbar-Rush/blob/e801a8411713269f45874f9613ae4f4b53b54525/src/main.js"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "JavaScript",
+      "HTML",
+      "Canvas 2D",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Akhbar Rush"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-28",
+    "repository_created_at": "2026-09-26T12:46:06Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub model/game source search; creation filtered to 2026-09-21..2026-09-28 Asia/Ho_Chi_Minh",
+      "https://github.com/Shiva78388789/Akhbar-Rush"
+    ],
+    "verification_notes": "Steer through traffic and obstacles, collect items, raise score and reach an end-screen; pause and resume runs. Source and primary model evidence reviewed; no interactive runtime playtest performed. Repository creation is not proof of game publication.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder; not measured hardware performance.",
+    "quality_estimate_10": 7.4,
+    "quality_estimate_basis": "Conservative source-scope estimate from documented mechanics and code; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Akhbar Rush from the linked source. Preserve these observed mechanics: Steer through traffic and obstacles, collect items, raise score and reach an end-screen; pause and resume runs. Treat this as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/Shiva78388789/Akhbar-Rush/commit/e801a8411713269f45874f9613ae4f4b53b54525"
+  },
+  {
+    "name": "Modern Frontline",
+    "repository_id": 1386918793,
+    "github_url": "https://github.com/zty828/OPUS5.5-COD",
+    "added_to_repo_on": "2026-09-28",
+    "game_links": [
+      "https://github.com/zty828/OPUS5.5-COD/blob/f30f142d4dd98d3d450ec44148fd1dc6610635de/js/main.js"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "Three.js",
+      "JavaScript",
+      "WebGL",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "Modern Frontline"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-28",
+    "repository_created_at": "2026-09-25T06:39:23Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub model/game source search; creation filtered to 2026-09-21..2026-09-28 Asia/Ho_Chi_Minh",
+      "https://github.com/zty828/OPUS5.5-COD"
+    ],
+    "verification_notes": "Fight a seven-stage first-person campaign with checkpoints and extraction, or play AI deathmatch/control/free-for-all; track XP and loadouts. Source and primary model evidence reviewed; no interactive runtime playtest performed. Repository creation is not proof of game publication.",
+    "gauntlet_loop": false,
+    "model_evidence": "creator-reported",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder; not measured hardware performance.",
+    "quality_estimate_10": 8.3,
+    "quality_estimate_basis": "Conservative source-scope estimate from documented mechanics and code; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Modern Frontline from the linked source. Preserve these observed mechanics: Fight a seven-stage first-person campaign with checkpoints and extraction, or play AI deathmatch/control/free-for-all; track XP and loadouts. Treat this as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/zty828/OPUS5.5-COD/blob/f30f142d4dd98d3d450ec44148fd1dc6610635de/README.md"
+  },
+  {
+    "name": "Pixel Survivors: Nocturne",
+    "repository_id": 1388277331,
+    "github_url": "https://github.com/Black2856/pixel_survivors_opus5.5test",
+    "added_to_repo_on": "2026-09-28",
+    "game_links": [
+      "https://github.com/Black2856/pixel_survivors_opus5.5test/blob/a65a2759871671cab6b4a5763c665e366e4c76da/js/world.js"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "JavaScript",
+      "HTML",
+      "Canvas 2D",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Pixel Survivors: Nocturne"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-28",
+    "repository_created_at": "2026-09-25T23:15:38Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub model/game source search; creation filtered to 2026-09-21..2026-09-28 Asia/Ho_Chi_Minh",
+      "https://github.com/Black2856/pixel_survivors_opus5.5test"
+    ],
+    "verification_notes": "Survive waves and bosses with movement, dash and attacks; pick level upgrades, evolve weapons and spend persistent gold. Source and primary model evidence reviewed; no interactive runtime playtest performed. Repository creation is not proof of game publication.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder; not measured hardware performance.",
+    "quality_estimate_10": 8.1,
+    "quality_estimate_basis": "Conservative source-scope estimate from documented mechanics and code; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Pixel Survivors: Nocturne from the linked source. Preserve these observed mechanics: Survive waves and bosses with movement, dash and attacks; pick level upgrades, evolve weapons and spend persistent gold. Treat this as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/Black2856/pixel_survivors_opus5.5test/commit/f3ee447273c7633ed649a219a98f8d955ee13339"
+  },
+  {
+    "name": "Pokémon Claude Red",
+    "repository_id": 1389857617,
+    "github_url": "https://github.com/levy-street/pokemon-claude-red",
+    "added_to_repo_on": "2026-09-28",
+    "game_links": [
+      "https://github.com/levy-street/pokemon-claude-red/blob/19ba7ad5dd49ee3244ddef0e6bcda43d2cbf28c7/src/game/battle.js"
+    ],
+    "live_demo_url": "https://claudered.dev/",
+    "screenshot_urls": [],
+    "technology": [
+      "JavaScript",
+      "HTML",
+      "Canvas 2D",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Pokémon Claude Red"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-28",
+    "repository_created_at": "2026-09-26T22:55:32Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub model/game source search; creation filtered to 2026-09-21..2026-09-28 Asia/Ho_Chi_Minh",
+      "https://github.com/levy-street/pokemon-claude-red"
+    ],
+    "verification_notes": "Travel Kanto, battle trainers, capture creatures, earn eight badges and defeat the Elite Four and Champion; save party progress. Source and primary model evidence reviewed; no interactive runtime playtest performed. Repository creation is not proof of game publication.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder; not measured hardware performance.",
+    "quality_estimate_10": 8.4,
+    "quality_estimate_basis": "Conservative source-scope estimate from documented mechanics and code; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Pokémon Claude Red from the linked source. Preserve these observed mechanics: Travel Kanto, battle trainers, capture creatures, earn eight badges and defeat the Elite Four and Champion; save party progress. Treat this as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/levy-street/pokemon-claude-red/commit/232bf71094780de0c0d2cb5abf3d4199721a570b",
+    "live_demo_urls": [
+      "https://claudered.dev/"
+    ],
+    "live_demo_verification": "HTTP 200 and matching documented game URL; not an interactive playtest",
+    "live_demo_verified_on": "2026-09-28"
+  },
+  {
+    "name": "Call of Naija",
+    "repository_id": 1390768998,
+    "github_url": "https://github.com/bigbadbillion/game",
+    "added_to_repo_on": "2026-09-28",
+    "game_links": [
+      "https://github.com/bigbadbillion/game/blob/c313a1e33df472efdcf1af94bdd128e93eaf5590/src/client/input/input.ts"
+    ],
+    "live_demo_url": null,
+    "screenshot_urls": [],
+    "technology": [
+      "Three.js",
+      "TypeScript",
+      "Rapier",
+      "Recast",
+      "WebGL",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Call of Naija"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-28",
+    "repository_created_at": "2026-09-27T12:16:52Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub model/game source search; creation filtered to 2026-09-21..2026-09-28 Asia/Ho_Chi_Minh",
+      "https://github.com/bigbadbillion/game"
+    ],
+    "verification_notes": "Play a first-person campaign or PvP/co-op survival; use keyboard and mouse to move, aim and fire, complete checkpoints and extraction goals. Source and primary model evidence reviewed; no interactive runtime playtest performed. Repository creation is not proof of game publication.",
+    "gauntlet_loop": false,
+    "model_evidence": "confirmed",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder; not measured hardware performance.",
+    "quality_estimate_10": 8.2,
+    "quality_estimate_basis": "Conservative source-scope estimate from documented mechanics and code; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Call of Naija from the linked source. Preserve these observed mechanics: Play a first-person campaign or PvP/co-op survival; use keyboard and mouse to move, aim and fire, complete checkpoints and extraction goals. Treat this as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/bigbadbillion/game/commit/2dcfa48dd46cf99cce3da5a7f482cf359e10aef2"
+  },
+  {
+    "name": "Scribble: Impostor",
+    "repository_id": 1391239742,
+    "github_url": "https://github.com/Anshul1336/scribble-impostor",
+    "added_to_repo_on": "2026-09-28",
+    "game_links": [
+      "https://github.com/Anshul1336/scribble-impostor/blob/eef6f8737d05212bb00b673946d068237d96e731/server.js",
+      "https://github.com/Anshul1336/scribble-impostor/blob/eef6f8737d05212bb00b673946d068237d96e731/public/client.js"
+    ],
+    "live_demo_url": "https://scribble-impostor.onrender.com/",
+    "live_demo_urls": [
+      "https://scribble-impostor.onrender.com/"
+    ],
+    "live_demo_verification": "HTTP 200 at documented game URL; multiplayer interactions not tested",
+    "live_demo_verified_on": "2026-09-28",
+    "screenshot_urls": [],
+    "technology": [
+      "Node.js",
+      "Express",
+      "Socket.io",
+      "JavaScript",
+      "HTML Canvas",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus"
+    ],
+    "method_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "Scribble: Impostor"
+    ],
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-28",
+    "repository_created_at": "2026-09-27T17:54:46Z",
+    "publication_date_status": "repository_created_only",
+    "discovery_sources": [
+      "GitHub creator/source search; creation filtered to 2026-09-21..2026-09-28 Asia/Ho_Chi_Minh",
+      "https://github.com/Anshul1336/scribble-impostor"
+    ],
+    "verification_notes": "Host a 3–8-player drawing room and choose 3–20 rounds. The Artist draws a secret word on a synchronized canvas; guessers score by speed while an Impostor who also knows the word tries to evade a majority vote. Final round scores determine the winner. Initial source implementation was committed on 2026-09-27 UTC; README credits Claude Code / Claude Opus without a version. HTTP availability is not a multiplayer playtest. Repository creation is not proof of game publication.",
+    "gauntlet_loop": false,
+    "model_evidence": "creator-reported",
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Order-of-magnitude static workload placeholder; not measured hardware performance.",
+    "quality_estimate_10": 7.9,
+    "quality_estimate_basis": "Conservative source-scope estimate from implemented multiplayer rounds, rules and state; not a visual rating or runtime playtest.",
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "prompt": "Rebuild Scribble: Impostor from the linked source. Preserve the observed mechanics: Host a 3–8-player drawing room and choose 3–20 rounds. The Artist draws a secret word on a synchronized canvas; guessers score by speed while an Impostor who also knows the word tries to evade a majority vote. Final round scores determine the winner. Initial source implementation was committed on 2026-09-27 UTC; README credits Claude Code / Claude Opus without a version. HTTP availability is not a multiplayer playtest. Treat this as a reconstruction, not the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "quality_category": "curated_games",
+    "evidence_url": "https://github.com/Anshul1336/scribble-impostor/blob/eef6f8737d05212bb00b673946d068237d96e731/README.md"
   }
 ]

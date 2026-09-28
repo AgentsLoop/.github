@@ -1,7 +1,7 @@
 {
   "target": 900,
   "started_with": 30,
-  "updated_on": "2026-09-27",
+  "updated_on": "2026-09-28",
   "constraints": {
     "product": "Actual game or playable game prototype",
     "development_method": "Creator, curator, or repository evidence for GPT-6 Astra, Claude Opus, or Claude Fable; retain Gauntlet Loop evidence where present",
@@ -8974,6 +8974,87 @@
       ],
       "screenshot_images_reviewed": 60,
       "screenshot_images_manually_rated": 12
+    },
+    {
+      "source": "Sequential GitHub model/repository search plus primary source inspection by research subagents and main-agent confirmation",
+      "query_key": "github:games:2026-09-21..2026-09-28:Asia/Ho_Chi_Minh:opus-fable-astra",
+      "status": "completed",
+      "checked_at": "2026-09-28",
+      "local_date_window": "2026-09-21..2026-09-28 (Asia/Ho_Chi_Minh)",
+      "queries": [
+        {
+          "query": "opus game created:2026-09-27..2026-09-28",
+          "result_sample": 13,
+          "note": "Surfaced ten candidate game sources in the fresh Opus/Fable pass; the later README audit excluded a repackaged 2022 RPG and found Scribble: Impostor as a replacement."
+        },
+        {
+          "query": "astra created:2026-09-26..2026-09-28",
+          "result_sample": 100,
+          "note": "Voxel Galleons discovered; sample capped"
+        },
+        {
+          "query": "game astra created:2026-09-26..2026-09-28",
+          "result_sample": 11,
+          "note": "Release-only LastTrainHome held pending"
+        },
+        {
+          "query": "claude game created:2026-09-25..2026-09-26",
+          "result_sample": 100,
+          "note": "Several September 25–26 source games; sample capped"
+        },
+        {
+          "query": "fable game created:2026-09-25..2026-09-26",
+          "result_sample": 2,
+          "note": "Blunday discovered"
+        }
+      ],
+      "new_verified_repositories": 20,
+      "new_game_units": 20,
+      "accepted_repositories": [
+        "https://github.com/wellscurrence-a11y/Zombie-game-opus5.5",
+        "https://github.com/Efkrdnz/opus-game-test-2",
+        "https://github.com/Efkrdnz/opus-game-test-3",
+        "https://github.com/3D-Stories/skate-game-opus-5-5",
+        "https://github.com/ggdover/mashuprpg",
+        "https://github.com/briossant/ombres",
+        "https://github.com/deepujain/casadegema",
+        "https://github.com/az9713/opus-5.5-open-world-game",
+        "https://github.com/GraceUnderGravity/VoxelGalleons",
+        "https://github.com/EZpixel/Blunday",
+        "https://github.com/tuniveza/Generative-Games",
+        "https://github.com/letawskylyndon-cloud/Claude-Driving-Racing-gAme",
+        "https://github.com/beben-games/2d-game",
+        "https://github.com/abc-wvc/hop-bot",
+        "https://github.com/Shiva78388789/Akhbar-Rush",
+        "https://github.com/zty828/OPUS5.5-COD",
+        "https://github.com/Black2856/pixel_survivors_opus5.5test",
+        "https://github.com/levy-street/pokemon-claude-red",
+        "https://github.com/bigbadbillion/game",
+        "https://github.com/Anshul1336/scribble-impostor"
+      ],
+      "manifest": "research/2026-09-28-game-batch.json",
+      "count_method": "One playable source game per canonical repository; exact repository creation timestamps filtered to UTC+7, not treated as publication dates. Twelve current two-day and eight prior-week entries.",
+      "runtime_checks": {
+        "http_200": 6,
+        "interactive_smoke_tests": [
+          "https://github.com/deepujain/casadegema",
+          "https://github.com/az9713/opus-5.5-open-world-game"
+        ]
+      },
+      "source_limitations": [
+        "Search samples capped; no exhaustive coverage claim.",
+        "Most game creation dates are repository-creation proxies.",
+        "Voxel Galleons repo description says Astra xHigh, not an exact GPT-6 co-author trailer.",
+        "Only two of the 20 games received bounded interactive browser smoke tests."
+      ],
+      "rejected_candidates": [
+        "trafalmuffti/jubilant-computing-machine — movement-only pawn demo without objective/outcome",
+        "RanvirSinghN/LastTrainHome — release-only, no checked-in game source",
+        "Goofykings/Octane-Arena — empty repository",
+        "aryansingla88/Astra-Niti — Astra product-name collision without model evidence",
+        "STCloudLake/opus-magnus-solitaire — Opus game-title collision without model evidence",
+        "AlexGalhardo/CLI-Turn-Based-RPG-Game — repository created this week, but README says the original game dates to 2022"
+      ]
     }
   ],
   "frontier": [

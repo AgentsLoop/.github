@@ -17,6 +17,8 @@ for (const entry of batch.records) {
   const matches = games.filter(r => r.github_url === entry.github_url);
   assert.equal(matches.length, 1, `Missing or duplicate: ${entry.github_url}`);
   const record = matches[0];
+  assert.equal(games.filter(r => r.repository_id === entry.repository_id).length, 1,
+    `Duplicate canonical repository ID: ${entry.repository_id}`);
   for (const [key, value] of Object.entries(entry)) {
     assert.deepEqual(record[key], value, `${entry.github_url}: stale ${key}`);
   }

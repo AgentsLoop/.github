@@ -1,6 +1,6 @@
 # Top Games This Week
 
-> Rank source-verified games with a creation signal in the last seven calendar days, **2026-09-21–2026-09-27** (Asia/Ho_Chi_Minh). Label repository creation as a proxy when no creator-reported game-creation date exists; exclude older creation dates even when gameplay evidence is recent.
+> Rank source-verified games with a creation signal in the last seven calendar days, **2026-09-22–2026-09-28** (Asia/Ho_Chi_Minh). Label repository creation as a proxy when no creator-reported game-creation date exists; exclude older creation dates even when gameplay evidence is recent.
 
 ## Coverage
 
@@ -31,5 +31,5 @@
 - Exclude entries outside the seven-day window or without either creation signal.
 - Keep this report generated; do not edit it manually.
 
-Period: **2026-09-21 through 2026-09-27**
-As of: **2026-09-27**
+Period: **2026-09-22 through 2026-09-28**
+As of: **2026-09-28**

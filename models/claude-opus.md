@@ -1,6 +1,6 @@
 # Claude Opus games
 
-Browse **3 curated game units** from **3 source repositories** attributed to Claude Opus. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
+Browse **4 curated game units** from **4 source repositories** attributed to Claude Opus. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
 
 [Back to all models](../README.md#browse-by-model) · [Source data](../games.json)
 
@@ -11,12 +11,14 @@ Browse **3 curated game units** from **3 source repositories** attributed to Cla
 | [Starcluster](../games/starcluster/readme.md) | ⭐ 9.4 | [✓ direct model evidence](https://github.com/Jirnyak/starcluster/commit/bc827455aadd234574fa4353c3993d55dff9e907) |
 | [KamiKakushi — An Incremental RPG](../games/kamikakushi-an-incremental-rpg/readme.md) | ⭐ 9.3 | [≈ creator-reported model evidence](https://github.com/Raynos/kami-kakushi/blob/main/project/archive/fable-2026-07-07-storywave-game.md) |
 | [CARVE LINE](../games/carve-line/readme.md) | ⭐ 8.0 | [≈ creator-reported model evidence](https://github.com/TetrisSQC/carveline/blob/efe3bf22020986de38ad29e987a3b065e331d77e/README.md) |
+| [Scribble: Impostor](../games/scribble-impostor/readme.md) | ⭐ 7.9 | [≈ creator-reported model evidence](https://github.com/Anshul1336/scribble-impostor/blob/eef6f8737d05212bb00b673946d068237d96e731/README.md) |
 
 ## Game library
 
 - 💥 [Action and Shooters](#action-and-shooters) — **1 game units**
 - 🛠️ [Non-Browser Engines](#nonbrowser-engines) — **1 game units**
 - ♟️ [Strategy, Simulation, and Sports](#strategy-simulation-and-sports) — **1 game units**
+- 🧩 [Puzzle, Arcade, and Platformers](#puzzle-arcade-and-platformers) — **1 game units**
 
 ## Action and Shooters
 
@@ -33,6 +35,12 @@ Browse **3 curated game units** from **3 source repositories** attributed to Cla
 ## Strategy, Simulation, and Sports
 
 - [**CARVE LINE**](../games/carve-line/readme.md) — ⭐ **8.0/10** · Claude Opus · Three.js, JavaScript, WebGL, Browser · [≈ creator-reported model evidence](https://github.com/TetrisSQC/carveline/blob/efe3bf22020986de38ad29e987a3b065e331d77e/README.md) · [files](https://github.com/TetrisSQC/carveline/blob/efe3bf22020986de38ad29e987a3b065e331d77e/index.html)
+
+[Back to game library](#game-library)
+
+## Puzzle, Arcade, and Platformers
+
+- [**Scribble: Impostor**](../games/scribble-impostor/readme.md) — ⭐ **7.9/10** · Claude Opus · Node.js, Express, Socket.io, JavaScript, HTML Canvas, +1 more · [≈ creator-reported model evidence](https://github.com/Anshul1336/scribble-impostor/blob/eef6f8737d05212bb00b673946d068237d96e731/README.md) · [files](https://github.com/Anshul1336/scribble-impostor/blob/eef6f8737d05212bb00b673946d068237d96e731/server.js) · [play](https://scribble-impostor.onrender.com/)
 
 [Back to game library](#game-library)
 

@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-09-27",
+  "checked_on": "2026-09-28",
   "pending": [
     {
       "game_name": "Yakko Kart",
@@ -156,6 +156,12 @@
       "source": "https://github.com/tscherrie/salmon-survival-extreme",
       "checked_on": "2026-09-27",
       "reason": "Metadata inspected during bounded two-day discovery. Not accepted in the 30-game batch; recheck gameplay implementation, model attribution and exact local creation date before counting."
+    },
+    {
+      "repository_hint": "RanvirSinghN/LastTrainHome",
+      "source": "https://github.com/RanvirSinghN/LastTrainHome",
+      "checked_on": "2026-09-28",
+      "reason": "README, screenshots and a playable release exist, but checked-in game source is absent; do not count without source inspection."
     }
   ],
   "rejected": [
@@ -1076,6 +1082,30 @@
     {
       "repository": "https://github.com/imthebest9/new-unity-game",
       "reason": "The repository contains a playable stacking game, but its description says only “opus game” and does not identify Claude Opus 5.5. Do not infer an exact model."
+    },
+    {
+      "repository_hint": "trafalmuffti/jubilant-computing-machine",
+      "source": "https://github.com/trafalmuffti/jubilant-computing-machine",
+      "checked_on": "2026-09-28",
+      "reason": "Pawn can move and reset on a board, but no game objective, scoring, win/fail outcome or substantive sandbox loop was found."
+    },
+    {
+      "repository_hint": "Goofykings/Octane-Arena",
+      "source": "https://github.com/Goofykings/Octane-Arena",
+      "checked_on": "2026-09-28",
+      "reason": "Model/game description exists, but repository has no gameplay source."
+    },
+    {
+      "repository_hint": "STCloudLake/opus-magnus-solitaire",
+      "source": "https://github.com/STCloudLake/opus-magnus-solitaire",
+      "checked_on": "2026-09-28",
+      "reason": "Opus appears to be a game-title reference, not Claude Opus authoring evidence."
+    },
+    {
+      "repository_hint": "AlexGalhardo/CLI-Turn-Based-RPG-Game",
+      "source": "https://github.com/AlexGalhardo/CLI-Turn-Based-RPG-Game",
+      "checked_on": "2026-09-28",
+      "reason": "README dates the original terminal RPG to 2022; the 2026 repository is a didactic multilingual repackaging, not a newly made game."
     }
   ]
 }
