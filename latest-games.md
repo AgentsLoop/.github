@@ -4,6 +4,41 @@ Compare when each source repository was created with when this collection first 
 
 [Back to the game collection](README.md) · [Source data](games.json)
 
+## Added 2026-09-30 (UTC)
+
+| Added to this repo (UTC) | Game | Source repository | Original repository created (UTC) | Model | Quality |
+| --- | --- | --- | --- | --- | ---: |
+| 2026-09-30 | [Adventure Mini Golf](games/adventure-mini-golf/readme.md) | [leonvanzyl/3d-golf-opus](https://github.com/leonvanzyl/3d-golf-opus) | 2026-09-30 05:08:23 UTC | Claude Opus 5.5 | 8.4/10 |
+| 2026-09-30 | [Alice in the Watercolor Garden](games/alice-in-the-watercolor-garden/readme.md) | [hatakoma/cc_alice](https://github.com/hatakoma/cc_alice) | 2026-09-30 13:14:18 UTC | Claude Sonnet 5.5 | 7.8/10 |
+| 2026-09-30 | [Buzzword Dash](games/buzzword-dash/readme.md) | [pathomnemonic/buzzword-dash-v2](https://github.com/pathomnemonic/buzzword-dash-v2) | 2026-09-29 15:17:24 UTC | Claude Sonnet 5.5 | 8.3/10 |
+| 2026-09-30 | [Core Business](games/core-business/readme.md) | [Leichtbier/core-business](https://github.com/Leichtbier/core-business) | 2026-09-30 14:36:26 UTC | Claude Opus 5.5 | 8.3/10 |
+| 2026-09-30 | [Dead Signal: Exclusion Zone](games/dead-signal-exclusion-zone-bridge-mind-sonnet-5-5-zombies-game/readme.md) | [bridge-mind/sonnet-5-5-zombies-game](https://github.com/bridge-mind/sonnet-5-5-zombies-game) | 2026-09-28 20:13:05 UTC | Claude Sonnet 5.5 | 8.7/10 |
+| 2026-09-30 | [Dog — Swiss Card Board Game](games/dog-swiss-card-board-game/readme.md) | [seppbucher-develop/dog](https://github.com/seppbucher-develop/dog) | 2026-09-30 12:41:36 UTC | Claude Sonnet 5.5 | 8.4/10 |
+| 2026-09-30 | [Dynamite Mole](games/dynamite-mole/readme.md) | [DaikiKobayashi/sonnet-5-5-web-game-samples](https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples) | 2026-09-29 02:48:56 UTC | Claude Sonnet 5.5 | 8.5/10 |
+| 2026-09-30 | [Earth to Moon Learning Game](games/earth-to-moon-learning-game/readme.md) | [drahmedyahia/yoyo](https://github.com/drahmedyahia/yoyo) | 2026-09-30 14:04:21 UTC | Claude Sonnet 5.5 | 8.0/10 |
+| 2026-09-30 | [Elden Kart](games/elden-kart/readme.md) | [Manoz/elden-kart](https://github.com/Manoz/elden-kart) | 2026-09-29 18:32:07 UTC | Claude Sonnet 5.5 | 8.5/10 |
+| 2026-09-30 | [First-Person Blackjack](games/first-person-blackjack/readme.md) | [FinDaHuman/ClaudeBlackJack](https://github.com/FinDaHuman/ClaudeBlackJack) | 2026-09-30 06:15:17 UTC | Claude Sonnet 5.5 | 8.2/10 |
+| 2026-09-30 | [Flappy Nyan Cat](games/flappy-nyan-cat/readme.md) | [hunterawsome1243/flappy-cat](https://github.com/hunterawsome1243/flappy-cat) | 2026-09-30 14:30:02 UTC | Claude Sonnet 5.5 | 6.8/10 (excluded) |
+| 2026-09-30 | [Floor 48](games/floor-48/readme.md) | [Crinklyink/game-by-Opus](https://github.com/Crinklyink/game-by-Opus) | 2026-09-30 06:19:14 UTC | Claude Sonnet 5.5 | 8.2/10 |
+| 2026-09-30 | [Gloaming Vale](games/gloaming-vale/readme.md) | [juan504n/spyro-game](https://github.com/juan504n/spyro-game) | 2026-09-29 17:32:04 UTC | Claude Sonnet 5.5 | 8.5/10 |
+| 2026-09-30 | [Gravewake](games/gravewake/readme.md) | [LioraLabs/gravewake](https://github.com/LioraLabs/gravewake) | 2026-09-30 14:20:20 UTC | Claude Opus 5.5 | 8.3/10 |
+| 2026-09-30 | [Last Courier](games/last-courier/readme.md) | [tanuu5/last-courier](https://github.com/tanuu5/last-courier) | 2026-09-30 10:16:12 UTC | Claude Opus 5.5 | 8.6/10 |
+| 2026-09-30 | [Mall Action — Model Benchmark](games/mall-action-model-benchmark/readme.md) | [rlorca/mall-action](https://github.com/rlorca/mall-action) | 2026-09-29 12:43:03 UTC | Claude Opus 5.5, Claude Sonnet 5.5, GPT-6.1 Sol | 8.5/10 |
+| 2026-09-30 | [Matter Separation Workshop](games/matter-separation-workshop/readme.md) | [tgtec26/snug-matter-properties-game](https://github.com/tgtec26/snug-matter-properties-game) | 2026-09-30 08:58:26 UTC | Claude Sonnet 5.5 | 8.0/10 |
+| 2026-09-30 | [Neon Bay](games/neon-bay/readme.md) | [L1vsun/NEONBAY](https://github.com/L1vsun/NEONBAY) | 2026-09-29 12:40:48 UTC | Claude Opus 5.5 | 8.3/10 |
+| 2026-09-30 | [Nova Skim](games/nova-skim/readme.md) | [IBassemTarek/nova-skim](https://github.com/IBassemTarek/nova-skim) | 2026-09-30 13:06:05 UTC | Claude Sonnet 5.5 | 7.8/10 |
+| 2026-09-30 | [NPC Village](games/npc-village/readme.md) | [LJAguil/Npc-Village](https://github.com/LJAguil/Npc-Village) | 2026-09-29 23:55:11 UTC | Claude Opus 5.5 | 8.5/10 |
+| 2026-09-30 | [Open Backrooms](games/open-backrooms/readme.md) | [awn3x/Open-Backrooms](https://github.com/awn3x/Open-Backrooms) | 2026-09-29 23:51:41 UTC | Claude Opus 5.5 | 8.5/10 |
+| 2026-09-30 | [Outpace](games/outpace/readme.md) | [ethanplusai/outpace](https://github.com/ethanplusai/outpace) | 2026-09-30 03:29:19 UTC | Claude Opus 5.5, Claude Sonnet 5.5 | 8.6/10 |
+| 2026-09-30 | [Particle Workshop](games/particle-workshop/readme.md) | [tgtec26/snug-matter-composition-game](https://github.com/tgtec26/snug-matter-composition-game) | 2026-09-30 10:37:57 UTC | Claude Sonnet 5.5 | 8.0/10 |
+| 2026-09-30 | [Putt Quest — Adventure Mini Golf](games/putt-quest-adventure-mini-golf/readme.md) | [leonvanzyl/3d-golf-sonnet](https://github.com/leonvanzyl/3d-golf-sonnet) | 2026-09-30 05:08:24 UTC | Claude Opus 5.5 | 8.5/10 |
+| 2026-09-30 | [Slipstream](games/slipstream/readme.md) | [KJLKurt/waterslide-game-gpt-6.1-sol](https://github.com/KJLKurt/waterslide-game-gpt-6.1-sol) | 2026-09-30 01:07:52 UTC | GPT-6.1 Sol | 8.5/10 |
+| 2026-09-30 | [Splash Rush](games/splash-rush/readme.md) | [KJLKurt/waterslide-game-sonnet-5.5](https://github.com/KJLKurt/waterslide-game-sonnet-5.5) | 2026-09-28 20:23:57 UTC | Claude Sonnet 5.5 | 8.5/10 |
+| 2026-09-30 | [SUNSET RUSH](games/sunset-rush/readme.md) | [DaikiKobayashi/sonnet-5-5-web-game-samples](https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples) | 2026-09-29 02:48:56 UTC | Claude Sonnet 5.5 | 8.5/10 |
+| 2026-09-30 | [Unicorn Chaos Club](games/unicorn-chaos-club/readme.md) | [derHeinzer/yunicorn](https://github.com/derHeinzer/yunicorn) | 2026-09-30 06:01:50 UTC | Claude Sonnet 5.5 | 7.8/10 |
+| 2026-09-30 | [Wreckyard](games/wreckyard/readme.md) | [guiguito/DestructionDerbySonnet](https://github.com/guiguito/DestructionDerbySonnet) | 2026-09-29 12:02:05 UTC | Claude Sonnet 5.5 | 8.7/10 |
+| 2026-09-30 | [Yet Another VoxelCraft](games/yet-another-voxelcraft/readme.md) | [GoldwinXS/YetAnotherVoxelCraft](https://github.com/GoldwinXS/YetAnotherVoxelCraft) | 2026-09-29 00:51:47 UTC | Claude Sonnet 5.5 | 8.3/10 |
+
 ## Added 2026-09-28 (UTC)
 
 | Added to this repo (UTC) | Game | Source repository | Original repository created (UTC) | Model | Quality |

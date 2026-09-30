@@ -284,4 +284,3 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**Signal Drive**](../games/signal-drive/readme.md) — ⭐ **7.0/10** · Claude Fable 5 · Three.js, JavaScript, Canvas 2D · [△ repository-topic model evidence](https://github.com/shironagasu-ai/claude-fable5-games)
 
 [Back to game library](#game-library)
-

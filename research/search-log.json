@@ -1,10 +1,10 @@
 {
   "target": 900,
   "started_with": 30,
-  "updated_on": "2026-09-28",
+  "updated_on": "2026-09-30",
   "constraints": {
     "product": "Actual game or playable game prototype",
-    "development_method": "Creator, curator, or repository evidence for GPT-6 Astra, Claude Opus, or Claude Fable; retain Gauntlet Loop evidence where present",
+    "development_method": "Require explicit source or creator evidence for GPT-6 Astra, GPT-6.1 Sol, Claude Opus, Claude Sonnet or Claude Fable; distinguish authoring, evaluation and runtime use.",
     "technology": "Any"
   },
   "passes": [
@@ -9055,6 +9055,22 @@
         "STCloudLake/opus-magnus-solitaire — Opus game-title collision without model evidence",
         "AlexGalhardo/CLI-Turn-Based-RPG-Game — repository created this week, but README says the original game dates to 2022"
       ]
+    },
+    {
+      "source": "Serial model/date metadata searches, creator-family expansion, branch-aware source inspection and commit-attribution freshness join",
+      "query_key": "2026-09-30:asia-ho-chi-minh:2026-09-29..2026-09-30:sonnet-5.5-sol-6.1-opus",
+      "status": "completed",
+      "queries": 9,
+      "results_inspected": 52,
+      "new_verified_repositories": 29,
+      "new_verified_game_units": 30,
+      "rejected": 15,
+      "pending": 8,
+      "source_receipts": "research/2026-09-30-search-results.json",
+      "batch": "research/2026-09-30-game-batch.json",
+      "date_basis": "repository creation proxy only",
+      "source_limits": "Five 100-result metadata queries and one 100-result commit query may be capped; do not claim exhaustive coverage.",
+      "next_frontier": "Inspect held source/attribution candidates; recheck empty Sol runs only after source appears; sample a changed commit-date partition instead of repeating this completed key."
     }
   ],
   "frontier": [

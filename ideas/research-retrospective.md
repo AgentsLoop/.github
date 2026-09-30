@@ -73,3 +73,13 @@ Require a written caveat whenever a record uses inferred prompts, repository-lev
 - Separate the authoring model from any optional runtime dialogue model. Mark repository-wide authorship as repository-level evidence.
 - Reject generators, open-ended simulations without a player goal, scene-making toys, and cartoon makers even when a collection files them under a game label.
 - Treat sequential HTTP 200 checks as availability evidence, not as interactive playtests.
+
+## Keep the September 30 improvements
+
+- Join model commit attribution to exact local repository creation dates; escape the latest-updated metadata feed's spam and tooling noise.
+- Inspect model-specific branches and consolidate identical game variants into one repository record.
+- Compare slug labels with real authoring evidence; record Putt Quest as Opus 5.5 and Floor 48 as Sonnet 5.5 despite misleading repository names.
+- Check the mounted UI before accepting a tested simulation library; reject placeholder-only renderers.
+- Carry lower-quality playable games into the separate quality section; never raise a rating to satisfy the requested count.
+- Preserve the two-day window instead of silently widening it. Label all 30 units' repository creation dates as proxies rather than assert proven creation dates.
+- Save query receipts, candidate decisions, media checks and smoke-test evidence beside the validated batch.

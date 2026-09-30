@@ -34637,5 +34637,1693 @@
     "prompt_origin": "reverse_engineered_from_source",
     "quality_category": "curated_games",
     "evidence_url": "https://github.com/Anshul1336/scribble-impostor/blob/eef6f8737d05212bb00b673946d068237d96e731/README.md"
+  },
+  {
+    "name": "First-Person Blackjack",
+    "github_url": "https://github.com/FinDaHuman/ClaudeBlackJack",
+    "repository_id": 1397150708,
+    "repository_created_at": "2026-09-30T06:15:17Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/FinDaHuman/ClaudeBlackJack/blob/60d12d7e504659dd3570843af6ccbe7959d86f82/index.html",
+      "https://github.com/FinDaHuman/ClaudeBlackJack/blob/60d12d7e504659dd3570843af6ccbe7959d86f82/js/game.js",
+      "https://github.com/FinDaHuman/ClaudeBlackJack/blob/60d12d7e504659dd3570843af6ccbe7959d86f82/js/logic.js"
+    ],
+    "live_demo_url": "https://findahuman.github.io/ClaudeBlackJack/",
+    "live_demo_urls": [
+      "https://findahuman.github.io/ClaudeBlackJack/"
+    ],
+    "evidence_url": "https://github.com/FinDaHuman/ClaudeBlackJack/commit/60d12d7e504659dd3570843af6ccbe7959d86f82",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "technology": [
+      "JavaScript",
+      "CSS 3D",
+      "Web Audio"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "First-Person Blackjack"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/FinDaHuman/ClaudeBlackJack"
+    ],
+    "verification_notes": "Inspect betting, six-deck settlement, hit/stand/double/split, dealer rules, bankroll persistence and rule tests. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 8.2,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 12000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct First-Person Blackjack from the linked public gameplay source. Preserve these observed mechanics: Inspect betting, six-deck settlement, hit/stand/double/split, dealer rules, bankroll persistence and rule tests. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/FinDaHuman/ClaudeBlackJack/blob/60d12d7e504659dd3570843af6ccbe7959d86f82/index.html",
+    "runtime_test_status": "not_tested",
+    "live_demo_verification": "Confirm HTTP 200/206 and a matching game page on 2026-09-30; do not infer a playtest."
+  },
+  {
+    "name": "Putt Quest — Adventure Mini Golf",
+    "github_url": "https://github.com/leonvanzyl/3d-golf-sonnet",
+    "repository_id": 1397028512,
+    "repository_created_at": "2026-09-30T05:08:24Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/leonvanzyl/3d-golf-sonnet/blob/1ac26b49faa4686236c46128550fd32f2ea357a7/src/main.js",
+      "https://github.com/leonvanzyl/3d-golf-sonnet/blob/1ac26b49faa4686236c46128550fd32f2ea357a7/src/game.js",
+      "https://github.com/leonvanzyl/3d-golf-sonnet/blob/1ac26b49faa4686236c46128550fd32f2ea357a7/src/physics.js"
+    ],
+    "live_demo_url": "https://3d-golf-sonnet.vercel.app/",
+    "live_demo_urls": [
+      "https://3d-golf-sonnet.vercel.app/"
+    ],
+    "evidence_url": "https://github.com/leonvanzyl/3d-golf-sonnet/commit/1ac26b49faa4686236c46128550fd32f2ea357a7",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "technology": [
+      "Three.js",
+      "JavaScript",
+      "Vite",
+      "Web Audio"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Putt Quest — Adventure Mini Golf"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/leonvanzyl/3d-golf-sonnet"
+    ],
+    "verification_notes": "Inspect nine themed golf holes, aim/charge/putt input, collision physics, penalty strokes, scorecards and the headless solver. Use the exact Opus 5.5 implementation trailer despite the sonnet repository slug. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 8.5,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 120000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Putt Quest — Adventure Mini Golf from the linked public gameplay source. Preserve these observed mechanics: Inspect nine themed golf holes, aim/charge/putt input, collision physics, penalty strokes, scorecards and the headless solver. Use the exact Opus 5.5 implementation trailer despite the sonnet repository slug. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/leonvanzyl/3d-golf-sonnet/blob/1ac26b49faa4686236c46128550fd32f2ea357a7/src/main.js",
+    "runtime_test_status": "not_tested",
+    "live_demo_verification": "Confirm HTTP 200/206 and a matching game page on 2026-09-30; do not infer a playtest."
+  },
+  {
+    "name": "Wreckyard",
+    "github_url": "https://github.com/guiguito/DestructionDerbySonnet",
+    "repository_id": 1395138374,
+    "repository_created_at": "2026-09-29T12:02:05Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/guiguito/DestructionDerbySonnet/blob/a69c209c707e800efc210d2e4cb21242b3d8069b/src/server/round.ts",
+      "https://github.com/guiguito/DestructionDerbySonnet/blob/a69c209c707e800efc210d2e4cb21242b3d8069b/src/client/main.ts"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "evidence_url": "https://github.com/guiguito/DestructionDerbySonnet/commit/a69c209c707e800efc210d2e4cb21242b3d8069b",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "technology": [
+      "Three.js",
+      "TypeScript",
+      "Vite",
+      "Node.js",
+      "WebSocket"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Wreckyard"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/guiguito/DestructionDerbySonnet"
+    ],
+    "verification_notes": "Inspect online demolition-derby rounds, vehicle contact damage, victory awards, authoritative server state, bots, controls, packaging and unit tests. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 8.7,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 120000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Wreckyard from the linked public gameplay source. Preserve these observed mechanics: Inspect online demolition-derby rounds, vehicle contact damage, victory awards, authoritative server state, bots, controls, packaging and unit tests. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/guiguito/DestructionDerbySonnet/blob/a69c209c707e800efc210d2e4cb21242b3d8069b/src/server/round.ts",
+    "runtime_test_status": "not_tested"
+  },
+  {
+    "name": "Dynamite Mole / SUNSET RUSH",
+    "github_url": "https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples",
+    "repository_id": 1394121549,
+    "repository_created_at": "2026-09-29T02:48:56Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples/blob/29197247452de992b69b161bf258f02b2ab9ada5/games/dynamite-mole/impl/max/dist/js/game.js",
+      "https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples/blob/29197247452de992b69b161bf258f02b2ab9ada5/games/sunset-rush/impl/max/dist/js/sim.js"
+    ],
+    "live_demo_url": "https://daikikobayashi.github.io/sonnet-5-5-web-game-samples/games/dynamite-mole/max/",
+    "live_demo_urls": [
+      "https://daikikobayashi.github.io/sonnet-5-5-web-game-samples/games/dynamite-mole/max/",
+      "https://daikikobayashi.github.io/sonnet-5-5-web-game-samples/games/sunset-rush/max/"
+    ],
+    "evidence_url": "https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples/blob/29197247452de992b69b161bf258f02b2ab9ada5/README.md",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "technology": [
+      "JavaScript",
+      "Canvas 2D",
+      "Web Audio"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "creator-reported",
+    "model_evidence": "creator-reported",
+    "game_count": 2,
+    "contained_games": [
+      "Dynamite Mole",
+      "SUNSET RUSH"
+    ],
+    "counted_game_units": 2,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples"
+    ],
+    "verification_notes": "Inspect two separately scoped games: Dynamite Mole implements bombs, flame propagation, enemies, lives, five stages and exits; SUNSET RUSH implements steering, traffic, checkpoints, a timer, three stages and ending ranks. Count effort variants once per named game. Credit Sonnet 5.5 authoring; keep Opus 5.5 evaluation separate. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 8.5,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 12000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Dynamite Mole / SUNSET RUSH from the linked public gameplay source. Preserve these observed mechanics: Inspect two separately scoped games: Dynamite Mole implements bombs, flame propagation, enemies, lives, five stages and exits; SUNSET RUSH implements steering, traffic, checkpoints, a timer, three stages and ending ranks. Count effort variants once per named game. Credit Sonnet 5.5 authoring; keep Opus 5.5 evaluation separate. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples/blob/29197247452de992b69b161bf258f02b2ab9ada5/games/dynamite-mole/impl/max/dist/js/game.js",
+    "runtime_test_status": "not_tested",
+    "live_demo_verification": "Confirm HTTP 200/206 and a matching game page on 2026-09-30; do not infer a playtest.",
+    "contained_game_links": [
+      "https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples/blob/29197247452de992b69b161bf258f02b2ab9ada5/games/dynamite-mole/impl/max/dist/js/game.js",
+      "https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples/blob/29197247452de992b69b161bf258f02b2ab9ada5/games/sunset-rush/impl/max/dist/js/sim.js"
+    ]
+  },
+  {
+    "name": "Yet Another VoxelCraft",
+    "github_url": "https://github.com/GoldwinXS/YetAnotherVoxelCraft",
+    "repository_id": 1394016098,
+    "repository_created_at": "2026-09-29T00:51:47Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/GoldwinXS/YetAnotherVoxelCraft/blob/ba792582287ba96a12b0a135df284c569fe5aa7b/index.html",
+      "https://github.com/GoldwinXS/YetAnotherVoxelCraft/blob/ba792582287ba96a12b0a135df284c569fe5aa7b/js/player.js"
+    ],
+    "live_demo_url": "https://goldwinxs.github.io/YetAnotherVoxelCraft/",
+    "live_demo_urls": [
+      "https://goldwinxs.github.io/YetAnotherVoxelCraft/"
+    ],
+    "evidence_url": "https://github.com/GoldwinXS/YetAnotherVoxelCraft/commit/ba792582287ba96a12b0a135df284c569fe5aa7b",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "technology": [
+      "Three.js",
+      "JavaScript",
+      "Web Audio"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Yet Another VoxelCraft"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/GoldwinXS/YetAnotherVoxelCraft"
+    ],
+    "verification_notes": "Inspect survival health/hunger, mining, crafting, tools, mobs, farming, creative controls and save slots. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 8.3,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 120000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Yet Another VoxelCraft from the linked public gameplay source. Preserve these observed mechanics: Inspect survival health/hunger, mining, crafting, tools, mobs, farming, creative controls and save slots. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/GoldwinXS/YetAnotherVoxelCraft/blob/ba792582287ba96a12b0a135df284c569fe5aa7b/index.html",
+    "runtime_test_status": "not_tested",
+    "live_demo_verification": "Confirm HTTP 200/206 and a matching game page on 2026-09-30; do not infer a playtest."
+  },
+  {
+    "name": "Splash Rush",
+    "github_url": "https://github.com/KJLKurt/waterslide-game-sonnet-5.5",
+    "repository_id": 1393790941,
+    "repository_created_at": "2026-09-28T20:23:57Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/KJLKurt/waterslide-game-sonnet-5.5/blob/a43446b674ab5ec11f8cc8aebc1a5ed05212033a/src/main.js",
+      "https://github.com/KJLKurt/waterslide-game-sonnet-5.5/blob/a43446b674ab5ec11f8cc8aebc1a5ed05212033a/src/game/race.js",
+      "https://github.com/KJLKurt/waterslide-game-sonnet-5.5/blob/a43446b674ab5ec11f8cc8aebc1a5ed05212033a/src/game/racer.js"
+    ],
+    "live_demo_url": "https://kjlkurt.github.io/waterslide-game-sonnet-5.5/",
+    "live_demo_urls": [
+      "https://kjlkurt.github.io/waterslide-game-sonnet-5.5/"
+    ],
+    "evidence_url": "https://github.com/KJLKurt/waterslide-game-sonnet-5.5/blob/a43446b674ab5ec11f8cc8aebc1a5ed05212033a/README.md",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "technology": [
+      "Three.js",
+      "JavaScript",
+      "Vite",
+      "PWA"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "creator-reported",
+    "model_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "Splash Rush"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/KJLKurt/waterslide-game-sonnet-5.5"
+    ],
+    "verification_notes": "Inspect steering, jump timing, sliding/airborne/falling/finished states, twelve NPCs, checkpoints, shortcut landing, finish order and offline PWA tests. Preserve the README completion table model spelling sonnet-5.5. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 8.5,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 120000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Splash Rush from the linked public gameplay source. Preserve these observed mechanics: Inspect steering, jump timing, sliding/airborne/falling/finished states, twelve NPCs, checkpoints, shortcut landing, finish order and offline PWA tests. Preserve the README completion table model spelling sonnet-5.5. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/KJLKurt/waterslide-game-sonnet-5.5/blob/a43446b674ab5ec11f8cc8aebc1a5ed05212033a/src/main.js",
+    "runtime_test_status": "not_tested",
+    "live_demo_verification": "Confirm HTTP 200/206 and a matching game page on 2026-09-30; do not infer a playtest."
+  },
+  {
+    "name": "Dead Signal: Exclusion Zone",
+    "github_url": "https://github.com/bridge-mind/sonnet-5-5-zombies-game",
+    "repository_id": 1393775459,
+    "repository_created_at": "2026-09-28T20:13:05Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/bridge-mind/sonnet-5-5-zombies-game/blob/9294d67a8548cb851acfd1a5aafdc6d68b008ee4/src/main.ts",
+      "https://github.com/bridge-mind/sonnet-5-5-zombies-game/blob/9294d67a8548cb851acfd1a5aafdc6d68b008ee4/src/game/game.ts",
+      "https://github.com/bridge-mind/sonnet-5-5-zombies-game/blob/9294d67a8548cb851acfd1a5aafdc6d68b008ee4/src/logic/mission.ts"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "evidence_url": "https://github.com/bridge-mind/sonnet-5-5-zombies-game/commit/9294d67a8548cb851acfd1a5aafdc6d68b008ee4",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "technology": [
+      "Three.js",
+      "TypeScript",
+      "Vite",
+      "Vitest"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Dead Signal: Exclusion Zone"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/bridge-mind/sonnet-5-5-zombies-game"
+    ],
+    "verification_notes": "Inspect FPS input, zombie combat, relay defense, armored boss, gear economy, contamination deadline and helicopter extraction with defeat/victory states. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 8.7,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 120000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Dead Signal: Exclusion Zone from the linked public gameplay source. Preserve these observed mechanics: Inspect FPS input, zombie combat, relay defense, armored boss, gear economy, contamination deadline and helicopter extraction with defeat/victory states. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/bridge-mind/sonnet-5-5-zombies-game/blob/9294d67a8548cb851acfd1a5aafdc6d68b008ee4/src/main.ts",
+    "runtime_test_status": "not_tested"
+  },
+  {
+    "name": "Slipstream",
+    "github_url": "https://github.com/KJLKurt/waterslide-game-gpt-6.1-sol",
+    "repository_id": 1396781432,
+    "repository_created_at": "2026-09-30T01:07:52Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/KJLKurt/waterslide-game-gpt-6.1-sol/blob/9aa70f3c5fd4d553583a5740952e4da094ceac48/src/main.js",
+      "https://github.com/KJLKurt/waterslide-game-gpt-6.1-sol/blob/9aa70f3c5fd4d553583a5740952e4da094ceac48/src/race.js",
+      "https://github.com/KJLKurt/waterslide-game-gpt-6.1-sol/blob/9aa70f3c5fd4d553583a5740952e4da094ceac48/src/track.js"
+    ],
+    "live_demo_url": "https://kjlkurt.github.io/waterslide-game-gpt-6.1-sol/",
+    "live_demo_urls": [
+      "https://kjlkurt.github.io/waterslide-game-gpt-6.1-sol/"
+    ],
+    "evidence_url": "https://github.com/KJLKurt/waterslide-game-gpt-6.1-sol/blob/9aa70f3c5fd4d553583a5740952e4da094ceac48/README.md",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "technology": [
+      "Three.js",
+      "JavaScript",
+      "Vite",
+      "PWA"
+    ],
+    "model_family": [
+      "GPT-6.1 Sol"
+    ],
+    "method_evidence": "creator-reported",
+    "model_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "Slipstream"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/KJLKurt/waterslide-game-gpt-6.1-sol"
+    ],
+    "verification_notes": "Inspect a separately implemented waterslide racer with twelve NPCs, steering, ramps, a shortcut gap, falling/DNF, checkpoint practice and finish ranking. Use the README completion table explicitly naming gpt-6.1-sol / extra-high. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Limit runtime confirmation to the recorded live browser race smoke test.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 8.5,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 120000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Slipstream from the linked public gameplay source. Preserve these observed mechanics: Inspect a separately implemented waterslide racer with twelve NPCs, steering, ramps, a shortcut gap, falling/DNF, checkpoint practice and finish ranking. Use the README completion table explicitly naming gpt-6.1-sol / extra-high. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/KJLKurt/waterslide-game-gpt-6.1-sol/blob/9aa70f3c5fd4d553583a5740952e4da094ceac48/src/main.js",
+    "runtime_test_status": "bounded_browser_smoke_pass",
+    "live_demo_verification": "Confirm HTTP 200/206 and a matching game page on 2026-09-30; do not infer a playtest.",
+    "runtime_test_notes": "Start the live race, issue D and Space, observe racing progress and finish 4th of 13 in 22.76 seconds. Verify the result UI; do not generalize to mobile, offline mode or every course edge case."
+  },
+  {
+    "name": "Core Business",
+    "github_url": "https://github.com/Leichtbier/core-business",
+    "repository_id": 1398272295,
+    "repository_created_at": "2026-09-30T14:36:26Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/Leichtbier/core-business/blob/cbe546d6f1458ad1bbd4539de5888f4abcc4c3eb/src/main.js",
+      "https://github.com/Leichtbier/core-business/blob/cbe546d6f1458ad1bbd4539de5888f4abcc4c3eb/src/sim.js",
+      "https://github.com/Leichtbier/core-business/blob/cbe546d6f1458ad1bbd4539de5888f4abcc4c3eb/src/battle.js"
+    ],
+    "live_demo_url": "https://leichtbier.github.io/core-business/",
+    "live_demo_urls": [
+      "https://leichtbier.github.io/core-business/"
+    ],
+    "evidence_url": "https://github.com/Leichtbier/core-business/commit/cbe546d6f1458ad1bbd4539de5888f4abcc4c3eb",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "technology": [
+      "Three.js",
+      "JavaScript",
+      "Web Audio"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Core Business"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/Leichtbier/core-business"
+    ],
+    "verification_notes": "Inspect the Motherload-inspired 2.5D mining prototype: drilling, fuel/death, minerals, cash, equipment, earthquakes and boss victory. Preserve its non-commercial tech-demo status rather than claim a finished product. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 8.3,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 120000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Core Business from the linked public gameplay source. Preserve these observed mechanics: Inspect the Motherload-inspired 2.5D mining prototype: drilling, fuel/death, minerals, cash, equipment, earthquakes and boss victory. Preserve its non-commercial tech-demo status rather than claim a finished product. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/Leichtbier/core-business/blob/cbe546d6f1458ad1bbd4539de5888f4abcc4c3eb/src/main.js",
+    "runtime_test_status": "not_tested",
+    "live_demo_verification": "Confirm HTTP 200/206 and a matching game page on 2026-09-30; do not infer a playtest."
+  },
+  {
+    "name": "Floor 48",
+    "github_url": "https://github.com/Crinklyink/game-by-Opus",
+    "repository_id": 1397158606,
+    "repository_created_at": "2026-09-30T06:19:14Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/Crinklyink/game-by-Opus/blob/2119810c275f962ed0cbadefe5459388814eef31/src/main.js",
+      "https://github.com/Crinklyink/game-by-Opus/blob/2119810c275f962ed0cbadefe5459388814eef31/src/systems/game.js",
+      "https://github.com/Crinklyink/game-by-Opus/blob/2119810c275f962ed0cbadefe5459388814eef31/src/systems/market.js"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "evidence_url": "https://github.com/Crinklyink/game-by-Opus/commit/2119810c275f962ed0cbadefe5459388814eef31",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "technology": [
+      "Three.js",
+      "JavaScript",
+      "WebGL 2",
+      "Web Audio"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Floor 48"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/Crinklyink/game-by-Opus"
+    ],
+    "verification_notes": "Inspect first-person life-sim interaction, goals, food/energy, elevator/shop transitions, fictional-stock buying/selling and save state. Use the exact Sonnet 5.5 gameplay commits; do not infer Opus authorship from the slug. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 8.2,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 120000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Floor 48 from the linked public gameplay source. Preserve these observed mechanics: Inspect first-person life-sim interaction, goals, food/energy, elevator/shop transitions, fictional-stock buying/selling and save state. Use the exact Sonnet 5.5 gameplay commits; do not infer Opus authorship from the slug. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/Crinklyink/game-by-Opus/blob/2119810c275f962ed0cbadefe5459388814eef31/src/main.js",
+    "runtime_test_status": "not_tested"
+  },
+  {
+    "name": "Gravewake",
+    "github_url": "https://github.com/LioraLabs/gravewake",
+    "repository_id": 1398221446,
+    "repository_created_at": "2026-09-30T14:20:20Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/LioraLabs/gravewake/blob/e0ebab1e7f948570d10b74d1750dfdb344eea2dc/src/main.ts",
+      "https://github.com/LioraLabs/gravewake/blob/e0ebab1e7f948570d10b74d1750dfdb344eea2dc/src/game.ts",
+      "https://github.com/LioraLabs/gravewake/blob/e0ebab1e7f948570d10b74d1750dfdb344eea2dc/src/enemies.ts"
+    ],
+    "live_demo_url": "https://shiny-guru.itch.io/gravewake",
+    "live_demo_urls": [
+      "https://shiny-guru.itch.io/gravewake"
+    ],
+    "evidence_url": "https://github.com/LioraLabs/gravewake/blob/e0ebab1e7f948570d10b74d1750dfdb344eea2dc/README.md",
+    "screenshot_urls": [
+      "https://github.com/LioraLabs/gravewake/blob/e0ebab1e7f948570d10b74d1750dfdb344eea2dc/docs/media/fight.webp",
+      "https://github.com/LioraLabs/gravewake/blob/e0ebab1e7f948570d10b74d1750dfdb344eea2dc/docs/media/title.webp"
+    ],
+    "youtube_urls": [],
+    "technology": [
+      "Three.js",
+      "TypeScript",
+      "Vite",
+      "Vitest"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "creator-reported",
+    "model_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "Gravewake"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/LioraLabs/gravewake"
+    ],
+    "verification_notes": "Inspect twin-stick input, wizard projectiles, enemy waves, boons, health, death and boss survival. Use the creator README claim that the game was vibecoded with Opus 5.5. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 8.3,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 120000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Gravewake from the linked public gameplay source. Preserve these observed mechanics: Inspect twin-stick input, wizard projectiles, enemy waves, boons, health, death and boss survival. Use the creator README claim that the game was vibecoded with Opus 5.5. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/LioraLabs/gravewake/blob/e0ebab1e7f948570d10b74d1750dfdb344eea2dc/src/main.ts",
+    "runtime_test_status": "not_tested",
+    "screenshot_rating_10": 8.0,
+    "screenshot_rating_evidence_url": "https://github.com/LioraLabs/gravewake/blob/e0ebab1e7f948570d10b74d1750dfdb344eea2dc/docs/media/fight.webp",
+    "screenshot_rating_on": "2026-09-30",
+    "live_demo_verification": "Confirm HTTP 200/206 and a matching game page on 2026-09-30; do not infer a playtest."
+  },
+  {
+    "name": "Last Courier",
+    "github_url": "https://github.com/tanuu5/last-courier",
+    "repository_id": 1397582085,
+    "repository_created_at": "2026-09-30T10:16:12Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/index.html",
+      "https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/js/main/loop.js",
+      "https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/js/game/orders.js"
+    ],
+    "live_demo_url": "https://tanuu5.github.io/last-courier/",
+    "live_demo_urls": [
+      "https://tanuu5.github.io/last-courier/"
+    ],
+    "evidence_url": "https://github.com/tanuu5/last-courier/commit/54c03e750419218b7fb42f545a9e23e061c80747",
+    "screenshot_urls": [
+      "https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/docs/screenshots/gameplay.webp",
+      "https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/docs/screenshots/title.jpg",
+      "https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/docs/screenshots/hero.jpg",
+      "https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/docs/screenshots/scan.jpg",
+      "https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/docs/screenshots/ladder.jpg",
+      "https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/docs/screenshots/echo.jpg",
+      "https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/docs/screenshots/map.jpg",
+      "https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/docs/screenshots/saferoom.jpg",
+      "https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/docs/screenshots/archive.jpg"
+    ],
+    "youtube_urls": [],
+    "technology": [
+      "Three.js",
+      "JavaScript",
+      "Web Audio"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Last Courier"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/tanuu5/last-courier"
+    ],
+    "verification_notes": "Inspect the delivery robot, cargo balance, terrain scanning, rivers, ladder bridges, threats and seven delivery destinations. Use the explicit Opus 5.5 XHIGH README and gameplay history. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 8.6,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 120000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Last Courier from the linked public gameplay source. Preserve these observed mechanics: Inspect the delivery robot, cargo balance, terrain scanning, rivers, ladder bridges, threats and seven delivery destinations. Use the explicit Opus 5.5 XHIGH README and gameplay history. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/index.html",
+    "runtime_test_status": "not_tested",
+    "screenshot_rating_10": 7.7,
+    "screenshot_rating_evidence_url": "https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/docs/screenshots/gameplay.webp",
+    "screenshot_rating_on": "2026-09-30",
+    "live_demo_verification": "Confirm HTTP 200/206 and a matching game page on 2026-09-30; do not infer a playtest."
+  },
+  {
+    "name": "Neon Bay",
+    "github_url": "https://github.com/L1vsun/NEONBAY",
+    "repository_id": 1395247402,
+    "repository_created_at": "2026-09-29T12:40:48Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/L1vsun/NEONBAY/blob/baac38fecd1698c67dcf75ccffb1a82592798e9c/index.html",
+      "https://github.com/L1vsun/NEONBAY/blob/baac38fecd1698c67dcf75ccffb1a82592798e9c/src/game.js",
+      "https://github.com/L1vsun/NEONBAY/blob/baac38fecd1698c67dcf75ccffb1a82592798e9c/src/police.js"
+    ],
+    "live_demo_url": "https://l1vsun.github.io/NEONBAY/",
+    "live_demo_urls": [
+      "https://l1vsun.github.io/NEONBAY/"
+    ],
+    "evidence_url": "https://github.com/L1vsun/NEONBAY/commit/baac38fecd1698c67dcf75ccffb1a82592798e9c",
+    "screenshot_urls": [
+      "https://github.com/L1vsun/NEONBAY/blob/baac38fecd1698c67dcf75ccffb1a82592798e9c/screenshots/drift.jpg",
+      "https://github.com/L1vsun/NEONBAY/blob/baac38fecd1698c67dcf75ccffb1a82592798e9c/screenshots/bridge.jpg",
+      "https://github.com/L1vsun/NEONBAY/blob/baac38fecd1698c67dcf75ccffb1a82592798e9c/screenshots/showroom.jpg",
+      "https://github.com/L1vsun/NEONBAY/blob/baac38fecd1698c67dcf75ccffb1a82592798e9c/screenshots/garage.jpg",
+      "https://github.com/L1vsun/NEONBAY/blob/baac38fecd1698c67dcf75ccffb1a82592798e9c/screenshots/street.jpg"
+    ],
+    "youtube_urls": [],
+    "technology": [
+      "Three.js",
+      "JavaScript",
+      "WebGL"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Neon Bay"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/L1vsun/NEONBAY"
+    ],
+    "verification_notes": "Inspect driving input, rigid-body vehicles, collisions, traffic, car switching and wanted/police-chase systems; count the playable driving sandbox once, not its older v1 folder separately. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 8.3,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 120000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Neon Bay from the linked public gameplay source. Preserve these observed mechanics: Inspect driving input, rigid-body vehicles, collisions, traffic, car switching and wanted/police-chase systems; count the playable driving sandbox once, not its older v1 folder separately. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/L1vsun/NEONBAY/blob/baac38fecd1698c67dcf75ccffb1a82592798e9c/index.html",
+    "runtime_test_status": "not_tested",
+    "screenshot_rating_10": 7.4,
+    "screenshot_rating_evidence_url": "https://github.com/L1vsun/NEONBAY/blob/baac38fecd1698c67dcf75ccffb1a82592798e9c/screenshots/drift.jpg",
+    "screenshot_rating_on": "2026-09-30",
+    "live_demo_verification": "Confirm HTTP 200/206 and a matching game page on 2026-09-30; do not infer a playtest."
+  },
+  {
+    "name": "Adventure Mini Golf",
+    "github_url": "https://github.com/leonvanzyl/3d-golf-opus",
+    "repository_id": 1397028493,
+    "repository_created_at": "2026-09-30T05:08:23Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/leonvanzyl/3d-golf-opus/blob/cf93bc94459a459a0aff61667a38d1e60a2154d5/src/main.js",
+      "https://github.com/leonvanzyl/3d-golf-opus/blob/cf93bc94459a459a0aff61667a38d1e60a2154d5/src/game/Game.js"
+    ],
+    "live_demo_url": "https://3d-golf-opus.vercel.app/",
+    "live_demo_urls": [
+      "https://3d-golf-opus.vercel.app/"
+    ],
+    "evidence_url": "https://github.com/leonvanzyl/3d-golf-opus/commit/cf93bc94459a459a0aff61667a38d1e60a2154d5",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "technology": [
+      "Three.js",
+      "JavaScript",
+      "Vite",
+      "Web Audio"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Adventure Mini Golf"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/leonvanzyl/3d-golf-opus"
+    ],
+    "verification_notes": "Inspect a distinct golf implementation with course loading, putt input, hazards, hole completion, scorecards and local best rounds; count its nine holes as one game. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 8.4,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 120000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Adventure Mini Golf from the linked public gameplay source. Preserve these observed mechanics: Inspect a distinct golf implementation with course loading, putt input, hazards, hole completion, scorecards and local best rounds; count its nine holes as one game. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/leonvanzyl/3d-golf-opus/blob/cf93bc94459a459a0aff61667a38d1e60a2154d5/src/main.js",
+    "runtime_test_status": "not_tested",
+    "live_demo_verification": "Confirm HTTP 200/206 and a matching game page on 2026-09-30; do not infer a playtest."
+  },
+  {
+    "name": "NPC Village",
+    "github_url": "https://github.com/LJAguil/Npc-Village",
+    "repository_id": 1396730285,
+    "repository_created_at": "2026-09-29T23:55:11Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/LJAguil/Npc-Village/blob/3dbbe7348c5abf69c2a1846d3f3cc3d7352f74e3/project.godot",
+      "https://github.com/LJAguil/Npc-Village/blob/3dbbe7348c5abf69c2a1846d3f3cc3d7352f74e3/scripts/main.gd",
+      "https://github.com/LJAguil/Npc-Village/blob/3dbbe7348c5abf69c2a1846d3f3cc3d7352f74e3/scripts/game.gd"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "evidence_url": "https://github.com/LJAguil/Npc-Village/commit/3dbbe7348c5abf69c2a1846d3f3cc3d7352f74e3",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "technology": [
+      "Godot 4.7",
+      "GDScript",
+      "Native desktop"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "NPC Village"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/LJAguil/Npc-Village"
+    ],
+    "verification_notes": "Inspect movement, villager interactions, farming, fishing, quests, minigames, currency and the Harvest Festival win goal. Keep native Godot exports in Non-Browser Engines. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 8.5,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 12000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct NPC Village from the linked public gameplay source. Preserve these observed mechanics: Inspect movement, villager interactions, farming, fishing, quests, minigames, currency and the Harvest Festival win goal. Keep native Godot exports in Non-Browser Engines. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/LJAguil/Npc-Village/blob/3dbbe7348c5abf69c2a1846d3f3cc3d7352f74e3/project.godot",
+    "runtime_test_status": "not_tested"
+  },
+  {
+    "name": "Outpace",
+    "github_url": "https://github.com/ethanplusai/outpace",
+    "repository_id": 1396911123,
+    "repository_created_at": "2026-09-30T03:29:19Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/public/index.html",
+      "https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/public/js/engine.js",
+      "https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/docs/BUILD_LOG.md"
+    ],
+    "live_demo_url": "https://outpace.ethanplus.ai/",
+    "live_demo_urls": [
+      "https://outpace.ethanplus.ai/"
+    ],
+    "evidence_url": "https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/README.md",
+    "screenshot_urls": [
+      "https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/docs/screenshots/hero.png",
+      "https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/docs/screenshots/30-creatures-lineup.png",
+      "https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/docs/screenshots/24-wave-v3.png",
+      "https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/docs/screenshots/15-biome-night.png",
+      "https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/docs/screenshots/15-biome-terminal.png",
+      "https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/docs/screenshots/14-results.png",
+      "https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/docs/screenshots/28-board-drawer.png"
+    ],
+    "youtube_urls": [],
+    "technology": [
+      "JavaScript",
+      "Canvas 2D",
+      "Node.js"
+    ],
+    "model_family": [
+      "Claude Opus 5.5",
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "creator-reported",
+    "model_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "Outpace"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/ethanplusai/outpace"
+    ],
+    "verification_notes": "Inspect typing-to-run input, jumps, creature collisions, health, adaptive chase wave, sprint/chase outcomes and score validation. Separate Opus 5.5 game orchestration from Sonnet 5.5 backend implementation and adversarial security QA, as documented by the build log. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 8.6,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 12000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Outpace from the linked public gameplay source. Preserve these observed mechanics: Inspect typing-to-run input, jumps, creature collisions, health, adaptive chase wave, sprint/chase outcomes and score validation. Separate Opus 5.5 game orchestration from Sonnet 5.5 backend implementation and adversarial security QA, as documented by the build log. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/public/index.html",
+    "runtime_test_status": "not_tested",
+    "screenshot_rating_10": 7.8,
+    "screenshot_rating_evidence_url": "https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/docs/screenshots/hero.png",
+    "screenshot_rating_on": "2026-09-30",
+    "live_demo_verification": "Confirm HTTP 200/206 and a matching game page on 2026-09-30; do not infer a playtest."
+  },
+  {
+    "name": "Open Backrooms",
+    "github_url": "https://github.com/awn3x/Open-Backrooms",
+    "repository_id": 1396727869,
+    "repository_created_at": "2026-09-29T23:51:41Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/awn3x/Open-Backrooms/blob/15c7a727dd37133c8a95b5abe50769a656abb934/src/game/main.ts",
+      "https://github.com/awn3x/Open-Backrooms/blob/15c7a727dd37133c8a95b5abe50769a656abb934/src/game/Game.ts"
+    ],
+    "live_demo_url": "https://awn3x.github.io/Open-Backrooms/",
+    "live_demo_urls": [
+      "https://awn3x.github.io/Open-Backrooms/"
+    ],
+    "evidence_url": "https://github.com/awn3x/Open-Backrooms/commit/ec3c618ed48b33ab7a2d9fc3d69781f68c0bc184",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "technology": [
+      "Three.js",
+      "TypeScript",
+      "Vite",
+      "WebSocket"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Open Backrooms"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/awn3x/Open-Backrooms"
+    ],
+    "verification_notes": "Inspect FPS movement, three procedural horror levels, hostile entities, health/death, exploration currency, safe-zone interactions and an offline AI mode. Do not assume multiplayer services work merely from source. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 8.5,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 120000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Open Backrooms from the linked public gameplay source. Preserve these observed mechanics: Inspect FPS movement, three procedural horror levels, hostile entities, health/death, exploration currency, safe-zone interactions and an offline AI mode. Do not assume multiplayer services work merely from source. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/awn3x/Open-Backrooms/blob/15c7a727dd37133c8a95b5abe50769a656abb934/src/game/main.ts",
+    "runtime_test_status": "not_tested",
+    "live_demo_verification": "Confirm HTTP 200/206 and a matching game page on 2026-09-30; do not infer a playtest."
+  },
+  {
+    "name": "Elden Kart",
+    "github_url": "https://github.com/Manoz/elden-kart",
+    "repository_id": 1396338750,
+    "repository_created_at": "2026-09-29T18:32:07Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/Manoz/elden-kart/blob/17d7212e143c88a47bc0e2d396d7247b4a8e033d/src/main.js",
+      "https://github.com/Manoz/elden-kart/blob/17d7212e143c88a47bc0e2d396d7247b4a8e033d/src/core/Race.js",
+      "https://github.com/Manoz/elden-kart/blob/17d7212e143c88a47bc0e2d396d7247b4a8e033d/src/core/Game.js"
+    ],
+    "live_demo_url": "https://elden-kart.vercel.app/",
+    "live_demo_urls": [
+      "https://elden-kart.vercel.app/"
+    ],
+    "evidence_url": "https://github.com/Manoz/elden-kart/blob/17d7212e143c88a47bc0e2d396d7247b4a8e033d/README.md",
+    "screenshot_urls": [
+      "https://github.com/Manoz/elden-kart/blob/17d7212e143c88a47bc0e2d396d7247b4a8e033d/docs/banner.webp"
+    ],
+    "youtube_urls": [],
+    "technology": [
+      "Three.js",
+      "JavaScript",
+      "Vite",
+      "Web Audio"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "creator-reported",
+    "model_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "Elden Kart"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/Manoz/elden-kart"
+    ],
+    "verification_notes": "Inspect eight racers, four circuits, ten items, Grand Prix, kart input, AI and finish ranking. Preserve the README claim that Claude Code Sonnet 5.5 made the game and its unofficial fan-project disclaimer. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 8.5,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 120000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Elden Kart from the linked public gameplay source. Preserve these observed mechanics: Inspect eight racers, four circuits, ten items, Grand Prix, kart input, AI and finish ranking. Preserve the README claim that Claude Code Sonnet 5.5 made the game and its unofficial fan-project disclaimer. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/Manoz/elden-kart/blob/17d7212e143c88a47bc0e2d396d7247b4a8e033d/src/main.js",
+    "runtime_test_status": "not_tested",
+    "screenshot_rating_10": 4.8,
+    "screenshot_rating_evidence_url": "https://github.com/Manoz/elden-kart/blob/17d7212e143c88a47bc0e2d396d7247b4a8e033d/docs/banner.webp",
+    "screenshot_rating_on": "2026-09-30",
+    "live_demo_verification": "Confirm HTTP 200/206 and a matching game page on 2026-09-30; do not infer a playtest."
+  },
+  {
+    "name": "Mall Action — Model Benchmark",
+    "github_url": "https://github.com/rlorca/mall-action",
+    "repository_id": 1395253081,
+    "repository_created_at": "2026-09-29T12:43:03Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/rlorca/mall-action/blob/gpt-6-1-sol/src/main.ts",
+      "https://github.com/rlorca/mall-action/blob/gpt-6-1-sol/src/game.ts"
+    ],
+    "live_demo_url": "https://rlorca.github.io/mall-action/opus-5.5/",
+    "live_demo_urls": [
+      "https://rlorca.github.io/mall-action/opus-5.5/",
+      "https://rlorca.github.io/mall-action/sonnet-5.5/",
+      "https://rlorca.github.io/mall-action/gpt-6.1-sol/"
+    ],
+    "evidence_url": "https://github.com/rlorca/mall-action/blob/23a4c80fd51237ad620b957e79d3e279edfad381/README.md",
+    "screenshot_urls": [
+      "https://github.com/rlorca/mall-action/blob/sonnet-5-5/docs/mall.png",
+      "https://github.com/rlorca/mall-action/blob/opus-5-5/docs/screenshots/title.png",
+      "https://github.com/rlorca/mall-action/blob/opus-5-5/docs/screenshots/mall.png",
+      "https://github.com/rlorca/mall-action/blob/opus-5-5/docs/screenshots/store.png",
+      "https://github.com/rlorca/mall-action/blob/opus-5-5/docs/screenshots/spygram.png",
+      "https://github.com/rlorca/mall-action/blob/sonnet-5-5/docs/title.png",
+      "https://github.com/rlorca/mall-action/blob/sonnet-5-5/docs/store.png",
+      "https://github.com/rlorca/mall-action/blob/sonnet-5-5/docs/map.png",
+      "https://github.com/rlorca/mall-action/blob/sonnet-5-5/docs/levelclear.png",
+      "https://github.com/rlorca/mall-action/blob/sonnet-5-5/docs/spygram.png",
+      "https://github.com/rlorca/mall-action/blob/gpt-6-1-sol/public/screenshots/mall.png",
+      "https://github.com/rlorca/mall-action/blob/gpt-6-1-sol/public/screenshots/store.png"
+    ],
+    "youtube_urls": [],
+    "technology": [
+      "TypeScript",
+      "Canvas 2D",
+      "Vite",
+      "Web Audio"
+    ],
+    "model_family": [
+      "Claude Opus 5.5",
+      "Claude Sonnet 5.5",
+      "GPT-6.1 Sol"
+    ],
+    "method_evidence": "creator-reported",
+    "model_evidence": "creator-reported",
+    "game_count": 1,
+    "contained_games": [
+      "Mall Action — Model Benchmark"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/rlorca/mall-action"
+    ],
+    "verification_notes": "Inspect the opus-5-5, sonnet-5-5 and gpt-6-1-sol branches, not the README-only main branch. Verify mall movement, elevator controls, combat, shop searches, six hidden packages, getaway and escalating loops. Count one named game across model implementations. Use the root README branch-to-model mapping for creator-reported attribution. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Limit runtime confirmation to the recorded GPT-6.1 Sol branch smoke test.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 8.5,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 12000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Mall Action — Model Benchmark from the linked public gameplay source. Preserve these observed mechanics: Inspect the opus-5-5, sonnet-5-5 and gpt-6-1-sol branches, not the README-only main branch. Verify mall movement, elevator controls, combat, shop searches, six hidden packages, getaway and escalating loops. Count one named game across model implementations. Use the root README branch-to-model mapping for creator-reported attribution. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/rlorca/mall-action/blob/gpt-6-1-sol/src/main.ts",
+    "runtime_test_status": "bounded_browser_smoke_pass",
+    "screenshot_rating_10": 7.7,
+    "screenshot_rating_evidence_url": "https://github.com/rlorca/mall-action/blob/sonnet-5-5/docs/mall.png",
+    "screenshot_rating_on": "2026-09-30",
+    "live_demo_verification": "Confirm HTTP 200/206 and a matching game page on 2026-09-30; do not infer a playtest.",
+    "runtime_test_notes": "Start the GPT-6.1 Sol branch with Enter, issue Right/Z, open the mall directory with Shift and verify its visible map. Do not claim mission completion or playtest the other branches."
+  },
+  {
+    "name": "Gloaming Vale",
+    "github_url": "https://github.com/juan504n/spyro-game",
+    "repository_id": 1396167582,
+    "repository_created_at": "2026-09-29T17:32:04Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/src/main.js",
+      "https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/src/game/game.js",
+      "https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/src/game/player.js"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "evidence_url": "https://github.com/juan504n/spyro-game/commit/92bbe27dd36c6f347db07e734a281591fb09c1c4",
+    "screenshot_urls": [
+      "https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/docs/shots/02-lake.png",
+      "https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/docs/shots/00-title.png",
+      "https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/docs/shots/09-beacon-lit.png",
+      "https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/docs/shots/03-waterfall.png",
+      "https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/docs/shots/05-summit-dusk.png",
+      "https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/docs/shots/06-summit-daybreak.png",
+      "https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/docs/shots/08-sky-isles.png",
+      "https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/docs/shots/07-windmill.png"
+    ],
+    "youtube_urls": [],
+    "technology": [
+      "Three.js",
+      "JavaScript",
+      "Vite",
+      "Web Audio"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Gloaming Vale"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/juan504n/spyro-game"
+    ],
+    "verification_notes": "Inspect the PS1-inspired third-person dragon platformer with movement, glide/charge/flame input, gems, enemies, five beacons and a finale. Preserve the unofficial tribute status. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 8.5,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 120000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Gloaming Vale from the linked public gameplay source. Preserve these observed mechanics: Inspect the PS1-inspired third-person dragon platformer with movement, glide/charge/flame input, gems, enemies, five beacons and a finale. Preserve the unofficial tribute status. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/src/main.js",
+    "runtime_test_status": "not_tested",
+    "screenshot_rating_10": 8.0,
+    "screenshot_rating_evidence_url": "https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/docs/shots/02-lake.png",
+    "screenshot_rating_on": "2026-09-30"
+  },
+  {
+    "name": "Flappy Nyan Cat",
+    "github_url": "https://github.com/hunterawsome1243/flappy-cat",
+    "repository_id": 1398252449,
+    "repository_created_at": "2026-09-30T14:30:02Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/hunterawsome1243/flappy-cat/blob/9782188aecdb661ed08c6f2f0356374fbe71e547/index.html"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "evidence_url": "https://github.com/hunterawsome1243/flappy-cat/commit/9782188aecdb661ed08c6f2f0356374fbe71e547",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "technology": [
+      "JavaScript",
+      "Canvas 2D",
+      "Web Audio"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Flappy Nyan Cat"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/hunterawsome1243/flappy-cat"
+    ],
+    "verification_notes": "Inspect the complete single-file arcade prototype: flap input, scrolling pipes, collision/game-over, score, best-score persistence and restart. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 6.8,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "bad_games",
+    "flops_estimate_raw": 12000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Flappy Nyan Cat from the linked public gameplay source. Preserve these observed mechanics: Inspect the complete single-file arcade prototype: flap input, scrolling pipes, collision/game-over, score, best-score persistence and restart. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/hunterawsome1243/flappy-cat/blob/9782188aecdb661ed08c6f2f0356374fbe71e547/index.html",
+    "runtime_test_status": "not_tested"
+  },
+  {
+    "name": "Earth to Moon Learning Game",
+    "github_url": "https://github.com/drahmedyahia/yoyo",
+    "repository_id": 1398168550,
+    "repository_created_at": "2026-09-30T14:04:21Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/drahmedyahia/yoyo/blob/77049f6bc74286505eb83694aaf1b1ee98b3ee8c/lib/main.dart",
+      "https://github.com/drahmedyahia/yoyo/blob/77049f6bc74286505eb83694aaf1b1ee98b3ee8c/lib/rocket_journey.dart"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "evidence_url": "https://github.com/drahmedyahia/yoyo/commit/77049f6bc74286505eb83694aaf1b1ee98b3ee8c",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "technology": [
+      "Flutter",
+      "Dart",
+      "Native Android"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Earth to Moon Learning Game"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/drahmedyahia/yoyo"
+    ],
+    "verification_notes": "Inspect rocket steering/fire input, projectile collisions, monster waves, lives, score, a Moon boss and landing progression into educational questions. Keep the Flutter Android game in Non-Browser Engines. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 8,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 12000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Earth to Moon Learning Game from the linked public gameplay source. Preserve these observed mechanics: Inspect rocket steering/fire input, projectile collisions, monster waves, lives, score, a Moon boss and landing progression into educational questions. Keep the Flutter Android game in Non-Browser Engines. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/drahmedyahia/yoyo/blob/77049f6bc74286505eb83694aaf1b1ee98b3ee8c/lib/main.dart",
+    "runtime_test_status": "not_tested"
+  },
+  {
+    "name": "Particle Workshop",
+    "github_url": "https://github.com/tgtec26/snug-matter-composition-game",
+    "repository_id": 1397618531,
+    "repository_created_at": "2026-09-30T10:37:57Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/tgtec26/snug-matter-composition-game/blob/2a81bdf79ab5945ff79f53e37c33efe60eec22a3/app/page.tsx",
+      "https://github.com/tgtec26/snug-matter-composition-game/blob/2a81bdf79ab5945ff79f53e37c33efe60eec22a3/components/overlays/AtomBuilderOverlay.tsx",
+      "https://github.com/tgtec26/snug-matter-composition-game/blob/2a81bdf79ab5945ff79f53e37c33efe60eec22a3/game/store.ts"
+    ],
+    "live_demo_url": "https://snug-matter-composition-game.vercel.app/",
+    "live_demo_urls": [
+      "https://snug-matter-composition-game.vercel.app/"
+    ],
+    "evidence_url": "https://github.com/tgtec26/snug-matter-composition-game/commit/2a81bdf79ab5945ff79f53e37c33efe60eec22a3",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "technology": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Phaser",
+      "Zustand"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Particle Workshop"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/tgtec26/snug-matter-composition-game"
+    ],
+    "verification_notes": "Inspect implemented atom-building controls, identity/star rules, periodic-table tasks, molecules, ion work, orders, quizzes and ending progression. Treat the README skeleton claim as stale: the inspected source now connects playable overlays and completion state. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 8,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 12000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Particle Workshop from the linked public gameplay source. Preserve these observed mechanics: Inspect implemented atom-building controls, identity/star rules, periodic-table tasks, molecules, ion work, orders, quizzes and ending progression. Treat the README skeleton claim as stale: the inspected source now connects playable overlays and completion state. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/tgtec26/snug-matter-composition-game/blob/2a81bdf79ab5945ff79f53e37c33efe60eec22a3/app/page.tsx",
+    "runtime_test_status": "not_tested",
+    "live_demo_verification": "Confirm HTTP 200/206 and a matching game page on 2026-09-30; do not infer a playtest."
+  },
+  {
+    "name": "Matter Separation Workshop",
+    "github_url": "https://github.com/tgtec26/snug-matter-properties-game",
+    "repository_id": 1397447563,
+    "repository_created_at": "2026-09-30T08:58:26Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/tgtec26/snug-matter-properties-game/blob/f19195f6f19dc00d2fa70931f8ede09880631d2e/app/page.tsx",
+      "https://github.com/tgtec26/snug-matter-properties-game/blob/f19195f6f19dc00d2fa70931f8ede09880631d2e/components/overlays/SeparateOverlay.tsx",
+      "https://github.com/tgtec26/snug-matter-properties-game/blob/f19195f6f19dc00d2fa70931f8ede09880631d2e/game/minigames/distill.ts",
+      "https://github.com/tgtec26/snug-matter-properties-game/blob/f19195f6f19dc00d2fa70931f8ede09880631d2e/game/store.ts"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "evidence_url": "https://github.com/tgtec26/snug-matter-properties-game/commit/f19195f6f19dc00d2fa70931f8ede09880631d2e",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "technology": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Zustand"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Matter Separation Workshop"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/tgtec26/snug-matter-properties-game"
+    ],
+    "verification_notes": "Inspect interactive density, solubility and boiling-point experiments, separation apparatus minigames, order progress, quizzes and results. Treat the README skeleton claim as stale; verify actual implementations rather than count plans. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 8,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 12000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Matter Separation Workshop from the linked public gameplay source. Preserve these observed mechanics: Inspect interactive density, solubility and boiling-point experiments, separation apparatus minigames, order progress, quizzes and results. Treat the README skeleton claim as stale; verify actual implementations rather than count plans. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/tgtec26/snug-matter-properties-game/blob/f19195f6f19dc00d2fa70931f8ede09880631d2e/app/page.tsx",
+    "runtime_test_status": "not_tested"
+  },
+  {
+    "name": "Alice in the Watercolor Garden",
+    "github_url": "https://github.com/hatakoma/cc_alice",
+    "repository_id": 1398005795,
+    "repository_created_at": "2026-09-30T13:14:18Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/hatakoma/cc_alice/blob/a558d9c40df8d950e48215dfe01afdbf7a1ef5f1/index.html",
+      "https://github.com/hatakoma/cc_alice/blob/a558d9c40df8d950e48215dfe01afdbf7a1ef5f1/js/main.js",
+      "https://github.com/hatakoma/cc_alice/blob/a558d9c40df8d950e48215dfe01afdbf7a1ef5f1/js/alice.js"
+    ],
+    "live_demo_url": "https://hatakoma.github.io/cc_alice/",
+    "live_demo_urls": [
+      "https://hatakoma.github.io/cc_alice/"
+    ],
+    "evidence_url": "https://github.com/hatakoma/cc_alice/commit/98f3fd73df0ac04fff9e08a63a7781b15f084604",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "technology": [
+      "Three.js",
+      "JavaScript",
+      "Web Audio"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Alice in the Watercolor Garden"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/hatakoma/cc_alice"
+    ],
+    "verification_notes": "Inspect third-person movement, jumping, paint shots that defeat card soldiers, bottle collection and completion after three DRINK ME bottles. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 7.8,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 120000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Alice in the Watercolor Garden from the linked public gameplay source. Preserve these observed mechanics: Inspect third-person movement, jumping, paint shots that defeat card soldiers, bottle collection and completion after three DRINK ME bottles. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/hatakoma/cc_alice/blob/a558d9c40df8d950e48215dfe01afdbf7a1ef5f1/index.html",
+    "runtime_test_status": "not_tested",
+    "live_demo_verification": "Confirm HTTP 200/206 and a matching game page on 2026-09-30; do not infer a playtest."
+  },
+  {
+    "name": "Nova Skim",
+    "github_url": "https://github.com/IBassemTarek/nova-skim",
+    "repository_id": 1397981072,
+    "repository_created_at": "2026-09-30T13:06:05Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/IBassemTarek/nova-skim/blob/6c0ad00f6c83b14538157b520f57adbbc2852006/src/main.js",
+      "https://github.com/IBassemTarek/nova-skim/blob/6c0ad00f6c83b14538157b520f57adbbc2852006/src/scenes/GameScene.js",
+      "https://github.com/IBassemTarek/nova-skim/blob/6c0ad00f6c83b14538157b520f57adbbc2852006/src/game/world.js"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "evidence_url": "https://github.com/IBassemTarek/nova-skim/commit/6c0ad00f6c83b14538157b520f57adbbc2852006",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "technology": [
+      "Phaser",
+      "JavaScript",
+      "Vite",
+      "YouTube Playables SDK"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Nova Skim"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/IBassemTarek/nova-skim"
+    ],
+    "verification_notes": "Inspect a neon orbit-hopping arcade game with launch/release input, planets and hazards, score multipliers, failure/results and best scores. Do not equate SDK integration with an accepted YouTube Playables listing. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 7.8,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 12000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Nova Skim from the linked public gameplay source. Preserve these observed mechanics: Inspect a neon orbit-hopping arcade game with launch/release input, planets and hazards, score multipliers, failure/results and best scores. Do not equate SDK integration with an accepted YouTube Playables listing. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/IBassemTarek/nova-skim/blob/6c0ad00f6c83b14538157b520f57adbbc2852006/src/main.js",
+    "runtime_test_status": "not_tested"
+  },
+  {
+    "name": "Buzzword Dash",
+    "github_url": "https://github.com/pathomnemonic/buzzword-dash-v2",
+    "repository_id": 1395723195,
+    "repository_created_at": "2026-09-29T15:17:24Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/pathomnemonic/buzzword-dash-v2/blob/9d822a523efcc37a85bdedf65719a6288b0112c7/index.html",
+      "https://github.com/pathomnemonic/buzzword-dash-v2/blob/9d822a523efcc37a85bdedf65719a6288b0112c7/js/main.js",
+      "https://github.com/pathomnemonic/buzzword-dash-v2/blob/9d822a523efcc37a85bdedf65719a6288b0112c7/js/rules.js"
+    ],
+    "live_demo_url": "https://pathomnemonic.github.io/buzzword-dash-v2/",
+    "live_demo_urls": [
+      "https://pathomnemonic.github.io/buzzword-dash-v2/"
+    ],
+    "evidence_url": "https://github.com/pathomnemonic/buzzword-dash-v2/commit/9d822a523efcc37a85bdedf65719a6288b0112c7",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "technology": [
+      "Three.js",
+      "JavaScript",
+      "Vite"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Buzzword Dash"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/pathomnemonic/buzzword-dash-v2"
+    ],
+    "verification_notes": "Inspect a 3D medical-study endless runner with lane/swipe input, diagnostic answer gates, jumping/sliding, obstacles, lives, coins, streaks and study/endless modes. Do not treat educational game content as clinical advice. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 8.3,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 120000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Buzzword Dash from the linked public gameplay source. Preserve these observed mechanics: Inspect a 3D medical-study endless runner with lane/swipe input, diagnostic answer gates, jumping/sliding, obstacles, lives, coins, streaks and study/endless modes. Do not treat educational game content as clinical advice. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/pathomnemonic/buzzword-dash-v2/blob/9d822a523efcc37a85bdedf65719a6288b0112c7/index.html",
+    "runtime_test_status": "not_tested",
+    "live_demo_verification": "Confirm HTTP 200/206 and a matching game page on 2026-09-30; do not infer a playtest."
+  },
+  {
+    "name": "Dog — Swiss Card Board Game",
+    "github_url": "https://github.com/seppbucher-develop/dog",
+    "repository_id": 1397909898,
+    "repository_created_at": "2026-09-30T12:41:36Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/seppbucher-develop/dog/blob/1d260391f9b2d9afe17ed6f65f6805ed85c1eaa9/packages/engine/src/game.ts",
+      "https://github.com/seppbucher-develop/dog/blob/1d260391f9b2d9afe17ed6f65f6805ed85c1eaa9/packages/engine/src/moves.ts",
+      "https://github.com/seppbucher-develop/dog/blob/1d260391f9b2d9afe17ed6f65f6805ed85c1eaa9/packages/server/src/main.ts"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "evidence_url": "https://github.com/seppbucher-develop/dog/commit/1d260391f9b2d9afe17ed6f65f6805ed85c1eaa9",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "technology": [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "WebSocket"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Dog — Swiss Card Board Game"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
+      "https://github.com/seppbucher-develop/dog"
+    ],
+    "verification_notes": "Inspect two-to-six-player card-driven peg movement, legal moves, captures, team rules, all-pegs-home victory, bots and online rooms; count rule variants once. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 8.4,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 12000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Dog — Swiss Card Board Game from the linked public gameplay source. Preserve these observed mechanics: Inspect two-to-six-player card-driven peg movement, legal moves, captures, team rules, all-pegs-home victory, bots and online rooms; count rule variants once. Implement input, state transitions, progress, outcomes and the documented run path. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/seppbucher-develop/dog/blob/1d260391f9b2d9afe17ed6f65f6805ed85c1eaa9/packages/engine/src/game.ts",
+    "runtime_test_status": "not_tested"
+  },
+  {
+    "name": "Unicorn Chaos Club",
+    "github_url": "https://github.com/derHeinzer/yunicorn",
+    "repository_id": 1397122613,
+    "repository_created_at": "2026-09-30T06:01:50Z",
+    "added_to_repo_on": "2026-09-30",
+    "game_links": [
+      "https://github.com/derHeinzer/yunicorn/blob/c4e2c24ac7dd14813657639c43a106f8c276a714/src/app/main.tsx",
+      "https://github.com/derHeinzer/yunicorn/blob/c4e2c24ac7dd14813657639c43a106f8c276a714/src/ui/App.tsx",
+      "https://github.com/derHeinzer/yunicorn/blob/c4e2c24ac7dd14813657639c43a106f8c276a714/src/activities/coloring.ts",
+      "https://github.com/derHeinzer/yunicorn/blob/c4e2c24ac7dd14813657639c43a106f8c276a714/src/world/stickers.ts"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "evidence_url": "https://github.com/derHeinzer/yunicorn/commit/2e37d958f9748c4cd6cf0bff1963dc9258127d0b",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "technology": [
+      "Preact",
+      "TypeScript",
+      "SVG",
+      "Vite"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Unicorn Chaos Club"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-09-30",
+    "discovery_sources": [
+      "GitHub commit-attribution freshness join: Claude Sonnet 5.5 game (September 29–30 UTC+7)",
+      "https://github.com/derHeinzer/yunicorn"
+    ],
+    "verification_notes": "Inspect the child-friendly prototype's rule-based color-by-number puzzles, region/number matching, page completion, sticker collection, character reactions and persistent room/album progression. Count the connected puzzle/care game once; exclude roadmap-only slime activities and future minigames. Treat repository creation as a freshness proxy, not proof of publication. Do not claim a runtime playtest.",
+    "publication_date_status": "repository_created_only",
+    "gauntlet_loop": false,
+    "quality_estimate_10": 7.8,
+    "quality_estimate_basis": "Estimate source completeness, mechanics, documented run path, tests and attribution; do not treat this as a visual review or runtime benchmark.",
+    "quality_category": "curated_games",
+    "flops_estimate_raw": 12000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Use a rough static rendering/simulation order-of-magnitude estimate; do not treat it as measured throughput.",
+    "prompt": "Reconstruct Unicorn Chaos Club from the linked source. Preserve number-matching coloring rules, completion feedback, earned stickers, room interactions and persistent progression. Do not present this reconstruction as the original prompt.",
+    "prompt_origin": "reverse_engineered_from_source",
+    "prompt_evidence_url": "https://github.com/derHeinzer/yunicorn/blob/c4e2c24ac7dd14813657639c43a106f8c276a714/src/app/main.tsx",
+    "runtime_test_status": "not_tested"
   }
 ]

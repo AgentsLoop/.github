@@ -5,6 +5,7 @@
 - Read [Scraping skills](wiki/scraping-skills.md) before selecting a skill for web or GitHub collection work.
 - Read [Screenshot ratings](wiki/screenshot-ratings.md) before rating or ranking game images.
 - Read [Search experiments](wiki/search-experiments.md) before repeating a discovery pass.
+- Read [Fresh model discovery](wiki/fresh-model-discovery.md) before searching model-specific branches or commit frontiers.
 
 ## Game collections
 
@@ -23,6 +24,11 @@
 - Add verified game assets, asset libraries, and production tools encountered during other research to `awesome-game-resources.md`.
 - Record the source link, use, license or access limits, primary evidence link, and verification date.
 - Keep resource-only repositories out of `games.json`.
+
+## Model attribution
+
+- Include Claude Sonnet 5.5 and GPT-6.1 Sol with explicit source or creator attribution.
+- Keep GPT-6.1 Sol separate from GPT-6 Astra. Distinguish authoring from runtime use and evaluation.
 
 ## Game link collection
 

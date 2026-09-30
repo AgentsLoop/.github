@@ -43,4 +43,3 @@ Browse **4 curated game units** from **4 source repositories** attributed to GPT
 - [**Last Metro**](../games/last-metro/readme.md) — ⭐ **9.0/10** · GPT-6 · TypeScript, Three.js, Rapier, Vite, Web browser · [✓ direct model evidence](https://github.com/mgoyal98/last-metro#last-metro) · 📸 **7.8/10** · [screenshot](https://github.com/mgoyal98/last-metro/blob/main/docs/media/phase4d-title.png)
 
 [Back to game library](#game-library)
-

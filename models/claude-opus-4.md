@@ -25,4 +25,3 @@ Browse **4 curated game units** from **2 source repositories** attributed to Cla
 - [**Fieldrunners 2 Remake**](../games/fieldrunners-2-remake/readme.md) — ⭐ **8.2/10** · Claude Opus 4 · libGDX, Java, Native Android · [✓ direct model evidence](https://github.com/TanBuiDev/fieldrunners2-remake/commit/4da7db1c0ee00723245ab4e4d4c9e80f80bc0ca2) · [files](https://github.com/TanBuiDev/fieldrunners2-remake/tree/main/core/src/com/fieldrunners2)
 
 [Back to game library](#game-library)
-

@@ -43,4 +43,3 @@ Browse **4 curated game units** from **4 source repositories** attributed to Cla
 - [**Scribble: Impostor**](../games/scribble-impostor/readme.md) — ⭐ **7.9/10** · Claude Opus · Node.js, Express, Socket.io, JavaScript, HTML Canvas, +1 more · [≈ creator-reported model evidence](https://github.com/Anshul1336/scribble-impostor/blob/eef6f8737d05212bb00b673946d068237d96e731/README.md) · [files](https://github.com/Anshul1336/scribble-impostor/blob/eef6f8737d05212bb00b673946d068237d96e731/server.js) · [play](https://scribble-impostor.onrender.com/)
 
 [Back to game library](#game-library)
-

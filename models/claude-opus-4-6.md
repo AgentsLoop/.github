@@ -140,4 +140,3 @@ Browse **83 curated game units** from **69 source repositories** attributed to C
 - [**Pierglass**](../games/pierglass/readme.md) — ⭐ **8.0/10** · Claude Opus 4.6 · React, TypeScript, Vite, PWA, Browser · [✓ direct model evidence](https://github.com/rickymetz/wordgirl/commit/d3e2e1c70260e0fee4d0bdf29bd8918998b8ddb6) · [files](https://github.com/rickymetz/wordgirl/tree/main/src/games/pierglass) · 📸 **6.3/10** · [screenshot](https://github.com/rickymetz/wordgirl/blob/main/public/teasers/pierglass.png)
 
 [Back to game library](#game-library)
-

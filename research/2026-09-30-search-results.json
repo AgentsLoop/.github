@@ -1,0 +1,3933 @@
+{
+  "checked_on": "2026-09-30",
+  "sequential_searches": true,
+  "queries": [
+    {
+      "query_key": "github:repository:game created:2026-09-28t17:00:00z..2026-09-30t16:59:59z in:name,description,readme:sort=updated",
+      "query": "game created:2026-09-28T17:00:00Z..2026-09-30T16:59:59Z in:name,description,readme",
+      "source_family": "repository",
+      "requested_limit": 100,
+      "received": 100,
+      "possibly_capped": true,
+      "status": "completed",
+      "results": [
+        {
+          "repository_hint": "danill2015/gamesync",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:46:16Z"
+        },
+        {
+          "repository_hint": "ooori-sankaku-onigiri/bunkasai-escape-game",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:45:49Z"
+        },
+        {
+          "repository_hint": "u-argentina-e8gwt7/y3nxyd405f30",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:46:05Z"
+        },
+        {
+          "repository_hint": "u-australia-7yqodb/35wqhyzd144v",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:46:10Z"
+        },
+        {
+          "repository_hint": "u-gbritain-sthl3l/boox327zyw0w",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:45:56Z"
+        },
+        {
+          "repository_hint": "Ayu-Pyramid/cps410-guessing-game",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:29:27Z"
+        },
+        {
+          "repository_hint": "Aratox/TotembarKeys",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:28:06Z"
+        },
+        {
+          "repository_hint": "cdadamo/retro-phillies",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:30:19Z"
+        },
+        {
+          "repository_hint": "vilaca/jev-tic-tac-toe",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T23:17:11Z"
+        },
+        {
+          "repository_hint": "pauldinohtphutapea-ship-it/website-personall",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:29:40Z"
+        },
+        {
+          "repository_hint": "damjun0804-cell/dodam_game",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T06:20:14Z"
+        },
+        {
+          "repository_hint": "Ocegirl/skills-introduction-to-github",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:46:02Z"
+        },
+        {
+          "repository_hint": "sanjeevr123/Prophecy-",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:45:58Z"
+        },
+        {
+          "repository_hint": "WavestormSoftware/defold-git",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:46:01Z"
+        },
+        {
+          "repository_hint": "shido-ui/Worldbuster",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T06:31:02Z"
+        },
+        {
+          "repository_hint": "BlackAporia/dark-bags",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T21:29:04Z"
+        },
+        {
+          "repository_hint": "MARCCRDM/Gemsoul",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T19:25:41Z"
+        },
+        {
+          "repository_hint": "NowLoadY/uudeck-linux",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:45:55Z"
+        },
+        {
+          "repository_hint": "Ruinerpie/Pancreas",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T08:57:25Z"
+        },
+        {
+          "repository_hint": "Rredpanda78/amine-thermo",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T09:41:45Z"
+        },
+        {
+          "repository_hint": "alnijarjumala0-ship-it/matching-game",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:43:25Z"
+        },
+        {
+          "repository_hint": "waraya0645-bit/my-game",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T05:02:25Z"
+        },
+        {
+          "repository_hint": "u-canada-02cg7w/gbnuogqa669c",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:45:40Z"
+        },
+        {
+          "repository_hint": "sohamyk2006-dev/Detective",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T08:58:12Z"
+        },
+        {
+          "repository_hint": "shwethahr732-collab/hang-man-game",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:45:53Z"
+        },
+        {
+          "repository_hint": "Xe/raidsim",
+          "repository_id": 1398268358,
+          "repository_created_at": "2026-09-30T14:35:09Z"
+        },
+        {
+          "repository_hint": "MuseumSpawnDemolishs/Diablo-IV-HelperAIO",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:45:04Z"
+        },
+        {
+          "repository_hint": "onovich/FXWeaver",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T00:57:16Z"
+        },
+        {
+          "repository_hint": "ninadchavan70/aiml-projects",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:16:24Z"
+        },
+        {
+          "repository_hint": "Ryan-Clinton/rocksmith-easy-mode",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T23:43:39Z"
+        },
+        {
+          "repository_hint": "luongnhan9999/chargeback-dispute-x",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:45:10Z"
+        },
+        {
+          "repository_hint": "sakinazehrapk-maker/your-phone-is-lying",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:45:45Z"
+        },
+        {
+          "repository_hint": "masterworldbet/masterworld",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:25:22Z"
+        },
+        {
+          "repository_hint": "tegenicejr/Oh-LOVE-GAMES-CLUBHOUSE",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T08:02:38Z"
+        },
+        {
+          "repository_hint": "lamdienchinh/board_game",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:45:07Z"
+        },
+        {
+          "repository_hint": "Fiendeoverpass/marvel-rivals-cheats-menu",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:45:34Z"
+        },
+        {
+          "repository_hint": "DD1000/shatterline",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T01:44:17Z"
+        },
+        {
+          "repository_hint": "u-israel-ppit3g/hej5cpdxq3n4",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:45:28Z"
+        },
+        {
+          "repository_hint": "gabaudette/game-stack-picker",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:50:47Z"
+        },
+        {
+          "repository_hint": "Ahmed-Azaz/game1",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T11:24:18Z"
+        },
+        {
+          "repository_hint": "geekfory/AudioDropoutInspector",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:01:49Z"
+        },
+        {
+          "repository_hint": "luizfelippe-dev/pirate-battle",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:22:41Z"
+        },
+        {
+          "repository_hint": "luma-xdev/memory-card-game",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:36:12Z"
+        },
+        {
+          "repository_hint": "VoKhoiNhon/open-skill-standard",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T04:49:20Z"
+        },
+        {
+          "repository_hint": "SupermaniaGames/linktree",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T11:01:21Z"
+        },
+        {
+          "repository_hint": "khj1870-robotics/Turtle-Runaway",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:23:41Z"
+        },
+        {
+          "repository_hint": "Doomguy12345678/Nexus-OS",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:41:17Z"
+        },
+        {
+          "repository_hint": "shaunnez/3kingdoms",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T08:38:47Z"
+        },
+        {
+          "repository_hint": "benJam37/the-long-rally",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T10:12:42Z"
+        },
+        {
+          "repository_hint": "aliyaklyshbekova983-spec/ocean-strike",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:45:28Z"
+        },
+        {
+          "repository_hint": "zsh56609/overexposed",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T07:07:40Z"
+        },
+        {
+          "repository_hint": "yinyun-yy/yinyun",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:39:13Z"
+        },
+        {
+          "repository_hint": "omgenc001/backend",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:45:14Z"
+        },
+        {
+          "repository_hint": "KB1914/kb-gameshow",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:41:49Z"
+        },
+        {
+          "repository_hint": "PhamDanny/mc-autobattler-wiki",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T15:42:04Z"
+        },
+        {
+          "repository_hint": "laetipark/mystery-mango",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:38:46Z"
+        },
+        {
+          "repository_hint": "BingDuYiCheng/Angry-Bird-Pro",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:45:18Z"
+        },
+        {
+          "repository_hint": "u-argentina-vmtogx/0wa30ohfxo80",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:45:05Z"
+        },
+        {
+          "repository_hint": "u-australia-qtjdcz/huth1d31iaa4",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:45:06Z"
+        },
+        {
+          "repository_hint": "yurigpaulosenai-cyber/Yurigpaulomorais",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:39:15Z"
+        },
+        {
+          "repository_hint": "Blade1090/shelf-check-nes",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T16:49:25Z"
+        },
+        {
+          "repository_hint": "itslipsa/escape_game",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:32:54Z"
+        },
+        {
+          "repository_hint": "u-gbritain-65c1az/ujk95l2gl8l1",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:44:57Z"
+        },
+        {
+          "repository_hint": "QWERTY-SAN/Leuce-Mintha-Discord-Bot",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T10:07:17Z"
+        },
+        {
+          "repository_hint": "Just-Rice/hsn-3d",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T11:07:09Z"
+        },
+        {
+          "repository_hint": "lucasroussenq/One-Job",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:33:15Z"
+        },
+        {
+          "repository_hint": "MarcosIvan/trade-huddle",
+          "repository_id": null,
+          "repository_created_at": "2026-09-28T20:57:44Z"
+        },
+        {
+          "repository_hint": "born2hate/newgame",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:02:59Z"
+        },
+        {
+          "repository_hint": "arthurmouramachado/pirate-battle",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T20:15:12Z"
+        },
+        {
+          "repository_hint": "SharpestPoint/Vityarthi-Project",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:45:05Z"
+        },
+        {
+          "repository_hint": "joecodecreations/ValuxGames",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:16:59Z"
+        },
+        {
+          "repository_hint": "sh0tybumbati/Merger-Mystery",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T08:12:18Z"
+        },
+        {
+          "repository_hint": "danilofiocco/balloonGame",
+          "repository_id": null,
+          "repository_created_at": "2026-09-28T23:23:44Z"
+        },
+        {
+          "repository_hint": "dipson-mishra/PawnHub",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:16:02Z"
+        },
+        {
+          "repository_hint": "Leichtbier/core-business",
+          "repository_id": 1398272295,
+          "repository_created_at": "2026-09-30T14:36:26Z"
+        },
+        {
+          "repository_hint": "lnyssen/lueur",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:40:14Z"
+        },
+        {
+          "repository_hint": "amintb2121/MyGame",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:29:19Z"
+        },
+        {
+          "repository_hint": "joshuasundance-swca/throttlebrawl",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T22:18:46Z"
+        },
+        {
+          "repository_hint": "Ahmad-001A/GameBar",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T14:18:04Z"
+        },
+        {
+          "repository_hint": "challurinaveen/Gaming-Community-Pulse",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T12:04:52Z"
+        },
+        {
+          "repository_hint": "polupon-coder/IMPERIO",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T11:11:20Z"
+        },
+        {
+          "repository_hint": "Telynor/telynors-elemental-reactions",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T04:49:30Z"
+        },
+        {
+          "repository_hint": "AtharvK-creator/SE_Lab4",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T06:55:45Z"
+        },
+        {
+          "repository_hint": "TMulv/tyler-center",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T03:13:48Z"
+        },
+        {
+          "repository_hint": "Florent777/KEYBEAT",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:44:52Z"
+        },
+        {
+          "repository_hint": "Noyon7866/Dili-Jungle-game-",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:07:06Z"
+        },
+        {
+          "repository_hint": "Azat-Bigeldi/Arkan-Tartys",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:56:07Z"
+        },
+        {
+          "repository_hint": "Serkansenay/serkansenay",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:40:10Z"
+        },
+        {
+          "repository_hint": "changkevin51/Communications-Activity",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T03:08:24Z"
+        },
+        {
+          "repository_hint": "nbczw8750/six-cats-under-wiki",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T00:52:39Z"
+        },
+        {
+          "repository_hint": "KvLGn/KvLGnChessProgress",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T08:33:41Z"
+        },
+        {
+          "repository_hint": "itsaricode/berry-quest",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:44:48Z"
+        },
+        {
+          "repository_hint": "u-canada-hgcuxe/533iut1m9h52",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:44:36Z"
+        },
+        {
+          "repository_hint": "juan504n/spyro-game",
+          "repository_id": 1396167582,
+          "repository_created_at": "2026-09-29T17:32:04Z"
+        },
+        {
+          "repository_hint": "estebannoblega/app_snake",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:40:26Z"
+        },
+        {
+          "repository_hint": "johnmorrisdotca/kyuubu",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T04:39:11Z"
+        },
+        {
+          "repository_hint": "vitormontes/tapaburacogame",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:42:40Z"
+        },
+        {
+          "repository_hint": "doctorblaza/xianxia-ai",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T23:26:40Z"
+        },
+        {
+          "repository_hint": "MiloReed/voice-bricks",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:11:01Z"
+        },
+        {
+          "repository_hint": "blackbearreloaded/ps5-homebrew-catalog",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T01:14:43Z"
+        }
+      ]
+    },
+    {
+      "query_key": "github:repository:sonnet created:2026-09-28t17:00:00z..2026-09-30t16:59:59z in:name,description,readme:sort=updated",
+      "query": "Sonnet created:2026-09-28T17:00:00Z..2026-09-30T16:59:59Z in:name,description,readme",
+      "source_family": "repository",
+      "requested_limit": 100,
+      "received": 100,
+      "possibly_capped": true,
+      "status": "completed",
+      "results": [
+        {
+          "repository_hint": "davidegeric-cloud/forge-codex-workspace",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T10:26:12Z"
+        },
+        {
+          "repository_hint": "drakehammer/agent-v1",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:40:48Z"
+        },
+        {
+          "repository_hint": "VivekTiwary-25/itantra-video",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T17:01:21Z"
+        },
+        {
+          "repository_hint": "ZhaoJun233/fuckCourse",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:15:26Z"
+        },
+        {
+          "repository_hint": "bigpine86/sidecat",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T16:11:14Z"
+        },
+        {
+          "repository_hint": "pe7ro/claude-usage-widget",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T07:18:18Z"
+        },
+        {
+          "repository_hint": "samsamthecodingman/Riemann",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T00:39:13Z"
+        },
+        {
+          "repository_hint": "kaditya97/cline",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:39:59Z"
+        },
+        {
+          "repository_hint": "peterkell44x/Internal-constraint-app",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:16:36Z"
+        },
+        {
+          "repository_hint": "gonzalopelaezmendive/D2V2",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:02:47Z"
+        },
+        {
+          "repository_hint": "cherrera0001/Agents_Learning_Loops",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T16:40:12Z"
+        },
+        {
+          "repository_hint": "saksit2013/Axon",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:44:12Z"
+        },
+        {
+          "repository_hint": "MartinPhilippSTEM/decarbotracker",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:17:44Z"
+        },
+        {
+          "repository_hint": "ismaelvasquezl/botiquin-tongoy",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:39:57Z"
+        },
+        {
+          "repository_hint": "kdbusiness08/jarvis",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T06:21:42Z"
+        },
+        {
+          "repository_hint": "newbilitySaaS/agent-receipt",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:41:27Z"
+        },
+        {
+          "repository_hint": "mlhysrszn/earthquake",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:40:36Z"
+        },
+        {
+          "repository_hint": "PatrickLinC/EatDrinkMove",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:44:25Z"
+        },
+        {
+          "repository_hint": "ojspace/indy-dots",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:41:47Z"
+        },
+        {
+          "repository_hint": "RickYoon/ai_strategy_NAIS_Hackathon_2026",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T10:16:27Z"
+        },
+        {
+          "repository_hint": "redscaresu/swarm-dev",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T12:50:13Z"
+        },
+        {
+          "repository_hint": "tomasetiennot-afk/ecosistema-frees-ia",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:06:09Z"
+        },
+        {
+          "repository_hint": "ThinhTP204/claude-codex",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T06:43:39Z"
+        },
+        {
+          "repository_hint": "PierrunoYT/patch",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T20:26:36Z"
+        },
+        {
+          "repository_hint": "Zigzag968/claude-code-lgtmgate",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T15:55:22Z"
+        },
+        {
+          "repository_hint": "baotrongspx-jpg/ai-tin-cong-nghe",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T03:43:55Z"
+        },
+        {
+          "repository_hint": "sraivante/quicktalk",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T08:43:45Z"
+        },
+        {
+          "repository_hint": "webagencyhermes1-dev/qwenproxy",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:40:45Z"
+        },
+        {
+          "repository_hint": "HarshithKoriRaj/insurance-claims-sop-harness",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T14:40:33Z"
+        },
+        {
+          "repository_hint": "LnBn/learn-claude",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T10:06:41Z"
+        },
+        {
+          "repository_hint": "JohannsenLum/jarvis",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T10:35:22Z"
+        },
+        {
+          "repository_hint": "CelestialPawz/Stardust",
+          "repository_id": null,
+          "repository_created_at": "2026-09-28T18:43:33Z"
+        },
+        {
+          "repository_hint": "LeftyyDev/ClipApp",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T12:42:54Z"
+        },
+        {
+          "repository_hint": "maccydee/scrub-transcripts",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:28:52Z"
+        },
+        {
+          "repository_hint": "mattpardo-svg/harness",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T08:42:33Z"
+        },
+        {
+          "repository_hint": "mbradaschia/oma-zotero-launcher",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T19:50:20Z"
+        },
+        {
+          "repository_hint": "RamMahender12/ai-agent-orchestrator",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T11:36:39Z"
+        },
+        {
+          "repository_hint": "mduncs/session-atlas",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T02:24:39Z"
+        },
+        {
+          "repository_hint": "nandr-web/skills-catalog",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T01:19:05Z"
+        },
+        {
+          "repository_hint": "polarizetech/scientific-research-agents",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:32:26Z"
+        },
+        {
+          "repository_hint": "gptrade/piyasa-radari",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T06:16:37Z"
+        },
+        {
+          "repository_hint": "DeiaNsasra/psychometric-ai-tutor",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T12:59:00Z"
+        },
+        {
+          "repository_hint": "George-Nizor/Fabula",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T11:49:24Z"
+        },
+        {
+          "repository_hint": "xexefe121/claude-orchestra",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:37:11Z"
+        },
+        {
+          "repository_hint": "BrilliantDev-AI/Langgraph-fastapi-agents-production",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:34:56Z"
+        },
+        {
+          "repository_hint": "atharva-729/bookshelf-benchmark",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T08:04:33Z"
+        },
+        {
+          "repository_hint": "zyrababab/mingjing",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T12:55:35Z"
+        },
+        {
+          "repository_hint": "Aaron40776/Smart",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T11:55:06Z"
+        },
+        {
+          "repository_hint": "auzroz/boxwright",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T18:16:38Z"
+        },
+        {
+          "repository_hint": "daraujo85/jev-claude-engine",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T23:38:34Z"
+        },
+        {
+          "repository_hint": "prab002/reddditkarmabot",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:22:32Z"
+        },
+        {
+          "repository_hint": "orassayag/project-cosmos",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:35:34Z"
+        },
+        {
+          "repository_hint": "t3kdesigns03/alwaysbelearning",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T23:34:19Z"
+        },
+        {
+          "repository_hint": "pirasanthan-jesugeevegan/ai-travel-eval-lab",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T08:32:10Z"
+        },
+        {
+          "repository_hint": "allexlima/claude-code-team",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:34:46Z"
+        },
+        {
+          "repository_hint": "yamatayga-lgbt/MeTiger-Ai",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T05:08:37Z"
+        },
+        {
+          "repository_hint": "lustandfury/counterpart-ordering-poc",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T20:04:12Z"
+        },
+        {
+          "repository_hint": "42-b3yond-6ug/ssebench",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T16:17:55Z"
+        },
+        {
+          "repository_hint": "spa-skyson/pi-rate",
+          "repository_id": null,
+          "repository_created_at": "2026-09-28T20:43:18Z"
+        },
+        {
+          "repository_hint": "Tiltedi/accounting",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T19:03:50Z"
+        },
+        {
+          "repository_hint": "zoyanywhere/seedance-prompt-review",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T20:17:33Z"
+        },
+        {
+          "repository_hint": "MichailChatzianastasis/zero-shot-oct-vlm",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:32:35Z"
+        },
+        {
+          "repository_hint": "OliverVillson/claude-ticket",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T11:38:46Z"
+        },
+        {
+          "repository_hint": "nchungdev/claraos",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:16:15Z"
+        },
+        {
+          "repository_hint": "sy11a/lean-worker",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T11:27:55Z"
+        },
+        {
+          "repository_hint": "CTKiet2006/kietnovel",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T03:20:50Z"
+        },
+        {
+          "repository_hint": "nminduo2k5/AI-Native-TestGen-ICAI-FAI-2026_Full-Experiment",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T00:45:56Z"
+        },
+        {
+          "repository_hint": "aguiddir/claude-config",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T13:58:36Z"
+        },
+        {
+          "repository_hint": "Gbitman84/smartroute",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T22:07:21Z"
+        },
+        {
+          "repository_hint": "charudattags/J.A.R.V.I.S",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:47:58Z"
+        },
+        {
+          "repository_hint": "elrincondeisma/orbix-mac",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T09:05:21Z"
+        },
+        {
+          "repository_hint": "Nishant-Bhat-Ninja/Contextual-Exploitability-Engine",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T05:01:23Z"
+        },
+        {
+          "repository_hint": "DioDiAltro/Glifo",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T15:18:31Z"
+        },
+        {
+          "repository_hint": "sanjaybasu/health-ai-guardrails-evidence-map",
+          "repository_id": null,
+          "repository_created_at": "2026-09-28T19:12:25Z"
+        },
+        {
+          "repository_hint": "lin-yang-2713/LLMProxy",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:23:00Z"
+        },
+        {
+          "repository_hint": "BishoyMK/BishoyMK",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:19:10Z"
+        },
+        {
+          "repository_hint": "Elliot-H/Jarvis-2.0",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T01:38:16Z"
+        },
+        {
+          "repository_hint": "vialyx/schema-guard",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T00:23:54Z"
+        },
+        {
+          "repository_hint": "elves-ai/dsh-llm-nowcoding",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T04:05:52Z"
+        },
+        {
+          "repository_hint": "ADITYANAIR01/ScopeGuard-AI-AWS-Zero-to-Shipped",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T12:14:46Z"
+        },
+        {
+          "repository_hint": "rayhan-fardous/echogpt-extension",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T10:09:58Z"
+        },
+        {
+          "repository_hint": "Nikhilrkatigar/Aegis-AI-Incident-Response-Agent",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T07:27:06Z"
+        },
+        {
+          "repository_hint": "suddeb/Sonnet-5.5",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:21:16Z"
+        },
+        {
+          "repository_hint": "samuel0207/VellumStream",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T11:17:43Z"
+        },
+        {
+          "repository_hint": "meghancampbel9/ku-agent",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T09:02:49Z"
+        },
+        {
+          "repository_hint": "manojbarot1/aether-ai-team",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T12:23:37Z"
+        },
+        {
+          "repository_hint": "boldrouter/boldrouter-dify",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T11:45:12Z"
+        },
+        {
+          "repository_hint": "mlee75/clearletter",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T12:33:03Z"
+        },
+        {
+          "repository_hint": "ypengly/business-plan-builder",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:16:14Z"
+        },
+        {
+          "repository_hint": "tinkertanker/product-pal",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T11:45:18Z"
+        },
+        {
+          "repository_hint": "ebernie/claude-plugins",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:18:08Z"
+        },
+        {
+          "repository_hint": "NHQuan-26/AI_Sales_agent",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:15:36Z"
+        },
+        {
+          "repository_hint": "sakullla/cliora",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T07:38:48Z"
+        },
+        {
+          "repository_hint": "bactdt/TrendRadar",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T08:07:04Z"
+        },
+        {
+          "repository_hint": "Thinh153vn/PCR",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:02:41Z"
+        },
+        {
+          "repository_hint": "ag-siddharth/ai-code-reviewer",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:17:35Z"
+        },
+        {
+          "repository_hint": "MagicalWig34653/turaco",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:17:33Z"
+        },
+        {
+          "repository_hint": "huotuai/scode",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:45:38Z"
+        },
+        {
+          "repository_hint": "ruqinga/live-translation",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T09:01:29Z"
+        },
+        {
+          "repository_hint": "nguyenthanhcong041006/social-listening-trending",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T10:00:41Z"
+        }
+      ]
+    },
+    {
+      "query_key": "github:repository:game sonnet created:2026-09-28t17:00:00z..2026-09-30t16:59:59z in:name,description,readme:sort=updated",
+      "query": "game Sonnet created:2026-09-28T17:00:00Z..2026-09-30T16:59:59Z in:name,description,readme",
+      "source_family": "repository",
+      "requested_limit": 100,
+      "received": 95,
+      "possibly_capped": false,
+      "status": "completed",
+      "results": [
+        {
+          "repository_hint": "Aaron40776/Smart",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T11:55:06Z"
+        },
+        {
+          "repository_hint": "pirasanthan-jesugeevegan/ai-travel-eval-lab",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T08:32:10Z"
+        },
+        {
+          "repository_hint": "nguyenthanhcong041006/social-listening-trending",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T10:00:41Z"
+        },
+        {
+          "repository_hint": "monstercameron/dungeonfluxGame",
+          "repository_id": 1397035341,
+          "repository_created_at": "2026-09-30T05:13:00Z"
+        },
+        {
+          "repository_hint": "oh-ashen-one/claude-code-game-builder",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T18:28:08Z"
+        },
+        {
+          "repository_hint": "ollypolly/duel-table",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T13:08:34Z"
+        },
+        {
+          "repository_hint": "cheercheung/emoji-twenty-questions",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:31:39Z"
+        },
+        {
+          "repository_hint": "esxr/gameplay-recorder-annotator",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T16:46:02Z"
+        },
+        {
+          "repository_hint": "albertferreira2020/ndc",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T04:46:48Z"
+        },
+        {
+          "repository_hint": "NurAlif/PDL",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T12:15:29Z"
+        },
+        {
+          "repository_hint": "thanhauco/chomp-game-agent-jev",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T11:35:02Z"
+        },
+        {
+          "repository_hint": "JoaquinRuiz/medula",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T18:02:17Z"
+        },
+        {
+          "repository_hint": "Two2Bac-git/Open_document",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T20:09:53Z"
+        },
+        {
+          "repository_hint": "reboursnaoki/flop-agent",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T13:56:24Z"
+        },
+        {
+          "repository_hint": "cube12x/silent",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T14:28:09Z"
+        },
+        {
+          "repository_hint": "gluedays-cyber/IntelliBranch-JAVA",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T09:21:11Z"
+        },
+        {
+          "repository_hint": "Seokwoooo/promptfilm",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T09:37:27Z"
+        },
+        {
+          "repository_hint": "Mayanksaiini/Dlicom-Arena",
+          "repository_id": 1397498870,
+          "repository_created_at": "2026-09-30T09:27:59Z"
+        },
+        {
+          "repository_hint": "SubmitGame/Claude-vs-ChatGPT",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T07:14:03Z"
+        },
+        {
+          "repository_hint": "ruihongw/wasteland-jianghu",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T09:03:11Z"
+        },
+        {
+          "repository_hint": "Awesome-llms-labs/awesome-decisions-llms",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T04:38:00Z"
+        },
+        {
+          "repository_hint": "Kunlun-Zhu/Awesome-RSI-AI4AI",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T04:29:31Z"
+        },
+        {
+          "repository_hint": "FinDaHuman/ClaudeBlackJack",
+          "repository_id": 1397150708,
+          "repository_created_at": "2026-09-30T06:15:17Z"
+        },
+        {
+          "repository_hint": "anshul09-hub/sonnet-games",
+          "repository_id": 1397244831,
+          "repository_created_at": "2026-09-30T07:06:17Z"
+        },
+        {
+          "repository_hint": "mayurathavale18/agent-bridge",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T10:23:57Z"
+        },
+        {
+          "repository_hint": "Aryanwin/claude-local-evolve",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T18:47:41Z"
+        },
+        {
+          "repository_hint": "leonvanzyl/3d-golf-sonnet",
+          "repository_id": 1397028512,
+          "repository_created_at": "2026-09-30T05:08:24Z"
+        },
+        {
+          "repository_hint": "Jase008/csc475-ai-game",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T03:25:15Z"
+        },
+        {
+          "repository_hint": "ethanplusai/outpace",
+          "repository_id": 1396911123,
+          "repository_created_at": "2026-09-30T03:29:19Z"
+        },
+        {
+          "repository_hint": "robece/learning-agents",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T03:03:54Z"
+        },
+        {
+          "repository_hint": "zchylm/jgmoli",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T02:32:33Z"
+        },
+        {
+          "repository_hint": "Tann2019/godot-mcp-server",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T23:53:45Z"
+        },
+        {
+          "repository_hint": "ljunein-oss/Loom-Shader-CodeAgent4Unity",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T00:51:23Z"
+        },
+        {
+          "repository_hint": "YuriRASousa/Escrit-rio",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T22:22:54Z"
+        },
+        {
+          "repository_hint": "francescodifilippo/consiliumAI",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T07:23:50Z"
+        },
+        {
+          "repository_hint": "ConradMearns/vintage-ore",
+          "repository_id": null,
+          "repository_created_at": "2026-09-28T23:46:21Z"
+        },
+        {
+          "repository_hint": "CollaborativeMinD/Multi-agent-HMT-Experiment-",
+          "repository_id": null,
+          "repository_created_at": "2026-09-28T21:03:10Z"
+        },
+        {
+          "repository_hint": "datacompboy/xmg_deep_sleep",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T23:05:49Z"
+        },
+        {
+          "repository_hint": "Bigchaka02/ClawdCrafter",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T18:06:31Z"
+        },
+        {
+          "repository_hint": "HVMarci/FNAF64",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T22:06:10Z"
+        },
+        {
+          "repository_hint": "sdfkdweuwpor/PCAP",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T17:00:31Z"
+        },
+        {
+          "repository_hint": "imarressi/amonggpt-model-registry",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T21:46:01Z"
+        },
+        {
+          "repository_hint": "rlorca/mall-action",
+          "repository_id": 1395253081,
+          "repository_created_at": "2026-09-29T12:43:03Z"
+        },
+        {
+          "repository_hint": "mathulbrich/duel-lens",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T19:19:54Z"
+        },
+        {
+          "repository_hint": "LiovanTas/IncidentPilot",
+          "repository_id": null,
+          "repository_created_at": "2026-09-28T22:29:33Z"
+        },
+        {
+          "repository_hint": "Manoz/elden-kart",
+          "repository_id": 1396338750,
+          "repository_created_at": "2026-09-29T18:32:07Z"
+        },
+        {
+          "repository_hint": "winchxyz/wumpus-torture-simulator",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T19:58:10Z"
+        },
+        {
+          "repository_hint": "Scotho/luminal",
+          "repository_id": 1396445124,
+          "repository_created_at": "2026-09-29T19:19:19Z"
+        },
+        {
+          "repository_hint": "Rajasekhar1131997/Poisoned-Toolbox",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T19:37:09Z"
+        },
+        {
+          "repository_hint": "anodesmith/bureaucracy-boss-fight",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T19:20:15Z"
+        },
+        {
+          "repository_hint": "hahzterry/coldpitch",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T18:31:26Z"
+        },
+        {
+          "repository_hint": "dhirajkumar-09/iloveagents-issue-982",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T18:00:31Z"
+        },
+        {
+          "repository_hint": "cahyohackids/Ezkielyna-Model-Arena",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T15:47:59Z"
+        },
+        {
+          "repository_hint": "SummerAdrenk/NJFU-Neko",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T09:39:30Z"
+        },
+        {
+          "repository_hint": "swspriggs/ai-family-tree",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T14:07:37Z"
+        },
+        {
+          "repository_hint": "crocone/im_2",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T16:19:17Z"
+        },
+        {
+          "repository_hint": "JaviMaligno/sport-from-motion",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T15:57:16Z"
+        },
+        {
+          "repository_hint": "TheWoovee/FortNightTest-Sonnet",
+          "repository_id": 1394908443,
+          "repository_created_at": "2026-09-29T10:17:30Z"
+        },
+        {
+          "repository_hint": "Staid01/Promptmaster",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T14:31:53Z"
+        },
+        {
+          "repository_hint": "Lukaze0909/one-branch",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T11:50:51Z"
+        },
+        {
+          "repository_hint": "tahaBerkBeton/improving-a-small-slm-on-gsm8k",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T07:45:34Z"
+        },
+        {
+          "repository_hint": "rlorca/mall-action-sonnet",
+          "repository_id": 1395164576,
+          "repository_created_at": "2026-09-29T12:11:26Z"
+        },
+        {
+          "repository_hint": "Staid01/PROMPTS",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T12:06:47Z"
+        },
+        {
+          "repository_hint": "guiguito/DestructionDerbySonnet",
+          "repository_id": 1395138374,
+          "repository_created_at": "2026-09-29T12:02:05Z"
+        },
+        {
+          "repository_hint": "DaikiKobayashi/sonnet-5-5-web-game-samples",
+          "repository_id": 1394121549,
+          "repository_created_at": "2026-09-29T02:48:56Z"
+        },
+        {
+          "repository_hint": "kingofspace0wzz/cua-swe",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T10:58:15Z"
+        },
+        {
+          "repository_hint": "shep95/toolbar",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T02:53:43Z"
+        },
+        {
+          "repository_hint": "Anuj-k-45/LLM-Eval-Harness",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T09:56:19Z"
+        },
+        {
+          "repository_hint": "peteroomen/green-room",
+          "repository_id": null,
+          "repository_created_at": "2026-09-28T22:48:16Z"
+        },
+        {
+          "repository_hint": "retampweb/PoEWaylandTrade",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T08:07:18Z"
+        },
+        {
+          "repository_hint": "SolbiatiAlessandro/our-story-coworld",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T06:37:35Z"
+        },
+        {
+          "repository_hint": "cth9191/sonnet-opus-astra-prompts",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T06:27:25Z"
+        },
+        {
+          "repository_hint": "Ayan-azim/AI-resume-screener",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T05:58:23Z"
+        },
+        {
+          "repository_hint": "az9713/sonnet-5.5-3d-world-demo",
+          "repository_id": 1394037300,
+          "repository_created_at": "2026-09-29T01:19:30Z"
+        },
+        {
+          "repository_hint": "vivekhub/jargonator",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T04:48:10Z"
+        },
+        {
+          "repository_hint": "zanethevibecoder/Zanes-Utilities",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T00:28:01Z"
+        },
+        {
+          "repository_hint": "angilyu/ai-daily",
+          "repository_id": null,
+          "repository_created_at": "2026-09-28T21:39:00Z"
+        },
+        {
+          "repository_hint": "MFWIC888/AICOs",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T00:51:17Z"
+        },
+        {
+          "repository_hint": "gabrielcamposmartins/learnoru",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T02:54:29Z"
+        },
+        {
+          "repository_hint": "ikriv/nudger",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T03:08:46Z"
+        },
+        {
+          "repository_hint": "apiep/snake-1bit",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T02:42:23Z"
+        },
+        {
+          "repository_hint": "jkobierczynski/Probability_Lab",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T02:12:27Z"
+        },
+        {
+          "repository_hint": "OminousIndustries/SonnetOSRS",
+          "repository_id": 1394045843,
+          "repository_created_at": "2026-09-29T01:30:07Z"
+        },
+        {
+          "repository_hint": "ishaanbadiyani/Hubs192Bank",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T01:25:42Z"
+        },
+        {
+          "repository_hint": "celsomineiro/bmad-loop-zipdev",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T01:06:04Z"
+        },
+        {
+          "repository_hint": "GoldwinXS/YetAnotherVoxelCraft",
+          "repository_id": 1394016098,
+          "repository_created_at": "2026-09-29T00:51:47Z"
+        },
+        {
+          "repository_hint": "vnmoorthy/coldopen",
+          "repository_id": null,
+          "repository_created_at": "2026-09-28T21:28:49Z"
+        },
+        {
+          "repository_hint": "walidboulanouar/awesome-ai-coded-videos",
+          "repository_id": null,
+          "repository_created_at": "2026-09-28T22:11:24Z"
+        },
+        {
+          "repository_hint": "KJLKurt/waterslide-game-sonnet-5.5",
+          "repository_id": 1393790941,
+          "repository_created_at": "2026-09-28T20:23:57Z"
+        },
+        {
+          "repository_hint": "bridge-mind/sonnet-5-5-zombies-game",
+          "repository_id": 1393775459,
+          "repository_created_at": "2026-09-28T20:13:05Z"
+        },
+        {
+          "repository_hint": "AbsonDev/ayrola-kernel",
+          "repository_id": null,
+          "repository_created_at": "2026-09-28T19:43:14Z"
+        },
+        {
+          "repository_hint": "gcdac/n8n",
+          "repository_id": null,
+          "repository_created_at": "2026-09-28T19:40:22Z"
+        },
+        {
+          "repository_hint": "jere67/eecs449-project",
+          "repository_id": null,
+          "repository_created_at": "2026-09-28T18:15:24Z"
+        },
+        {
+          "repository_hint": "Arvindvincentz/prompt-master",
+          "repository_id": null,
+          "repository_created_at": "2026-09-28T17:53:40Z"
+        },
+        {
+          "repository_hint": "lavkumar8307-arch/family-fit-quest",
+          "repository_id": null,
+          "repository_created_at": "2026-09-28T17:48:04Z"
+        }
+      ]
+    },
+    {
+      "query_key": "github:repository:\"6.1\" game created:2026-09-28t17:00:00z..2026-09-30t16:59:59z in:name,description,readme:sort=updated",
+      "query": "\"6.1\" game created:2026-09-28T17:00:00Z..2026-09-30T16:59:59Z in:name,description,readme",
+      "source_family": "repository",
+      "requested_limit": 100,
+      "received": 100,
+      "possibly_capped": true,
+      "status": "completed",
+      "results": [
+        {
+          "repository_hint": "spravadigicare-tech/Tranzit",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T10:39:05Z"
+        },
+        {
+          "repository_hint": "sanufsoiii/parcool-unofficial",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:40:08Z"
+        },
+        {
+          "repository_hint": "sass3r/cacho402",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T01:08:55Z"
+        },
+        {
+          "repository_hint": "moaazmohammad2009-prog/Host",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:31:17Z"
+        },
+        {
+          "repository_hint": "jameen-ali/EdgeTwin-AI",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T08:13:55Z"
+        },
+        {
+          "repository_hint": "neuroplastio/xterm-addon-hotty",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T14:14:04Z"
+        },
+        {
+          "repository_hint": "arcwang30/mouse-hit",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T07:55:53Z"
+        },
+        {
+          "repository_hint": "MinecraftReconstruction/Mantle-Fabric",
+          "repository_id": null,
+          "repository_created_at": "2026-09-28T17:56:35Z"
+        },
+        {
+          "repository_hint": "johnmorrisdotca/korokoro",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T04:31:52Z"
+        },
+        {
+          "repository_hint": "anhot11/LegacyMCPE",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T19:04:56Z"
+        },
+        {
+          "repository_hint": "YusuffEren/metin2-android",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T17:03:00Z"
+        },
+        {
+          "repository_hint": "Nornageste-mh/OurBriefEternityForAccessibility",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T12:30:02Z"
+        },
+        {
+          "repository_hint": "mametaro2023/DDA",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T12:45:03Z"
+        },
+        {
+          "repository_hint": "pleumann/tnylpo",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:56:20Z"
+        },
+        {
+          "repository_hint": "brainmind2047/Abhyas_DSAT_Practice-Paper_21",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:06:38Z"
+        },
+        {
+          "repository_hint": "brainmind2047/Abhyas_DSAT_Practice-Paper_20",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:03:58Z"
+        },
+        {
+          "repository_hint": "Rollin-Robyn/Poke",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T00:43:15Z"
+        },
+        {
+          "repository_hint": "johnmorrisdotca/tane",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T05:00:33Z"
+        },
+        {
+          "repository_hint": "johnmorrisdotca/toranpu",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T05:01:06Z"
+        },
+        {
+          "repository_hint": "reiner5427-eng/kart-racing",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T06:56:50Z"
+        },
+        {
+          "repository_hint": "veloraxxx/FancyNpcsGUI",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T22:39:45Z"
+        },
+        {
+          "repository_hint": "brainmind2047/Abhyas_DSAT_Practice-Paper_15",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:47:57Z"
+        },
+        {
+          "repository_hint": "hellobs/ai-debater",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T12:47:51Z"
+        },
+        {
+          "repository_hint": "Saikiran-sp/Activity-1",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:29:20Z"
+        },
+        {
+          "repository_hint": "denisMoraes21/app_domino",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T11:12:17Z"
+        },
+        {
+          "repository_hint": "brainmind2047/Abhyas_DSAT_Practice-Paper_12",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:30:03Z"
+        },
+        {
+          "repository_hint": "cheercheung/emoji-twenty-questions",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:31:39Z"
+        },
+        {
+          "repository_hint": "lassenai/dqn",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T11:02:41Z"
+        },
+        {
+          "repository_hint": "CloudWang12/Sokoban",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T12:58:11Z"
+        },
+        {
+          "repository_hint": "Lazaniaaa/emberdeep-vibeathon",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T23:48:05Z"
+        },
+        {
+          "repository_hint": "brainmind2047/Abhyas_DSAT_Practice-Paper_10",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:22:18Z"
+        },
+        {
+          "repository_hint": "xys20071111/shiny-octo-parakeet",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T04:12:08Z"
+        },
+        {
+          "repository_hint": "ThuyLinhDo0808/pickleball-manager",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T08:08:35Z"
+        },
+        {
+          "repository_hint": "buildinginweb3/rare-advance",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T08:45:06Z"
+        },
+        {
+          "repository_hint": "mrjjlopez522-maker/YT",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T05:11:42Z"
+        },
+        {
+          "repository_hint": "productmanger14/Game-making",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T06:15:33Z"
+        },
+        {
+          "repository_hint": "neptunnsss/FirstTechChallenge2027",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T13:31:32Z"
+        },
+        {
+          "repository_hint": "2113apps/verified-android-apps",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T13:32:56Z"
+        },
+        {
+          "repository_hint": "wondermagi1/game",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T11:09:21Z"
+        },
+        {
+          "repository_hint": "revilend/Dino-trex",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T06:06:32Z"
+        },
+        {
+          "repository_hint": "super-rr/26FTC",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T12:21:23Z"
+        },
+        {
+          "repository_hint": "WildCake/roblox-blender-modelling",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T09:17:51Z"
+        },
+        {
+          "repository_hint": "gamal-alghol/KMP-vs-flutter-performance",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T01:54:21Z"
+        },
+        {
+          "repository_hint": "Vinylek/SnakeWithAi",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T06:52:52Z"
+        },
+        {
+          "repository_hint": "neetoosan/EmberEngine",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T20:11:01Z"
+        },
+        {
+          "repository_hint": "mouryas-aiml/BHUNETRA",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T05:57:51Z"
+        },
+        {
+          "repository_hint": "swathidbhat/opus5.5-ultracode-trashketball-4",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T19:05:04Z"
+        },
+        {
+          "repository_hint": "gghub433/QE",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T17:13:02Z"
+        },
+        {
+          "repository_hint": "raj-learns/dpdp_grc_analysis",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T11:25:09Z"
+        },
+        {
+          "repository_hint": "ShravanDDeotale/AshhOptimizer",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T10:52:15Z"
+        },
+        {
+          "repository_hint": "B0yko/proof-of-done",
+          "repository_id": null,
+          "repository_created_at": "2026-09-28T20:45:20Z"
+        },
+        {
+          "repository_hint": "hiepdang26/HDC-Library",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T04:33:42Z"
+        },
+        {
+          "repository_hint": "Ghao56/WEB_ASSIGNMENT-gioi-thieu-game-Delta-Force",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T10:10:54Z"
+        },
+        {
+          "repository_hint": "SmartArduino/esp-gbsp",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T10:16:44Z"
+        },
+        {
+          "repository_hint": "quocdat16610-web/project-cuoi-khoa",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T10:30:08Z"
+        },
+        {
+          "repository_hint": "kitkatpandamanic-stack/mafia_panda_bot",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T12:26:52Z"
+        },
+        {
+          "repository_hint": "investmentidea9x-maker/Projects",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T09:16:15Z"
+        },
+        {
+          "repository_hint": "nicoletterenata/vector-the-game",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T10:10:46Z"
+        },
+        {
+          "repository_hint": "Sargam208/retention-analytics",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T10:09:58Z"
+        },
+        {
+          "repository_hint": "1943767778/TencentUnrealEnginePaks",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T09:51:26Z"
+        },
+        {
+          "repository_hint": "xqk110916/pet77",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T03:40:36Z"
+        },
+        {
+          "repository_hint": "FitsumMehari/evolune",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T13:16:02Z"
+        },
+        {
+          "repository_hint": "threejue/CloudGame_AutoTest",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T05:40:25Z"
+        },
+        {
+          "repository_hint": "AndreiDaniDev/Ftc-Biobuzz-learning",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T09:31:24Z"
+        },
+        {
+          "repository_hint": "Sh1ljo/Dictionquest",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T08:44:36Z"
+        },
+        {
+          "repository_hint": "e2sy/hearth",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T08:29:03Z"
+        },
+        {
+          "repository_hint": "stevexps17/spire-coop-trainer",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T08:52:47Z"
+        },
+        {
+          "repository_hint": "NoctuaLabs/noctua-godot-sample",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T07:03:06Z"
+        },
+        {
+          "repository_hint": "NoctuaLabs/noctua-godot-sdk",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T07:01:48Z"
+        },
+        {
+          "repository_hint": "jwz0703/blocks3d",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T08:10:27Z"
+        },
+        {
+          "repository_hint": "fajaredip/darago",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T08:30:08Z"
+        },
+        {
+          "repository_hint": "moderngentlemen-sudo/nova-striker-gpt6.1",
+          "repository_id": 1397055434,
+          "repository_created_at": "2026-09-30T05:25:49Z"
+        },
+        {
+          "repository_hint": "pravityo/questracker",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T04:32:28Z"
+        },
+        {
+          "repository_hint": "Awesome-llms-labs/awesome-flash-llms",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T02:07:55Z"
+        },
+        {
+          "repository_hint": "khaichonggg/Bumper-Brawl",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T04:25:27Z"
+        },
+        {
+          "repository_hint": "Mrzaytoon/stand-dos-cintoes",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T08:08:02Z"
+        },
+        {
+          "repository_hint": "rajatslakhina/review-readiness-gate-article-demo",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T07:53:54Z"
+        },
+        {
+          "repository_hint": "aji110905/Modrinth-Publish",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T17:16:44Z"
+        },
+        {
+          "repository_hint": "VorticonCmdr/re-gods",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T07:53:59Z"
+        },
+        {
+          "repository_hint": "vishalsikarwar20/01_basics",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T06:22:45Z"
+        },
+        {
+          "repository_hint": "vi0let-dev/sakura-gomoku",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T07:09:54Z"
+        },
+        {
+          "repository_hint": "Jaaaayden/pokernow-extension-v1",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T03:01:24Z"
+        },
+        {
+          "repository_hint": "Zhuangzhouu/a-ball-html",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T05:23:19Z"
+        },
+        {
+          "repository_hint": "Dev-Neulbo/BunkerGame",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T06:42:35Z"
+        },
+        {
+          "repository_hint": "Kotofey008/EXPoMCPE",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T23:47:18Z"
+        },
+        {
+          "repository_hint": "Choyuli/GameVRProject",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T06:16:24Z"
+        },
+        {
+          "repository_hint": "Z7Z114/gsb31",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T06:58:09Z"
+        },
+        {
+          "repository_hint": "Your0770/game",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T06:05:35Z"
+        },
+        {
+          "repository_hint": "qkrcowns/Virtual_Reality_Game",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T06:07:22Z"
+        },
+        {
+          "repository_hint": "Paidala-Nirmala/CareerMind_AI",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T06:47:35Z"
+        },
+        {
+          "repository_hint": "ZeuskaF/ygo-fm-rom-suite",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T06:48:26Z"
+        },
+        {
+          "repository_hint": "arvindark-07/careermind_ai",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T19:14:50Z"
+        },
+        {
+          "repository_hint": "Heyaily/Torch-Bow-Datapack",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T06:27:31Z"
+        },
+        {
+          "repository_hint": "moxiaomo856/paxi-choujiang-danbi",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T05:31:25Z"
+        },
+        {
+          "repository_hint": "0MinJ/PJ_PaperGame",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T05:05:17Z"
+        },
+        {
+          "repository_hint": "aniki-16x16/card-game",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T04:02:05Z"
+        },
+        {
+          "repository_hint": "Flynn-Mac-97/BGE",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T01:44:04Z"
+        },
+        {
+          "repository_hint": "bdkiran/rome-open-war",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T03:19:52Z"
+        },
+        {
+          "repository_hint": "MMusto/CrapsCount",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T06:17:13Z"
+        },
+        {
+          "repository_hint": "isthakmohammad15-sketch/ludo",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T05:49:30Z"
+        }
+      ]
+    },
+    {
+      "query_key": "github:repository:\"gpt-6.1\" created:2026-09-28t17:00:00z..2026-09-30t16:59:59z in:name,description,readme:sort=updated",
+      "query": "\"gpt-6.1\" created:2026-09-28T17:00:00Z..2026-09-30T16:59:59Z in:name,description,readme",
+      "source_family": "repository",
+      "requested_limit": 100,
+      "received": 100,
+      "possibly_capped": true,
+      "status": "completed",
+      "results": [
+        {
+          "repository_hint": "davidegeric-cloud/forge-codex-workspace",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T10:26:12Z"
+        },
+        {
+          "repository_hint": "leyao-daily/llm-guard",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T12:42:51Z"
+        },
+        {
+          "repository_hint": "NaC-L/harness-bench",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:57:18Z"
+        },
+        {
+          "repository_hint": "xexefe121/claude-orchestra",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:37:11Z"
+        },
+        {
+          "repository_hint": "fictivemotion/feimo-desktop-assistant",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T03:12:15Z"
+        },
+        {
+          "repository_hint": "ginnung-tech/llm-ladder-count",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:21:59Z"
+        },
+        {
+          "repository_hint": "sijav/Sijav-Skills",
+          "repository_id": null,
+          "repository_created_at": "2026-09-28T21:54:01Z"
+        },
+        {
+          "repository_hint": "elves-ai/dsh-llm-nowcoding",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T04:05:52Z"
+        },
+        {
+          "repository_hint": "R4yHarris/github-agent-roster",
+          "repository_id": null,
+          "repository_created_at": "2026-09-28T22:18:25Z"
+        },
+        {
+          "repository_hint": "kzinmr/ai-topics-pi",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T04:40:47Z"
+        },
+        {
+          "repository_hint": "xichia/sol-luna-grok-workflow",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T11:50:31Z"
+        },
+        {
+          "repository_hint": "sbrpgr/project_neumann",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T07:42:05Z"
+        },
+        {
+          "repository_hint": "xichia/sol-luna-astra-workflow",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T20:29:20Z"
+        },
+        {
+          "repository_hint": "yuvananch-svg/HR",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T16:35:45Z"
+        },
+        {
+          "repository_hint": "isayrhythm/pelican-benchmark",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T09:02:03Z"
+        },
+        {
+          "repository_hint": "calinrus-dev/agent-workstation",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:01:18Z"
+        },
+        {
+          "repository_hint": "dodola/ielts-weekly-readings",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T08:38:28Z"
+        },
+        {
+          "repository_hint": "313715295/ChatGPT-Test",
+          "repository_id": 1396943068,
+          "repository_created_at": "2026-09-30T03:58:41Z"
+        },
+        {
+          "repository_hint": "lucasyindev/dsh-subscription-bridge",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T12:37:35Z"
+        },
+        {
+          "repository_hint": "browillow/chesterfield-business-research",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:22:43Z"
+        },
+        {
+          "repository_hint": "cheercheung/emoji-twenty-questions",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:31:39Z"
+        },
+        {
+          "repository_hint": "AIMFllyYS/TryProtocom-Model-Compare",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T03:53:49Z"
+        },
+        {
+          "repository_hint": "FetchUpstream/pi-jev-tools",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T10:30:48Z"
+        },
+        {
+          "repository_hint": "dainsiahtill-dev/Paperclip-Titan",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T11:38:09Z"
+        },
+        {
+          "repository_hint": "PoulavBhowmick03/wallet-privacy-mirror",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T09:29:05Z"
+        },
+        {
+          "repository_hint": "mas-repo/econ-database2",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T09:27:39Z"
+        },
+        {
+          "repository_hint": "chillqoder/GPT-6.1-Sol",
+          "repository_id": 1397877629,
+          "repository_created_at": "2026-09-30T12:29:53Z"
+        },
+        {
+          "repository_hint": "piyush-gambhir/codex-pr-review",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T21:18:20Z"
+        },
+        {
+          "repository_hint": "musman550/musfira-ai-gpt-61-sol-in-github-copilot",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T12:19:12Z"
+        },
+        {
+          "repository_hint": "WildCake/roblox-blender-modelling",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T09:17:51Z"
+        },
+        {
+          "repository_hint": "Tasogarre/orchestrator",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T11:30:41Z"
+        },
+        {
+          "repository_hint": "Yaxun-Yang/codex-effort-with-jev",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T12:10:35Z"
+        },
+        {
+          "repository_hint": "furinasdog/codex-bridge",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T07:52:27Z"
+        },
+        {
+          "repository_hint": "AndyShiue/vibed-audiobook",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T10:49:59Z"
+        },
+        {
+          "repository_hint": "openmimir/openmimir",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T07:26:41Z"
+        },
+        {
+          "repository_hint": "jemdiggity/kojo",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T04:11:56Z"
+        },
+        {
+          "repository_hint": "swathidbhat/gpt6.1-sol-ultra-codex-trashketball",
+          "repository_id": 1397735108,
+          "repository_created_at": "2026-09-30T11:33:02Z"
+        },
+        {
+          "repository_hint": "swathidbhat/gpt6.1-sol-max-codex-trashketball",
+          "repository_id": 1397734089,
+          "repository_created_at": "2026-09-30T11:32:38Z"
+        },
+        {
+          "repository_hint": "swathidbhat/gpt6.1-sol-extrahigh-codex-trashketball",
+          "repository_id": 1397733163,
+          "repository_created_at": "2026-09-30T11:32:13Z"
+        },
+        {
+          "repository_hint": "swathidbhat/gpt6.1-sol-high-codex-trashketball",
+          "repository_id": 1397731385,
+          "repository_created_at": "2026-09-30T11:31:31Z"
+        },
+        {
+          "repository_hint": "mario110333/quota-aware-agents",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T11:09:58Z"
+        },
+        {
+          "repository_hint": "sungkukpark/gdd-review-kit-ko",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T17:36:37Z"
+        },
+        {
+          "repository_hint": "Spongeblob-Bigpants/codex-code-router",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T10:40:30Z"
+        },
+        {
+          "repository_hint": "okonio/felt-dot-gpt-vs-opus",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T10:28:24Z"
+        },
+        {
+          "repository_hint": "Kaulik2004/Weight_extractor_for_Myospect",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T09:50:14Z"
+        },
+        {
+          "repository_hint": "haritdheer/VoiceQuery",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T05:18:56Z"
+        },
+        {
+          "repository_hint": "guochengran464-byte/codex-dsh-mcp",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T07:47:02Z"
+        },
+        {
+          "repository_hint": "RamenFast/SymbolOS",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T05:33:33Z"
+        },
+        {
+          "repository_hint": "JA-Marshall/aa-cost-per-task",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T09:01:54Z"
+        },
+        {
+          "repository_hint": "lbtlm/open-jarvis",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T07:11:10Z"
+        },
+        {
+          "repository_hint": "chemitaro/oracle-top",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T06:17:16Z"
+        },
+        {
+          "repository_hint": "danielli20000912-ctrl/fuck-openai",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T07:43:47Z"
+        },
+        {
+          "repository_hint": "joonlab/gpt-6.1-sol-benchmark",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T08:33:31Z"
+        },
+        {
+          "repository_hint": "moderngentlemen-sudo/nova-striker-gpt6.1",
+          "repository_id": 1397055434,
+          "repository_created_at": "2026-09-30T05:25:49Z"
+        },
+        {
+          "repository_hint": "pravityo/questracker",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T04:32:28Z"
+        },
+        {
+          "repository_hint": "Nauki1/antigravity-codex-skill",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T07:09:44Z"
+        },
+        {
+          "repository_hint": "Awesome-llms-labs/awesome-flash-llms",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T02:07:55Z"
+        },
+        {
+          "repository_hint": "Awesome-llms-labs/awesome-flagship-llms",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T02:35:59Z"
+        },
+        {
+          "repository_hint": "lastrial/AST",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T08:17:46Z"
+        },
+        {
+          "repository_hint": "jasonz1987/gpt6-video-chatgpt",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T08:04:00Z"
+        },
+        {
+          "repository_hint": "jasonz1987/gpt6-video-deepseek",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T06:19:28Z"
+        },
+        {
+          "repository_hint": "mergisi/awesome-dots",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T17:16:57Z"
+        },
+        {
+          "repository_hint": "aserdargun/aos",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T06:40:04Z"
+        },
+        {
+          "repository_hint": "hollinlee/pi-development-workflow",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T05:17:56Z"
+        },
+        {
+          "repository_hint": "aserdargun/ai-scientist",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T06:58:20Z"
+        },
+        {
+          "repository_hint": "iamwangxi/apex-p03-nivat-complementary-bounds",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T07:04:43Z"
+        },
+        {
+          "repository_hint": "th3nolo/semgate",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T13:56:19Z"
+        },
+        {
+          "repository_hint": "zhoudebao6-art/software-case-batch",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T03:10:52Z"
+        },
+        {
+          "repository_hint": "ylv01/prompt-harbor",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T07:50:42Z"
+        },
+        {
+          "repository_hint": "Mohamedsare/fasoemplois",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T21:55:23Z"
+        },
+        {
+          "repository_hint": "villenull/OpenCodeGoWatcher",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T19:32:56Z"
+        },
+        {
+          "repository_hint": "NickkkLian/nk-two-brain",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T04:35:36Z"
+        },
+        {
+          "repository_hint": "Mrutyunjay01/text2sql-chat",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T18:13:19Z"
+        },
+        {
+          "repository_hint": "NickkkLian/nk-jubensha",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T04:34:21Z"
+        },
+        {
+          "repository_hint": "VanSchulist/mcp-mesh-eval",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T04:26:41Z"
+        },
+        {
+          "repository_hint": "bioShaun/codex-agent-kit",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T03:45:40Z"
+        },
+        {
+          "repository_hint": "eshir0/stock-lab",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T08:04:23Z"
+        },
+        {
+          "repository_hint": "luoluoluo22/chatgpt-codex-gpt-6.1-troubleshooting",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T03:42:29Z"
+        },
+        {
+          "repository_hint": "juaniRD23/lumio-browser",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T03:21:25Z"
+        },
+        {
+          "repository_hint": "Masikomoore/Multi-model-sync",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T01:55:38Z"
+        },
+        {
+          "repository_hint": "bdmdakash348-crypto/gpt-6-1-sol-agent-guide",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T03:12:38Z"
+        },
+        {
+          "repository_hint": "sygnomkt-ops/openai-agents-workflow-guide",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T03:09:26Z"
+        },
+        {
+          "repository_hint": "Desz01ate/OMP-Plugins",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T02:52:45Z"
+        },
+        {
+          "repository_hint": "Sevaschan/sol-request-auditor",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T02:21:56Z"
+        },
+        {
+          "repository_hint": "Maynor996/gpt-6.1-sol-api",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T02:48:48Z"
+        },
+        {
+          "repository_hint": "ljunein-oss/Loom-Shader-CodeAgent4Unity",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T00:51:23Z"
+        },
+        {
+          "repository_hint": "izmailov-labs/franca",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T01:51:58Z"
+        },
+        {
+          "repository_hint": "Ryota-Sotoguchi/jobchange",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T14:04:50Z"
+        },
+        {
+          "repository_hint": "JaronKBragg7337/AI-Framing-Study",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T02:14:58Z"
+        },
+        {
+          "repository_hint": "joelhooks/pi-muster",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T19:10:32Z"
+        },
+        {
+          "repository_hint": "Aakash1337/Recrute",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T00:02:21Z"
+        },
+        {
+          "repository_hint": "KJLKurt/waterslide-game-gpt-6.1-sol",
+          "repository_id": 1396781432,
+          "repository_created_at": "2026-09-30T01:07:52Z"
+        },
+        {
+          "repository_hint": "Jnkweti/ai-hub",
+          "repository_id": null,
+          "repository_created_at": "2026-09-28T23:38:37Z"
+        },
+        {
+          "repository_hint": "danilostoletovic/secretary",
+          "repository_id": null,
+          "repository_created_at": "2026-09-28T19:04:49Z"
+        },
+        {
+          "repository_hint": "cnpcshangbo/ara-cerra-assistant-benchmark",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T00:35:57Z"
+        },
+        {
+          "repository_hint": "filipebsmaia/ai-audio-assistant",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T00:20:36Z"
+        },
+        {
+          "repository_hint": "RSB-HOLDING/codex-agent-tree",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T23:26:01Z"
+        },
+        {
+          "repository_hint": "evgyur/codex-agent-tree",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T23:56:49Z"
+        },
+        {
+          "repository_hint": "iversongao5211-sketch/cpa-devin-live-models",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T23:28:26Z"
+        },
+        {
+          "repository_hint": "shaecodes-wilde/orca-wilde-rust",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T22:55:19Z"
+        }
+      ]
+    },
+    {
+      "query_key": "github:repository:game opus created:2026-09-28t17:00:00z..2026-09-30t16:59:59z in:name,description,readme:sort=updated",
+      "query": "game Opus created:2026-09-28T17:00:00Z..2026-09-30T16:59:59Z in:name,description,readme",
+      "source_family": "repository",
+      "requested_limit": 100,
+      "received": 100,
+      "possibly_capped": true,
+      "status": "completed",
+      "results": [
+        {
+          "repository_hint": "DA-Tran/mokey",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:45:16Z"
+        },
+        {
+          "repository_hint": "VoKhoiNhon/open-skill-standard",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T04:49:20Z"
+        },
+        {
+          "repository_hint": "Leichtbier/core-business",
+          "repository_id": 1398272295,
+          "repository_created_at": "2026-09-30T14:36:26Z"
+        },
+        {
+          "repository_hint": "wfryer/vibe-code-lab",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:39:37Z"
+        },
+        {
+          "repository_hint": "johalon/TestPseudo3DShooter2",
+          "repository_id": 1398257893,
+          "repository_created_at": "2026-09-30T14:31:43Z"
+        },
+        {
+          "repository_hint": "Erige005/Kirikiroid2-NX",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:41:44Z"
+        },
+        {
+          "repository_hint": "Aaron40776/Smart",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T11:55:06Z"
+        },
+        {
+          "repository_hint": "magicelk235/Lector",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T14:19:43Z"
+        },
+        {
+          "repository_hint": "gamesbyai/catalog",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T12:36:12Z"
+        },
+        {
+          "repository_hint": "ZLHad/OpenVideoHarness",
+          "repository_id": null,
+          "repository_created_at": "2026-09-28T18:22:24Z"
+        },
+        {
+          "repository_hint": "Theicd/SOS--GAME03-BY-kart-royale",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T14:50:08Z"
+        },
+        {
+          "repository_hint": "FernandoCelmer/tribal-assistant",
+          "repository_id": null,
+          "repository_created_at": "2026-09-28T23:22:25Z"
+        },
+        {
+          "repository_hint": "LioraLabs/gravewake",
+          "repository_id": 1398221446,
+          "repository_created_at": "2026-09-30T14:20:20Z"
+        },
+        {
+          "repository_hint": "Tazwinator/Tilde",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T10:42:27Z"
+        },
+        {
+          "repository_hint": "alexeldeib/double-dipper",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T01:41:18Z"
+        },
+        {
+          "repository_hint": "NekoSuneVR/androidemu",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T08:36:00Z"
+        },
+        {
+          "repository_hint": "monstercameron/dungeonfluxGame",
+          "repository_id": 1397035341,
+          "repository_created_at": "2026-09-30T05:13:00Z"
+        },
+        {
+          "repository_hint": "Crinklyink/game-by-Opus",
+          "repository_id": 1397158606,
+          "repository_created_at": "2026-09-30T06:19:14Z"
+        },
+        {
+          "repository_hint": "dexnotavailable/coldfront",
+          "repository_id": 1398117734,
+          "repository_created_at": "2026-09-30T13:49:03Z"
+        },
+        {
+          "repository_hint": "Codewiz2898/sports-follow",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T12:00:54Z"
+        },
+        {
+          "repository_hint": "oh-ashen-one/claude-code-game-builder",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T18:28:08Z"
+        },
+        {
+          "repository_hint": "ornata/mario2mario",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:41:51Z"
+        },
+        {
+          "repository_hint": "ollypolly/duel-table",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T13:08:34Z"
+        },
+        {
+          "repository_hint": "xRopers/audscan",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:18:35Z"
+        },
+        {
+          "repository_hint": "jsandhagen/jobtrack",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T12:52:24Z"
+        },
+        {
+          "repository_hint": "kim-sana/delance",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:35:08Z"
+        },
+        {
+          "repository_hint": "cheercheung/emoji-twenty-questions",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:31:39Z"
+        },
+        {
+          "repository_hint": "CallMeTom1/code-kata-card-game",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T07:27:32Z"
+        },
+        {
+          "repository_hint": "marbaji/maze",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T23:31:46Z"
+        },
+        {
+          "repository_hint": "Mourty/Weir",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T04:16:19Z"
+        },
+        {
+          "repository_hint": "him6ul/python_for_kids",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T05:17:29Z"
+        },
+        {
+          "repository_hint": "albertferreira2020/ndc",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T04:46:48Z"
+        },
+        {
+          "repository_hint": "Nooskewl/allegro5",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T12:47:58Z"
+        },
+        {
+          "repository_hint": "chaotic-illusions/shadowrun-world",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T22:52:47Z"
+        },
+        {
+          "repository_hint": "shinkirou520/arknights-like-engine",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T12:19:33Z"
+        },
+        {
+          "repository_hint": "danyacfx-source/beda-clan-bot",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T11:34:55Z"
+        },
+        {
+          "repository_hint": "tanuu5/last-courier",
+          "repository_id": 1397582085,
+          "repository_created_at": "2026-09-30T10:16:12Z"
+        },
+        {
+          "repository_hint": "christopher47634/kline-replay",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T02:54:35Z"
+        },
+        {
+          "repository_hint": "soudamgaurav/nfl-live-markets",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T11:23:51Z"
+        },
+        {
+          "repository_hint": "amemiya02/pdoom-video-win95",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T11:33:23Z"
+        },
+        {
+          "repository_hint": "L1vsun/NEONBAY",
+          "repository_id": 1395247402,
+          "repository_created_at": "2026-09-29T12:40:48Z"
+        },
+        {
+          "repository_hint": "thanhauco/chomp-game-agent-jev",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T11:35:02Z"
+        },
+        {
+          "repository_hint": "DJuaqo-Rothmund/PachAPP",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T13:57:59Z"
+        },
+        {
+          "repository_hint": "swathidbhat/opus5.5-ultracode-trashketball-4",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T19:05:04Z"
+        },
+        {
+          "repository_hint": "squallsoft/CrystalProject-ModPack",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T11:18:57Z"
+        },
+        {
+          "repository_hint": "ketanofc/doodlebattles",
+          "repository_id": 1395508918,
+          "repository_created_at": "2026-09-29T14:02:58Z"
+        },
+        {
+          "repository_hint": "ducdv98/what-the-song",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T07:59:43Z"
+        },
+        {
+          "repository_hint": "legstrong77-maker/probe-card-lab",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T15:43:12Z"
+        },
+        {
+          "repository_hint": "JoaquinRuiz/medula",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T18:02:17Z"
+        },
+        {
+          "repository_hint": "abdurakhmonmakhametov/MIXPIN",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T10:52:18Z"
+        },
+        {
+          "repository_hint": "heeyblitz/dawnwalker-lacra-repair",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T09:16:02Z"
+        },
+        {
+          "repository_hint": "hieplv95/gameslither",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T18:22:18Z"
+        },
+        {
+          "repository_hint": "jankepinski/jankepinski",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T10:36:37Z"
+        },
+        {
+          "repository_hint": "cube12x/silent",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T14:28:09Z"
+        },
+        {
+          "repository_hint": "luzhipeng728/dawnbreak",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T03:21:19Z"
+        },
+        {
+          "repository_hint": "Seokwoooo/promptfilm",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T09:37:27Z"
+        },
+        {
+          "repository_hint": "AIimagined/Yellowpages",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T12:41:50Z"
+        },
+        {
+          "repository_hint": "Legerdo/beat-foundry",
+          "repository_id": 1397526097,
+          "repository_created_at": "2026-09-30T09:44:54Z"
+        },
+        {
+          "repository_hint": "XPro-Gamer-Rhine/r9view-app",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T09:30:31Z"
+        },
+        {
+          "repository_hint": "SubmitGame/Claude-vs-ChatGPT",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T07:14:03Z"
+        },
+        {
+          "repository_hint": "fitfighterkcal/PulseStream",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T08:16:36Z"
+        },
+        {
+          "repository_hint": "npc20080528/NPC-CLI-Homescreen-Public",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T08:56:52Z"
+        },
+        {
+          "repository_hint": "SubmitGame/AI-Games-feed",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T07:14:00Z"
+        },
+        {
+          "repository_hint": "aryabailur/sih26121",
+          "repository_id": null,
+          "repository_created_at": "2026-09-28T19:18:26Z"
+        },
+        {
+          "repository_hint": "statico/jev-nethack",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T05:21:41Z"
+        },
+        {
+          "repository_hint": "phoenixboyjoel/robloxvibes",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T22:18:49Z"
+        },
+        {
+          "repository_hint": "Kunlun-Zhu/Awesome-RSI-AI4AI",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T04:29:31Z"
+        },
+        {
+          "repository_hint": "knarayanareddy/myjevuses",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T16:03:29Z"
+        },
+        {
+          "repository_hint": "Jack-the-Pro101/Aura-MC-Intro",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T04:52:31Z"
+        },
+        {
+          "repository_hint": "thunderbird2013/libZFork-sdk",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T06:34:31Z"
+        },
+        {
+          "repository_hint": "Aryanwin/claude-local-evolve",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T18:47:41Z"
+        },
+        {
+          "repository_hint": "xiaotian1171/pollinations-godot",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T05:18:31Z"
+        },
+        {
+          "repository_hint": "galawaydude/stickwars",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T08:50:09Z"
+        },
+        {
+          "repository_hint": "leonvanzyl/3d-golf-opus",
+          "repository_id": 1397028493,
+          "repository_created_at": "2026-09-30T05:08:23Z"
+        },
+        {
+          "repository_hint": "IAFahim/irohnet-samples",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T05:03:20Z"
+        },
+        {
+          "repository_hint": "lhymite36-bot/voice-to-short",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T17:38:11Z"
+        },
+        {
+          "repository_hint": "ChristianVeneko/CLIP-MAKER",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T22:41:19Z"
+        },
+        {
+          "repository_hint": "smytiiiiii/betclic",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T03:43:58Z"
+        },
+        {
+          "repository_hint": "CharlExMachina/doomsday-benchmark",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T01:19:53Z"
+        },
+        {
+          "repository_hint": "LJAguil/Npc-Village",
+          "repository_id": 1396730285,
+          "repository_created_at": "2026-09-29T23:55:11Z"
+        },
+        {
+          "repository_hint": "GeraldYa/Niuxue-Films",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T05:55:07Z"
+        },
+        {
+          "repository_hint": "ethanplusai/outpace",
+          "repository_id": 1396911123,
+          "repository_created_at": "2026-09-30T03:29:19Z"
+        },
+        {
+          "repository_hint": "robece/learning-agents",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T03:03:54Z"
+        },
+        {
+          "repository_hint": "marknutter/tg-relay-tts",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T18:07:15Z"
+        },
+        {
+          "repository_hint": "ljunein-oss/Loom-Shader-CodeAgent4Unity",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T00:51:23Z"
+        },
+        {
+          "repository_hint": "ebright09/pepe-fundamentals-assignment-1",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T02:40:35Z"
+        },
+        {
+          "repository_hint": "awn3x/Open-Backrooms",
+          "repository_id": 1396727869,
+          "repository_created_at": "2026-09-29T23:51:41Z"
+        },
+        {
+          "repository_hint": "pipelinepilot1999/civic-rag-eval",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T02:22:15Z"
+        },
+        {
+          "repository_hint": "jsherman999/minecraft",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T01:47:18Z"
+        },
+        {
+          "repository_hint": "joyrider3774/puzzleland_embedded",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T01:57:20Z"
+        },
+        {
+          "repository_hint": "jimbozoomer-byte/jugcraft",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T02:12:42Z"
+        },
+        {
+          "repository_hint": "Legerdo/game-image-ai-guide",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T02:00:18Z"
+        },
+        {
+          "repository_hint": "ayushyadav90708-ux/demon_1.21.11.jar",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T09:15:11Z"
+        },
+        {
+          "repository_hint": "michaelcrosatoDM/claude-code-cloud-usage-credits-test",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T23:10:08Z"
+        },
+        {
+          "repository_hint": "HiAPIAI/awesome-opus-5-5-video-styles",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T07:52:01Z"
+        },
+        {
+          "repository_hint": "Legerdo/game-feel-juice-pixel",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T01:35:32Z"
+        },
+        {
+          "repository_hint": "Maximusdurden/neon-strike",
+          "repository_id": 1396785257,
+          "repository_created_at": "2026-09-30T01:13:19Z"
+        },
+        {
+          "repository_hint": "ArogyaReddy/claude-code-hooks-multi-agent-observability",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T01:11:17Z"
+        },
+        {
+          "repository_hint": "PKDT-93/sc2-ultrawide",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T03:10:45Z"
+        },
+        {
+          "repository_hint": "enrell/laira",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T00:02:27Z"
+        }
+      ]
+    },
+    {
+      "query_key": "github:repository:game \"gpt-6.1\" created:2026-09-28t17:00:00z..2026-09-30t16:59:59z in:name,description,readme:sort=updated",
+      "query": "game \"GPT-6.1\" created:2026-09-28T17:00:00Z..2026-09-30T16:59:59Z in:name,description,readme",
+      "source_family": "repository",
+      "requested_limit": 100,
+      "received": 10,
+      "possibly_capped": false,
+      "status": "completed",
+      "results": [
+        {
+          "repository_hint": "cheercheung/emoji-twenty-questions",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T13:31:39Z"
+        },
+        {
+          "repository_hint": "WildCake/roblox-blender-modelling",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T09:17:51Z"
+        },
+        {
+          "repository_hint": "moderngentlemen-sudo/nova-striker-gpt6.1",
+          "repository_id": 1397055434,
+          "repository_created_at": "2026-09-30T05:25:49Z"
+        },
+        {
+          "repository_hint": "pravityo/questracker",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T04:32:28Z"
+        },
+        {
+          "repository_hint": "Awesome-llms-labs/awesome-flash-llms",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T02:07:55Z"
+        },
+        {
+          "repository_hint": "NickkkLian/nk-jubensha",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T04:34:21Z"
+        },
+        {
+          "repository_hint": "ljunein-oss/Loom-Shader-CodeAgent4Unity",
+          "repository_id": null,
+          "repository_created_at": "2026-09-30T00:51:23Z"
+        },
+        {
+          "repository_hint": "KJLKurt/waterslide-game-gpt-6.1-sol",
+          "repository_id": 1396781432,
+          "repository_created_at": "2026-09-30T01:07:52Z"
+        },
+        {
+          "repository_hint": "rlorca/mall-action",
+          "repository_id": 1395253081,
+          "repository_created_at": "2026-09-29T12:43:03Z"
+        },
+        {
+          "repository_hint": "Mitchk1995/retrosim",
+          "repository_id": null,
+          "repository_created_at": "2026-09-29T19:01:16Z"
+        }
+      ]
+    },
+    {
+      "query_key": "github:commit:\"claude sonnet 5.5\" game committer-date:2026-09-28..2026-09-30:sort=committer-date",
+      "query": "\"Claude Sonnet 5.5\" game committer-date:2026-09-28..2026-09-30",
+      "source_family": "commit",
+      "requested_limit": 100,
+      "received": 100,
+      "possibly_capped": true,
+      "status": "completed",
+      "results": [
+        {
+          "repository_hint": "juan504n/spyro-game",
+          "repository_id": 1396167582,
+          "sha": "92bbe27dd36c6f347db07e734a281591fb09c1c4",
+          "evidence_url": "https://github.com/juan504n/spyro-game/commit/92bbe27dd36c6f347db07e734a281591fb09c1c4"
+        },
+        {
+          "repository_hint": "jamesdillon9051-sketch/Culinaryrecipie",
+          "repository_id": null,
+          "sha": "ac7b72c6f7109a5485ba607240da717da4743e8c",
+          "evidence_url": "https://github.com/jamesdillon9051-sketch/Culinaryrecipie/commit/ac7b72c6f7109a5485ba607240da717da4743e8c"
+        },
+        {
+          "repository_hint": "SpooksMcDoots/fantasy-basketball-dynasty-sim",
+          "repository_id": 1398169028,
+          "sha": "5988fe32e7f3e833fdd2863da7b413a7334f4b4a",
+          "evidence_url": "https://github.com/SpooksMcDoots/fantasy-basketball-dynasty-sim/commit/5988fe32e7f3e833fdd2863da7b413a7334f4b4a"
+        },
+        {
+          "repository_hint": "ElliotCay/app-simon-loreal",
+          "repository_id": null,
+          "sha": "1837a9ba366092e3d769c27c5281c2db26628ace",
+          "evidence_url": "https://github.com/ElliotCay/app-simon-loreal/commit/1837a9ba366092e3d769c27c5281c2db26628ace"
+        },
+        {
+          "repository_hint": "Cariboucolas/my-steam-profil",
+          "repository_id": null,
+          "sha": "b8b45d0e845bfe96d30edc11bcbfadd62fe93618",
+          "evidence_url": "https://github.com/Cariboucolas/my-steam-profil/commit/b8b45d0e845bfe96d30edc11bcbfadd62fe93618"
+        },
+        {
+          "repository_hint": "hunterawsome1243/flappy-cat",
+          "repository_id": 1398252449,
+          "sha": "a13885c7c059c8fb301e32d04b490da0ccbbe4a9",
+          "evidence_url": "https://github.com/hunterawsome1243/flappy-cat/commit/a13885c7c059c8fb301e32d04b490da0ccbbe4a9"
+        },
+        {
+          "repository_hint": "PlayologyEntertainment/Hollywoodland",
+          "repository_id": null,
+          "sha": "9d36f4b8c98f2b91d413f76324a322ab3db76af4",
+          "evidence_url": "https://github.com/PlayologyEntertainment/Hollywoodland/commit/9d36f4b8c98f2b91d413f76324a322ab3db76af4"
+        },
+        {
+          "repository_hint": "5thlayer/factoryworks",
+          "repository_id": null,
+          "sha": "c942ed1ee197be3a72f568571360f725438c2e4e",
+          "evidence_url": "https://github.com/5thlayer/factoryworks/commit/c942ed1ee197be3a72f568571360f725438c2e4e"
+        },
+        {
+          "repository_hint": "sweat-this/level5",
+          "repository_id": null,
+          "sha": "d90e5e0bc800338db270762a213074ed2107163d",
+          "evidence_url": "https://github.com/sweat-this/level5/commit/d90e5e0bc800338db270762a213074ed2107163d"
+        },
+        {
+          "repository_hint": "guilhermeandradejid-eng/procedural-samurai",
+          "repository_id": null,
+          "sha": "d084c16872e0d94a3b3e68b9379e6767fdb17d24",
+          "evidence_url": "https://github.com/guilhermeandradejid-eng/procedural-samurai/commit/d084c16872e0d94a3b3e68b9379e6767fdb17d24"
+        },
+        {
+          "repository_hint": "sp1r1tVSA/logovobot",
+          "repository_id": null,
+          "sha": "4ca31c734821e8c64a03ea4f094ecc0c4f232c3a",
+          "evidence_url": "https://github.com/sp1r1tVSA/logovobot/commit/4ca31c734821e8c64a03ea4f094ecc0c4f232c3a"
+        },
+        {
+          "repository_hint": "derHeinzer/yunicorn",
+          "repository_id": 1397122613,
+          "sha": "2e37d958f9748c4cd6cf0bff1963dc9258127d0b",
+          "evidence_url": "https://github.com/derHeinzer/yunicorn/commit/2e37d958f9748c4cd6cf0bff1963dc9258127d0b"
+        },
+        {
+          "repository_hint": "gdgromacitta/dev-fest-2026",
+          "repository_id": null,
+          "sha": "c418768e421c5089a497f71c29ad942c8692f313",
+          "evidence_url": "https://github.com/gdgromacitta/dev-fest-2026/commit/c418768e421c5089a497f71c29ad942c8692f313"
+        },
+        {
+          "repository_hint": "tomaszsb/Game_alpha",
+          "repository_id": null,
+          "sha": "3bd36cf7726f64f46b5687bfed0dff3d81672e51",
+          "evidence_url": "https://github.com/tomaszsb/Game_alpha/commit/3bd36cf7726f64f46b5687bfed0dff3d81672e51"
+        },
+        {
+          "repository_hint": "MadvillainQuas/website",
+          "repository_id": null,
+          "sha": "e54264d37df4e6eda158bc0eb3f44d172e00d878",
+          "evidence_url": "https://github.com/MadvillainQuas/website/commit/e54264d37df4e6eda158bc0eb3f44d172e00d878"
+        },
+        {
+          "repository_hint": "gdgromacitta/dev-fest-2026",
+          "repository_id": null,
+          "sha": "914a00fc10a1a15e15eeb44aef408fa253134cce",
+          "evidence_url": "https://github.com/gdgromacitta/dev-fest-2026/commit/914a00fc10a1a15e15eeb44aef408fa253134cce"
+        },
+        {
+          "repository_hint": "Hikisti/irc-bot",
+          "repository_id": null,
+          "sha": "2afa39862e986ef0fd6d490805dc62ba33dd77d5",
+          "evidence_url": "https://github.com/Hikisti/irc-bot/commit/2afa39862e986ef0fd6d490805dc62ba33dd77d5"
+        },
+        {
+          "repository_hint": "Spyder-cripto/problema-del-dia",
+          "repository_id": null,
+          "sha": "a5eff361add22a0bb73ec748a4d28b2ee981b92d",
+          "evidence_url": "https://github.com/Spyder-cripto/problema-del-dia/commit/a5eff361add22a0bb73ec748a4d28b2ee981b92d"
+        },
+        {
+          "repository_hint": "Ayusman-Singhal/My-Lovely-Ferret",
+          "repository_id": 1398085692,
+          "sha": "d7b4eec52a4bd76dfa43b9b3b3d42397ba1ebf24",
+          "evidence_url": "https://github.com/Ayusman-Singhal/My-Lovely-Ferret/commit/d7b4eec52a4bd76dfa43b9b3b3d42397ba1ebf24"
+        },
+        {
+          "repository_hint": "juan504n/spyro-game",
+          "repository_id": 1396167582,
+          "sha": "faba65546bc3fd7dae650d208b973f8b8e1d82fa",
+          "evidence_url": "https://github.com/juan504n/spyro-game/commit/faba65546bc3fd7dae650d208b973f8b8e1d82fa"
+        },
+        {
+          "repository_hint": "jsonify/team-stat-tracker",
+          "repository_id": null,
+          "sha": "71bc73a514cd91029caf4b7e1d4297685fbda20e",
+          "evidence_url": "https://github.com/jsonify/team-stat-tracker/commit/71bc73a514cd91029caf4b7e1d4297685fbda20e"
+        },
+        {
+          "repository_hint": "Knaeckebrot14-12/MC-Panel",
+          "repository_id": null,
+          "sha": "603d2df8d72d9398bda3f177e1b3f12806b9a896",
+          "evidence_url": "https://github.com/Knaeckebrot14-12/MC-Panel/commit/603d2df8d72d9398bda3f177e1b3f12806b9a896"
+        },
+        {
+          "repository_hint": "turner11/gush-ball",
+          "repository_id": null,
+          "sha": "2ba7eb8e3d40dd3db19f1236accf7c60122043f5",
+          "evidence_url": "https://github.com/turner11/gush-ball/commit/2ba7eb8e3d40dd3db19f1236accf7c60122043f5"
+        },
+        {
+          "repository_hint": "onion2k/ooergolf",
+          "repository_id": null,
+          "sha": "81f2477e92ad5fb77c69c510b536e28009ff5599",
+          "evidence_url": "https://github.com/onion2k/ooergolf/commit/81f2477e92ad5fb77c69c510b536e28009ff5599"
+        },
+        {
+          "repository_hint": "derHeinzer/yunicorn",
+          "repository_id": 1397122613,
+          "sha": "9a8b0c0ce7b8c92faa95ed489bd4393b95aa17f6",
+          "evidence_url": "https://github.com/derHeinzer/yunicorn/commit/9a8b0c0ce7b8c92faa95ed489bd4393b95aa17f6"
+        },
+        {
+          "repository_hint": "dchadd427/ants-cross-platform",
+          "repository_id": null,
+          "sha": "fa3643e54675f9ea0aa4abaf962a99aec3d80d54",
+          "evidence_url": "https://github.com/dchadd427/ants-cross-platform/commit/fa3643e54675f9ea0aa4abaf962a99aec3d80d54"
+        },
+        {
+          "repository_hint": "drahmedyahia/yoyo",
+          "repository_id": 1398168550,
+          "sha": "77049f6bc74286505eb83694aaf1b1ee98b3ee8c",
+          "evidence_url": "https://github.com/drahmedyahia/yoyo/commit/77049f6bc74286505eb83694aaf1b1ee98b3ee8c"
+        },
+        {
+          "repository_hint": "marky555timer/game-show-orchestrator",
+          "repository_id": null,
+          "sha": "201246dcb8acd17ec3bb637bc5e97deb0e44f38a",
+          "evidence_url": "https://github.com/marky555timer/game-show-orchestrator/commit/201246dcb8acd17ec3bb637bc5e97deb0e44f38a"
+        },
+        {
+          "repository_hint": "Qav45/instellar-website",
+          "repository_id": null,
+          "sha": "500098f02ff1f2337087432c43f85a5fa15987d2",
+          "evidence_url": "https://github.com/Qav45/instellar-website/commit/500098f02ff1f2337087432c43f85a5fa15987d2"
+        },
+        {
+          "repository_hint": "alielzahed49-art/RedZonesToken",
+          "repository_id": null,
+          "sha": "1a920cf3decc9dc7536ca479af936b12f06f0b17",
+          "evidence_url": "https://github.com/alielzahed49-art/RedZonesToken/commit/1a920cf3decc9dc7536ca479af936b12f06f0b17"
+        },
+        {
+          "repository_hint": "justinduverge-design/omen",
+          "repository_id": null,
+          "sha": "04275690120ef87bf8226c195826df35461f6b4c",
+          "evidence_url": "https://github.com/justinduverge-design/omen/commit/04275690120ef87bf8226c195826df35461f6b4c"
+        },
+        {
+          "repository_hint": "huyenit2016/gamevui",
+          "repository_id": null,
+          "sha": "7345c5a6cbeb45f507bc5511ddd21b805ef4486f",
+          "evidence_url": "https://github.com/huyenit2016/gamevui/commit/7345c5a6cbeb45f507bc5511ddd21b805ef4486f"
+        },
+        {
+          "repository_hint": "tgtec26/snug-matter-composition-game",
+          "repository_id": 1397618531,
+          "sha": "2a81bdf79ab5945ff79f53e37c33efe60eec22a3",
+          "evidence_url": "https://github.com/tgtec26/snug-matter-composition-game/commit/2a81bdf79ab5945ff79f53e37c33efe60eec22a3"
+        },
+        {
+          "repository_hint": "tgtec26/snug-matter-properties-game",
+          "repository_id": 1397447563,
+          "sha": "f19195f6f19dc00d2fa70931f8ede09880631d2e",
+          "evidence_url": "https://github.com/tgtec26/snug-matter-properties-game/commit/f19195f6f19dc00d2fa70931f8ede09880631d2e"
+        },
+        {
+          "repository_hint": "characterecho-sean/edvr-unofficial-patch",
+          "repository_id": null,
+          "sha": "c96b91f10375429aeb7e01d87804a3d19c9e10bd",
+          "evidence_url": "https://github.com/characterecho-sean/edvr-unofficial-patch/commit/c96b91f10375429aeb7e01d87804a3d19c9e10bd"
+        },
+        {
+          "repository_hint": "marky555timer/game-show-orchestrator",
+          "repository_id": null,
+          "sha": "13bbd43ca77f15688294b1c117930630e5aff264",
+          "evidence_url": "https://github.com/marky555timer/game-show-orchestrator/commit/13bbd43ca77f15688294b1c117930630e5aff264"
+        },
+        {
+          "repository_hint": "turner11/gush-ball",
+          "repository_id": null,
+          "sha": "c576f1d6550602254e3074e9c0543f3a43c3cbc7",
+          "evidence_url": "https://github.com/turner11/gush-ball/commit/c576f1d6550602254e3074e9c0543f3a43c3cbc7"
+        },
+        {
+          "repository_hint": "felipe-dos-santos81/primal-rage-re",
+          "repository_id": null,
+          "sha": "602b5ee0341ffe67ead2d3a94ba58467e24aa6c6",
+          "evidence_url": "https://github.com/felipe-dos-santos81/primal-rage-re/commit/602b5ee0341ffe67ead2d3a94ba58467e24aa6c6"
+        },
+        {
+          "repository_hint": "purin-kan/Charon",
+          "repository_id": null,
+          "sha": "642b933c53cd735fca28a221107ccf39d2d0d5e8",
+          "evidence_url": "https://github.com/purin-kan/Charon/commit/642b933c53cd735fca28a221107ccf39d2d0d5e8"
+        },
+        {
+          "repository_hint": "JamesMarkwell/Cardscan",
+          "repository_id": null,
+          "sha": "2592255fe065155af39f262140beed194ad2f874",
+          "evidence_url": "https://github.com/JamesMarkwell/Cardscan/commit/2592255fe065155af39f262140beed194ad2f874"
+        },
+        {
+          "repository_hint": "dchadd427/ants-cross-platform",
+          "repository_id": null,
+          "sha": "dd5067574d573ebc9fd888c62389fb81d9b27dae",
+          "evidence_url": "https://github.com/dchadd427/ants-cross-platform/commit/dd5067574d573ebc9fd888c62389fb81d9b27dae"
+        },
+        {
+          "repository_hint": "jobando1985/jonatan",
+          "repository_id": null,
+          "sha": "2c41ee70897fd1d9b0e4167b77f71e4dcdf91454",
+          "evidence_url": "https://github.com/jobando1985/jonatan/commit/2c41ee70897fd1d9b0e4167b77f71e4dcdf91454"
+        },
+        {
+          "repository_hint": "characterecho-sean/edvr-unofficial-patch",
+          "repository_id": null,
+          "sha": "a46bc57eafe082b60d50684eb5ea11dbe16267c2",
+          "evidence_url": "https://github.com/characterecho-sean/edvr-unofficial-patch/commit/a46bc57eafe082b60d50684eb5ea11dbe16267c2"
+        },
+        {
+          "repository_hint": "Chr1ssi/mywm",
+          "repository_id": null,
+          "sha": "325226469526f37efbcd943ea5a6edd81c574d40",
+          "evidence_url": "https://github.com/Chr1ssi/mywm/commit/325226469526f37efbcd943ea5a6edd81c574d40"
+        },
+        {
+          "repository_hint": "dchadd427/ants-cross-platform",
+          "repository_id": null,
+          "sha": "80f89788715268022ed3d3fe5f8d96cdec4176be",
+          "evidence_url": "https://github.com/dchadd427/ants-cross-platform/commit/80f89788715268022ed3d3fe5f8d96cdec4176be"
+        },
+        {
+          "repository_hint": "Mzrile13/BelaApp",
+          "repository_id": null,
+          "sha": "79590861bcb763023cbb5f1ff0b847caced17ea4",
+          "evidence_url": "https://github.com/Mzrile13/BelaApp/commit/79590861bcb763023cbb5f1ff0b847caced17ea4"
+        },
+        {
+          "repository_hint": "Ayusman-Singhal/My-Lovely-Ferret",
+          "repository_id": 1398085692,
+          "sha": "371cab2f95be4b2b1266e1ae9440844f746227e1",
+          "evidence_url": "https://github.com/Ayusman-Singhal/My-Lovely-Ferret/commit/371cab2f95be4b2b1266e1ae9440844f746227e1"
+        },
+        {
+          "repository_hint": "gzilavyss2025/brewprospects",
+          "repository_id": null,
+          "sha": "145b53069954a9722cf205cbb0c881b1a87c27c6",
+          "evidence_url": "https://github.com/gzilavyss2025/brewprospects/commit/145b53069954a9722cf205cbb0c881b1a87c27c6"
+        },
+        {
+          "repository_hint": "onion2k/ooergolf",
+          "repository_id": null,
+          "sha": "2a52a32190b3e2a4166fa83c009045176ece9162",
+          "evidence_url": "https://github.com/onion2k/ooergolf/commit/2a52a32190b3e2a4166fa83c009045176ece9162"
+        },
+        {
+          "repository_hint": "btsolmon/KIZZ",
+          "repository_id": null,
+          "sha": "dcd789124315068317bd31b18399d6ecffa06647",
+          "evidence_url": "https://github.com/btsolmon/KIZZ/commit/dcd789124315068317bd31b18399d6ecffa06647"
+        },
+        {
+          "repository_hint": "felipe-dos-santos81/primal-rage-re",
+          "repository_id": null,
+          "sha": "d497d9eb073688e2073893adbb314ec8d380efbc",
+          "evidence_url": "https://github.com/felipe-dos-santos81/primal-rage-re/commit/d497d9eb073688e2073893adbb314ec8d380efbc"
+        },
+        {
+          "repository_hint": "LeFruitCake/DzeL-Partygames",
+          "repository_id": null,
+          "sha": "16e66dc4680ddfc89d23b5f287eba7f87d422377",
+          "evidence_url": "https://github.com/LeFruitCake/DzeL-Partygames/commit/16e66dc4680ddfc89d23b5f287eba7f87d422377"
+        },
+        {
+          "repository_hint": "felipe-dos-santos81/primal-rage-re",
+          "repository_id": null,
+          "sha": "45156b6e5493bbcc888b7c3254392002b83c076f",
+          "evidence_url": "https://github.com/felipe-dos-santos81/primal-rage-re/commit/45156b6e5493bbcc888b7c3254392002b83c076f"
+        },
+        {
+          "repository_hint": "hatakoma/cc_alice",
+          "repository_id": 1398005795,
+          "sha": "d8c7431baeb1018c19d1bc2f7cf0db1374ac085b",
+          "evidence_url": "https://github.com/hatakoma/cc_alice/commit/d8c7431baeb1018c19d1bc2f7cf0db1374ac085b"
+        },
+        {
+          "repository_hint": "JohnnyNero/couples-party",
+          "repository_id": null,
+          "sha": "0081bca6807e0ffdbf7e45388624503170a44ec1",
+          "evidence_url": "https://github.com/JohnnyNero/couples-party/commit/0081bca6807e0ffdbf7e45388624503170a44ec1"
+        },
+        {
+          "repository_hint": "jobando1985/jonatan",
+          "repository_id": null,
+          "sha": "5dd1c0f6f525a55bfcdf885559cb1d6f29a7c731",
+          "evidence_url": "https://github.com/jobando1985/jonatan/commit/5dd1c0f6f525a55bfcdf885559cb1d6f29a7c731"
+        },
+        {
+          "repository_hint": "jevplays-games/jev-sudoku-analytics",
+          "repository_id": null,
+          "sha": "7c01201205ad56f5929062bec691a710f0652385",
+          "evidence_url": "https://github.com/jevplays-games/jev-sudoku-analytics/commit/7c01201205ad56f5929062bec691a710f0652385"
+        },
+        {
+          "repository_hint": "seppbucher-develop/dog",
+          "repository_id": 1397909898,
+          "sha": "d9c86ab99563f85f242cc3e687bcf8b2e6f92591",
+          "evidence_url": "https://github.com/seppbucher-develop/dog/commit/d9c86ab99563f85f242cc3e687bcf8b2e6f92591"
+        },
+        {
+          "repository_hint": "dchadd427/ants-cross-platform",
+          "repository_id": null,
+          "sha": "a82ab294828db2e64e99059de32e80388b4f0423",
+          "evidence_url": "https://github.com/dchadd427/ants-cross-platform/commit/a82ab294828db2e64e99059de32e80388b4f0423"
+        },
+        {
+          "repository_hint": "mlesniew/bash-dash",
+          "repository_id": null,
+          "sha": "0d98a4c3328e8c17df8bf351e5d068cf08a431d9",
+          "evidence_url": "https://github.com/mlesniew/bash-dash/commit/0d98a4c3328e8c17df8bf351e5d068cf08a431d9"
+        },
+        {
+          "repository_hint": "gzilavyss2025/brewprospects",
+          "repository_id": null,
+          "sha": "0d0b3953578bf7cb2501a247556e57317915b5c9",
+          "evidence_url": "https://github.com/gzilavyss2025/brewprospects/commit/0d0b3953578bf7cb2501a247556e57317915b5c9"
+        },
+        {
+          "repository_hint": "MadvillainQuas/website",
+          "repository_id": null,
+          "sha": "2ebd41c371ca86235b30b2cf7a6b23677efa2fa1",
+          "evidence_url": "https://github.com/MadvillainQuas/website/commit/2ebd41c371ca86235b30b2cf7a6b23677efa2fa1"
+        },
+        {
+          "repository_hint": "Akashsingh512/ChessLens",
+          "repository_id": null,
+          "sha": "4f264904b1963973409f931116690d297ba7a17a",
+          "evidence_url": "https://github.com/Akashsingh512/ChessLens/commit/4f264904b1963973409f931116690d297ba7a17a"
+        },
+        {
+          "repository_hint": "AnassAzdad/FTP",
+          "repository_id": null,
+          "sha": "7cd8ec382dbb7f628d4605532a9ede71550972c0",
+          "evidence_url": "https://github.com/AnassAzdad/FTP/commit/7cd8ec382dbb7f628d4605532a9ede71550972c0"
+        },
+        {
+          "repository_hint": "shesin/GPT_Enterprise_Vault",
+          "repository_id": null,
+          "sha": "2544eced4f67967ffa78e7347082279282a914b8",
+          "evidence_url": "https://github.com/shesin/GPT_Enterprise_Vault/commit/2544eced4f67967ffa78e7347082279282a914b8"
+        },
+        {
+          "repository_hint": "felipe-dos-santos81/primal-rage-re",
+          "repository_id": null,
+          "sha": "2c0d05ba5c23eb08d1ed34cba210d3e7818066b1",
+          "evidence_url": "https://github.com/felipe-dos-santos81/primal-rage-re/commit/2c0d05ba5c23eb08d1ed34cba210d3e7818066b1"
+        },
+        {
+          "repository_hint": "niKaphalor/NiCon",
+          "repository_id": null,
+          "sha": "a948c1b441e53fb30542465e8f59278fdf2b2317",
+          "evidence_url": "https://github.com/niKaphalor/NiCon/commit/a948c1b441e53fb30542465e8f59278fdf2b2317"
+        },
+        {
+          "repository_hint": "jelqedagain/ib-2-3-android",
+          "repository_id": null,
+          "sha": "699a2a2f3babcd331857b2763cfe1d9519ce8519",
+          "evidence_url": "https://github.com/jelqedagain/ib-2-3-android/commit/699a2a2f3babcd331857b2763cfe1d9519ce8519"
+        },
+        {
+          "repository_hint": "Krionist/screen-dashbaord",
+          "repository_id": null,
+          "sha": "f7e299c0e36c48232c385a234cc09350d5dd6521",
+          "evidence_url": "https://github.com/Krionist/screen-dashbaord/commit/f7e299c0e36c48232c385a234cc09350d5dd6521"
+        },
+        {
+          "repository_hint": "sweat-this/level5",
+          "repository_id": null,
+          "sha": "8ce32033afc02c4612a2e9fd00d39568a7341952",
+          "evidence_url": "https://github.com/sweat-this/level5/commit/8ce32033afc02c4612a2e9fd00d39568a7341952"
+        },
+        {
+          "repository_hint": "huyenit2016/gamevui",
+          "repository_id": null,
+          "sha": "4b04f2d30b32a087bacb2dff3b4df57eba8f68b3",
+          "evidence_url": "https://github.com/huyenit2016/gamevui/commit/4b04f2d30b32a087bacb2dff3b4df57eba8f68b3"
+        },
+        {
+          "repository_hint": "respectfulchase/pixelart-ai",
+          "repository_id": null,
+          "sha": "692ab92f760dcb747d3930b60350a2a1cd27cc00",
+          "evidence_url": "https://github.com/respectfulchase/pixelart-ai/commit/692ab92f760dcb747d3930b60350a2a1cd27cc00"
+        },
+        {
+          "repository_hint": "justinduverge-design/omen",
+          "repository_id": null,
+          "sha": "9ee5697a7832cfd170609abc86fd7a13723314f3",
+          "evidence_url": "https://github.com/justinduverge-design/omen/commit/9ee5697a7832cfd170609abc86fd7a13723314f3"
+        },
+        {
+          "repository_hint": "Abookofhope/dopamine-drop",
+          "repository_id": null,
+          "sha": "9a26f74fc5284286e8c427bb0bece4cfeb1e7f2f",
+          "evidence_url": "https://github.com/Abookofhope/dopamine-drop/commit/9a26f74fc5284286e8c427bb0bece4cfeb1e7f2f"
+        },
+        {
+          "repository_hint": "tylerschloesser/engine-v2",
+          "repository_id": null,
+          "sha": "95eedcef30270010d73efae80563d587bfd4381d",
+          "evidence_url": "https://github.com/tylerschloesser/engine-v2/commit/95eedcef30270010d73efae80563d587bfd4381d"
+        },
+        {
+          "repository_hint": "picatz/space-man",
+          "repository_id": null,
+          "sha": "3474ea1cdd4df5aa9e1c4b94826fbb5b2121940b",
+          "evidence_url": "https://github.com/picatz/space-man/commit/3474ea1cdd4df5aa9e1c4b94826fbb5b2121940b"
+        },
+        {
+          "repository_hint": "adeniyi-faith/RaffleKings",
+          "repository_id": null,
+          "sha": "7fd9639bf6b78d28afbfd97a08d3e319346b0c85",
+          "evidence_url": "https://github.com/adeniyi-faith/RaffleKings/commit/7fd9639bf6b78d28afbfd97a08d3e319346b0c85"
+        },
+        {
+          "repository_hint": "jelqedagain/ib-2-3-android",
+          "repository_id": null,
+          "sha": "049ed5733b6ce1871c6f15e6c79f3291a55bb3db",
+          "evidence_url": "https://github.com/jelqedagain/ib-2-3-android/commit/049ed5733b6ce1871c6f15e6c79f3291a55bb3db"
+        },
+        {
+          "repository_hint": "DutchMaxwell/Niemandsland",
+          "repository_id": null,
+          "sha": "8acd3460b6d17d8e32af0577e0c395b2ada20917",
+          "evidence_url": "https://github.com/DutchMaxwell/Niemandsland/commit/8acd3460b6d17d8e32af0577e0c395b2ada20917"
+        },
+        {
+          "repository_hint": "ChiragBangera/prem_project",
+          "repository_id": null,
+          "sha": "200a987fe5aaf6d7ba6e2d7a6e8876e8b0fc87b0",
+          "evidence_url": "https://github.com/ChiragBangera/prem_project/commit/200a987fe5aaf6d7ba6e2d7a6e8876e8b0fc87b0"
+        },
+        {
+          "repository_hint": "felipe-dos-santos81/primal-rage-re",
+          "repository_id": null,
+          "sha": "891c97e5da25e7c16d46a3e8b5c7a8aff80da0fe",
+          "evidence_url": "https://github.com/felipe-dos-santos81/primal-rage-re/commit/891c97e5da25e7c16d46a3e8b5c7a8aff80da0fe"
+        },
+        {
+          "repository_hint": "Crinklyink/game-by-Opus",
+          "repository_id": 1397158606,
+          "sha": "a858eb0d987ddb0b5785027c4b4125b191183e6b",
+          "evidence_url": "https://github.com/Crinklyink/game-by-Opus/commit/a858eb0d987ddb0b5785027c4b4125b191183e6b"
+        },
+        {
+          "repository_hint": "characterecho-sean/edvr-unofficial-patch",
+          "repository_id": null,
+          "sha": "1cc64235d8046f9301e662ec525aa5f626a21da3",
+          "evidence_url": "https://github.com/characterecho-sean/edvr-unofficial-patch/commit/1cc64235d8046f9301e662ec525aa5f626a21da3"
+        },
+        {
+          "repository_hint": "characterecho-sean/edvr-unofficial-patch",
+          "repository_id": null,
+          "sha": "bd9986984ecdcfedd2acdf630200030a359e88ef",
+          "evidence_url": "https://github.com/characterecho-sean/edvr-unofficial-patch/commit/bd9986984ecdcfedd2acdf630200030a359e88ef"
+        },
+        {
+          "repository_hint": "unatesta175/family-app",
+          "repository_id": null,
+          "sha": "bc9ba77369fe47cf56f865b7477cf0db2e96c658",
+          "evidence_url": "https://github.com/unatesta175/family-app/commit/bc9ba77369fe47cf56f865b7477cf0db2e96c658"
+        },
+        {
+          "repository_hint": "IBassemTarek/nova-skim",
+          "repository_id": 1397981072,
+          "sha": "a425b7678407762203feff3bb05a35f6d888e5c9",
+          "evidence_url": "https://github.com/IBassemTarek/nova-skim/commit/a425b7678407762203feff3bb05a35f6d888e5c9"
+        },
+        {
+          "repository_hint": "ankakepizza551/crossrealm",
+          "repository_id": null,
+          "sha": "6d9f3c93daff836e3e2568924df6227f325692ac",
+          "evidence_url": "https://github.com/ankakepizza551/crossrealm/commit/6d9f3c93daff836e3e2568924df6227f325692ac"
+        },
+        {
+          "repository_hint": "ElliotCay/app-simon-loreal",
+          "repository_id": null,
+          "sha": "05b6742c9e0fef900c51c07781110b58ae0d1d5d",
+          "evidence_url": "https://github.com/ElliotCay/app-simon-loreal/commit/05b6742c9e0fef900c51c07781110b58ae0d1d5d"
+        },
+        {
+          "repository_hint": "Hikisti/irc-bot",
+          "repository_id": null,
+          "sha": "a4da07744adf2e1d46181061d77020988f1b1d42",
+          "evidence_url": "https://github.com/Hikisti/irc-bot/commit/a4da07744adf2e1d46181061d77020988f1b1d42"
+        },
+        {
+          "repository_hint": "adeniyi-faith/RaffleKings",
+          "repository_id": null,
+          "sha": "422f7dcb2aba6cd0bb49918baf269a1edbf84e69",
+          "evidence_url": "https://github.com/adeniyi-faith/RaffleKings/commit/422f7dcb2aba6cd0bb49918baf269a1edbf84e69"
+        },
+        {
+          "repository_hint": "azizbek-mux/usmleengo",
+          "repository_id": null,
+          "sha": "cc265b8a46075878db11def58d507ac0827d983c",
+          "evidence_url": "https://github.com/azizbek-mux/usmleengo/commit/cc265b8a46075878db11def58d507ac0827d983c"
+        },
+        {
+          "repository_hint": "ttabernacki/HPIM",
+          "repository_id": null,
+          "sha": "6b9079cc518dc48203bdefab4a2360e9dc604535",
+          "evidence_url": "https://github.com/ttabernacki/HPIM/commit/6b9079cc518dc48203bdefab4a2360e9dc604535"
+        },
+        {
+          "repository_hint": "Corvick/Corvicks-Covid-Contingency",
+          "repository_id": null,
+          "sha": "2e1e8123ffe904a2c0e1848eebf73ede809b92d8",
+          "evidence_url": "https://github.com/Corvick/Corvicks-Covid-Contingency/commit/2e1e8123ffe904a2c0e1848eebf73ede809b92d8"
+        },
+        {
+          "repository_hint": "fuujii256/VNStudio",
+          "repository_id": null,
+          "sha": "5b73039425561c74051b648fe390673164eaec5c",
+          "evidence_url": "https://github.com/fuujii256/VNStudio/commit/5b73039425561c74051b648fe390673164eaec5c"
+        },
+        {
+          "repository_hint": "groot99-droid/The-Intern",
+          "repository_id": null,
+          "sha": "1dfd5e316d02b1b1778908d9d0c09b13b6bf386a",
+          "evidence_url": "https://github.com/groot99-droid/The-Intern/commit/1dfd5e316d02b1b1778908d9d0c09b13b6bf386a"
+        },
+        {
+          "repository_hint": "azizbek-mux/usmleengo",
+          "repository_id": null,
+          "sha": "ca823e721dba64f6a42f1f4078daf1cb49b2c3e0",
+          "evidence_url": "https://github.com/azizbek-mux/usmleengo/commit/ca823e721dba64f6a42f1f4078daf1cb49b2c3e0"
+        },
+        {
+          "repository_hint": "pathomnemonic/buzzword-dash-v2",
+          "repository_id": 1395723195,
+          "sha": "9726a231e166cbc162e567b308ed5661e5619927",
+          "evidence_url": "https://github.com/pathomnemonic/buzzword-dash-v2/commit/9726a231e166cbc162e567b308ed5661e5619927"
+        },
+        {
+          "repository_hint": "Ratuckk/Star-Anki",
+          "repository_id": null,
+          "sha": "b91968cbb6cb951777bbe662d2c35b87d008369b",
+          "evidence_url": "https://github.com/Ratuckk/Star-Anki/commit/b91968cbb6cb951777bbe662d2c35b87d008369b"
+        },
+        {
+          "repository_hint": "azizbek-mux/usmleengo",
+          "repository_id": null,
+          "sha": "03dc1a56e6cf31b413f73bd77a7500738af0f300",
+          "evidence_url": "https://github.com/azizbek-mux/usmleengo/commit/03dc1a56e6cf31b413f73bd77a7500738af0f300"
+        },
+        {
+          "repository_hint": "jelqedagain/ib-2-3-android",
+          "repository_id": null,
+          "sha": "9e2ce3885359e5d891c61faf12be77e50df91042",
+          "evidence_url": "https://github.com/jelqedagain/ib-2-3-android/commit/9e2ce3885359e5d891c61faf12be77e50df91042"
+        }
+      ]
+    },
+    {
+      "query_key": "github:commit:\"gpt-6.1\" game committer-date:2026-09-29..2026-09-30:sort=committer-date",
+      "query": "\"GPT-6.1\" game committer-date:2026-09-29..2026-09-30",
+      "source_family": "commit",
+      "requested_limit": 100,
+      "received": 33,
+      "possibly_capped": false,
+      "status": "completed",
+      "results": [
+        {
+          "repository_hint": "Open-BFME/Open-BFME-1",
+          "repository_id": null,
+          "sha": "fa8ff653ae2639cc2a1aadfa0d7846ce126ac5f8",
+          "evidence_url": "https://github.com/Open-BFME/Open-BFME-1/commit/fa8ff653ae2639cc2a1aadfa0d7846ce126ac5f8"
+        },
+        {
+          "repository_hint": "Open-BFME/Open-BFME-1",
+          "repository_id": null,
+          "sha": "471c9861ee072d1d336951a3c8ce8c1806d10c5c",
+          "evidence_url": "https://github.com/Open-BFME/Open-BFME-1/commit/471c9861ee072d1d336951a3c8ce8c1806d10c5c"
+        },
+        {
+          "repository_hint": "shoemoney/commander-in-chief",
+          "repository_id": null,
+          "sha": "564ab9c481658fceeaa67fb6097295681d7ac7ec",
+          "evidence_url": "https://github.com/shoemoney/commander-in-chief/commit/564ab9c481658fceeaa67fb6097295681d7ac7ec"
+        },
+        {
+          "repository_hint": "Raynos/rockhop",
+          "repository_id": null,
+          "sha": "cc5140710a9eb6249e2855c5a5adb990b866a552",
+          "evidence_url": "https://github.com/Raynos/rockhop/commit/cc5140710a9eb6249e2855c5a5adb990b866a552"
+        },
+        {
+          "repository_hint": "shoemoney/SMA-smduel",
+          "repository_id": null,
+          "sha": "1c81b5b942048a67d0d6e86efe05faa53b26c556",
+          "evidence_url": "https://github.com/shoemoney/SMA-smduel/commit/1c81b5b942048a67d0d6e86efe05faa53b26c556"
+        },
+        {
+          "repository_hint": "Raynos/rockhop",
+          "repository_id": null,
+          "sha": "d526d084f3adb0106599e821aafcb8af3b5a3bd1",
+          "evidence_url": "https://github.com/Raynos/rockhop/commit/d526d084f3adb0106599e821aafcb8af3b5a3bd1"
+        },
+        {
+          "repository_hint": "Raynos/rockhop",
+          "repository_id": null,
+          "sha": "1de7fa94a901233d3e17dbe2fba234a0646e6b4e",
+          "evidence_url": "https://github.com/Raynos/rockhop/commit/1de7fa94a901233d3e17dbe2fba234a0646e6b4e"
+        },
+        {
+          "repository_hint": "PeterHartwieg/big-copilot",
+          "repository_id": null,
+          "sha": "e450de9a0d490d3c81159d6091e6d679a742ba99",
+          "evidence_url": "https://github.com/PeterHartwieg/big-copilot/commit/e450de9a0d490d3c81159d6091e6d679a742ba99"
+        },
+        {
+          "repository_hint": "shoemoney/SMA-smduel",
+          "repository_id": null,
+          "sha": "b8a060f4696656e8e5967f3be6204d6c3a79f6d5",
+          "evidence_url": "https://github.com/shoemoney/SMA-smduel/commit/b8a060f4696656e8e5967f3be6204d6c3a79f6d5"
+        },
+        {
+          "repository_hint": "PeterHartwieg/big-copilot",
+          "repository_id": null,
+          "sha": "191f8726ca0608155216144d64c9279fc5774a75",
+          "evidence_url": "https://github.com/PeterHartwieg/big-copilot/commit/191f8726ca0608155216144d64c9279fc5774a75"
+        },
+        {
+          "repository_hint": "shoemoney/SMA-smduel",
+          "repository_id": null,
+          "sha": "5791423435c441ea28b85673638f46e524bd1c76",
+          "evidence_url": "https://github.com/shoemoney/SMA-smduel/commit/5791423435c441ea28b85673638f46e524bd1c76"
+        },
+        {
+          "repository_hint": "Raynos/rockhop",
+          "repository_id": null,
+          "sha": "ec04192d61e39dcc8bdb80fd97842e8019ef4e55",
+          "evidence_url": "https://github.com/Raynos/rockhop/commit/ec04192d61e39dcc8bdb80fd97842e8019ef4e55"
+        },
+        {
+          "repository_hint": "shoemoney/commander-in-chief",
+          "repository_id": null,
+          "sha": "f51be1b8a73efcd2369f24226a3f8adb13ba5aab",
+          "evidence_url": "https://github.com/shoemoney/commander-in-chief/commit/f51be1b8a73efcd2369f24226a3f8adb13ba5aab"
+        },
+        {
+          "repository_hint": "PeterHartwieg/big-copilot",
+          "repository_id": null,
+          "sha": "f010df028ac8e0611bdcb25ad39a324bb88ead5a",
+          "evidence_url": "https://github.com/PeterHartwieg/big-copilot/commit/f010df028ac8e0611bdcb25ad39a324bb88ead5a"
+        },
+        {
+          "repository_hint": "shoemoney/SMA-smduel",
+          "repository_id": null,
+          "sha": "1bad376e1c1210f95a9f2f690a73099b855f8243",
+          "evidence_url": "https://github.com/shoemoney/SMA-smduel/commit/1bad376e1c1210f95a9f2f690a73099b855f8243"
+        },
+        {
+          "repository_hint": "shoemoney/commander-in-chief",
+          "repository_id": null,
+          "sha": "40491e4511d02042b85fe4b9597be365d9bcb54d",
+          "evidence_url": "https://github.com/shoemoney/commander-in-chief/commit/40491e4511d02042b85fe4b9597be365d9bcb54d"
+        },
+        {
+          "repository_hint": "Raynos/rockhop",
+          "repository_id": null,
+          "sha": "c30cae34b52c73e1e66c29fdd1d9df53c3866bd0",
+          "evidence_url": "https://github.com/Raynos/rockhop/commit/c30cae34b52c73e1e66c29fdd1d9df53c3866bd0"
+        },
+        {
+          "repository_hint": "Open-BFME/Open-BFME-1",
+          "repository_id": null,
+          "sha": "3f2fd42ded0ba5ac0b2aa5d9dff526bb72bda66f",
+          "evidence_url": "https://github.com/Open-BFME/Open-BFME-1/commit/3f2fd42ded0ba5ac0b2aa5d9dff526bb72bda66f"
+        },
+        {
+          "repository_hint": "Open-BFME/Open-BFME-1",
+          "repository_id": null,
+          "sha": "ab81974850aee3d649ccf711b17d265a7c89c383",
+          "evidence_url": "https://github.com/Open-BFME/Open-BFME-1/commit/ab81974850aee3d649ccf711b17d265a7c89c383"
+        },
+        {
+          "repository_hint": "troy-johnson/hockey-highlight-generator",
+          "repository_id": null,
+          "sha": "9971652a7a072a6583ec1b21a21061d3905aac35",
+          "evidence_url": "https://github.com/troy-johnson/hockey-highlight-generator/commit/9971652a7a072a6583ec1b21a21061d3905aac35"
+        },
+        {
+          "repository_hint": "troy-johnson/hockey-highlight-generator",
+          "repository_id": null,
+          "sha": "a69afb43ede8909c73e2b8ec03082cf0b80f196a",
+          "evidence_url": "https://github.com/troy-johnson/hockey-highlight-generator/commit/a69afb43ede8909c73e2b8ec03082cf0b80f196a"
+        },
+        {
+          "repository_hint": "shoemoney/commander-in-chief",
+          "repository_id": null,
+          "sha": "6bb6915bed38056d0fb1308ce373c84e8e23ff4a",
+          "evidence_url": "https://github.com/shoemoney/commander-in-chief/commit/6bb6915bed38056d0fb1308ce373c84e8e23ff4a"
+        },
+        {
+          "repository_hint": "Open-BFME/Open-BFME-1",
+          "repository_id": null,
+          "sha": "0b1312f505566a94dc2b9b21dbf25255a2c17a61",
+          "evidence_url": "https://github.com/Open-BFME/Open-BFME-1/commit/0b1312f505566a94dc2b9b21dbf25255a2c17a61"
+        },
+        {
+          "repository_hint": "hexforged/game-builds",
+          "repository_id": null,
+          "sha": "401e9c46ebbde782fcf678712f529b241fc777b8",
+          "evidence_url": "https://github.com/hexforged/game-builds/commit/401e9c46ebbde782fcf678712f529b241fc777b8"
+        },
+        {
+          "repository_hint": "hexforged/game-builds",
+          "repository_id": null,
+          "sha": "009df5148ad68e33360f9294cfddb1a85bcd0d1c",
+          "evidence_url": "https://github.com/hexforged/game-builds/commit/009df5148ad68e33360f9294cfddb1a85bcd0d1c"
+        },
+        {
+          "repository_hint": "hexforged/game-builds",
+          "repository_id": null,
+          "sha": "4cc305e339432b2ea91c02d0f8c5f01fa78ce639",
+          "evidence_url": "https://github.com/hexforged/game-builds/commit/4cc305e339432b2ea91c02d0f8c5f01fa78ce639"
+        },
+        {
+          "repository_hint": "hiper2d/ai-agents",
+          "repository_id": null,
+          "sha": "b9397d6cb48b05cdb027f1e0367b2c16e181c200",
+          "evidence_url": "https://github.com/hiper2d/ai-agents/commit/b9397d6cb48b05cdb027f1e0367b2c16e181c200"
+        },
+        {
+          "repository_hint": "joryirving/home-ops",
+          "repository_id": null,
+          "sha": "4033e397413a87ceea8abe203dd228d42605904d",
+          "evidence_url": "https://github.com/joryirving/home-ops/commit/4033e397413a87ceea8abe203dd228d42605904d"
+        },
+        {
+          "repository_hint": "Joony117/Hearthbound",
+          "repository_id": null,
+          "sha": "2b7e2e8c987ad994d4bc844ace3087a1b83e76ed",
+          "evidence_url": "https://github.com/Joony117/Hearthbound/commit/2b7e2e8c987ad994d4bc844ace3087a1b83e76ed"
+        },
+        {
+          "repository_hint": "MaxBittker/runebench",
+          "repository_id": null,
+          "sha": "5358a49f212e238cd093154bc3e93999d345ab97",
+          "evidence_url": "https://github.com/MaxBittker/runebench/commit/5358a49f212e238cd093154bc3e93999d345ab97"
+        },
+        {
+          "repository_hint": "ealdent/the-grove",
+          "repository_id": null,
+          "sha": "8bbe106dc87678a5f080714c5c6a9a6e2deec4c9",
+          "evidence_url": "https://github.com/ealdent/the-grove/commit/8bbe106dc87678a5f080714c5c6a9a6e2deec4c9"
+        },
+        {
+          "repository_hint": "the-grizzly-bear/bots-v1",
+          "repository_id": null,
+          "sha": "d79809d3aa31d2570a4657e1bfd2ef9d1619c034",
+          "evidence_url": "https://github.com/the-grizzly-bear/bots-v1/commit/d79809d3aa31d2570a4657e1bfd2ef9d1619c034"
+        },
+        {
+          "repository_hint": "dujh22/LLM-DailyDigest",
+          "repository_id": null,
+          "sha": "188575c5ce12ff52fdd36baacf175921602d22df",
+          "evidence_url": "https://github.com/dujh22/LLM-DailyDigest/commit/188575c5ce12ff52fdd36baacf175921602d22df"
+        }
+      ]
+    }
+  ],
+  "commit_freshness_join": {
+    "metadata_checked": 83,
+    "fresh_repository_candidates": 23,
+    "note": "Filter a fixed deduplicated commit candidate set, then inspect the new game candidates serially."
+  }
+}

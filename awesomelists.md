@@ -21,6 +21,15 @@
 | 13 | [Genex Games gallery](https://genex.games/) | **38 listings** | Browser-playable games, prototypes, and interactive demos | Count the 38 entries returned by the [Games gallery API](https://api.genex.games/api/gallery?limit=48); exclude the separate Tools and Assets tabs. Treat the number as gallery listings, not 38 confirmed games. | 2026-09-26 |
 | 14 | [Awesome AI-Built Games](https://github.com/lappemic/awesome-ai-built-games) | **63** | Playable games built mostly with AI coding tools | Count Markdown game bullets under the six `## Games` genre headings. Stop before `## Tools & Frameworks`; exclude tools and directories. | 2026-09-28 |
 
+## Verified small collections — 2026-09-30
+
+Keep these verified collections outside the 15-entry index. Count named games, not model or effort variants.
+
+| Collection | Named games | Count method | Primary source | Verified |
+| --- | ---: | --- | --- | --- |
+| [Sonnet 5.5 Web Game Samples](https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples) | 2 | Count Dynamite Mole and SUNSET RUSH in the root game table; collapse five effort implementations per game. Verify both max-effort gameplay entry points. | [README](https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples/blob/main/README.md) | 2026-09-30 |
+| [Mall Action model benchmark](https://github.com/rlorca/mall-action) | 1 | Count Mall Action once across nine model branches. Inspect Opus 5.5, Sonnet 5.5 and GPT-6.1 Sol source branches; do not count branch variants as distinct games. | [README](https://github.com/rlorca/mall-action/blob/main/README.md) | 2026-09-30 |
+
 ## Apply the gate
 
 - Require at least **15** distinct game entries.

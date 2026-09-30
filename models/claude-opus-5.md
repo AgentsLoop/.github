@@ -212,4 +212,3 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**Breakout — ChatGPT Gauntlet Loop Experiment**](../games/breakout-chatgpt-gauntlet-loop-experiment/readme.md) — ⭐ **7.0/10** · Claude Opus 5 · HTML, CSS, JavaScript, Canvas 2D · [△ directory-method model evidence](https://github.com/marcosmallet/breakout-gauntlet-loop)
 
 [Back to game library](#game-library)
-

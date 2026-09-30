@@ -1,0 +1,298 @@
+{
+  "checked_on": "2026-09-30",
+  "demo_checks": [
+    {
+      "repository_url": "https://github.com/FinDaHuman/ClaudeBlackJack",
+      "url": "https://findahuman.github.io/ClaudeBlackJack/",
+      "response": "206 https://findahuman.github.io/ClaudeBlackJack/",
+      "body_excerpt": "<!doctype html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=c",
+      "title": [
+        "Blackjack"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/leonvanzyl/3d-golf-sonnet",
+      "url": "https://3d-golf-sonnet.vercel.app",
+      "response": "206 https://3d-golf-sonnet.vercel.app/",
+      "body_excerpt": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <meta name=\"description\" con",
+      "title": [
+        "Putt Quest – Adventure Mini Golf"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples",
+      "url": "https://daikikobayashi.github.io/sonnet-5-5-web-game-samples/",
+      "response": "206 https://daikikobayashi.github.io/sonnet-5-5-web-game-samples/",
+      "body_excerpt": "<!doctype html>\n<html lang=\"ja\">\n<head>\n<meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<title>Web Game Samples</title>\n<link rel=\"icon\"",
+      "title": [
+        "Web Game Samples"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples",
+      "url": "https://daikikobayashi.github.io/sonnet-5-5-web-game-samples/games/dynamite-mole/",
+      "response": "206 https://daikikobayashi.github.io/sonnet-5-5-web-game-samples/games/dynamite-mole/",
+      "body_excerpt": "<!doctype html>\n<html lang=\"ja\">\n<head>\n<meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<title>Dynamite Mole | Web Game Samples</title>\n",
+      "title": [
+        "Dynamite Mole | Web Game Samples"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples",
+      "url": "https://daikikobayashi.github.io/sonnet-5-5-web-game-samples/games/sunset-rush/",
+      "response": "206 https://daikikobayashi.github.io/sonnet-5-5-web-game-samples/games/sunset-rush/",
+      "body_excerpt": "<!doctype html>\n<html lang=\"ja\">\n<head>\n<meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<title>SUNSET RUSH | Web Game Samples</title>\n<l",
+      "title": [
+        "SUNSET RUSH | Web Game Samples"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/GoldwinXS/YetAnotherVoxelCraft",
+      "url": "https://goldwinxs.github.io/YetAnotherVoxelCraft/",
+      "response": "206 https://goldwinxs.github.io/YetAnotherVoxelCraft/",
+      "body_excerpt": "<!doctype html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1,user-scalable=no\">\n<title>Yet Another VoxelCraft</t",
+      "title": [
+        "Yet Another VoxelCraft"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/KJLKurt/waterslide-game-sonnet-5.5",
+      "url": "https://kjlkurt.github.io/waterslide-game-sonnet-5.5/",
+      "response": "206 https://kjlkurt.github.io/waterslide-game-sonnet-5.5/",
+      "body_excerpt": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, use",
+      "title": [
+        "Splash Rush – 3D Water Slide Racer"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/KJLKurt/waterslide-game-gpt-6.1-sol",
+      "url": "https://kjlkurt.github.io/waterslide-game-gpt-6.1-sol/",
+      "response": "206 https://kjlkurt.github.io/waterslide-game-gpt-6.1-sol/",
+      "body_excerpt": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta\n      name=\"viewport\"\n      content=\"width=device-width, initial-scale=1, maximum-scale=1, user-sca",
+      "title": [
+        "Slipstream — Find your flow"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/KJLKurt/waterslide-game-gpt-6.1-sol",
+      "url": "https://username.github.io/repo-name/",
+      "response": "404 https://username.github.io/repo-name/",
+      "body_excerpt": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta http-equiv=\"Content-type\" content=\"text/html; charset=utf-8\">\n    <meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; ",
+      "title": [
+        "Site not found &middot; GitHub Pages"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/Leichtbier/core-business",
+      "url": "https://leichtbier.github.io/core-business/",
+      "response": "206 https://leichtbier.github.io/core-business/",
+      "body_excerpt": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <title>Core Business</title>\n  <link rel=\"",
+      "title": [
+        "Core Business"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/LioraLabs/gravewake",
+      "url": "https://shiny-guru.itch.io/gravewake",
+      "response": "200 https://shiny-guru.itch.io/gravewake",
+      "body_excerpt": "<!DOCTYPE HTML><html lang=\"en\"><head><meta charset=\"UTF-8\"/><meta content=\"#5d5d5d\" name=\"theme-color\"/><meta content=\"https://img.itch.zone/aW1nLzMwMzkyNzIwLnBuZw==/original/51lIw",
+      "title": [
+        "GRAVEWAKE by shiny_guru"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/tanuu5/last-courier",
+      "url": "https://tanuu5.github.io/last-courier/",
+      "response": "206 https://tanuu5.github.io/last-courier/",
+      "body_excerpt": "<!DOCTYPE html>\n<html lang=\"ja\">\n<head>\n<meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, viewport-fit=cover\">\n<title>LAST COURIER</title>\n",
+      "title": [
+        "LAST COURIER"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/L1vsun/NEONBAY",
+      "url": "https://l1vsun.github.io/NEONBAY/",
+      "response": "206 https://l1vsun.github.io/NEONBAY/",
+      "body_excerpt": "<!doctype html>\n<html><head><meta charset=\"utf-8\"><title>NEON BAY</title>\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">\n<style>\nhtml,body{margin:0;height:100%",
+      "title": [
+        "NEON BAY"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/leonvanzyl/3d-golf-opus",
+      "url": "https://3d-golf-opus.vercel.app",
+      "response": "206 https://3d-golf-opus.vercel.app/",
+      "body_excerpt": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <meta name=\"theme-color\" con",
+      "title": [
+        "Adventure Mini Golf"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/ethanplusai/outpace",
+      "url": "https://outpace.ethanplus.ai",
+      "response": "206 https://outpace.ethanplus.ai/",
+      "body_excerpt": "<!doctype html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resize",
+      "title": [
+        "Outpace: type to outrun the wave"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/awn3x/Open-Backrooms",
+      "url": "https://awn3x.github.io/Open-Backrooms/",
+      "response": "206 https://awn3x.github.io/Open-Backrooms/",
+      "body_excerpt": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>Open Backrooms — free",
+      "title": [
+        "Open Backrooms — free hyper-real Backrooms in your browser"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/Manoz/elden-kart",
+      "url": "https://elden-kart.vercel.app",
+      "response": "206 https://elden-kart.vercel.app/",
+      "body_excerpt": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n    <title>Elden Kart</title>\n    ",
+      "title": [
+        "Elden Kart"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/rlorca/mall-action",
+      "url": "https://rlorca.github.io/mall-action/opus-5.5/",
+      "response": "206 https://rlorca.github.io/mall-action/opus-5.5/",
+      "body_excerpt": "<!doctype html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n  <title>Mall Action</title>\n  <link rel",
+      "title": [
+        "Mall Action"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/rlorca/mall-action",
+      "url": "https://rlorca.github.io/mall-action/sonnet-5.5/",
+      "response": "206 https://rlorca.github.io/mall-action/sonnet-5.5/",
+      "body_excerpt": "<!doctype html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\" />\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n<link rel=\"icon\" href=\"data:image/svg+xml,%3",
+      "title": [
+        "MALL ACTION - a FLICKERSOFT game"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/rlorca/mall-action",
+      "url": "https://rlorca.github.io/mall-action/gpt-6.sol/",
+      "response": "206 https://rlorca.github.io/mall-action/gpt-6.sol/",
+      "body_excerpt": "<!doctype html><html lang=\"en\"><head><meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>MALL ACTION — FLICKERSOFT</title><link rel=\"sty",
+      "title": [
+        "MALL ACTION — FLICKERSOFT"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/rlorca/mall-action",
+      "url": "https://rlorca.github.io/mall-action/gpt-6.1-sol/",
+      "response": "206 https://rlorca.github.io/mall-action/gpt-6.1-sol/",
+      "body_excerpt": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n    <link\n      rel=\"icon\"\n      h",
+      "title": [
+        "MALL ACTION · FLICKERSOFT"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/rlorca/mall-action",
+      "url": "https://rlorca.github.io/mall-action/fable-5.1/",
+      "response": "206 https://rlorca.github.io/mall-action/fable-5.1/",
+      "body_excerpt": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n    <title>MALL ACTION - FLICKERSO",
+      "title": [
+        "MALL ACTION - FLICKERSOFT"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/rlorca/mall-action",
+      "url": "https://rlorca.github.io/mall-action/haiku-4.5/",
+      "response": "206 https://rlorca.github.io/mall-action/haiku-4.5/",
+      "body_excerpt": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <title>MALL ACTION</title>\n  <style>\n    *",
+      "title": [
+        "MALL ACTION"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/rlorca/mall-action",
+      "url": "https://rlorca.github.io/mall-action/gemini-3.6-flash/",
+      "response": "206 https://rlorca.github.io/mall-action/gemini-3.6-flash/",
+      "body_excerpt": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+      "title": [
+        "MALL ACTION - FLICKERSOFT"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/rlorca/mall-action",
+      "url": "https://rlorca.github.io/mall-action/opus-4.6/",
+      "response": "206 https://rlorca.github.io/mall-action/opus-4.6/",
+      "body_excerpt": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>MALL ACTION - A FLICKERSOFT Game<",
+      "title": [
+        "MALL ACTION - A FLICKERSOFT Game"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/rlorca/mall-action",
+      "url": "https://rlorca.github.io/mall-action/opus-5/",
+      "response": "206 https://rlorca.github.io/mall-action/opus-5/",
+      "body_excerpt": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n    <title>MALL ACTION &mdash; FLI",
+      "title": [
+        "MALL ACTION &mdash; FLICKERSOFT"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/tgtec26/snug-matter-composition-game",
+      "url": "https://snug-matter-composition-game.vercel.app",
+      "response": "206 https://snug-matter-composition-game.vercel.app/",
+      "body_excerpt": "<!DOCTYPE html><html lang=\"ko\" class=\"h-full\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no\"/><",
+      "title": [
+        "입자 공작소 (가제)"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/pathomnemonic/buzzword-dash-v2",
+      "url": "https://pathomnemonic.github.io/buzzword-dash-v2/",
+      "response": "206 https://pathomnemonic.github.io/buzzword-dash-v2/",
+      "body_excerpt": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, viewport-fit=cover\">\n  <meta name=\"descriptio",
+      "title": [
+        "Buzzword Dash — USMLE &amp; COMLEX Board Runner"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples",
+      "url": "https://daikikobayashi.github.io/sonnet-5-5-web-game-samples/games/dynamite-mole/max/",
+      "response": "200 https://daikikobayashi.github.io/sonnet-5-5-web-game-samples/games/dynamite-mole/max/",
+      "title": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover\">\n<meta name=\"t"
+    },
+    {
+      "repository_url": "https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples",
+      "url": "https://daikikobayashi.github.io/sonnet-5-5-web-game-samples/games/sunset-rush/max/",
+      "response": "200 https://daikikobayashi.github.io/sonnet-5-5-web-game-samples/games/sunset-rush/max/",
+      "title": "<!doctype html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, viewport-fit=cover\">\n<meta name=\"theme-color\" content=\"#0a0716\">\n<tit"
+    },
+    {
+      "repository_url": "https://github.com/hatakoma/cc_alice",
+      "url": "https://hatakoma.github.io/cc_alice/",
+      "response": "200 https://hatakoma.github.io/cc_alice/",
+      "title": "<!doctype html>\n<html lang=\"ja\">\n<head>\n<meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<title>Alice in the Watercolor Garden</title>\n<meta name=\"descriptio"
+    }
+  ],
+  "reviewed_readme_images": 44,
+  "rejected_image": {
+    "repository": "https://github.com/juan504n/spyro-game",
+    "path": "docs/shots/10-hero.png",
+    "reason": "Reject the isolated dragon turntable as an asset sheet, not gameplay."
+  },
+  "smoke_tests": [
+    {
+      "game": "Slipstream",
+      "result": "Finish 4th of 13 in 22.76 seconds after starting and issuing D/Space.",
+      "evidence": [
+        "2026-09-30-smoke-tests/slipstream.png",
+        "2026-09-30-smoke-tests/slipstream-result.png"
+      ]
+    },
+    {
+      "game": "Mall Action — GPT-6.1 Sol branch",
+      "result": "Start with Enter, issue Right/Z and open the directory with Shift; verify the rendered map. Do not claim mission completion.",
+      "evidence": [
+        "2026-09-30-smoke-tests/mall-action-map.png"
+      ]
+    }
+  ]
+}

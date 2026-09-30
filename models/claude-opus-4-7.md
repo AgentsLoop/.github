@@ -76,4 +76,3 @@ Browse **25 curated game units** from **25 source repositories** attributed to C
 - [**Tiny Kingdom**](../games/tiny-kingdom/readme.md) — ⭐ **7.5/10** · Claude Opus 4.7 · JavaScript, Phaser 3, Vite · [≈ creator-reported model evidence](https://github.com/theniki/Tiny-Kingdom/blob/main/README.md) · 📸 **6.8/10** · [screenshot](https://github.com/user-attachments/assets/e33f77c2-b1c6-47a1-8592-5c25fc5724bc)
 
 [Back to game library](#game-library)
-

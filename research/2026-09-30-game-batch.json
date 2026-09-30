@@ -1,0 +1,500 @@
+{
+  "verified_on": "2026-09-30",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "window_start": "2026-09-29",
+  "window_end": "2026-09-30",
+  "expected_repositories": 29,
+  "expected_game_units": 30,
+  "date_basis": "Use exact repository creation timestamps in UTC+7 as a freshness proxy. Do not assert actual game creation or publication dates. Count two named games in the Sonnet samples repository; collapse effort/model variants.",
+  "records": [
+    {
+      "name": "First-Person Blackjack",
+      "github_url": "https://github.com/FinDaHuman/ClaudeBlackJack",
+      "repository_id": 1397150708,
+      "repository_created_at": "2026-09-30T06:15:17Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/FinDaHuman/ClaudeBlackJack/commit/60d12d7e504659dd3570843af6ccbe7959d86f82",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/FinDaHuman/ClaudeBlackJack/blob/60d12d7e504659dd3570843af6ccbe7959d86f82/index.html",
+        "https://github.com/FinDaHuman/ClaudeBlackJack/blob/60d12d7e504659dd3570843af6ccbe7959d86f82/js/game.js",
+        "https://github.com/FinDaHuman/ClaudeBlackJack/blob/60d12d7e504659dd3570843af6ccbe7959d86f82/js/logic.js"
+      ],
+      "model_family": [
+        "Claude Sonnet 5.5"
+      ]
+    },
+    {
+      "name": "Putt Quest — Adventure Mini Golf",
+      "github_url": "https://github.com/leonvanzyl/3d-golf-sonnet",
+      "repository_id": 1397028512,
+      "repository_created_at": "2026-09-30T05:08:24Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/leonvanzyl/3d-golf-sonnet/commit/1ac26b49faa4686236c46128550fd32f2ea357a7",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/leonvanzyl/3d-golf-sonnet/blob/1ac26b49faa4686236c46128550fd32f2ea357a7/src/main.js",
+        "https://github.com/leonvanzyl/3d-golf-sonnet/blob/1ac26b49faa4686236c46128550fd32f2ea357a7/src/game.js",
+        "https://github.com/leonvanzyl/3d-golf-sonnet/blob/1ac26b49faa4686236c46128550fd32f2ea357a7/src/physics.js"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ]
+    },
+    {
+      "name": "Wreckyard",
+      "github_url": "https://github.com/guiguito/DestructionDerbySonnet",
+      "repository_id": 1395138374,
+      "repository_created_at": "2026-09-29T12:02:05Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/guiguito/DestructionDerbySonnet/commit/a69c209c707e800efc210d2e4cb21242b3d8069b",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/guiguito/DestructionDerbySonnet/blob/a69c209c707e800efc210d2e4cb21242b3d8069b/src/server/round.ts",
+        "https://github.com/guiguito/DestructionDerbySonnet/blob/a69c209c707e800efc210d2e4cb21242b3d8069b/src/client/main.ts"
+      ],
+      "model_family": [
+        "Claude Sonnet 5.5"
+      ]
+    },
+    {
+      "name": "Dynamite Mole / SUNSET RUSH",
+      "github_url": "https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples",
+      "repository_id": 1394121549,
+      "repository_created_at": "2026-09-29T02:48:56Z",
+      "counted_game_units": 2,
+      "evidence_url": "https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples/blob/29197247452de992b69b161bf258f02b2ab9ada5/README.md",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples/blob/29197247452de992b69b161bf258f02b2ab9ada5/games/dynamite-mole/impl/max/dist/js/game.js",
+        "https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples/blob/29197247452de992b69b161bf258f02b2ab9ada5/games/sunset-rush/impl/max/dist/js/sim.js"
+      ],
+      "model_family": [
+        "Claude Sonnet 5.5"
+      ]
+    },
+    {
+      "name": "Yet Another VoxelCraft",
+      "github_url": "https://github.com/GoldwinXS/YetAnotherVoxelCraft",
+      "repository_id": 1394016098,
+      "repository_created_at": "2026-09-29T00:51:47Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/GoldwinXS/YetAnotherVoxelCraft/commit/ba792582287ba96a12b0a135df284c569fe5aa7b",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/GoldwinXS/YetAnotherVoxelCraft/blob/ba792582287ba96a12b0a135df284c569fe5aa7b/index.html",
+        "https://github.com/GoldwinXS/YetAnotherVoxelCraft/blob/ba792582287ba96a12b0a135df284c569fe5aa7b/js/player.js"
+      ],
+      "model_family": [
+        "Claude Sonnet 5.5"
+      ]
+    },
+    {
+      "name": "Splash Rush",
+      "github_url": "https://github.com/KJLKurt/waterslide-game-sonnet-5.5",
+      "repository_id": 1393790941,
+      "repository_created_at": "2026-09-28T20:23:57Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/KJLKurt/waterslide-game-sonnet-5.5/blob/a43446b674ab5ec11f8cc8aebc1a5ed05212033a/README.md",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/KJLKurt/waterslide-game-sonnet-5.5/blob/a43446b674ab5ec11f8cc8aebc1a5ed05212033a/src/main.js",
+        "https://github.com/KJLKurt/waterslide-game-sonnet-5.5/blob/a43446b674ab5ec11f8cc8aebc1a5ed05212033a/src/game/race.js",
+        "https://github.com/KJLKurt/waterslide-game-sonnet-5.5/blob/a43446b674ab5ec11f8cc8aebc1a5ed05212033a/src/game/racer.js"
+      ],
+      "model_family": [
+        "Claude Sonnet 5.5"
+      ]
+    },
+    {
+      "name": "Dead Signal: Exclusion Zone",
+      "github_url": "https://github.com/bridge-mind/sonnet-5-5-zombies-game",
+      "repository_id": 1393775459,
+      "repository_created_at": "2026-09-28T20:13:05Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/bridge-mind/sonnet-5-5-zombies-game/commit/9294d67a8548cb851acfd1a5aafdc6d68b008ee4",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/bridge-mind/sonnet-5-5-zombies-game/blob/9294d67a8548cb851acfd1a5aafdc6d68b008ee4/src/main.ts",
+        "https://github.com/bridge-mind/sonnet-5-5-zombies-game/blob/9294d67a8548cb851acfd1a5aafdc6d68b008ee4/src/game/game.ts",
+        "https://github.com/bridge-mind/sonnet-5-5-zombies-game/blob/9294d67a8548cb851acfd1a5aafdc6d68b008ee4/src/logic/mission.ts"
+      ],
+      "model_family": [
+        "Claude Sonnet 5.5"
+      ]
+    },
+    {
+      "name": "Slipstream",
+      "github_url": "https://github.com/KJLKurt/waterslide-game-gpt-6.1-sol",
+      "repository_id": 1396781432,
+      "repository_created_at": "2026-09-30T01:07:52Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/KJLKurt/waterslide-game-gpt-6.1-sol/blob/9aa70f3c5fd4d553583a5740952e4da094ceac48/README.md",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/KJLKurt/waterslide-game-gpt-6.1-sol/blob/9aa70f3c5fd4d553583a5740952e4da094ceac48/src/main.js",
+        "https://github.com/KJLKurt/waterslide-game-gpt-6.1-sol/blob/9aa70f3c5fd4d553583a5740952e4da094ceac48/src/race.js",
+        "https://github.com/KJLKurt/waterslide-game-gpt-6.1-sol/blob/9aa70f3c5fd4d553583a5740952e4da094ceac48/src/track.js"
+      ],
+      "model_family": [
+        "GPT-6.1 Sol"
+      ]
+    },
+    {
+      "name": "Core Business",
+      "github_url": "https://github.com/Leichtbier/core-business",
+      "repository_id": 1398272295,
+      "repository_created_at": "2026-09-30T14:36:26Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/Leichtbier/core-business/commit/cbe546d6f1458ad1bbd4539de5888f4abcc4c3eb",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/Leichtbier/core-business/blob/cbe546d6f1458ad1bbd4539de5888f4abcc4c3eb/src/main.js",
+        "https://github.com/Leichtbier/core-business/blob/cbe546d6f1458ad1bbd4539de5888f4abcc4c3eb/src/sim.js",
+        "https://github.com/Leichtbier/core-business/blob/cbe546d6f1458ad1bbd4539de5888f4abcc4c3eb/src/battle.js"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ]
+    },
+    {
+      "name": "Floor 48",
+      "github_url": "https://github.com/Crinklyink/game-by-Opus",
+      "repository_id": 1397158606,
+      "repository_created_at": "2026-09-30T06:19:14Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/Crinklyink/game-by-Opus/commit/2119810c275f962ed0cbadefe5459388814eef31",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/Crinklyink/game-by-Opus/blob/2119810c275f962ed0cbadefe5459388814eef31/src/main.js",
+        "https://github.com/Crinklyink/game-by-Opus/blob/2119810c275f962ed0cbadefe5459388814eef31/src/systems/game.js",
+        "https://github.com/Crinklyink/game-by-Opus/blob/2119810c275f962ed0cbadefe5459388814eef31/src/systems/market.js"
+      ],
+      "model_family": [
+        "Claude Sonnet 5.5"
+      ]
+    },
+    {
+      "name": "Gravewake",
+      "github_url": "https://github.com/LioraLabs/gravewake",
+      "repository_id": 1398221446,
+      "repository_created_at": "2026-09-30T14:20:20Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/LioraLabs/gravewake/blob/e0ebab1e7f948570d10b74d1750dfdb344eea2dc/README.md",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/LioraLabs/gravewake/blob/e0ebab1e7f948570d10b74d1750dfdb344eea2dc/src/main.ts",
+        "https://github.com/LioraLabs/gravewake/blob/e0ebab1e7f948570d10b74d1750dfdb344eea2dc/src/game.ts",
+        "https://github.com/LioraLabs/gravewake/blob/e0ebab1e7f948570d10b74d1750dfdb344eea2dc/src/enemies.ts"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ]
+    },
+    {
+      "name": "Last Courier",
+      "github_url": "https://github.com/tanuu5/last-courier",
+      "repository_id": 1397582085,
+      "repository_created_at": "2026-09-30T10:16:12Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/tanuu5/last-courier/commit/54c03e750419218b7fb42f545a9e23e061c80747",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/index.html",
+        "https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/js/main/loop.js",
+        "https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/js/game/orders.js"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ]
+    },
+    {
+      "name": "Neon Bay",
+      "github_url": "https://github.com/L1vsun/NEONBAY",
+      "repository_id": 1395247402,
+      "repository_created_at": "2026-09-29T12:40:48Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/L1vsun/NEONBAY/commit/baac38fecd1698c67dcf75ccffb1a82592798e9c",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/L1vsun/NEONBAY/blob/baac38fecd1698c67dcf75ccffb1a82592798e9c/index.html",
+        "https://github.com/L1vsun/NEONBAY/blob/baac38fecd1698c67dcf75ccffb1a82592798e9c/src/game.js",
+        "https://github.com/L1vsun/NEONBAY/blob/baac38fecd1698c67dcf75ccffb1a82592798e9c/src/police.js"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ]
+    },
+    {
+      "name": "Adventure Mini Golf",
+      "github_url": "https://github.com/leonvanzyl/3d-golf-opus",
+      "repository_id": 1397028493,
+      "repository_created_at": "2026-09-30T05:08:23Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/leonvanzyl/3d-golf-opus/commit/cf93bc94459a459a0aff61667a38d1e60a2154d5",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/leonvanzyl/3d-golf-opus/blob/cf93bc94459a459a0aff61667a38d1e60a2154d5/src/main.js",
+        "https://github.com/leonvanzyl/3d-golf-opus/blob/cf93bc94459a459a0aff61667a38d1e60a2154d5/src/game/Game.js"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ]
+    },
+    {
+      "name": "NPC Village",
+      "github_url": "https://github.com/LJAguil/Npc-Village",
+      "repository_id": 1396730285,
+      "repository_created_at": "2026-09-29T23:55:11Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/LJAguil/Npc-Village/commit/3dbbe7348c5abf69c2a1846d3f3cc3d7352f74e3",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/LJAguil/Npc-Village/blob/3dbbe7348c5abf69c2a1846d3f3cc3d7352f74e3/project.godot",
+        "https://github.com/LJAguil/Npc-Village/blob/3dbbe7348c5abf69c2a1846d3f3cc3d7352f74e3/scripts/main.gd",
+        "https://github.com/LJAguil/Npc-Village/blob/3dbbe7348c5abf69c2a1846d3f3cc3d7352f74e3/scripts/game.gd"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ]
+    },
+    {
+      "name": "Outpace",
+      "github_url": "https://github.com/ethanplusai/outpace",
+      "repository_id": 1396911123,
+      "repository_created_at": "2026-09-30T03:29:19Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/README.md",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/public/index.html",
+        "https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/public/js/engine.js",
+        "https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/docs/BUILD_LOG.md"
+      ],
+      "model_family": [
+        "Claude Opus 5.5",
+        "Claude Sonnet 5.5"
+      ]
+    },
+    {
+      "name": "Open Backrooms",
+      "github_url": "https://github.com/awn3x/Open-Backrooms",
+      "repository_id": 1396727869,
+      "repository_created_at": "2026-09-29T23:51:41Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/awn3x/Open-Backrooms/commit/ec3c618ed48b33ab7a2d9fc3d69781f68c0bc184",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/awn3x/Open-Backrooms/blob/15c7a727dd37133c8a95b5abe50769a656abb934/src/game/main.ts",
+        "https://github.com/awn3x/Open-Backrooms/blob/15c7a727dd37133c8a95b5abe50769a656abb934/src/game/Game.ts"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ]
+    },
+    {
+      "name": "Elden Kart",
+      "github_url": "https://github.com/Manoz/elden-kart",
+      "repository_id": 1396338750,
+      "repository_created_at": "2026-09-29T18:32:07Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/Manoz/elden-kart/blob/17d7212e143c88a47bc0e2d396d7247b4a8e033d/README.md",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/Manoz/elden-kart/blob/17d7212e143c88a47bc0e2d396d7247b4a8e033d/src/main.js",
+        "https://github.com/Manoz/elden-kart/blob/17d7212e143c88a47bc0e2d396d7247b4a8e033d/src/core/Race.js",
+        "https://github.com/Manoz/elden-kart/blob/17d7212e143c88a47bc0e2d396d7247b4a8e033d/src/core/Game.js"
+      ],
+      "model_family": [
+        "Claude Sonnet 5.5"
+      ]
+    },
+    {
+      "name": "Mall Action — Model Benchmark",
+      "github_url": "https://github.com/rlorca/mall-action",
+      "repository_id": 1395253081,
+      "repository_created_at": "2026-09-29T12:43:03Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/rlorca/mall-action/blob/23a4c80fd51237ad620b957e79d3e279edfad381/README.md",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/rlorca/mall-action/blob/gpt-6-1-sol/src/main.ts",
+        "https://github.com/rlorca/mall-action/blob/gpt-6-1-sol/src/game.ts"
+      ],
+      "model_family": [
+        "Claude Opus 5.5",
+        "Claude Sonnet 5.5",
+        "GPT-6.1 Sol"
+      ]
+    },
+    {
+      "name": "Gloaming Vale",
+      "github_url": "https://github.com/juan504n/spyro-game",
+      "repository_id": 1396167582,
+      "repository_created_at": "2026-09-29T17:32:04Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/juan504n/spyro-game/commit/92bbe27dd36c6f347db07e734a281591fb09c1c4",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/src/main.js",
+        "https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/src/game/game.js",
+        "https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/src/game/player.js"
+      ],
+      "model_family": [
+        "Claude Sonnet 5.5"
+      ]
+    },
+    {
+      "name": "Flappy Nyan Cat",
+      "github_url": "https://github.com/hunterawsome1243/flappy-cat",
+      "repository_id": 1398252449,
+      "repository_created_at": "2026-09-30T14:30:02Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/hunterawsome1243/flappy-cat/commit/9782188aecdb661ed08c6f2f0356374fbe71e547",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/hunterawsome1243/flappy-cat/blob/9782188aecdb661ed08c6f2f0356374fbe71e547/index.html"
+      ],
+      "model_family": [
+        "Claude Sonnet 5.5"
+      ]
+    },
+    {
+      "name": "Earth to Moon Learning Game",
+      "github_url": "https://github.com/drahmedyahia/yoyo",
+      "repository_id": 1398168550,
+      "repository_created_at": "2026-09-30T14:04:21Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/drahmedyahia/yoyo/commit/77049f6bc74286505eb83694aaf1b1ee98b3ee8c",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/drahmedyahia/yoyo/blob/77049f6bc74286505eb83694aaf1b1ee98b3ee8c/lib/main.dart",
+        "https://github.com/drahmedyahia/yoyo/blob/77049f6bc74286505eb83694aaf1b1ee98b3ee8c/lib/rocket_journey.dart"
+      ],
+      "model_family": [
+        "Claude Sonnet 5.5"
+      ]
+    },
+    {
+      "name": "Particle Workshop",
+      "github_url": "https://github.com/tgtec26/snug-matter-composition-game",
+      "repository_id": 1397618531,
+      "repository_created_at": "2026-09-30T10:37:57Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/tgtec26/snug-matter-composition-game/commit/2a81bdf79ab5945ff79f53e37c33efe60eec22a3",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/tgtec26/snug-matter-composition-game/blob/2a81bdf79ab5945ff79f53e37c33efe60eec22a3/app/page.tsx",
+        "https://github.com/tgtec26/snug-matter-composition-game/blob/2a81bdf79ab5945ff79f53e37c33efe60eec22a3/components/overlays/AtomBuilderOverlay.tsx",
+        "https://github.com/tgtec26/snug-matter-composition-game/blob/2a81bdf79ab5945ff79f53e37c33efe60eec22a3/game/store.ts"
+      ],
+      "model_family": [
+        "Claude Sonnet 5.5"
+      ]
+    },
+    {
+      "name": "Matter Separation Workshop",
+      "github_url": "https://github.com/tgtec26/snug-matter-properties-game",
+      "repository_id": 1397447563,
+      "repository_created_at": "2026-09-30T08:58:26Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/tgtec26/snug-matter-properties-game/commit/f19195f6f19dc00d2fa70931f8ede09880631d2e",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/tgtec26/snug-matter-properties-game/blob/f19195f6f19dc00d2fa70931f8ede09880631d2e/app/page.tsx",
+        "https://github.com/tgtec26/snug-matter-properties-game/blob/f19195f6f19dc00d2fa70931f8ede09880631d2e/components/overlays/SeparateOverlay.tsx",
+        "https://github.com/tgtec26/snug-matter-properties-game/blob/f19195f6f19dc00d2fa70931f8ede09880631d2e/game/minigames/distill.ts",
+        "https://github.com/tgtec26/snug-matter-properties-game/blob/f19195f6f19dc00d2fa70931f8ede09880631d2e/game/store.ts"
+      ],
+      "model_family": [
+        "Claude Sonnet 5.5"
+      ]
+    },
+    {
+      "name": "Alice in the Watercolor Garden",
+      "github_url": "https://github.com/hatakoma/cc_alice",
+      "repository_id": 1398005795,
+      "repository_created_at": "2026-09-30T13:14:18Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/hatakoma/cc_alice/commit/98f3fd73df0ac04fff9e08a63a7781b15f084604",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/hatakoma/cc_alice/blob/a558d9c40df8d950e48215dfe01afdbf7a1ef5f1/index.html",
+        "https://github.com/hatakoma/cc_alice/blob/a558d9c40df8d950e48215dfe01afdbf7a1ef5f1/js/main.js",
+        "https://github.com/hatakoma/cc_alice/blob/a558d9c40df8d950e48215dfe01afdbf7a1ef5f1/js/alice.js"
+      ],
+      "model_family": [
+        "Claude Sonnet 5.5"
+      ]
+    },
+    {
+      "name": "Nova Skim",
+      "github_url": "https://github.com/IBassemTarek/nova-skim",
+      "repository_id": 1397981072,
+      "repository_created_at": "2026-09-30T13:06:05Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/IBassemTarek/nova-skim/commit/6c0ad00f6c83b14538157b520f57adbbc2852006",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/IBassemTarek/nova-skim/blob/6c0ad00f6c83b14538157b520f57adbbc2852006/src/main.js",
+        "https://github.com/IBassemTarek/nova-skim/blob/6c0ad00f6c83b14538157b520f57adbbc2852006/src/scenes/GameScene.js",
+        "https://github.com/IBassemTarek/nova-skim/blob/6c0ad00f6c83b14538157b520f57adbbc2852006/src/game/world.js"
+      ],
+      "model_family": [
+        "Claude Sonnet 5.5"
+      ]
+    },
+    {
+      "name": "Buzzword Dash",
+      "github_url": "https://github.com/pathomnemonic/buzzword-dash-v2",
+      "repository_id": 1395723195,
+      "repository_created_at": "2026-09-29T15:17:24Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/pathomnemonic/buzzword-dash-v2/commit/9d822a523efcc37a85bdedf65719a6288b0112c7",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/pathomnemonic/buzzword-dash-v2/blob/9d822a523efcc37a85bdedf65719a6288b0112c7/index.html",
+        "https://github.com/pathomnemonic/buzzword-dash-v2/blob/9d822a523efcc37a85bdedf65719a6288b0112c7/js/main.js",
+        "https://github.com/pathomnemonic/buzzword-dash-v2/blob/9d822a523efcc37a85bdedf65719a6288b0112c7/js/rules.js"
+      ],
+      "model_family": [
+        "Claude Sonnet 5.5"
+      ]
+    },
+    {
+      "name": "Dog — Swiss Card Board Game",
+      "github_url": "https://github.com/seppbucher-develop/dog",
+      "repository_id": 1397909898,
+      "repository_created_at": "2026-09-30T12:41:36Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/seppbucher-develop/dog/commit/1d260391f9b2d9afe17ed6f65f6805ed85c1eaa9",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/seppbucher-develop/dog/blob/1d260391f9b2d9afe17ed6f65f6805ed85c1eaa9/packages/engine/src/game.ts",
+        "https://github.com/seppbucher-develop/dog/blob/1d260391f9b2d9afe17ed6f65f6805ed85c1eaa9/packages/engine/src/moves.ts",
+        "https://github.com/seppbucher-develop/dog/blob/1d260391f9b2d9afe17ed6f65f6805ed85c1eaa9/packages/server/src/main.ts"
+      ],
+      "model_family": [
+        "Claude Sonnet 5.5"
+      ]
+    },
+    {
+      "name": "Unicorn Chaos Club",
+      "github_url": "https://github.com/derHeinzer/yunicorn",
+      "repository_id": 1397122613,
+      "repository_created_at": "2026-09-30T06:01:50Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/derHeinzer/yunicorn/commit/2e37d958f9748c4cd6cf0bff1963dc9258127d0b",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/derHeinzer/yunicorn/blob/c4e2c24ac7dd14813657639c43a106f8c276a714/src/app/main.tsx",
+        "https://github.com/derHeinzer/yunicorn/blob/c4e2c24ac7dd14813657639c43a106f8c276a714/src/ui/App.tsx",
+        "https://github.com/derHeinzer/yunicorn/blob/c4e2c24ac7dd14813657639c43a106f8c276a714/src/activities/coloring.ts",
+        "https://github.com/derHeinzer/yunicorn/blob/c4e2c24ac7dd14813657639c43a106f8c276a714/src/world/stickers.ts"
+      ],
+      "model_family": [
+        "Claude Sonnet 5.5"
+      ]
+    }
+  ]
+}

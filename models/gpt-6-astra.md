@@ -202,4 +202,3 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**Trashketball (Ultra)**](../games/trashketball-ultra/readme.md) — ⭐ **8.0/10** · GPT-6 Astra · React, TypeScript, Three.js, WebGL, Vite · [≈ creator-reported model evidence](https://github.com/swathidbhat/gpt6-astra-ultra-codex-trashketball)
 
 [Back to game library](#game-library)
-

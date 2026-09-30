@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-09-28",
+  "checked_on": "2026-09-30",
   "pending": [
     {
       "game_name": "Yakko Kart",
@@ -162,6 +162,70 @@
       "source": "https://github.com/RanvirSinghN/LastTrainHome",
       "checked_on": "2026-09-28",
       "reason": "README, screenshots and a playable release exist, but checked-in game source is absent; do not count without source inspection."
+    },
+    {
+      "repository_hint": "TheWoovee/FortNightTest-Sonnet",
+      "github_url": "https://github.com/TheWoovee/FortNightTest-Sonnet",
+      "repository_id": 1394908443,
+      "repository_created_at": "2026-09-29T10:17:30Z",
+      "reason": "Inspect stronger model evidence: the inspected history uses generic Claude trailers, not a verified Sonnet 5.5 authoring statement.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "OminousIndustries/SonnetOSRS",
+      "github_url": "https://github.com/OminousIndustries/SonnetOSRS",
+      "repository_id": 1394045843,
+      "repository_created_at": "2026-09-29T01:30:07Z",
+      "reason": "Inspect gameplay implementation and project-specific model evidence beyond the README, metadata and source tree before accepting.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "moderngentlemen-sudo/nova-striker-gpt6.1",
+      "github_url": "https://github.com/moderngentlemen-sudo/nova-striker-gpt6.1",
+      "repository_id": 1397055434,
+      "repository_created_at": "2026-09-30T05:25:49Z",
+      "reason": "Verify exact GPT-6.1 Sol authorship; the slug and cloud workspace documentation do not prove model authorship.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "Legerdo/beat-foundry",
+      "github_url": "https://github.com/Legerdo/beat-foundry",
+      "repository_id": 1397526097,
+      "repository_created_at": "2026-09-30T09:44:54Z",
+      "reason": "Verify authoring evidence: the word OPUS also names the in-game finale, and the inspected history has no exact model trailer.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "ketanofc/doodlebattles",
+      "github_url": "https://github.com/ketanofc/doodlebattles",
+      "repository_id": 1395508918,
+      "repository_created_at": "2026-09-29T14:02:58Z",
+      "reason": "Find a primary authoring-model statement before accepting; do not infer from search metadata matches.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "Mayanksaiini/Dlicom-Arena",
+      "github_url": "https://github.com/Mayanksaiini/Dlicom-Arena",
+      "repository_id": 1397498870,
+      "repository_created_at": "2026-09-30T09:27:59Z",
+      "reason": "Inspect the actual single-file implementation and preserve the creator description as unspecified Claude Sonnet unless version evidence exists.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "johalon/TestPseudo3DShooter2",
+      "github_url": "https://github.com/johalon/TestPseudo3DShooter2",
+      "repository_id": 1398257893,
+      "repository_created_at": "2026-09-30T14:31:43Z",
+      "reason": "Inspect the full implementation and explicit authoring evidence beyond its generic Claude Opus description.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "chillqoder/GPT-6.1-Sol",
+      "github_url": "https://github.com/chillqoder/GPT-6.1-Sol",
+      "repository_id": 1397877629,
+      "repository_created_at": "2026-09-30T12:29:53Z",
+      "reason": "Find project-specific GPT-6.1 Sol attribution beyond the repository slug before accepting Little Leap.",
+      "checked_on": "2026-09-30"
     }
   ],
   "rejected": [
@@ -1106,6 +1170,126 @@
       "source": "https://github.com/AlexGalhardo/CLI-Turn-Based-RPG-Game",
       "checked_on": "2026-09-28",
       "reason": "README dates the original terminal RPG to 2022; the 2026 repository is a didactic multilingual repackaging, not a newly made game."
+    },
+    {
+      "repository_hint": "anshul09-hub/sonnet-games",
+      "github_url": "https://github.com/anshul09-hub/sonnet-games",
+      "repository_id": 1397244831,
+      "repository_created_at": "2026-09-30T07:06:17Z",
+      "reason": "Reject the four-game claim: the repository contains only a README, without game implementation.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "rlorca/mall-action-sonnet",
+      "github_url": "https://github.com/rlorca/mall-action-sonnet",
+      "repository_id": 1395164576,
+      "repository_created_at": "2026-09-29T12:11:26Z",
+      "reason": "Consolidate this Sonnet implementation into the inspected sonnet-5-5 branch of rlorca/mall-action; do not double-count the same game.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "az9713/sonnet-5.5-3d-world-demo",
+      "github_url": "https://github.com/az9713/sonnet-5.5-3d-world-demo",
+      "repository_id": 1394037300,
+      "repository_created_at": "2026-09-29T01:19:30Z",
+      "reason": "Reject the first-person island scene: the inspected implementation provides exploration/rendering without a qualifying objective or substantive game loop.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "swathidbhat/gpt6.1-sol-ultra-codex-trashketball",
+      "github_url": "https://github.com/swathidbhat/gpt6.1-sol-ultra-codex-trashketball",
+      "repository_id": 1397735108,
+      "repository_created_at": "2026-09-30T11:33:02Z",
+      "reason": "Reject the empty repository; no README or game source exists.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "swathidbhat/gpt6.1-sol-max-codex-trashketball",
+      "github_url": "https://github.com/swathidbhat/gpt6.1-sol-max-codex-trashketball",
+      "repository_id": 1397734089,
+      "repository_created_at": "2026-09-30T11:32:38Z",
+      "reason": "Reject the empty repository; no README or game source exists.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "swathidbhat/gpt6.1-sol-extrahigh-codex-trashketball",
+      "github_url": "https://github.com/swathidbhat/gpt6.1-sol-extrahigh-codex-trashketball",
+      "repository_id": 1397733163,
+      "repository_created_at": "2026-09-30T11:32:13Z",
+      "reason": "Reject the empty repository; no README or game source exists.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "swathidbhat/gpt6.1-sol-high-codex-trashketball",
+      "github_url": "https://github.com/swathidbhat/gpt6.1-sol-high-codex-trashketball",
+      "repository_id": 1397731385,
+      "repository_created_at": "2026-09-30T11:31:31Z",
+      "reason": "Reject the empty repository; no README or game source exists.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "monstercameron/dungeonfluxGame",
+      "github_url": "https://github.com/monstercameron/dungeonfluxGame",
+      "repository_id": 1397035341,
+      "repository_created_at": "2026-09-30T05:13:00Z",
+      "reason": "Reject the architecture/planning repository: its README explicitly says the server and browser application do not exist yet.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "dexnotavailable/coldfront",
+      "github_url": "https://github.com/dexnotavailable/coldfront",
+      "repository_id": 1398117734,
+      "repository_created_at": "2026-09-30T13:49:03Z",
+      "reason": "Reject design-only source; model-authored docs do not supply implemented gameplay.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "Maximusdurden/neon-strike",
+      "github_url": "https://github.com/Maximusdurden/neon-strike",
+      "repository_id": 1396785257,
+      "repository_created_at": "2026-09-30T01:13:19Z",
+      "reason": "Reject attribution: the README compares this game to an Opus 5.5 demo but does not attribute this implementation to that model.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "Scotho/luminal",
+      "github_url": "https://github.com/Scotho/luminal",
+      "repository_id": 1396445124,
+      "repository_created_at": "2026-09-29T19:19:19Z",
+      "reason": "Reject this fresh-date batch: the README explicitly says the game was built in early April 2026. Do not equate a newly created public repository with a newly made game.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "Xe/raidsim",
+      "github_url": "https://github.com/Xe/raidsim",
+      "repository_id": 1398268358,
+      "repository_created_at": "2026-09-30T14:35:09Z",
+      "reason": "Reject the checked-in snapshot: only a README exists and the referenced Godot project is absent.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "313715295/ChatGPT-Test",
+      "github_url": "https://github.com/313715295/ChatGPT-Test",
+      "repository_id": 1396943068,
+      "repository_created_at": "2026-09-30T03:58:41Z",
+      "reason": "Reject scene-only benchmark outputs: the coastal-cat visualizations do not supply a qualifying playable game.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "SpooksMcDoots/fantasy-basketball-dynasty-sim",
+      "github_url": "https://github.com/SpooksMcDoots/fantasy-basketball-dynasty-sim",
+      "repository_id": 1398169028,
+      "repository_created_at": "2026-09-30T14:04:28Z",
+      "reason": "Reject the autonomous season/history simulator from this playable-game batch; its run parameters do not establish interactive player decisions.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "Ayusman-Singhal/My-Lovely-Ferret",
+      "github_url": "https://github.com/Ayusman-Singhal/My-Lovely-Ferret",
+      "repository_id": 1398085692,
+      "repository_created_at": "2026-09-30T13:39:29Z",
+      "reason": "Reject the mounted UI: src/main.tsx renders App, which only says A ferret will live here. Tested care simulation modules are not yet connected to gameplay.",
+      "checked_on": "2026-09-30"
     }
   ]
 }

@@ -1,5 +1,28 @@
 # Search experiments
 
+## Two-day Sonnet/Sol expansion — 2026-09-30
+
+- Preserve September 29–30 in Asia/Ho_Chi_Minh; accept 30 game units from 29 source repositories without widening the window. Use all repository creation timestamps as proxies, not proven game creation dates.
+- Run nine GitHub searches sequentially. Save [query receipts](../research/2026-09-30-search-results.json); treat five capped metadata queries and one capped commit query as incomplete partitions.
+- Join 83 deduplicated commit candidate metadata checks to the two-day creation window; retain 23 fresh repository hints. Inspect the fixed source candidates serially.
+- Keep 29 verified repository decisions, 15 rejections and eight pending attribution/source checks in [the candidate audit](../research/2026-09-30-candidate-audit.json).
+- Expand the waterslide creator family to Sonnet 5.5 Splash Rush and GPT-6.1 Sol Slipstream. Reject all four empty Sol Trashketball runs.
+- Inspect Mall Action’s model branches; count the benchmark as one named game. Count the samples repository as two named games, not ten effort runs.
+- Correct misleading slug expectations: use Opus 5.5 for Putt Quest and Sonnet 5.5 for Floor 48. Separate Outpace’s Opus orchestration from Sonnet backend/QA.
+- Reject My Lovely Ferret’s placeholder entry UI and Luminal’s explicit April creation history. Accept the implemented science workshops only after checking real overlay controls and completion stores.
+- Preserve the lower-quality Flappy Nyan Cat record outside the curated pages; do not inflate its score to satisfy the quota.
+- Save 44 verified README images; reject the dragon asset turntable. Limit runtime claims to one completed Slipstream race and Mall Action’s Sol branch start/map smoke test.
+- Validate [the batch](../research/2026-09-30-game-batch.json) with `bash scripts/validate-discovery-batch.sh research/2026-09-30-game-batch.json`.
+- Verify the frontier script with offline mocked checks for creation-window boundaries, stale and existing repositories, inaccessible metadata, deduplication and output overwrite refusal. Distinguish these script checks from the saved live query receipts.
+
+### Critique
+
+Score the combined method 8.6/10 for precision, distinct source coverage and repeatability. Report 29/52 verified repository decisions in the fixed inspection set; do not equate that 55.8% verification yield with the much larger raw search-hit denominator. Credit branch-aware inspection and commit freshness joins; discount capped search partitions and unknown actual creation dates.
+
+### Next experiment
+
+Read [Fresh model discovery](fresh-model-discovery.md). Inspect held attribution candidates or a changed commit-date partition. Recheck empty Sol runs only after source appears. Do not repeat the completed September 29–30 query keys unchanged.
+
 ## Seven-day expansion — 2026-09-28
 
 - Search September 27–28 in Asia/Ho_Chi_Minh first. Accept 12 new source-verified repositories from those dates; widen to September 25–26 for eight more rather than lower the game-source gate.

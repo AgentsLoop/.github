@@ -1,0 +1,473 @@
+{
+  "checked_on": "2026-09-30",
+  "candidates": [
+    {
+      "repository_hint": "FinDaHuman/ClaudeBlackJack",
+      "github_url": "https://github.com/FinDaHuman/ClaudeBlackJack",
+      "repository_id": 1397150708,
+      "repository_created_at": "2026-09-30T06:15:17Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "anshul09-hub/sonnet-games",
+      "github_url": "https://github.com/anshul09-hub/sonnet-games",
+      "repository_id": 1397244831,
+      "repository_created_at": "2026-09-30T07:06:17Z",
+      "status": "rejected",
+      "reason": "Reject the four-game claim: the repository contains only a README, without game implementation.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "leonvanzyl/3d-golf-sonnet",
+      "github_url": "https://github.com/leonvanzyl/3d-golf-sonnet",
+      "repository_id": 1397028512,
+      "repository_created_at": "2026-09-30T05:08:24Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "TheWoovee/FortNightTest-Sonnet",
+      "github_url": "https://github.com/TheWoovee/FortNightTest-Sonnet",
+      "repository_id": 1394908443,
+      "repository_created_at": "2026-09-29T10:17:30Z",
+      "status": "pending",
+      "reason": "Inspect stronger model evidence: the inspected history uses generic Claude trailers, not a verified Sonnet 5.5 authoring statement.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "rlorca/mall-action-sonnet",
+      "github_url": "https://github.com/rlorca/mall-action-sonnet",
+      "repository_id": 1395164576,
+      "repository_created_at": "2026-09-29T12:11:26Z",
+      "status": "rejected",
+      "reason": "Consolidate this Sonnet implementation into the inspected sonnet-5-5 branch of rlorca/mall-action; do not double-count the same game.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "guiguito/DestructionDerbySonnet",
+      "github_url": "https://github.com/guiguito/DestructionDerbySonnet",
+      "repository_id": 1395138374,
+      "repository_created_at": "2026-09-29T12:02:05Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "DaikiKobayashi/sonnet-5-5-web-game-samples",
+      "github_url": "https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples",
+      "repository_id": 1394121549,
+      "repository_created_at": "2026-09-29T02:48:56Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "az9713/sonnet-5.5-3d-world-demo",
+      "github_url": "https://github.com/az9713/sonnet-5.5-3d-world-demo",
+      "repository_id": 1394037300,
+      "repository_created_at": "2026-09-29T01:19:30Z",
+      "status": "rejected",
+      "reason": "Reject the first-person island scene: the inspected implementation provides exploration/rendering without a qualifying objective or substantive game loop.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "OminousIndustries/SonnetOSRS",
+      "github_url": "https://github.com/OminousIndustries/SonnetOSRS",
+      "repository_id": 1394045843,
+      "repository_created_at": "2026-09-29T01:30:07Z",
+      "status": "pending",
+      "reason": "Inspect gameplay implementation and project-specific model evidence beyond the README, metadata and source tree before accepting.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "GoldwinXS/YetAnotherVoxelCraft",
+      "github_url": "https://github.com/GoldwinXS/YetAnotherVoxelCraft",
+      "repository_id": 1394016098,
+      "repository_created_at": "2026-09-29T00:51:47Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "KJLKurt/waterslide-game-sonnet-5.5",
+      "github_url": "https://github.com/KJLKurt/waterslide-game-sonnet-5.5",
+      "repository_id": 1393790941,
+      "repository_created_at": "2026-09-28T20:23:57Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "bridge-mind/sonnet-5-5-zombies-game",
+      "github_url": "https://github.com/bridge-mind/sonnet-5-5-zombies-game",
+      "repository_id": 1393775459,
+      "repository_created_at": "2026-09-28T20:13:05Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "swathidbhat/gpt6.1-sol-ultra-codex-trashketball",
+      "github_url": "https://github.com/swathidbhat/gpt6.1-sol-ultra-codex-trashketball",
+      "repository_id": 1397735108,
+      "repository_created_at": "2026-09-30T11:33:02Z",
+      "status": "rejected",
+      "reason": "Reject the empty repository; no README or game source exists.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "swathidbhat/gpt6.1-sol-max-codex-trashketball",
+      "github_url": "https://github.com/swathidbhat/gpt6.1-sol-max-codex-trashketball",
+      "repository_id": 1397734089,
+      "repository_created_at": "2026-09-30T11:32:38Z",
+      "status": "rejected",
+      "reason": "Reject the empty repository; no README or game source exists.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "swathidbhat/gpt6.1-sol-extrahigh-codex-trashketball",
+      "github_url": "https://github.com/swathidbhat/gpt6.1-sol-extrahigh-codex-trashketball",
+      "repository_id": 1397733163,
+      "repository_created_at": "2026-09-30T11:32:13Z",
+      "status": "rejected",
+      "reason": "Reject the empty repository; no README or game source exists.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "swathidbhat/gpt6.1-sol-high-codex-trashketball",
+      "github_url": "https://github.com/swathidbhat/gpt6.1-sol-high-codex-trashketball",
+      "repository_id": 1397731385,
+      "repository_created_at": "2026-09-30T11:31:31Z",
+      "status": "rejected",
+      "reason": "Reject the empty repository; no README or game source exists.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "moderngentlemen-sudo/nova-striker-gpt6.1",
+      "github_url": "https://github.com/moderngentlemen-sudo/nova-striker-gpt6.1",
+      "repository_id": 1397055434,
+      "repository_created_at": "2026-09-30T05:25:49Z",
+      "status": "pending",
+      "reason": "Verify exact GPT-6.1 Sol authorship; the slug and cloud workspace documentation do not prove model authorship.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "KJLKurt/waterslide-game-gpt-6.1-sol",
+      "github_url": "https://github.com/KJLKurt/waterslide-game-gpt-6.1-sol",
+      "repository_id": 1396781432,
+      "repository_created_at": "2026-09-30T01:07:52Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "Leichtbier/core-business",
+      "github_url": "https://github.com/Leichtbier/core-business",
+      "repository_id": 1398272295,
+      "repository_created_at": "2026-09-30T14:36:26Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "monstercameron/dungeonfluxGame",
+      "github_url": "https://github.com/monstercameron/dungeonfluxGame",
+      "repository_id": 1397035341,
+      "repository_created_at": "2026-09-30T05:13:00Z",
+      "status": "rejected",
+      "reason": "Reject the architecture/planning repository: its README explicitly says the server and browser application do not exist yet.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "Crinklyink/game-by-Opus",
+      "github_url": "https://github.com/Crinklyink/game-by-Opus",
+      "repository_id": 1397158606,
+      "repository_created_at": "2026-09-30T06:19:14Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "LioraLabs/gravewake",
+      "github_url": "https://github.com/LioraLabs/gravewake",
+      "repository_id": 1398221446,
+      "repository_created_at": "2026-09-30T14:20:20Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "dexnotavailable/coldfront",
+      "github_url": "https://github.com/dexnotavailable/coldfront",
+      "repository_id": 1398117734,
+      "repository_created_at": "2026-09-30T13:49:03Z",
+      "status": "rejected",
+      "reason": "Reject design-only source; model-authored docs do not supply implemented gameplay.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "tanuu5/last-courier",
+      "github_url": "https://github.com/tanuu5/last-courier",
+      "repository_id": 1397582085,
+      "repository_created_at": "2026-09-30T10:16:12Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "L1vsun/NEONBAY",
+      "github_url": "https://github.com/L1vsun/NEONBAY",
+      "repository_id": 1395247402,
+      "repository_created_at": "2026-09-29T12:40:48Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "Legerdo/beat-foundry",
+      "github_url": "https://github.com/Legerdo/beat-foundry",
+      "repository_id": 1397526097,
+      "repository_created_at": "2026-09-30T09:44:54Z",
+      "status": "pending",
+      "reason": "Verify authoring evidence: the word OPUS also names the in-game finale, and the inspected history has no exact model trailer.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "leonvanzyl/3d-golf-opus",
+      "github_url": "https://github.com/leonvanzyl/3d-golf-opus",
+      "repository_id": 1397028493,
+      "repository_created_at": "2026-09-30T05:08:23Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "LJAguil/Npc-Village",
+      "github_url": "https://github.com/LJAguil/Npc-Village",
+      "repository_id": 1396730285,
+      "repository_created_at": "2026-09-29T23:55:11Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "ethanplusai/outpace",
+      "github_url": "https://github.com/ethanplusai/outpace",
+      "repository_id": 1396911123,
+      "repository_created_at": "2026-09-30T03:29:19Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "awn3x/Open-Backrooms",
+      "github_url": "https://github.com/awn3x/Open-Backrooms",
+      "repository_id": 1396727869,
+      "repository_created_at": "2026-09-29T23:51:41Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "Maximusdurden/neon-strike",
+      "github_url": "https://github.com/Maximusdurden/neon-strike",
+      "repository_id": 1396785257,
+      "repository_created_at": "2026-09-30T01:13:19Z",
+      "status": "rejected",
+      "reason": "Reject attribution: the README compares this game to an Opus 5.5 demo but does not attribute this implementation to that model.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "ketanofc/doodlebattles",
+      "github_url": "https://github.com/ketanofc/doodlebattles",
+      "repository_id": 1395508918,
+      "repository_created_at": "2026-09-29T14:02:58Z",
+      "status": "pending",
+      "reason": "Find a primary authoring-model statement before accepting; do not infer from search metadata matches.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "Manoz/elden-kart",
+      "github_url": "https://github.com/Manoz/elden-kart",
+      "repository_id": 1396338750,
+      "repository_created_at": "2026-09-29T18:32:07Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "rlorca/mall-action",
+      "github_url": "https://github.com/rlorca/mall-action",
+      "repository_id": 1395253081,
+      "repository_created_at": "2026-09-29T12:43:03Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "Scotho/luminal",
+      "github_url": "https://github.com/Scotho/luminal",
+      "repository_id": 1396445124,
+      "repository_created_at": "2026-09-29T19:19:19Z",
+      "status": "rejected",
+      "reason": "Reject this fresh-date batch: the README explicitly says the game was built in early April 2026. Do not equate a newly created public repository with a newly made game.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "Mayanksaiini/Dlicom-Arena",
+      "github_url": "https://github.com/Mayanksaiini/Dlicom-Arena",
+      "repository_id": 1397498870,
+      "repository_created_at": "2026-09-30T09:27:59Z",
+      "status": "pending",
+      "reason": "Inspect the actual single-file implementation and preserve the creator description as unspecified Claude Sonnet unless version evidence exists.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "johalon/TestPseudo3DShooter2",
+      "github_url": "https://github.com/johalon/TestPseudo3DShooter2",
+      "repository_id": 1398257893,
+      "repository_created_at": "2026-09-30T14:31:43Z",
+      "status": "pending",
+      "reason": "Inspect the full implementation and explicit authoring evidence beyond its generic Claude Opus description.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "Xe/raidsim",
+      "github_url": "https://github.com/Xe/raidsim",
+      "repository_id": 1398268358,
+      "repository_created_at": "2026-09-30T14:35:09Z",
+      "status": "rejected",
+      "reason": "Reject the checked-in snapshot: only a README exists and the referenced Godot project is absent.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "313715295/ChatGPT-Test",
+      "github_url": "https://github.com/313715295/ChatGPT-Test",
+      "repository_id": 1396943068,
+      "repository_created_at": "2026-09-30T03:58:41Z",
+      "status": "rejected",
+      "reason": "Reject scene-only benchmark outputs: the coastal-cat visualizations do not supply a qualifying playable game.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "chillqoder/GPT-6.1-Sol",
+      "github_url": "https://github.com/chillqoder/GPT-6.1-Sol",
+      "repository_id": 1397877629,
+      "repository_created_at": "2026-09-30T12:29:53Z",
+      "status": "pending",
+      "reason": "Find project-specific GPT-6.1 Sol attribution beyond the repository slug before accepting Little Leap.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "juan504n/spyro-game",
+      "github_url": "https://github.com/juan504n/spyro-game",
+      "repository_id": 1396167582,
+      "repository_created_at": "2026-09-29T17:32:04Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "SpooksMcDoots/fantasy-basketball-dynasty-sim",
+      "github_url": "https://github.com/SpooksMcDoots/fantasy-basketball-dynasty-sim",
+      "repository_id": 1398169028,
+      "repository_created_at": "2026-09-30T14:04:28Z",
+      "status": "rejected",
+      "reason": "Reject the autonomous season/history simulator from this playable-game batch; its run parameters do not establish interactive player decisions.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "hunterawsome1243/flappy-cat",
+      "github_url": "https://github.com/hunterawsome1243/flappy-cat",
+      "repository_id": 1398252449,
+      "repository_created_at": "2026-09-30T14:30:02Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "derHeinzer/yunicorn",
+      "github_url": "https://github.com/derHeinzer/yunicorn",
+      "repository_id": 1397122613,
+      "repository_created_at": "2026-09-30T06:01:50Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "Ayusman-Singhal/My-Lovely-Ferret",
+      "github_url": "https://github.com/Ayusman-Singhal/My-Lovely-Ferret",
+      "repository_id": 1398085692,
+      "repository_created_at": "2026-09-30T13:39:29Z",
+      "status": "rejected",
+      "reason": "Reject the mounted UI: src/main.tsx renders App, which only says A ferret will live here. Tested care simulation modules are not yet connected to gameplay.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "drahmedyahia/yoyo",
+      "github_url": "https://github.com/drahmedyahia/yoyo",
+      "repository_id": 1398168550,
+      "repository_created_at": "2026-09-30T14:04:21Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "tgtec26/snug-matter-composition-game",
+      "github_url": "https://github.com/tgtec26/snug-matter-composition-game",
+      "repository_id": 1397618531,
+      "repository_created_at": "2026-09-30T10:37:57Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "tgtec26/snug-matter-properties-game",
+      "github_url": "https://github.com/tgtec26/snug-matter-properties-game",
+      "repository_id": 1397447563,
+      "repository_created_at": "2026-09-30T08:58:26Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "hatakoma/cc_alice",
+      "github_url": "https://github.com/hatakoma/cc_alice",
+      "repository_id": 1398005795,
+      "repository_created_at": "2026-09-30T13:14:18Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "IBassemTarek/nova-skim",
+      "github_url": "https://github.com/IBassemTarek/nova-skim",
+      "repository_id": 1397981072,
+      "repository_created_at": "2026-09-30T13:06:05Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "pathomnemonic/buzzword-dash-v2",
+      "github_url": "https://github.com/pathomnemonic/buzzword-dash-v2",
+      "repository_id": 1395723195,
+      "repository_created_at": "2026-09-29T15:17:24Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "repository_hint": "seppbucher-develop/dog",
+      "github_url": "https://github.com/seppbucher-develop/dog",
+      "repository_id": 1397909898,
+      "repository_created_at": "2026-09-30T12:41:36Z",
+      "status": "verified",
+      "reason": "Inspect the linked source and model evidence; count only the named gameplay units in the batch.",
+      "checked_on": "2026-09-30"
+    }
+  ]
+}

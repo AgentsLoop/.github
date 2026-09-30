@@ -4980,6 +4980,446 @@
       "reason": "Adjust from the manually reviewed representative frame. Discount the menu, overlay or non-play state.",
       "reviewed_on": "2026-09-27",
       "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/LioraLabs/gravewake",
+      "url": "https://github.com/LioraLabs/gravewake/blob/e0ebab1e7f948570d10b74d1750dfdb344eea2dc/docs/media/title.webp",
+      "game": "Gravewake",
+      "score_10": 5.6,
+      "image_kind": "title_or_menu",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount title/menu overlays or missing play context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/LioraLabs/gravewake",
+      "url": "https://github.com/LioraLabs/gravewake/blob/e0ebab1e7f948570d10b74d1750dfdb344eea2dc/docs/media/fight.webp",
+      "game": "Gravewake",
+      "score_10": 8.0,
+      "image_kind": "gameplay",
+      "reason": "Inspect atmospheric lighting, the clustered undead and contrasting spell effects; retain the dark-scene readability caveat.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/tanuu5/last-courier",
+      "url": "https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/docs/screenshots/gameplay.webp",
+      "game": "Last Courier",
+      "score_10": 7.7,
+      "image_kind": "gameplay",
+      "reason": "Inspect the readable cargo silhouette, bridge-crossing challenge, terrain depth and integrated HUD; discount simple landscape geometry.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/tanuu5/last-courier",
+      "url": "https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/docs/screenshots/title.jpg",
+      "game": "Last Courier",
+      "score_10": 5.5,
+      "image_kind": "title_or_menu",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount title/menu overlays or missing play context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/tanuu5/last-courier",
+      "url": "https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/docs/screenshots/hero.jpg",
+      "game": "Last Courier",
+      "score_10": 7.0,
+      "image_kind": "gameplay",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount weaker framing, lower scene clarity or less visible gameplay context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/tanuu5/last-courier",
+      "url": "https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/docs/screenshots/scan.jpg",
+      "game": "Last Courier",
+      "score_10": 7.3,
+      "image_kind": "gameplay",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount weaker framing, lower scene clarity or less visible gameplay context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/tanuu5/last-courier",
+      "url": "https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/docs/screenshots/ladder.jpg",
+      "game": "Last Courier",
+      "score_10": 7.5,
+      "image_kind": "gameplay",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount weaker framing, lower scene clarity or less visible gameplay context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/tanuu5/last-courier",
+      "url": "https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/docs/screenshots/echo.jpg",
+      "game": "Last Courier",
+      "score_10": 7.1,
+      "image_kind": "gameplay",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount weaker framing, lower scene clarity or less visible gameplay context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/tanuu5/last-courier",
+      "url": "https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/docs/screenshots/map.jpg",
+      "game": "Last Courier",
+      "score_10": 5.8,
+      "image_kind": "interface",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount title/menu overlays or missing play context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/tanuu5/last-courier",
+      "url": "https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/docs/screenshots/saferoom.jpg",
+      "game": "Last Courier",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount weaker framing, lower scene clarity or less visible gameplay context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/tanuu5/last-courier",
+      "url": "https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/docs/screenshots/archive.jpg",
+      "game": "Last Courier",
+      "score_10": 4.8,
+      "image_kind": "interface",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount title/menu overlays or missing play context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/L1vsun/NEONBAY",
+      "url": "https://github.com/L1vsun/NEONBAY/blob/baac38fecd1698c67dcf75ccffb1a82592798e9c/screenshots/bridge.jpg",
+      "game": "Neon Bay",
+      "score_10": 7.1,
+      "image_kind": "gameplay",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount weaker framing, lower scene clarity or less visible gameplay context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/L1vsun/NEONBAY",
+      "url": "https://github.com/L1vsun/NEONBAY/blob/baac38fecd1698c67dcf75ccffb1a82592798e9c/screenshots/showroom.jpg",
+      "game": "Neon Bay",
+      "score_10": 5.8,
+      "image_kind": "title_or_menu",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount title/menu overlays or missing play context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/L1vsun/NEONBAY",
+      "url": "https://github.com/L1vsun/NEONBAY/blob/baac38fecd1698c67dcf75ccffb1a82592798e9c/screenshots/drift.jpg",
+      "game": "Neon Bay",
+      "score_10": 7.4,
+      "image_kind": "gameplay",
+      "reason": "Inspect the night driving view, coherent city lighting, skid marks and compact speed/minimap HUD; discount blocky building detail.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/L1vsun/NEONBAY",
+      "url": "https://github.com/L1vsun/NEONBAY/blob/baac38fecd1698c67dcf75ccffb1a82592798e9c/screenshots/garage.jpg",
+      "game": "Neon Bay",
+      "score_10": 7.0,
+      "image_kind": "gameplay",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount weaker framing, lower scene clarity or less visible gameplay context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/L1vsun/NEONBAY",
+      "url": "https://github.com/L1vsun/NEONBAY/blob/baac38fecd1698c67dcf75ccffb1a82592798e9c/screenshots/street.jpg",
+      "game": "Neon Bay",
+      "score_10": 7.2,
+      "image_kind": "gameplay",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount weaker framing, lower scene clarity or less visible gameplay context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/ethanplusai/outpace",
+      "url": "https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/docs/screenshots/hero.png",
+      "game": "Outpace",
+      "score_10": 7.8,
+      "image_kind": "gameplay",
+      "reason": "Inspect the coherent pixel-art wave, runner/creature silhouettes and readable typing panel; discount sparse terrain detail.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ethanplusai/outpace",
+      "url": "https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/docs/screenshots/30-creatures-lineup.png",
+      "game": "Outpace",
+      "score_10": 7.6,
+      "image_kind": "gameplay",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount weaker framing, lower scene clarity or less visible gameplay context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/ethanplusai/outpace",
+      "url": "https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/docs/screenshots/24-wave-v3.png",
+      "game": "Outpace",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount weaker framing, lower scene clarity or less visible gameplay context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/ethanplusai/outpace",
+      "url": "https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/docs/screenshots/15-biome-night.png",
+      "game": "Outpace",
+      "score_10": 7.4,
+      "image_kind": "gameplay",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount weaker framing, lower scene clarity or less visible gameplay context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/ethanplusai/outpace",
+      "url": "https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/docs/screenshots/15-biome-terminal.png",
+      "game": "Outpace",
+      "score_10": 7.2,
+      "image_kind": "gameplay",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount weaker framing, lower scene clarity or less visible gameplay context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/ethanplusai/outpace",
+      "url": "https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/docs/screenshots/14-results.png",
+      "game": "Outpace",
+      "score_10": 5.6,
+      "image_kind": "interface",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount title/menu overlays or missing play context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/ethanplusai/outpace",
+      "url": "https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/docs/screenshots/28-board-drawer.png",
+      "game": "Outpace",
+      "score_10": 5.2,
+      "image_kind": "interface",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount title/menu overlays or missing play context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/Manoz/elden-kart",
+      "url": "https://github.com/Manoz/elden-kart/blob/17d7212e143c88a47bc0e2d396d7247b4a8e033d/docs/banner.webp",
+      "game": "Elden Kart",
+      "score_10": 4.8,
+      "image_kind": "title_or_menu",
+      "reason": "Inspect the restrained gold-on-black title composition; discount the absence of gameplay, vehicles and track detail.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/rlorca/mall-action",
+      "url": "https://github.com/rlorca/mall-action/blob/opus-5-5/docs/screenshots/title.png",
+      "game": "Mall Action — Model Benchmark",
+      "score_10": 5.2,
+      "image_kind": "title_or_menu",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount title/menu overlays or missing play context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/rlorca/mall-action",
+      "url": "https://github.com/rlorca/mall-action/blob/opus-5-5/docs/screenshots/mall.png",
+      "game": "Mall Action — Model Benchmark",
+      "score_10": 7.1,
+      "image_kind": "gameplay",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount weaker framing, lower scene clarity or less visible gameplay context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/rlorca/mall-action",
+      "url": "https://github.com/rlorca/mall-action/blob/opus-5-5/docs/screenshots/store.png",
+      "game": "Mall Action — Model Benchmark",
+      "score_10": 6.7,
+      "image_kind": "gameplay",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount weaker framing, lower scene clarity or less visible gameplay context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/rlorca/mall-action",
+      "url": "https://github.com/rlorca/mall-action/blob/opus-5-5/docs/screenshots/spygram.png",
+      "game": "Mall Action — Model Benchmark",
+      "score_10": 5.8,
+      "image_kind": "interface",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount title/menu overlays or missing play context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/rlorca/mall-action",
+      "url": "https://github.com/rlorca/mall-action/blob/sonnet-5-5/docs/title.png",
+      "game": "Mall Action — Model Benchmark",
+      "score_10": 5.6,
+      "image_kind": "title_or_menu",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount title/menu overlays or missing play context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/rlorca/mall-action",
+      "url": "https://github.com/rlorca/mall-action/blob/sonnet-5-5/docs/mall.png",
+      "game": "Mall Action — Model Benchmark",
+      "score_10": 7.7,
+      "image_kind": "gameplay",
+      "reason": "Inspect crisp arcade sprites, store signs, multiple mall floors and integrated score/package HUD; distinguish this Sonnet branch frame from other model variants.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/rlorca/mall-action",
+      "url": "https://github.com/rlorca/mall-action/blob/sonnet-5-5/docs/store.png",
+      "game": "Mall Action — Model Benchmark",
+      "score_10": 7.2,
+      "image_kind": "gameplay",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount weaker framing, lower scene clarity or less visible gameplay context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/rlorca/mall-action",
+      "url": "https://github.com/rlorca/mall-action/blob/sonnet-5-5/docs/map.png",
+      "game": "Mall Action — Model Benchmark",
+      "score_10": 5.5,
+      "image_kind": "interface",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount title/menu overlays or missing play context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/rlorca/mall-action",
+      "url": "https://github.com/rlorca/mall-action/blob/sonnet-5-5/docs/levelclear.png",
+      "game": "Mall Action — Model Benchmark",
+      "score_10": 5.1,
+      "image_kind": "interface",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount title/menu overlays or missing play context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/rlorca/mall-action",
+      "url": "https://github.com/rlorca/mall-action/blob/sonnet-5-5/docs/spygram.png",
+      "game": "Mall Action — Model Benchmark",
+      "score_10": 7.4,
+      "image_kind": "gameplay",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount weaker framing, lower scene clarity or less visible gameplay context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/rlorca/mall-action",
+      "url": "https://github.com/rlorca/mall-action/blob/gpt-6-1-sol/public/screenshots/mall.png",
+      "game": "Mall Action — Model Benchmark",
+      "score_10": 6.9,
+      "image_kind": "gameplay",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount weaker framing, lower scene clarity or less visible gameplay context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/rlorca/mall-action",
+      "url": "https://github.com/rlorca/mall-action/blob/gpt-6-1-sol/public/screenshots/store.png",
+      "game": "Mall Action — Model Benchmark",
+      "score_10": 6.7,
+      "image_kind": "gameplay",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount weaker framing, lower scene clarity or less visible gameplay context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/juan504n/spyro-game",
+      "url": "https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/docs/shots/00-title.png",
+      "game": "Gloaming Vale",
+      "score_10": 5.5,
+      "image_kind": "title_or_menu",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount title/menu overlays or missing play context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/juan504n/spyro-game",
+      "url": "https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/docs/shots/09-beacon-lit.png",
+      "game": "Gloaming Vale",
+      "score_10": 7.8,
+      "image_kind": "gameplay",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount weaker framing, lower scene clarity or less visible gameplay context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/juan504n/spyro-game",
+      "url": "https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/docs/shots/02-lake.png",
+      "game": "Gloaming Vale",
+      "score_10": 8.0,
+      "image_kind": "gameplay",
+      "reason": "Inspect dense PS1-style masonry, water, foliage and the clear traversal route under a coherent twilight palette; discount coarse character scale.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/juan504n/spyro-game",
+      "url": "https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/docs/shots/03-waterfall.png",
+      "game": "Gloaming Vale",
+      "score_10": 7.8,
+      "image_kind": "gameplay",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount weaker framing, lower scene clarity or less visible gameplay context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/juan504n/spyro-game",
+      "url": "https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/docs/shots/05-summit-dusk.png",
+      "game": "Gloaming Vale",
+      "score_10": 7.7,
+      "image_kind": "gameplay",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount weaker framing, lower scene clarity or less visible gameplay context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/juan504n/spyro-game",
+      "url": "https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/docs/shots/06-summit-daybreak.png",
+      "game": "Gloaming Vale",
+      "score_10": 7.8,
+      "image_kind": "gameplay",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount weaker framing, lower scene clarity or less visible gameplay context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/juan504n/spyro-game",
+      "url": "https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/docs/shots/08-sky-isles.png",
+      "game": "Gloaming Vale",
+      "score_10": 7.5,
+      "image_kind": "gameplay",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount weaker framing, lower scene clarity or less visible gameplay context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
+    },
+    {
+      "repository_url": "https://github.com/juan504n/spyro-game",
+      "url": "https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/docs/shots/07-windmill.png",
+      "game": "Gloaming Vale",
+      "score_10": 7.8,
+      "image_kind": "gameplay",
+      "reason": "Adjust this sibling frame relative to the selected manual-review frame. Discount weaker framing, lower scene clarity or less visible gameplay context.",
+      "reviewed_on": "2026-09-30",
+      "rating_method": "relative_frame_adjustment"
     }
   ]
 }

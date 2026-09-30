@@ -124,4 +124,3 @@ Browse **67 curated game units** from **53 source repositories** attributed to C
 - [**Timing Puzzle**](../games/timing-puzzle/readme.md) — ⭐ **9.3/10** · Claude Opus 4.8 · JavaScript, HTML, Canvas 2D, Static browser app · [✓ direct model evidence](https://github.com/mundeok/math-arcade-paradise/commit/6084d3bcafe3057b87a409ff1b20c84be90ed445) · [files](https://github.com/mundeok/math-arcade-paradise/tree/master/tests)
 
 [Back to game library](#game-library)
-

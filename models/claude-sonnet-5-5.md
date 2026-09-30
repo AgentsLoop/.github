@@ -1,0 +1,91 @@
+# Claude Sonnet 5.5 games
+
+Browse **20 curated game units** from **19 source repositories** attributed to Claude Sonnet 5.5. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
+
+[Back to all models](../README.md#browse-by-model) · [Source data](../games.json)
+
+## Top-rated games
+
+| Game | Score | Evidence |
+| --- | ---: | --- |
+| [Dead Signal: Exclusion Zone](../games/dead-signal-exclusion-zone-bridge-mind-sonnet-5-5-zombies-game/readme.md) | ⭐ 8.7 | [✓ direct model evidence](https://github.com/bridge-mind/sonnet-5-5-zombies-game/commit/9294d67a8548cb851acfd1a5aafdc6d68b008ee4) |
+| [Wreckyard](../games/wreckyard/readme.md) | ⭐ 8.7 | [✓ direct model evidence](https://github.com/guiguito/DestructionDerbySonnet/commit/a69c209c707e800efc210d2e4cb21242b3d8069b) |
+| [Outpace](../games/outpace/readme.md) | ⭐ 8.6 | [≈ creator-reported model evidence](https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/README.md) |
+| [Dynamite Mole](../games/dynamite-mole/readme.md) | ⭐ 8.5 | [≈ creator-reported model evidence](https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples/blob/29197247452de992b69b161bf258f02b2ab9ada5/README.md) |
+| [Elden Kart](../games/elden-kart/readme.md) | ⭐ 8.5 | [≈ creator-reported model evidence](https://github.com/Manoz/elden-kart/blob/17d7212e143c88a47bc0e2d396d7247b4a8e033d/README.md) |
+| [Gloaming Vale](../games/gloaming-vale/readme.md) | ⭐ 8.5 | [✓ direct model evidence](https://github.com/juan504n/spyro-game/commit/92bbe27dd36c6f347db07e734a281591fb09c1c4) |
+| [Mall Action — Model Benchmark](../games/mall-action-model-benchmark/readme.md) | ⭐ 8.5 | [≈ creator-reported model evidence](https://github.com/rlorca/mall-action/blob/23a4c80fd51237ad620b957e79d3e279edfad381/README.md) |
+| [Splash Rush](../games/splash-rush/readme.md) | ⭐ 8.5 | [≈ creator-reported model evidence](https://github.com/KJLKurt/waterslide-game-sonnet-5.5/blob/a43446b674ab5ec11f8cc8aebc1a5ed05212033a/README.md) |
+| [SUNSET RUSH](../games/sunset-rush/readme.md) | ⭐ 8.5 | [≈ creator-reported model evidence](https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples/blob/29197247452de992b69b161bf258f02b2ab9ada5/README.md) |
+| [Dog — Swiss Card Board Game](../games/dog-swiss-card-board-game/readme.md) | ⭐ 8.4 | [✓ direct model evidence](https://github.com/seppbucher-develop/dog/commit/1d260391f9b2d9afe17ed6f65f6805ed85c1eaa9) |
+
+## Game library
+
+- 🎮 [Other Browser Games](#other-browser-games) — **6 game units**
+- 💥 [Action and Shooters](#action-and-shooters) — **4 game units**
+- 🧊 [Three.js and WebGL](#threejs-and-webgl) — **2 game units**
+- 🏎️ [Racing and Vehicles](#racing-and-vehicles) — **1 game units**
+- 🧩 [Puzzle, Arcade, and Platformers](#puzzle-arcade-and-platformers) — **4 game units**
+- 🛠️ [Non-Browser Engines](#nonbrowser-engines) — **1 game units**
+- ♟️ [Strategy, Simulation, and Sports](#strategy-simulation-and-sports) — **1 game units**
+- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **1 game units**
+
+## Other Browser Games
+
+- [**Outpace**](../games/outpace/readme.md) — ⭐ **8.6/10** · Claude Opus 5.5, Claude Sonnet 5.5 · JavaScript, Canvas 2D, Node.js · [≈ creator-reported model evidence](https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/README.md) · [files](https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/public/index.html) · [play](https://outpace.ethanplus.ai/) · 📸 **7.8/10** · [screenshot](https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/docs/screenshots/hero.png) · +6 more screenshots in data
+- [**Dynamite Mole**](../games/dynamite-mole/readme.md) — ⭐ **8.5/10** · Claude Sonnet 5.5 · JavaScript, Canvas 2D, Web Audio · [≈ creator-reported model evidence](https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples/blob/29197247452de992b69b161bf258f02b2ab9ada5/README.md) · [files](https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples/blob/29197247452de992b69b161bf258f02b2ab9ada5/games/dynamite-mole/impl/max/dist/js/game.js) · [play](https://daikikobayashi.github.io/sonnet-5-5-web-game-samples/games/dynamite-mole/max/)
+- [**SUNSET RUSH**](../games/sunset-rush/readme.md) — ⭐ **8.5/10** · Claude Sonnet 5.5 · JavaScript, Canvas 2D, Web Audio · [≈ creator-reported model evidence](https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples/blob/29197247452de992b69b161bf258f02b2ab9ada5/README.md) · [files](https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples/blob/29197247452de992b69b161bf258f02b2ab9ada5/games/sunset-rush/impl/max/dist/js/sim.js) · [play](https://daikikobayashi.github.io/sonnet-5-5-web-game-samples/games/sunset-rush/max/)
+- [**First-Person Blackjack**](../games/first-person-blackjack/readme.md) — ⭐ **8.2/10** · Claude Sonnet 5.5 · JavaScript, CSS 3D, Web Audio · [✓ direct model evidence](https://github.com/FinDaHuman/ClaudeBlackJack/commit/60d12d7e504659dd3570843af6ccbe7959d86f82) · [files](https://github.com/FinDaHuman/ClaudeBlackJack/blob/60d12d7e504659dd3570843af6ccbe7959d86f82/index.html) · [play](https://findahuman.github.io/ClaudeBlackJack/)
+- [**Matter Separation Workshop**](../games/matter-separation-workshop/readme.md) — ⭐ **8.0/10** · Claude Sonnet 5.5 · Next.js, React, TypeScript, Zustand · [✓ direct model evidence](https://github.com/tgtec26/snug-matter-properties-game/commit/f19195f6f19dc00d2fa70931f8ede09880631d2e) · [files](https://github.com/tgtec26/snug-matter-properties-game/blob/f19195f6f19dc00d2fa70931f8ede09880631d2e/app/page.tsx)
+- [**Particle Workshop**](../games/particle-workshop/readme.md) — ⭐ **8.0/10** · Claude Sonnet 5.5 · Next.js, React, TypeScript, Phaser, Zustand · [✓ direct model evidence](https://github.com/tgtec26/snug-matter-composition-game/commit/2a81bdf79ab5945ff79f53e37c33efe60eec22a3) · [files](https://github.com/tgtec26/snug-matter-composition-game/blob/2a81bdf79ab5945ff79f53e37c33efe60eec22a3/app/page.tsx) · [play](https://snug-matter-composition-game.vercel.app/)
+
+[Back to game library](#game-library)
+
+## Action and Shooters
+
+- [**Dead Signal: Exclusion Zone**](../games/dead-signal-exclusion-zone-bridge-mind-sonnet-5-5-zombies-game/readme.md) — ⭐ **8.7/10** · Claude Sonnet 5.5 · Three.js, TypeScript, Vite, Vitest · [✓ direct model evidence](https://github.com/bridge-mind/sonnet-5-5-zombies-game/commit/9294d67a8548cb851acfd1a5aafdc6d68b008ee4) · [files](https://github.com/bridge-mind/sonnet-5-5-zombies-game/blob/9294d67a8548cb851acfd1a5aafdc6d68b008ee4/src/main.ts)
+- [**Wreckyard**](../games/wreckyard/readme.md) — ⭐ **8.7/10** · Claude Sonnet 5.5 · Three.js, TypeScript, Vite, Node.js, WebSocket · [✓ direct model evidence](https://github.com/guiguito/DestructionDerbySonnet/commit/a69c209c707e800efc210d2e4cb21242b3d8069b) · [files](https://github.com/guiguito/DestructionDerbySonnet/blob/a69c209c707e800efc210d2e4cb21242b3d8069b/src/server/round.ts)
+- [**Mall Action — Model Benchmark**](../games/mall-action-model-benchmark/readme.md) — ⭐ **8.5/10** · Claude Opus 5.5, Claude Sonnet 5.5, GPT-6.1 Sol · TypeScript, Canvas 2D, Vite, Web Audio · [≈ creator-reported model evidence](https://github.com/rlorca/mall-action/blob/23a4c80fd51237ad620b957e79d3e279edfad381/README.md) · [files](https://github.com/rlorca/mall-action/blob/gpt-6-1-sol/src/main.ts) · [play](https://rlorca.github.io/mall-action/opus-5.5/) · 📸 **7.7/10** · [screenshot](https://github.com/rlorca/mall-action/blob/sonnet-5-5/docs/mall.png) · +11 more screenshots in data
+- [**Yet Another VoxelCraft**](../games/yet-another-voxelcraft/readme.md) — ⭐ **8.3/10** · Claude Sonnet 5.5 · Three.js, JavaScript, Web Audio · [✓ direct model evidence](https://github.com/GoldwinXS/YetAnotherVoxelCraft/commit/ba792582287ba96a12b0a135df284c569fe5aa7b) · [files](https://github.com/GoldwinXS/YetAnotherVoxelCraft/blob/ba792582287ba96a12b0a135df284c569fe5aa7b/index.html) · [play](https://goldwinxs.github.io/YetAnotherVoxelCraft/)
+
+[Back to game library](#game-library)
+
+## Three.js and WebGL
+
+- [**Splash Rush**](../games/splash-rush/readme.md) — ⭐ **8.5/10** · Claude Sonnet 5.5 · Three.js, JavaScript, Vite, PWA · [≈ creator-reported model evidence](https://github.com/KJLKurt/waterslide-game-sonnet-5.5/blob/a43446b674ab5ec11f8cc8aebc1a5ed05212033a/README.md) · [files](https://github.com/KJLKurt/waterslide-game-sonnet-5.5/blob/a43446b674ab5ec11f8cc8aebc1a5ed05212033a/src/main.js) · [play](https://kjlkurt.github.io/waterslide-game-sonnet-5.5/)
+- [**Floor 48**](../games/floor-48/readme.md) — ⭐ **8.2/10** · Claude Sonnet 5.5 · Three.js, JavaScript, WebGL 2, Web Audio · [✓ direct model evidence](https://github.com/Crinklyink/game-by-Opus/commit/2119810c275f962ed0cbadefe5459388814eef31) · [files](https://github.com/Crinklyink/game-by-Opus/blob/2119810c275f962ed0cbadefe5459388814eef31/src/main.js)
+
+[Back to game library](#game-library)
+
+## Racing and Vehicles
+
+- [**Elden Kart**](../games/elden-kart/readme.md) — ⭐ **8.5/10** · Claude Sonnet 5.5 · Three.js, JavaScript, Vite, Web Audio · [≈ creator-reported model evidence](https://github.com/Manoz/elden-kart/blob/17d7212e143c88a47bc0e2d396d7247b4a8e033d/README.md) · [files](https://github.com/Manoz/elden-kart/blob/17d7212e143c88a47bc0e2d396d7247b4a8e033d/src/main.js) · [play](https://elden-kart.vercel.app/) · 📸 **4.8/10** · [screenshot](https://github.com/Manoz/elden-kart/blob/17d7212e143c88a47bc0e2d396d7247b4a8e033d/docs/banner.webp)
+
+[Back to game library](#game-library)
+
+## Puzzle, Arcade, and Platformers
+
+- [**Gloaming Vale**](../games/gloaming-vale/readme.md) — ⭐ **8.5/10** · Claude Sonnet 5.5 · Three.js, JavaScript, Vite, Web Audio · [✓ direct model evidence](https://github.com/juan504n/spyro-game/commit/92bbe27dd36c6f347db07e734a281591fb09c1c4) · [files](https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/src/main.js) · 📸 **8.0/10** · [screenshot](https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/docs/shots/02-lake.png) · +7 more screenshots in data
+- [**Buzzword Dash**](../games/buzzword-dash/readme.md) — ⭐ **8.3/10** · Claude Sonnet 5.5 · Three.js, JavaScript, Vite · [✓ direct model evidence](https://github.com/pathomnemonic/buzzword-dash-v2/commit/9d822a523efcc37a85bdedf65719a6288b0112c7) · [files](https://github.com/pathomnemonic/buzzword-dash-v2/blob/9d822a523efcc37a85bdedf65719a6288b0112c7/index.html) · [play](https://pathomnemonic.github.io/buzzword-dash-v2/)
+- [**Nova Skim**](../games/nova-skim/readme.md) — ⭐ **7.8/10** · Claude Sonnet 5.5 · Phaser, JavaScript, Vite, YouTube Playables SDK · [✓ direct model evidence](https://github.com/IBassemTarek/nova-skim/commit/6c0ad00f6c83b14538157b520f57adbbc2852006) · [files](https://github.com/IBassemTarek/nova-skim/blob/6c0ad00f6c83b14538157b520f57adbbc2852006/src/main.js)
+- [**Unicorn Chaos Club**](../games/unicorn-chaos-club/readme.md) — ⭐ **7.8/10** · Claude Sonnet 5.5 · Preact, TypeScript, SVG, Vite · [✓ direct model evidence](https://github.com/derHeinzer/yunicorn/commit/2e37d958f9748c4cd6cf0bff1963dc9258127d0b) · [files](https://github.com/derHeinzer/yunicorn/blob/c4e2c24ac7dd14813657639c43a106f8c276a714/src/app/main.tsx)
+
+[Back to game library](#game-library)
+
+## Non-Browser Engines
+
+- [**Earth to Moon Learning Game**](../games/earth-to-moon-learning-game/readme.md) — ⭐ **8.0/10** · Claude Sonnet 5.5 · Flutter, Dart, Native Android · [✓ direct model evidence](https://github.com/drahmedyahia/yoyo/commit/77049f6bc74286505eb83694aaf1b1ee98b3ee8c) · [files](https://github.com/drahmedyahia/yoyo/blob/77049f6bc74286505eb83694aaf1b1ee98b3ee8c/lib/main.dart)
+
+[Back to game library](#game-library)
+
+## Strategy, Simulation, and Sports
+
+- [**Alice in the Watercolor Garden**](../games/alice-in-the-watercolor-garden/readme.md) — ⭐ **7.8/10** · Claude Sonnet 5.5 · Three.js, JavaScript, Web Audio · [✓ direct model evidence](https://github.com/hatakoma/cc_alice/commit/98f3fd73df0ac04fff9e08a63a7781b15f084604) · [files](https://github.com/hatakoma/cc_alice/blob/a558d9c40df8d950e48215dfe01afdbf7a1ef5f1/index.html) · [play](https://hatakoma.github.io/cc_alice/)
+
+[Back to game library](#game-library)
+
+## Adventure, RPG, and Exploration
+
+- [**Dog — Swiss Card Board Game**](../games/dog-swiss-card-board-game/readme.md) — ⭐ **8.4/10** · Claude Sonnet 5.5 · React, TypeScript, Node.js, WebSocket · [✓ direct model evidence](https://github.com/seppbucher-develop/dog/commit/1d260391f9b2d9afe17ed6f65f6805ed85c1eaa9) · [files](https://github.com/seppbucher-develop/dog/blob/1d260391f9b2d9afe17ed6f65f6805ed85c1eaa9/packages/engine/src/game.ts)
+
+[Back to game library](#game-library)

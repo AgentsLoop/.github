@@ -37,4 +37,3 @@ Browse **7 curated game units** from **7 source repositories** attributed to Cod
 - [**P(DOOM)**](../games/p-doom/readme.md) — ⭐ **9.3/10** · GPT-6 Astra, Codex · Next.js, React, TypeScript, Three.js 0.185.1, WebGL, +1 more · [≈ creator-reported model evidence](https://github.com/transitive-bullshit/ai-safety-doom#credits) · [files](https://p-doom.transitivebullsh.it) · [play](https://p-doom.transitivebullsh.it) · 📸 **8.0/10** · [screenshot](https://github.com/transitive-bullshit/ai-safety-doom/blob/main/docs/images/arrival.jpg) · +2 more screenshots in data
 
 [Back to game library](#game-library)
-

@@ -19,4 +19,3 @@ Browse **1 curated game units** from **1 source repositories** attributed to GPT
 - [**Gravity Box — Campaign 100**](../games/gravity-box-campaign-100/readme.md) — ⭐ **9.4/10** · GPT-6 Astra, GPT-5.6 Sol · Unity 6000.3.19f1, C#, Rigidbody physics, Native Android, Native macOS, +1 more · [✓ direct model evidence](https://github.com/nghienvothuat-a11y/GravityBox#ch%E1%BA%A1y-v%C3%A0-quan-s%C3%A1t) · 📸 **5.3/10** · [screenshot](https://github.com/nghienvothuat-a11y/GravityBox/blob/main/Docs/Images/Level16/Coop16BothOut.png)
 
 [Back to game library](#game-library)
-

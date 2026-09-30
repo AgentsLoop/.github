@@ -58,4 +58,3 @@ Browse **13 curated game units** from **13 source repositories** attributed to C
 - [**Forest Pests**](../games/forest-pests/readme.md) — ⭐ **7.0/10** · Claude Opus 4.5 · TypeScript, Browser · [≈ creator-reported model evidence](https://github.com/fjzeit/forest-pests) · [play](https://fjzeit.github.io/arcade/forest-pests/)
 
 [Back to game library](#game-library)
-

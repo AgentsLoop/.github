@@ -27,4 +27,3 @@ Browse **2 curated game units** from **2 source repositories** attributed to Cla
 - [**Failure is Not an Option**](../games/failure-is-not-an-option/readme.md) — ⭐ **9.0/10** · GPT-6 Astra, Claude Code · TypeScript, Vite, HTML/CSS, Browser · [✓ direct model evidence](https://github.com/dan-lee-odinson/failure-is-not-an-option#failure-is-not-an-option) · [play](https://finaogame.com/demo/)
 
 [Back to game library](#game-library)
-

@@ -7,7 +7,7 @@ Submit only a game that meets the collection rules.
 Provide these fields in the pull request.
 
 - Give the canonical `https://github.com/OWNER/REPOSITORY` URL.
-- Give a public URL that identifies GPT-6 Astra, Claude Opus, or Claude Fable.
+- Give a public URL that identifies GPT-6 Astra, GPT-6.1 Sol, Claude Opus, Claude Sonnet, or Claude Fable.
 - Give a source-file URL that shows the playable game loop, controls, rules, objective, or game state.
 - State the technology, verification date, and concise verification notes.
 - Give a live demo, screenshot, and original prompt when they are public. These are optional evidence, not substitutes for source code.
