@@ -2,23 +2,25 @@
 
 Open each **Play** link in a desktop browser first. Bring only game files you are legally allowed to use. Keep browser delivery, decompilation, source release, clean-room engine work, and reconstruction clearly distinguished. Treat a working page as availability evidence—not a completed playtest.
 
-Check these nine browser entry points on **2026-10-01**. The checks confirmed page responses only. Most require your own game data.
+Check these ten browser entry points on **2026-10-01**. The checks confirmed page responses only. Most require your own game data.
 
 ## Browser-playable picks
 
 - **GTA III — re3 WebAssembly.** [Play](https://wasmarcade.com/gta3). Use the re3 reverse-engineered game code in a browser build. [Project details](https://wasmarcade.com/gta3) identify the browser port and controls. Treat the hosted service and game-file requirements as subject to change.
 - **GTA: Vice City — reVC Web.** [Play](https://revc.wasm.ltd/). Bring your own installed game; the page reads its data locally. This is a WebAssembly browser port of the reVC decompilation, not a new decompilation. Review the port's [source and reuse notice](https://github.com/origami-ltd/wasm-revc).
+- **GTA: Vice City — reVCDOS.** [Play](https://dos.zone/revcdos/). Use this separate DOS.Zone browser port based on reVC. Provide your own game data; the current page says a DMCA request forced a reformat and does not offer an automatic free full-game download. Read the [port repository](https://github.com/Lolendor/reVCDOS) and the [official play-page notice](https://dos.zone/revcdos/).
 - **Command & Conquer: Generals / Zero Hour — GeneralsX WASM.** [Play](https://generals.wasm.ltd/). Run the browser build of the source-released game engine and provide compatible game data.
 - **Diddy Kong Racing — Golden Balloon.** [Play](https://akratch.github.io/golden-balloon/). Use a current WebGPU browser and provide a supported, legally acquired ROM. The port builds on the game's community decompilation; inspect the [source](https://github.com/akratch/goldenballoon).
 - **The Legend of Zelda: Ocarina of Time — Prelude.** [Play](https://preludeoflight.com/play/). Import your own Ocarina of Time ROM or Ship of Harkinian `.o2r`; the browser editor can launch the game with your scene changes.
 - **The Elder Scrolls III: Morrowind — OpenMW Web.** [Play](https://morrowind.virtastic.app/). Try the included example world without game data, or supply your own Morrowind files for the full game. The browser build is OpenMW, an open reimplementation, not a decompilation. Use desktop Chromium.
-- **Diablo — DiabloWeb.** [Play](https://d07riv.github.io/diabloweb/). Run the DevilutionX-based browser port. Supply `DIABDAT.MPQ`; the project says the shareware data can be used.
+- **Diablo — DiabloWeb.** [Play](https://d07riv.github.io/diabloweb/). Run the WebAssembly browser port based on the reverse-engineered Devilution project; do not call it DevilutionX. The hosted build includes shareware data; supply your own `DIABDAT.MPQ` for the full game. See the [source README](https://github.com/d07RiV/diabloweb) and [TechSpot's browser test](https://www.techspot.com/news/104311-diablo-can-now-played-any-web-browser-again.html).
 - **Tomb Raider — OpenLara.** [Play the WebGL demo](http://xproger.info/projects/OpenLara/). Try the included demo level. The upstream demo still uses legacy HTTP; use the [OpenLara source](https://github.com/XProger/OpenLara) for project details.
-- **Half-Life / Counter-Strike — WebXash.** [Play](https://x8bitrain.github.io/webXash/). Supply compatible game assets. This is an adjacent browser source-port project, not a game decompilation.
+- **Half-Life / Counter-Strike — WebXash.** [Play](https://x8bitrain.github.io/webXash/). The live page is a browser frontend; supply your own compatible game files (for example, from Steam) and use keyboard and mouse. This uses the webxash3d-fwgs engine and is not a game decompilation. See the [frontend README](https://github.com/x8bitrain/webXash).
 
 ## Interesting, but not a verified live play link
 
 - **GTA: San Andreas — OpenSA.** The creator describes a browser-based, from-scratch RenderWare-compatible engine—not a GTA port or decompilation—and requires your own game files. The creator's [project write-up](https://medium.com/@gooddev.sergey/i-ran-gta-san-andreas-on-my-own-engine-in-the-browser-solo-with-claude-in-3-weeks-d77947dcc3b2) links the demo at [opensa.cc](https://opensa.cc) and source at [GitHub](https://github.com/AlexSergey/opensa). Both links failed checks on 2026-10-01: the demo failed TLS certificate validation and GitHub returned 404. Do not treat either as currently usable until they work again.
+- **Super Mario Galaxy — Petari.** Treat this [GitHub repository](https://github.com/SMGCommunity/Petari) as a work-in-progress decompilation, not a PC port: the README requires an existing game copy and explicitly says it is not intended as a PC port. Track AstroCore separately if it later gains a verified browser Play link; do not list Petari itself as a browser game.
 - **Halo: Combat Evolved — Halo Mobile.** The [source project](https://github.com/OMG-Guest/Halo-Mobile) describes a browser port based on Halo CE decompilation, but its README gives build-and-self-host steps rather than a hosted Play URL. Import only authorized Halo data; do not mistake the GitHub source link for a live game.
 - **GoldenEye 007 — MGB64.** Leave this out of active picks: its own [README](https://github.com/akratch/mgb64) says the hosted web demo was taken down and the project was discontinued.
 

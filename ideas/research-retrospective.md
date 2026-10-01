@@ -90,3 +90,12 @@ Require a written caveat whenever a record uses inferred prompts, repository-lev
 - Label exact methods: decompilation port, officially source-released engine, reimplementation, emulation, or reconstruction.
 - Click the browser deployment and inspect the upstream README; note user-supplied data, browser requirements, unavailable hosts, and demo/full-game scope.
 - Use a failed TLS check or a build-only GitHub repository as a hold, not as a currently playable pick.
+# Browser port link checks: distinguish source, Play page, and assets
+
+- Check a repository README for project type and asset requirements.
+- Check the current Play page for availability, user-data gates, and takedown notices.
+- Use dated reporting as corroboration, not as a replacement for current project evidence.
+- Keep Petari out of browser picks: its README describes a work-in-progress decompilation and says it is not a PC port.
+- List reVCDOS separately from reVC; the DOS.Zone page says users must provide game data after a DMCA takedown.
+- Correct DiabloWeb's base attribution to Devilution, not DevilutionX, and record TechSpot's dated shareware/full-game description as independent evidence.
+- Count only browser entries with direct Play pages, and update the validator whenever that count changes.

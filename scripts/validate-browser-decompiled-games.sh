@@ -9,8 +9,8 @@ match = re.search(r'^## Browser-playable picks\s*$(.*?)(?=^## )', text, re.M | r
 if not match:
     raise SystemExit('Missing Browser-playable picks section')
 entries = re.findall(r'^- \*\*(.+?)\.\*\* (.+)$', match.group(1), re.M)
-if len(entries) != 9:
-    raise SystemExit(f'Expected nine browser-playable entries, found {len(entries)}')
+if len(entries) != 10:
+    raise SystemExit(f'Expected ten browser-playable entries, found {len(entries)}')
 for name, entry in entries:
     if not re.search(r'\[Play(?: the WebGL demo)?\]\(https?://[^)]+\)', entry):
         raise SystemExit(f'Missing direct Play URL for {name}')
