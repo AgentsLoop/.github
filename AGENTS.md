@@ -30,6 +30,11 @@
 - Include Claude Sonnet 5.5 and GPT-6.1 Sol with explicit source or creator attribution.
 - Keep GPT-6.1 Sol separate from GPT-6 Astra. Distinguish authoring from runtime use and evaluation.
 
+## Browser ports
+
+- Read [Browser-decompiled games](browser-decompiled-games.md) before adding browser ports built from decompilations, reverse engineering, or reimplemented engines.
+- Separate decomp ports from source releases, engine reimplementations, emulators, and reconstructions. Keep this catalog outside the AI-made `games.json` dataset.
+
 ## Game link collection
 
 - Save every verified GitHub game repository link in `games.json`.

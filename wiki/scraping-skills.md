@@ -21,3 +21,5 @@ Use these skills for source discovery and evidence collection. Do not install a 
 2. Use Web Scraping or Firecrawl to collect catalog and creator-page links.
 3. Use X/Twitter Scraper only when a post is needed to trace a claim to a repository.
 4. Save the evidence URL and source type for every verified game record.
+
+For browser ports of decompiled or reverse-engineered games, inspect the upstream README and the live Play page separately. Label decompilation, source-release ports, engine reimplementations, emulation, and reconstruction accurately. Record required game files, browser constraints, stale hosts, and whether the result is a demo or full game.

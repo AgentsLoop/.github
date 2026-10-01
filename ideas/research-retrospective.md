@@ -83,3 +83,10 @@ Require a written caveat whenever a record uses inferred prompts, repository-lev
 - Carry lower-quality playable games into the separate quality section; never raise a rating to satisfy the requested count.
 - Preserve the two-day window instead of silently widening it. Label all 30 units' repository creation dates as proxies rather than assert proven creation dates.
 - Save query receipts, candidate decisions, media checks and smoke-test evidence beside the validated batch.
+
+## Browser ports and decompilations — 2026-10-01
+
+- Keep browser-native game ports in a separate list from the AI-authored game dataset.
+- Label exact methods: decompilation port, officially source-released engine, reimplementation, emulation, or reconstruction.
+- Click the browser deployment and inspect the upstream README; note user-supplied data, browser requirements, unavailable hosts, and demo/full-game scope.
+- Use a failed TLS check or a build-only GitHub repository as a hold, not as a currently playable pick.
