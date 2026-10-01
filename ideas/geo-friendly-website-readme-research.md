@@ -20,3 +20,5 @@ Use the [official Google guide](https://developers.google.com/search/docs/fundam
 ## README adaptation
 
 State what the project is and the problem it solves in the first paragraph. Add a runnable quick start. Include exact prerequisites, a minimal example, expected output, links to authoritative documentation, version and release information, and a clear license. Keep claims measurable and verifiable. Use headings that answer developer questions. Treat GitHub README optimization as documentation quality, not a separate ranking hack.
+
+Keep the linked SubmitGame button in the centered README header. Use the supplied SVG and descriptive alt text. Preserve it in `scripts/generate-awesome-readme.mjs`; regenerate the organization profile after changing the root README.

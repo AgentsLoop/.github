@@ -13,6 +13,8 @@
 > **Browse source-backed games attributed to GPT-6 Astra, GPT-6.1 Sol, Claude Opus, Claude Sonnet, or Claude Fable.**<br />
 > Every listed unit maps to a qualifying GitHub source repository. The model-evidence grade is visible on every entry.
 
+<a href="https://github.com/SubmitGame"><img src="https://github.com/SubmitGame/.github/raw/main/assets/submit-your-game.svg" alt="Submit your game" width="320" /></a>
+
 </div>
 
 ---

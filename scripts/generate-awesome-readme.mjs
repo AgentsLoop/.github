@@ -265,6 +265,7 @@ output += `[![Stars](https://img.shields.io/github/stars/AgentsLoop/awesome-opus
 output += `[![Forks](https://img.shields.io/github/forks/AgentsLoop/awesome-opus-5.5-games?style=for-the-badge&logo=github&color=06b6d4)](https://github.com/AgentsLoop/awesome-opus-5.5-games/forks)\n\n`;
 output += `> **Browse source-backed games attributed to GPT-6 Astra, GPT-6.1 Sol, Claude Opus, Claude Sonnet, or Claude Fable.**<br />\n`;
 output += `> Every listed unit maps to a qualifying GitHub source repository. The model-evidence grade is visible on every entry.\n\n`;
+output += `<a href="https://github.com/SubmitGame"><img src="https://github.com/SubmitGame/.github/raw/main/assets/submit-your-game.svg" alt="Submit your game" width="320" /></a>\n\n`;
 output += `</div>\n\n---\n\n`;
 output += screenshotGallery();
 output += `## Browse by model\n\n`;
