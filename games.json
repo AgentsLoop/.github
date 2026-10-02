@@ -35553,7 +35553,8 @@
     "verified_on": "2026-09-30",
     "discovery_sources": [
       "GitHub model-and-date repository search; commit-attribution freshness join (September 29–30 UTC+7)",
-      "https://github.com/ethanplusai/outpace"
+      "https://github.com/ethanplusai/outpace",
+      "https://www.reddit.com/r/ClaudeAI/comments/1wubinx/i_asked_claude_opus_55_to_build_a_typing_game_end/"
     ],
     "verification_notes": "Inspect typing-to-run input, jumps, creature collisions, health, adaptive chase wave, sprint/chase outcomes and score validation. Separate Opus 5.5 game orchestration from Sonnet 5.5 backend implementation and adversarial security QA, as documented by the build log. Inspect the checked-in entry point and gameplay systems. Treat repository creation as a freshness proxy, not proof of game creation or publication. Do not treat this source verification as a runtime playtest.",
     "publication_date_status": "repository_created_only",

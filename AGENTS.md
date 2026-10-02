@@ -44,7 +44,7 @@
 - Record the game name, repository URL, evidence URL, technology, verification status, and verification date.
 - Record `added_to_repo_on` as the UTC date the repository first appears in `games.json`; preserve it when updating a record.
 - Do not add prompt-only projects, catalogs, skills, or repositories without a game.
-- Mark projects found in Reddit, X, itch.io, or other sources in `discovery_sources`.
+- When Reddit or X leads to a GitHub game, add the exact post URL and the repository URL to that game’s `discovery_sources` array; preserve all existing sources.
 - Keep `games.json` valid JSON.
 - Update existing records instead of creating duplicates.
 - Mirror every verified README link refresh into the matching `games.json` record in the same change.
