@@ -1,0 +1,27 @@
+Carreras 3D	carreras3d.html	counted	587300	addEventListener,canvas,Level,onclick,requestAnimationFrame,Score,win
+Pengu Ice	pengu.html	counted	541934	addEventListener,canvas,Level,onclick,requestAnimationFrame,score,win
+Slide Ice	slideice.html	counted	30833	addEventListener,canvas,level,onclick,requestAnimationFrame,score,win
+Ninja Slice	ninja.html	counted	30230	addEventListener,canvas,onclick,requestAnimationFrame,score,win
+Color Rush	colorrush.html	counted	28100	addEventListener,canvas,onclick,requestAnimationFrame,score,win
+Merge Planets	planets.html	counted	29135	addEventListener,canvas,onclick,requestAnimationFrame,score,win
+Survivors	survivors.html	counted	39158	addEventListener,canvas,onclick,requestAnimationFrame,score,win
+Last Hill	lasthill.html	counted	37859	addEventListener,canvas,onclick,requestAnimationFrame,score,win
+Gravity Flip	gravityflip.html	counted	503749	addEventListener,canvas,Level,onclick,requestAnimationFrame,score,win
+Orbit	orbit.html	counted	510344	addEventListener,canvas,Level,onclick,requestAnimationFrame,score,win
+Basket Flick	basket.html	counted	506970	addEventListener,canvas,Level,onclick,requestAnimationFrame,score,win
+Drift King	driftking.html	counted	31930	addEventListener,canvas,onclick,requestAnimationFrame,score,win
+Royale Island	royale.html	counted	563397	addEventListener,canvas,Level,requestAnimationFrame,win
+Drift Runner	./driftrunner.html	counted	540459	addEventListener,canvas,Level,requestAnimationFrame,score,win
+El Impostor	impostor.html	counted	18646	addEventListener,onclick,onkeydown,win
+CubeCraft	cubecraft.html	counted	596566	addEventListener,canvas,Level,requestAnimationFrame,win
+Block Blast	blockblast.html	counted	15372	addEventListener,canvas,requestAnimationFrame,score,win
+Grow a Garden	growgarden.html	counted	524695	addEventListener,canvas,Level,onclick,requestAnimationFrame,win
+Steal a Brainrot	stealbrainrot.html	counted	515574	addEventListener,canvas,Level,onclick,requestAnimationFrame,win
+El Búnker Perfecto	bunker.html	counted	549065	addEventListener,canvas,Level,onclick,requestAnimationFrame,win
+Laboratorio de Pruebas	lab.html	excluded	764973	addEventListener,Canvas,Level,requestAnimationFrame,win
+De Vagabundo a Millonario	casa.html	counted	777750	addEventListener,Canvas,Level,onclick,requestAnimationFrame,win
+Vecina Siniestra	vecina.html	counted	592869	addEventListener,canvas,Level,onclick,requestAnimationFrame,win
+¡Que viene mamá!	./cuarto.html	counted	718553	addEventListener,Canvas,Level,onclick,requestAnimationFrame,score,win
+Turno de Noche	noche.html	counted	514095	addEventListener,canvas,Level,onclick,requestAnimationFrame,win
+Perro Ladrón	./hermana.html	counted	576318	addEventListener,canvas,Level,onclick,requestAnimationFrame,score,win
+Benalmádena Sim	./benalmadena.html	excluded	540490	addEventListener,canvas,Level,onclick,requestAnimationFrame,win

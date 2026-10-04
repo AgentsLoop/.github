@@ -4,9 +4,9 @@
 
 <a href="https://omgithub.com/"><img src="assets/awesome-ai-games.svg" alt="Awesome AI Games: a curated field guide to AI-made games" width="100%" /></a>
 
-### 872 curated game units. 598 qualifying source repositories.
+### 909 curated game units. 611 qualifying source repositories.
 
-[![Games](https://img.shields.io/badge/GAMES-872-7c3aed?style=for-the-badge&logo=itchdotio&logoColor=white)](#browse-by-model) [![Source repositories](https://img.shields.io/badge/SOURCE%20REPOSITORIES-598-2563eb?style=for-the-badge&logo=github&logoColor=white)](games.json) [![WebGL family](https://img.shields.io/badge/WEBGL%20FAMILY-280-111827?style=for-the-badge&logo=threedotjs&logoColor=white)](#collection-at-a-glance)
+[![Games](https://img.shields.io/badge/GAMES-909-7c3aed?style=for-the-badge&logo=itchdotio&logoColor=white)](#browse-by-model) [![Source repositories](https://img.shields.io/badge/SOURCE%20REPOSITORIES-611-2563eb?style=for-the-badge&logo=github&logoColor=white)](games.json) [![WebGL family](https://img.shields.io/badge/WEBGL%20FAMILY-306-111827?style=for-the-badge&logo=threedotjs&logoColor=white)](#collection-at-a-glance)
 
 [![Stars](https://img.shields.io/github/stars/AgentsLoop/awesome-opus-5.5-games?style=for-the-badge&logo=github&color=f59e0b)](https://github.com/AgentsLoop/awesome-opus-5.5-games/stargazers) [![Forks](https://img.shields.io/github/forks/AgentsLoop/awesome-opus-5.5-games?style=for-the-badge&logo=github&color=06b6d4)](https://github.com/AgentsLoop/awesome-opus-5.5-games/forks)
 
@@ -85,123 +85,78 @@ Select a model to browse its ranked games and screenshots. Count each multi-mode
 | [Claude Fable 5](models/claude-fable-5.md) | **205** | 97 |
 | [Claude Fable 5.1](models/claude-fable-5-1.md) | **129** | 61 |
 | [Claude Opus 5](models/claude-opus-5.md) | **126** | 111 |
-| [Claude Opus 5.5](models/claude-opus-5-5.md) | **114** | 83 |
+| [Claude Opus 5.5](models/claude-opus-5-5.md) | **117** | 86 |
 | [GPT-6 Astra](models/gpt-6-astra.md) | **112** | 83 |
 | [Claude Opus 4.6](models/claude-opus-4-6.md) | **83** | 69 |
 | [Claude Opus 4.8](models/claude-opus-4-8.md) | **67** | 53 |
+| [Claude Sonnet 5.5](models/claude-sonnet-5-5.md) | **52** | 27 |
 | [Claude Opus 4.7](models/claude-opus-4-7.md) | **25** | 25 |
-| [Claude Sonnet 5.5](models/claude-sonnet-5-5.md) | **20** | 19 |
 | [Claude Opus 4.5](models/claude-opus-4-5.md) | **13** | 13 |
 | [Codex](models/codex.md) | **7** | 7 |
 | [Claude Opus](models/claude-opus.md) | **4** | 4 |
 | [Claude Opus 4](models/claude-opus-4.md) | **4** | 2 |
 | [GPT-6](models/gpt-6.md) | **4** | 4 |
+| [GPT-6.1 Sol](models/gpt-6-1-sol.md) | **4** | 4 |
 | [Claude Code](models/claude-code.md) | **2** | 2 |
-| [GPT-6.1 Sol](models/gpt-6-1-sol.md) | **2** | 2 |
 | [ChatGPT 5.6 Soul](models/chatgpt-5-6-soul.md) | **1** | 1 |
 | [Codex Opus 4.8](models/codex-opus-4-8.md) | **1** | 1 |
 | [GPT-5.6 Sol](models/gpt-5-6-sol.md) | **1** | 1 |
 
 ## Top games today
 
-> Rank the highest-rated repositories verified in this curation run on **2026-09-30**.
+> Rank the highest-rated repositories verified in this curation run on **2026-10-04**.
 
 | Rank | Game | Score | Model | Verified date |
 | ---: | --- | ---: | --- | --- |
-| 1 | [**Dead Signal: Exclusion Zone**](games/dead-signal-exclusion-zone-bridge-mind-sonnet-5-5-zombies-game/readme.md) | ⭐ **8.7** | Claude Sonnet 5.5 | 2026-09-30 |
-| 2 | [**Wreckyard**](games/wreckyard/readme.md) | ⭐ **8.7** | Claude Sonnet 5.5 | 2026-09-30 |
-| 3 | [**Last Courier**](games/last-courier/readme.md) | ⭐ **8.6** | Claude Opus 5.5 | 2026-09-30 |
-| 4 | [**Outpace**](games/outpace/readme.md) | ⭐ **8.6** | Claude Opus 5.5, Claude Sonnet 5.5 | 2026-09-30 |
-| 5 | [**Dynamite Mole**](games/dynamite-mole/readme.md) | ⭐ **8.5** | Claude Sonnet 5.5 | 2026-09-30 |
-| 6 | [**Elden Kart**](games/elden-kart/readme.md) | ⭐ **8.5** | Claude Sonnet 5.5 | 2026-09-30 |
-| 7 | [**Gloaming Vale**](games/gloaming-vale/readme.md) | ⭐ **8.5** | Claude Sonnet 5.5 | 2026-09-30 |
-| 8 | [**Mall Action — Model Benchmark**](games/mall-action-model-benchmark/readme.md) | ⭐ **8.5** | Claude Opus 5.5, Claude Sonnet 5.5, GPT-6.1 Sol | 2026-09-30 |
-| 9 | [**NPC Village**](games/npc-village/readme.md) | ⭐ **8.5** | Claude Opus 5.5 | 2026-09-30 |
-| 10 | [**Open Backrooms**](games/open-backrooms/readme.md) | ⭐ **8.5** | Claude Opus 5.5 | 2026-09-30 |
+| 1 | [**Mana Wars**](games/mana-wars/readme.md) | ⭐ **8.4** | Claude Opus 5.5 | 2026-10-04 |
+| 2 | [**SELF PLAY**](games/self-play/readme.md) | ⭐ **8.3** | Claude Opus 5.5 | 2026-10-04 |
+| 3 | [**Odyssey of the Living Cap**](games/odyssey-of-the-living-cap/readme.md) | ⭐ **8.0** | Claude Opus 5.5 | 2026-10-04 |
+| 4 | [**Space Attack**](games/space-attack/readme.md) | ⭐ **7.8** | GPT-6.1 Sol | 2026-10-04 |
+| 5 | [**ORBITAL — 星環機関**](games/orbital/readme.md) | ⭐ **7.7** | GPT-6.1 Sol | 2026-10-04 |
+| 6 | [**¡Que viene mamá!**](games/que-viene-mama/readme.md) | ⭐ **7.6** | Claude Sonnet 5.5 | 2026-10-04 |
+| 7 | [**Fishery**](games/fishery/readme.md) | ⭐ **7.6** | Claude Sonnet 5.5 | 2026-10-04 |
 
 ## New source repositories yesterday and today
 
-Filter repository creation to **2026-09-29–2026-09-30** in **Asia/Ho_Chi_Minh (UTC+7)**; read the UTC dates below separately. Do not treat repository creation as proof of game publication. Inspect the source and model-evidence links before using an entry.
+Filter repository creation to **2026-10-03–2026-10-04** in **Asia/Ho_Chi_Minh (UTC+7)**; read the UTC dates below separately. Do not treat repository creation as proof of game publication. Inspect the source and model-evidence links before using an entry.
 
 | Repository | Game units | Model | Created (UTC) |
 | --- | ---: | --- | --- |
-| [Core Business](games/core-business/readme.md) ([source](https://github.com/Leichtbier/core-business)) | 1 | Claude Opus 5.5 | 2026-09-30 |
-| [Gravewake](games/gravewake/readme.md) ([source](https://github.com/LioraLabs/gravewake)) | 1 | Claude Opus 5.5 | 2026-09-30 |
-| [Earth to Moon Learning Game](games/earth-to-moon-learning-game/readme.md) ([source](https://github.com/drahmedyahia/yoyo)) | 1 | Claude Sonnet 5.5 | 2026-09-30 |
-| [Alice in the Watercolor Garden](games/alice-in-the-watercolor-garden/readme.md) ([source](https://github.com/hatakoma/cc_alice)) | 1 | Claude Sonnet 5.5 | 2026-09-30 |
-| [Nova Skim](games/nova-skim/readme.md) ([source](https://github.com/IBassemTarek/nova-skim)) | 1 | Claude Sonnet 5.5 | 2026-09-30 |
-| [Dog — Swiss Card Board Game](games/dog-swiss-card-board-game/readme.md) ([source](https://github.com/seppbucher-develop/dog)) | 1 | Claude Sonnet 5.5 | 2026-09-30 |
-| [Particle Workshop](games/particle-workshop/readme.md) ([source](https://github.com/tgtec26/snug-matter-composition-game)) | 1 | Claude Sonnet 5.5 | 2026-09-30 |
-| [Last Courier](games/last-courier/readme.md) ([source](https://github.com/tanuu5/last-courier)) | 1 | Claude Opus 5.5 | 2026-09-30 |
-| [Matter Separation Workshop](games/matter-separation-workshop/readme.md) ([source](https://github.com/tgtec26/snug-matter-properties-game)) | 1 | Claude Sonnet 5.5 | 2026-09-30 |
-| [Floor 48](games/floor-48/readme.md) ([source](https://github.com/Crinklyink/game-by-Opus)) | 1 | Claude Sonnet 5.5 | 2026-09-30 |
-| [First-Person Blackjack](games/first-person-blackjack/readme.md) ([source](https://github.com/FinDaHuman/ClaudeBlackJack)) | 1 | Claude Sonnet 5.5 | 2026-09-30 |
-| [Unicorn Chaos Club](games/unicorn-chaos-club/readme.md) ([source](https://github.com/derHeinzer/yunicorn)) | 1 | Claude Sonnet 5.5 | 2026-09-30 |
-| [Putt Quest — Adventure Mini Golf](games/putt-quest-adventure-mini-golf/readme.md) ([source](https://github.com/leonvanzyl/3d-golf-sonnet)) | 1 | Claude Opus 5.5 | 2026-09-30 |
-| [Adventure Mini Golf](games/adventure-mini-golf/readme.md) ([source](https://github.com/leonvanzyl/3d-golf-opus)) | 1 | Claude Opus 5.5 | 2026-09-30 |
-| [Outpace](games/outpace/readme.md) ([source](https://github.com/ethanplusai/outpace)) | 1 | Claude Opus 5.5, Claude Sonnet 5.5 | 2026-09-30 |
-| [Slipstream](games/slipstream/readme.md) ([source](https://github.com/KJLKurt/waterslide-game-gpt-6.1-sol)) | 1 | GPT-6.1 Sol | 2026-09-30 |
-| [NPC Village](games/npc-village/readme.md) ([source](https://github.com/LJAguil/Npc-Village)) | 1 | Claude Opus 5.5 | 2026-09-29 |
-| [Open Backrooms](games/open-backrooms/readme.md) ([source](https://github.com/awn3x/Open-Backrooms)) | 1 | Claude Opus 5.5 | 2026-09-29 |
-| [Elden Kart](games/elden-kart/readme.md) ([source](https://github.com/Manoz/elden-kart)) | 1 | Claude Sonnet 5.5 | 2026-09-29 |
-| [Gloaming Vale](games/gloaming-vale/readme.md) ([source](https://github.com/juan504n/spyro-game)) | 1 | Claude Sonnet 5.5 | 2026-09-29 |
-| [Buzzword Dash](games/buzzword-dash/readme.md) ([source](https://github.com/pathomnemonic/buzzword-dash-v2)) | 1 | Claude Sonnet 5.5 | 2026-09-29 |
-| [Mall Action — Model Benchmark](games/mall-action-model-benchmark/readme.md) ([source](https://github.com/rlorca/mall-action)) | 1 | Claude Opus 5.5, Claude Sonnet 5.5, GPT-6.1 Sol | 2026-09-29 |
-| [Neon Bay](games/neon-bay/readme.md) ([source](https://github.com/L1vsun/NEONBAY)) | 1 | Claude Opus 5.5 | 2026-09-29 |
-| [Wreckyard](games/wreckyard/readme.md) ([source](https://github.com/guiguito/DestructionDerbySonnet)) | 1 | Claude Sonnet 5.5 | 2026-09-29 |
-| [Dynamite Mole / SUNSET RUSH](games/dynamite-mole/readme.md) ([source](https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples)) | 2 | Claude Sonnet 5.5 | 2026-09-29 |
-| [Yet Another VoxelCraft](games/yet-another-voxelcraft/readme.md) ([source](https://github.com/GoldwinXS/YetAnotherVoxelCraft)) | 1 | Claude Sonnet 5.5 | 2026-09-29 |
-| [Splash Rush](games/splash-rush/readme.md) ([source](https://github.com/KJLKurt/waterslide-game-sonnet-5.5)) | 1 | Claude Sonnet 5.5 | 2026-09-28 |
-| [Dead Signal: Exclusion Zone](games/dead-signal-exclusion-zone-bridge-mind-sonnet-5-5-zombies-game/readme.md) ([source](https://github.com/bridge-mind/sonnet-5-5-zombies-game)) | 1 | Claude Sonnet 5.5 | 2026-09-28 |
+| [SELF PLAY](games/self-play/readme.md) ([source](https://github.com/4waiz/self-play)) | 1 | Claude Opus 5.5 | 2026-10-04 |
+| [Fishery](games/fishery/readme.md) ([source](https://github.com/blackout-rain/application-development)) | 1 | Claude Sonnet 5.5 | 2026-10-04 |
+| [Koke Phone Games](games/carreras-3d/readme.md) ([source](https://github.com/kokellara12-maker/apps-k4m9q2)) | 25 | Claude Sonnet 5.5 | 2026-10-03 |
+| [Mana Wars](games/mana-wars/readme.md) ([source](https://github.com/IHackedKmart/Mana-Wars)) | 1 | Claude Opus 5.5 | 2026-10-03 |
+| [Space Attack](games/space-attack/readme.md) ([source](https://github.com/vannorman/space_attack)) | 1 | GPT-6.1 Sol | 2026-10-03 |
+| [ORBITAL — 星環機関](games/orbital/readme.md) ([source](https://github.com/SunnyWell81-ai-generated/orbital-game)) | 1 | GPT-6.1 Sol | 2026-10-03 |
+| [Odyssey of the Living Cap](games/odyssey-of-the-living-cap/readme.md) ([source](https://github.com/SathiyabalanSengodan/autogen-odyssey-game-studio)) | 1 | Claude Opus 5.5 | 2026-10-03 |
 
 ## Top games this week
 
-> Rank source-verified games with a creation signal in the last seven calendar days, **2026-09-24–2026-09-30** (Asia/Ho_Chi_Minh). Prefer an explicit creator-reported game-creation date; otherwise use repository creation as a proxy, not proof of the game's actual creation or publication. Exclude older creation dates even when gameplay evidence is recent.
+> Rank source-verified games with a creation signal in the last seven calendar days, **2026-09-28–2026-10-04** (Asia/Ho_Chi_Minh). Prefer an explicit creator-reported game-creation date; otherwise use repository creation as a proxy, not proof of the game's actual creation or publication. Exclude older creation dates even when gameplay evidence is recent.
 
 | Rank | Game | Score | Model | Created date (basis) |
 | ---: | --- | ---: | --- | --- |
-| 1 | [**Barista Shift**](games/barista-shift/readme.md) | ⭐ **9.5** | Claude Opus 5.5 | 2026-09-24 · repository creation proxy |
-| 2 | [**Ashes of Aether — Act I: The Unravelling**](games/ashes-of-aether-act-i-the-unravelling/readme.md) | ⭐ **9.1** | Claude Opus 5.5 | 2026-09-24 · repository creation proxy |
-| 3 | [**The Hourglass City**](games/the-hourglass-city/readme.md) | ⭐ **9.1** | Claude Opus 5.5 | 2026-09-25 · repository creation proxy |
-| 4 | [**Fall Line**](games/fall-line/readme.md) | ⭐ **9.0** | Claude Opus 5.5 | 2026-09-24 · repository creation proxy |
-| 5 | [**Long Wind**](games/long-wind/readme.md) | ⭐ **9.0** | Claude Opus 5.5 | 2026-09-26 · repository creation proxy |
-| 6 | [**QQ Speed**](games/qq-speed-xiiyioozzz-opus55-3d-games/readme.md) | ⭐ **9.0** | Claude Opus 5.5 | 2026-09-25 · repository creation proxy |
-| 7 | [**Ponpoko Kart**](games/ponpoko-kart/readme.md) | ⭐ **8.8** | Claude Opus 5.5 | 2026-09-26 · repository creation proxy |
-| 8 | [**Dead Signal: Exclusion Zone**](games/dead-signal-exclusion-zone-bridge-mind-sonnet-5-5-zombies-game/readme.md) | ⭐ **8.7** | Claude Sonnet 5.5 | 2026-09-29 · repository creation proxy |
-| 9 | [**Nova Lancer**](games/nova-lancer/readme.md) | ⭐ **8.7** | Claude Opus 5.5 | 2026-09-24 · repository creation proxy |
-| 10 | [**Wreckyard**](games/wreckyard/readme.md) | ⭐ **8.7** | Claude Sonnet 5.5 | 2026-09-29 · repository creation proxy |
-| 11 | [**Last Courier**](games/last-courier/readme.md) | ⭐ **8.6** | Claude Opus 5.5 | 2026-09-30 · repository creation proxy |
-| 12 | [**Outpace**](games/outpace/readme.md) | ⭐ **8.6** | Claude Opus 5.5, Claude Sonnet 5.5 | 2026-09-30 · repository creation proxy |
-| 13 | [**Dynamite Mole**](games/dynamite-mole/readme.md) | ⭐ **8.5** | Claude Sonnet 5.5 | 2026-09-29 · repository creation proxy |
-| 14 | [**Elden Kart**](games/elden-kart/readme.md) | ⭐ **8.5** | Claude Sonnet 5.5 | 2026-09-30 · repository creation proxy |
-| 15 | [**Gloaming Vale**](games/gloaming-vale/readme.md) | ⭐ **8.5** | Claude Sonnet 5.5 | 2026-09-30 · repository creation proxy |
+| 1 | [**Dead Signal: Exclusion Zone**](games/dead-signal-exclusion-zone-bridge-mind-sonnet-5-5-zombies-game/readme.md) | ⭐ **8.7** | Claude Sonnet 5.5 | 2026-09-29 · repository creation proxy |
+| 2 | [**Wreckyard**](games/wreckyard/readme.md) | ⭐ **8.7** | Claude Sonnet 5.5 | 2026-09-29 · repository creation proxy |
+| 3 | [**Last Courier**](games/last-courier/readme.md) | ⭐ **8.6** | Claude Opus 5.5 | 2026-09-30 · repository creation proxy |
+| 4 | [**Outpace**](games/outpace/readme.md) | ⭐ **8.6** | Claude Opus 5.5, Claude Sonnet 5.5 | 2026-09-30 · repository creation proxy |
+| 5 | [**Dynamite Mole**](games/dynamite-mole/readme.md) | ⭐ **8.5** | Claude Sonnet 5.5 | 2026-09-29 · repository creation proxy |
+| 6 | [**Elden Kart**](games/elden-kart/readme.md) | ⭐ **8.5** | Claude Sonnet 5.5 | 2026-09-30 · repository creation proxy |
+| 7 | [**Gloaming Vale**](games/gloaming-vale/readme.md) | ⭐ **8.5** | Claude Sonnet 5.5 | 2026-09-30 · repository creation proxy |
+| 8 | [**Mall Action — Model Benchmark**](games/mall-action-model-benchmark/readme.md) | ⭐ **8.5** | Claude Opus 5.5, Claude Sonnet 5.5, GPT-6.1 Sol | 2026-09-29 · repository creation proxy |
+| 9 | [**NPC Village**](games/npc-village/readme.md) | ⭐ **8.5** | Claude Opus 5.5 | 2026-09-30 · repository creation proxy |
+| 10 | [**Open Backrooms**](games/open-backrooms/readme.md) | ⭐ **8.5** | Claude Opus 5.5 | 2026-09-30 · repository creation proxy |
+| 11 | [**Putt Quest — Adventure Mini Golf**](games/putt-quest-adventure-mini-golf/readme.md) | ⭐ **8.5** | Claude Opus 5.5 | 2026-09-30 · repository creation proxy |
+| 12 | [**Slipstream**](games/slipstream/readme.md) | ⭐ **8.5** | GPT-6.1 Sol | 2026-09-30 · repository creation proxy |
+| 13 | [**Splash Rush**](games/splash-rush/readme.md) | ⭐ **8.5** | Claude Sonnet 5.5 | 2026-09-29 · repository creation proxy |
+| 14 | [**Adventure Mini Golf**](games/adventure-mini-golf/readme.md) | ⭐ **8.4** | Claude Opus 5.5 | 2026-09-30 · repository creation proxy |
+| 15 | [**Dog — Swiss Card Board Game**](games/dog-swiss-card-board-game/readme.md) | ⭐ **8.4** | Claude Sonnet 5.5 | 2026-09-30 · repository creation proxy |
 
 ## Top games this month
 
-> Rank the highest-rated games with publication or qualifying gameplay evidence from **2026-09-01** through **2026-09-30**.
+> Rank the highest-rated games with publication or qualifying gameplay evidence from **2026-10-01** through **2026-10-04**.
 
-| Rank | Game | Score | Model | Evidence date |
-| ---: | --- | ---: | --- | --- |
-| 1 | [**Unfit for Print**](games/unfit-for-print/readme.md) | ⭐ **9.7** | Claude Opus 5 | 2026-09-11 |
-| 2 | [**chess3dastra**](games/chess3dastra/readme.md) | ⭐ **9.6** | GPT-6 Astra | 2026-09-11 |
-| 3 | [**Skylark Run**](games/skylark-run/readme.md) | ⭐ **9.6** | Claude Opus 5 | 2026-09-11 |
-| 4 | [**Barista Shift**](games/barista-shift/readme.md) | ⭐ **9.5** | Claude Opus 5.5 | 2026-09-23 |
-| 5 | [**Bubble Pop**](games/bubble-pop/readme.md) | ⭐ **9.5** | Claude Fable 5.1 | 2026-09-10 |
-| 6 | [**Grand Theft Astra**](games/grand-theft-astra/readme.md) | ⭐ **9.5** | Claude Fable 5.1 | 2026-09-10 |
-| 7 | [**SUNBREAK — Downhill Club**](games/sunbreak-downhill-club/readme.md) | ⭐ **9.5** | GPT-6 Astra | 2026-09-05 |
-| 8 | [**Battle City**](games/battle-city-nickblack1919-battle-city/readme.md) | ⭐ **9.4** | Claude Opus 5 | 2026-09-11 |
-| 9 | [**Gravity Box — Campaign 100**](games/gravity-box-campaign-100/readme.md) | ⭐ **9.4** | GPT-6 Astra, GPT-5.6 Sol | 2026-09-08 |
-| 10 | [**Haynes Quest**](games/haynes-quest/readme.md) | ⭐ **9.4** | Claude Fable 5.1 | 2026-09-11 |
-| 11 | [**7 Minutes — City Crisis**](games/7-minutes-city-crisis/readme.md) | ⭐ **9.3** | GPT-6 | 2026-09-08 |
-| 12 | [**Balloon Pop**](games/balloon-pop/readme.md) | ⭐ **9.3** | Claude Opus 4.8 | 2026-09-10 |
-| 13 | [**NULLSPACE**](games/nullspace/readme.md) | ⭐ **9.3** | GPT-6 Astra, Codex | 2026-09-04 |
-| 14 | [**P(DOOM)**](games/p-doom/readme.md) | ⭐ **9.3** | GPT-6 Astra, Codex | 2026-09-06 |
-| 15 | [**PirateSeas**](games/pirateseas/readme.md) | ⭐ **9.3** | Claude Opus 5, Claude Fable 5.1 | 2026-09-15 |
-| 16 | [**Rift Chess**](games/rift-chess/readme.md) | ⭐ **9.3** | GPT-6 Astra | 2026-09-07 |
-| 17 | [**Robo Open**](games/robo-open/readme.md) | ⭐ **9.3** | GPT-6 Astra, Codex | 2026-09-05 |
-| 18 | [**Turbo Kart Rush**](games/turbo-kart-rush-claudio41cg-max-rio-rush-cross/readme.md) | ⭐ **9.3** | Claude Fable 5.1 | 2026-09-09 |
-| 19 | [**Explottens: Survival**](games/explottens-survival/readme.md) | ⭐ **9.2** | Claude Opus 5 | 2026-09-11 |
-| 20 | [**Mystic Onslaught**](games/mystic-onslaught/readme.md) | ⭐ **9.2** | Claude Fable 5 | 2026-09-15 |
+_No verified entries match this period yet._
 
 ## Top-rated picks
 
@@ -229,7 +184,7 @@ Filter repository creation to **2026-09-29–2026-09-30** in **Asia/Ho_Chi_Minh 
 
 Browse playable game units with public GitHub source and evidence that connects them to GPT-6 Astra, GPT-6.1 Sol, Claude Opus, Claude Sonnet, or Claude Fable. “Curated” does not mean every attribution has the same strength: the per-entry evidence grade states whether the model claim is direct, creator-reported, repository-level, or inferred.
 
-The source of truth is [games.json](games.json). It was last verified on **2026-09-30**.
+The source of truth is [games.json](games.json). It was last verified on **2026-10-04**.
 
 Browse [the awesome-list index](awesomelists.md) for verified game catalogs with their counted entry totals.
 
@@ -251,27 +206,27 @@ The dataset stores source-derived reconstruction prompts without presenting them
 
 | Signal | Result |
 | --- | ---: |
-| Counted game units | **872** |
-| Qualifying source repositories | **598** |
-| Dataset records, including related or excluded records | **680** |
+| Counted game units | **909** |
+| Qualifying source repositories | **611** |
+| Dataset records, including related or excluded records | **693** |
 | Low-quality game units moved to bad-games.md | **30** (30 repositories) |
 | Other non-game records moved to other.md | **52** |
-| WebGL-family game units, across all categories | **280** |
-| Non-browser engine game units | **266** |
+| WebGL-family game units, across all categories | **306** |
+| Non-browser engine game units | **270** |
 | Game units with screenshot links | **201** |
 | Game units with direct prompt links | **17** |
-| Game units with source-derived prompt fields | **872** |
+| Game units with source-derived prompt fields | **909** |
 | Game units with exact publication dates | **287** (152 repositories) |
-| Game units with repository creation dates | **872** (598 repositories) |
+| Game units with repository creation dates | **909** (611 repositories) |
 
 ## Verification snapshot
 
-The list contains **872** game units from **598** qualifying repositories. The dataset also retains **82** related or excluded records for audit history. Each row uses one of these model-evidence grades.
+The list contains **909** game units from **611** qualifying repositories. The dataset also retains **82** related or excluded records for audit history. Each row uses one of these model-evidence grades.
 
 | Grade | Meaning | Game units |
 | --- | --- | ---: |
-| ✓ Direct | A public primary source directly attributes the listed model. | **568** |
-| ≈ Creator report | The creator attributes the listed model. | **260** |
+| ✓ Direct | A public primary source directly attributes the listed model. | **602** |
+| ≈ Creator report | The creator attributes the listed model. | **263** |
 | △ Repository trail | A repository, directory, or topic trail supports the model claim. | **42** |
 | ? Inferred | The model attribution is inferred and should be independently checked. | **2** |
 

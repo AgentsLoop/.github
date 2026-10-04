@@ -39,6 +39,16 @@ Use the detailed comparison to distinguish game generators, AI-assisted engines,
 
 **Checklist key:** ✅ explicitly documented; ◐ limited, advertised, or unverified; ? not established by the reviewed evidence; — not offered by the tool or handled by an external project. Treat OmGithub as a project studio/catalog rather than a game engine. Treat Genex as an asset/publishing service, not a game generator. Treat Gamly and SpawnForge as limited-access products; do not present their advertised output as verified.
 
+## Open-source game generators and studios — 2026-10-04
+
+| Tool | Creation capability | Access and output limits | Primary evidence |
+| --- | --- | --- | --- |
+| [GameStudio](https://github.com/aurora-03/game_studio) | Use local Codex CLI with GPT-6.1 Sol to generate, preview, revise, version, and export playable browser games as HTML or ZIP. | Run locally with Node.js 24+ and an authenticated Codex account. It is a single-user local app, not a public hosted service. It does not silently substitute another model. | [README](https://github.com/aurora-03/game_studio/blob/dev/README.md) · [verification guide](https://github.com/aurora-03/game_studio/blob/dev/docs/verification.md) |
+| [Gemify](https://github.com/thomasbrueggemann/gemify) | Photograph a board and its rulebook; use Claude to infer rules and generate a 3D browser game, then test it with bots and revise failed rule checks. | Self-host locally. Use an existing Claude Code login or provide an Anthropic API key. Generated games run in the app; no standalone export workflow is documented. Phone scanning needs HTTPS. | [README](https://github.com/thomasbrueggemann/gemify/blob/main/README.md) |
+| [AutoGen Odyssey Game Studio](https://github.com/SathiyabalanSengodan/autogen-odyssey-game-studio) | Use designer, engineer, and reviewer agents to create or extend a playable Pygame game from an idea. The default model for the documented approved build is Claude Opus 5.5; configure the model and effort for later runs. | Run locally with Python, Pygame, and an Anthropic API key. The output is source code (`coding/odyssey.py`), not a hosted build. The documented smoke test executes generated code without a sandbox; inspect it before running. | [README](https://github.com/SathiyabalanSengodan/autogen-odyssey-game-studio/blob/main/README.md) |
+
+Keep generator capabilities separate from verified game outputs. Add a generator repository to `games.json` only when that same repository contains a distinct, source-verified playable game; this pass records the AutoGen studio's playable **Odyssey of the Living Cap** output separately.
+
 ## Prompt-to-playable platforms
 
 | Tool | What it generates | Output and limits | Primary evidence |
@@ -88,4 +98,4 @@ An exact-domain GitHub code search (`genex.games`, limit 100) surfaced 12 reposi
 - Treat every capability above as a vendor or project claim, not an independent build or playtest. Recheck availability, exports, pricing, and licensing before recommending a tool for production.
 - Keep [Ludo.ai](https://ludo.ai/docs) out of the playable-game generator table: its current FAQ says it does not create playable games or prototypes, despite older marketing for a Playable Generator.
 
-Check each vendor's access, pricing, licensing, and export limits before recommending it for production. Do not present advertised capability as an independent playtest. Checked the linked primary pages on **2026-09-26**; did not sign in, generate a game, or verify export output.
+Check each vendor's access, pricing, licensing, and export limits before recommending it for production. Do not present advertised capability as an independent playtest. Check the existing product comparison on **2026-09-26** and the three added open-source projects on **2026-10-04**. Do not claim that a new account was used, that a generated game was created during this review, or that an export was independently tested.

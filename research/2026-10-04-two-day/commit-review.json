@@ -1,0 +1,152 @@
+[
+  {
+    "repo": "blackout-rain/application-development",
+    "url": "https://github.com/blackout-rain/application-development/commit/edcadc995e03a4184f8b18d9c174fa55b93a7a6b",
+    "message": "Fishery game: 3 new areas, 31 new species, area completion bonus, area bosses, random level-up growth\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01R5d2LTgFSzZwqgPyhccd1a"
+  },
+  {
+    "repo": "blackout-rain/application-development",
+    "url": "https://github.com/blackout-rain/application-development/commit/65487a026da6954b12663bdf30d579d7cff1a87b",
+    "message": "Fishery game: merge equipment into home tab, size-based price/EXP, struggling fish animation\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01R5d2LTgFSzZwqgPyhccd1a"
+  },
+  {
+    "repo": "blackout-rain/application-development",
+    "url": "https://github.com/blackout-rain/application-development/commit/04451833725c5b0b0e4276f1f683641832ff7456",
+    "message": "Fishery game: level/EXP/stats/BP, dex size stars, home with growing facilities, settings tab\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01R5d2LTgFSzZwqgPyhccd1a"
+  },
+  {
+    "repo": "yarross/DataOpen",
+    "url": "https://github.com/yarross/DataOpen/commit/184f0271b09b48b3329e0129eda4543c60fd0c9f",
+    "message": "Add protocol/modding/runbook docs, refresh the architecture doc, CI and Makefile\n\nDocs: PROTOCOL.md (wire spec for mod authors), MODDING.md (how to add a game),\nRUNBOOK.md (per-game steps and symptom tables, scaling, exit codes),\nARCHITECTURE.md rewritten for the current design with an honest verification\nstatus per game. CI runs ruff and the full suite (Lua on 5.1/5.4/LuaJIT, GMod\nhost stub, C# syntax) on Python 3.10-3.12; `make demo` runs the whole pipeline\nwithout a game. Lint cleanups.\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01Adh555u49WayFMaHA19MHY"
+  },
+  {
+    "repo": "yarross/DataOpen",
+    "url": "https://github.com/yarross/DataOpen/commit/fae0fdaa545f0b1bfdb7a586db498db1bfa404f3",
+    "message": "Add the Unity SDK, Valheim and Rust plugins, RCON server control and an installer\n\nUnity SDK (C#, BepInEx-agnostic): JSON, mailbox, coroutine RPC server, observe-mode\nhumanoid discovery with bone resolution (Humanoid avatar, name patterns for\nMixamo/Valheim/Rust/UE-style rigs, profile overrides), a free camera rendering\nto a RenderTexture, Camera.WorldToScreenPoint probes, Physics raycast visibility.\nGame members (Valheim EnvMan, ZNetScene, Player) are reached by reflection so the\nplugins build without any game assembly. Rust: client observes, the core controls\ntime/weather on the own local server over RCON (stdlib WebSocket client, templated\ncommands from the profile). `dataopen install` copies the GMod addon or builds and\ninstalls the BepInEx plugin. The C# cannot be compiled in CI here: it is parsed\n(tree-sitter) and checked for C# 7.3 and protocol-key conformance instead.\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01Adh555u49WayFMaHA19MHY"
+  },
+  {
+    "repo": "yarross/DataOpen",
+    "url": "https://github.com/yarross/DataOpen/commit/650ebf28fc23f52b33eefb2b1e18203bc6a13563",
+    "message": "Add the shared Lua runtime and a Lua mock game, tested on Lua 5.1/5.4/LuaJIT\n\ndataopen_rpc.lua speaks protocol v1 from inside a game (JSON, mailbox polling,\ncoroutine handlers with wait_frames/wait_until, bone-name resolution with\nweights and profile overrides, engine-vs-core projection probes, freeze\nwatchdog, handler timeout, staged image commit for sandboxed mods). A game mod\nonly supplies engine bindings. The runtime is exercised end to end (doctor,\ncollection, verify) against a Lua simulated game with inch units and\nValveBiped names, driven by the real Python core, on lupa lua51/lua54/luajit.\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01Adh555u49WayFMaHA19MHY"
+  },
+  {
+    "repo": "yarross/DataOpen",
+    "url": "https://github.com/yarross/DataOpen/commit/1f9ee029438dad106044ac9bc2f7609bad2aaaa4",
+    "message": "Add doctor, verify, preview, merge, game profiles and a unified CLI\n\ndoctor: ladder of integration checks (connect, mod self-tests, spawn, engine-vs-core\nprojection probes with cause diagnosis, centimeter-unit detection, bone-length\nsanity, left/right swap, image size/blank frame, negative frame, throughput)\nwith skeleton overlays and concrete fix hints. verify: cross-checks canonical\nJSONL, image sizes, YOLO and COCO files and reports coverage statistics.\nProfiles are TOML data (mailbox path, render size, capture mode, mod options,\nbone overrides, provenance). collect runs the doctor first and refuses on FAIL.\n\nFix found by verify: labels rounded to 2 decimals could land exactly on the frame\nedge (319.996 -> 320.00); points within 0.01px of the edge are now out of frame.\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01Adh555u49WayFMaHA19MHY"
+  },
+  {
+    "repo": "yarross/DataOpen",
+    "url": "https://github.com/yarross/DataOpen/commit/8bc0988966313bd501f7f00f8607b7545114a0d7",
+    "message": "Add remote adapter, mock game server and harden the orchestrator\n\nRemoteGameAdapter drives a game mod over the mailbox protocol with engine-side\nor host-side (screen grab) image capture; the mock game now speaks the wire\nprotocol so the whole stack runs end to end without a game.\n\nOrchestrator: engine-vs-core projection probe check with automatic diagnosis\n(flipped Y/X, focal/FOV mismatch) and CalibrationError; aborts loudly on\npersistent adapter failure instead of finishing with an empty dataset; commits\nlabels for frames saved before a mid-scene failure; graceful stop; shard\nindex/count for parallel game instances; self-occlusion wired into the\nannotation builder; DATASET_CARD.json with provenance placeholder.\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01Adh555u49WayFMaHA19MHY"
+  },
+  {
+    "repo": "yarross/DataOpen",
+    "url": "https://github.com/yarross/DataOpen/commit/db44ab5d7ef2dc25ce6c6d64adc863b758b0990e",
+    "message": "Add game selection matrix and onboarding checklist\n\nCompares candidate games on weight, scripting access, server mode,\nskeleton variety and patch fragility; recommends Garry's Mod, Valheim,\nRust; defines three adapter archetypes and a checklist for adding a game.\nSizes/requirements are approximate and unverified.\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01Adh555u49WayFMaHA19MHY"
+  },
+  {
+    "repo": "azikfail/Escape-From-Ilnur",
+    "url": "https://github.com/azikfail/Escape-From-Ilnur/commit/13bea9260cc54f85ca6df915a663e419d6e21443",
+    "message": "Escape From Ilnur v1.3.0: horror game with new locations, hiding places, nightmare mode, intro\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>"
+  },
+  {
+    "repo": "zinx110/turftab",
+    "url": "https://github.com/zinx110/turftab/commit/3cfdeb8434c3409e1a2169a4c3bcb0e9729c99a9",
+    "message": "Add TurfTab: split turf fees and track who has paid\n\nNext.js 16 + Neon Postgres + Drizzle app for splitting a weekly football\nground rent equally among the players who actually played.\n\n- Games with multiple cost items; per-head charge rounds up, surplus shown\n- Ledger model: balances derived from charges and payments, never stored\n- One-tap mark paid, partial payments, undo; oldest-game-first allocation\n- Group share page (no balances) and per-player personal links\n- Admin auth via env password, signed session cookie, login lockout,\n  proxy redirect plus requireAdmin() on every page and action\n- CSV export, installable PWA with offline page\n- Unit tests for split, ledger, session and CSV logic\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>"
+  },
+  {
+    "repo": "diegobrego/BoardGameNight",
+    "url": "https://github.com/diegobrego/BoardGameNight/commit/940d9c64e609f22a36ea0eb4fe8feff2e57a3a0b",
+    "message": "Add \"My games\" lists, show them on player cards, let creators delete campaigns\n\nMy games:\n- Each player keeps a list of favourite / owned games (up to 60) on their\n  profile (players/{id}.games), managed from a \"Manage my games\" button in the\n  profile: search or paste a link to add, X to remove.\n- When adding a game to a day, the player's list shows first (minus games\n  already on that day); typing shows matching own games before the game list.\n- A player's card shows their list under their name as links to BoardGameGeek\n  (short lists start open, over 8 start closed).\n- New js/mygames.js (pure helpers, tested), cached by the service worker.\n\nCampaigns: the creator (or a signed-in admin) can now remove a campaign,\nrunning or finished, after a confirmation. Its sessions stay in the hall of fame.\n\nfirestore.rules: players may store a games list (max 60); campaign delete is\nno longer admin-only (the creator-only part is enforced by the site, since the\nrules cannot tell who is who). Must be re-published in the console.\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>"
+  },
+  {
+    "repo": "diegobrego/BoardGameNight",
+    "url": "https://github.com/diegobrego/BoardGameNight/commit/6412eb20eae201325abe7a689a6b0e8d3bce81c4",
+    "message": "Add campaigns, last week preview, player cards, campaign banners\n\nCampaigns tab (teal) for long games played over several sessions:\n- Start a campaign; anyone can join (and leave) until the creator locks it,\n  after which only the creator adds people. Creator can unlock again.\n- Anyone in a campaign logs sessions and picks the next day right in the\n  log popup; \"Plan next session\" does the same later and shows on the calendar.\n- Only the creator (or a signed-in admin) can finish a campaign, and reopen a\n  finished one. Finished campaigns are tinted grey with a dashed edge.\n- Running campaigns sit in their own collapsible list; each campaign's\n  sessions list is collapsed by default and shows dates and notes only.\n- Slim orange banners on the calendar for a game night or a campaign session\n  today/tomorrow, each with a link to the day or to the campaign.\n\nAlso: collapsible \"Last week\" preview so unlogged game nights can still be\nlogged, and player cards (stats and titles) opened from any player name.\n\nfirestore.rules: new campaigns collection (people, lock, next day, finish,\nreopen), campaign/note fields on plays. Must be re-published in the console.\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>"
+  },
+  {
+    "repo": "takashi145/chess-sandbox",
+    "url": "https://github.com/takashi145/chess-sandbox/commit/7c8271f67ba659000e6afbf9969502a4b4a0e5ee",
+    "message": "Choose a game from a PGN with several games\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>"
+  },
+  {
+    "repo": "takashi145/chess-sandbox",
+    "url": "https://github.com/takashi145/chess-sandbox/commit/c66f800a28419cf9c14a1a2380576450c77e1dc9",
+    "message": "Read every game in a PGN\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>"
+  },
+  {
+    "repo": "kokellara12-maker/apps-k4m9q2",
+    "url": "https://github.com/kokellara12-maker/apps-k4m9q2/commit/057c295429815e0b09037a81db524b6071c4c274",
+    "message": "Add Turno de Noche (original night-watch survival game)\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_018LcVaYsrLQUdj66KB693nN"
+  },
+  {
+    "repo": "alimuqeem/esp32-chess-timer",
+    "url": "https://github.com/alimuqeem/esp32-chess-timer/commit/c42ef447f8fcb956e920c3cbd012e98e6ebefdfa",
+    "message": "Add stand-alone ESP32 chess clock for Waveshare AMOLED-1.8 (V2)\n\nTwo-player touch chess clock: top half drawn upside down, tap your own half\nto pass the turn. 12 time controls with Fischer increment, pause/restart/menu,\nflag screen, seven-segment display with tenths under 20 s. Never dims during a\ngame (running or paused).\n\n- src/clock.h: pure C++ game logic with host tests (tests/test_clock.cpp)\n- src/main.cpp: CO5300 display, CST820 touch on its own task, power policy\n- tools/board.sh, tools/ctl.py: build/flash/revert wrapper; serial test driver\n  with tap simulation, state readout, touch calibration and PNG screenshots\n- Touch is mapped from the CST820's raw window to screen coordinates (fitted\n  from a 9-point calibration screen)\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>"
+  },
+  {
+    "repo": "slowikowskiarkadiusz/catan-noter",
+    "url": "https://github.com/slowikowskiarkadiusz/catan-noter/commit/169cee2e24a8dbaf54a18ef2d91fdc82b0ca4b40",
+    "message": "Add victory point counter, show road/army holders, store average points per game in the database\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01S5vtHkBxB7uPH8ynUXpbnF"
+  },
+  {
+    "repo": "slowikowskiarkadiusz/catan-noter",
+    "url": "https://github.com/slowikowskiarkadiusz/catan-noter/commit/68b5c3d08629c9e9fe6a97c241a956f9586572d9",
+    "message": "Keep the running game in localStorage; write to the database only when a game ends\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01S5vtHkBxB7uPH8ynUXpbnF"
+  },
+  {
+    "repo": "fidgetrope/chess-ai",
+    "url": "https://github.com/fidgetrope/chess-ai/commit/7322d2fe163c2ed88c7432e5fa35959086c2a22b",
+    "message": "Chess vs AI: standalone copy of the game without the two-player mode\n\nBranched from the pre-multiplayer build of fidgetrope/chess so there is a\nseparate link for playing the computer without any Firebase/online code.\nOwn base path (/chess-ai/), own page title (so home-screen shortcuts are\ndistinguishable) and own save slot (chess-ai.save.v1), since both sites\nshare the fidgetrope.github.io origin and would otherwise overwrite each\nother's saved game.\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>"
+  },
+  {
+    "repo": "Lynder063/rac-deadlocked-decomp",
+    "url": "https://github.com/Lynder063/rac-deadlocked-decomp/commit/0f5d80201a07740d78abc9b8e30070a8265e9b7e",
+    "message": "Add unpacker for the retail game image\n\nThe retail executable is a loader plus a WAD-compressed (LZO1X-style)\ngame image. tools/unpack_wad.py unpacks it; research notes updated.\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>"
+  },
+  {
+    "repo": "Lynder063/rac-deadlocked-decomp",
+    "url": "https://github.com/Lynder063/rac-deadlocked-decomp/commit/867310c2f8419c7a65de1d8b2d646ff3d7ebbfe1",
+    "message": "Document how the retail loader appears to load the game\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>"
+  },
+  {
+    "repo": "scootsmagoo/skyrome",
+    "url": "https://github.com/scootsmagoo/skyrome/commit/6edc71fcc1408567100fbf21cbbadcdc6c45e6c4",
+    "message": "Forum review fixes (2/3): mid LOD tier (Castor 123k to 7k beyond 56 m), 100-triangle stand-in columns, Tabularium rear, irregular rams, readable game boards, golden-path walks on the real terrain, interaction tests, grass kept off paving, module doc\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>"
+  },
+  {
+    "repo": "Kx121999/rafiq-alhifz",
+    "url": "https://github.com/Kx121999/rafiq-alhifz/commit/e16f7b52a8edf9421af098c5067eef0b5657b5a9",
+    "message": "Playful motion for children and an app icon that matches the mascot\n\nMotion (all of it off under prefers-reduced-motion): marking an ayah makes\nits button jump and throw a few stars; 'I memorised the whole surah' sends\na wave of jumping stars down the page; right game answers hop and throw\nstars; unlocked medals and today's goal stars pop in when a page opens.\nA newly unlocked medal is announced ('وسام جديد'), detected by comparing\nwhat was unlocked before and after each change, per child. Celebrations\nand medal notices now go through a queue so a medal never hides the\n'surah completed' message (checked: medal, medal, then the completion\nmessage, in order). Under reduced motion the text still appears, with no\nmovement.\n\nIcon: favicon, 192/512, maskable (kept inside the safe zone) and the\niOS touch icon are redrawn from the mascot on the home page's mint-to-sky\ngradient; manifest colours follow the new cream background.\n\nThe accessibility audit script now waits for elements instead of clicking\nat once (one state failed on a slow page); the full audit passes.\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>"
+  },
+  {
+    "repo": "alfonsograziano/gliner-decide",
+    "url": "https://github.com/alfonsograziano/gliner-decide/commit/39374be8d2d564996da4edc54b427c9295a996e0",
+    "message": "Fit the whole game in one screen\n\nPlayer cards now sit beside the court with the selector inside each card, and the\ncourt is sized from the viewport height, so no scrolling is needed on a normal\nwindow. Below 900x560 it falls back to a stacked, scrollable layout.\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>"
+  },
+  {
+    "repo": "alfonsograziano/gliner-decide",
+    "url": "https://github.com/alfonsograziano/gliner-decide/commit/76fd85e3d3cc4b27a226bbc8167b4209970924aa",
+    "message": "Add GLiNER Pong: browser game, server and headless arena\n\n- pong.html: pick the left and right player, each either \"You\" or an AI harness\n  (You vs AI, or AI vs AI), with a card per AI showing what the model reads and decides\n- pong_server.py: side-aware /decide, input validation, /health, --host/--port\n- arena.py, players/, results/, REPORT.md: headless ladder that ranks harnesses\n- README with setup, how to play, how to add a harness\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>"
+  },
+  {
+    "repo": "BiofaCode/life-game",
+    "url": "https://github.com/BiofaCode/life-game/commit/45f5edad3b3ac15b4e7c08496de820893ddf7d20",
+    "message": "Life Game V1 : dashboard Notion gamifié (PWA) (#1)\n\n* feat: Life Game V1 (dashboard Notion, PWA)\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01CFC4JdtTgdhAzAxqoDaE6D\n\n* feat: protection par mot de passe (APP_PASSWORD)\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01CFC4JdtTgdhAzAxqoDaE6D\n\n* feat: habitudes cochables, XP du jour, toasts, rafraîchir, chargement/erreur\n\n- Toucher une habitude passe « Statut aujourd'hui » à ✅ Fait (vérifie la base)\n- En-tête : XP gagné aujourd'hui (Journal), bouton rafraîchir (PWA iOS)\n- Toast +XP, vibration, rollback si Notion échoue\n- loading.tsx (squelette) et error.tsx\n- Types partagés dans lib/notion-types.ts (pas d'import serveur côté client)\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01CFC4JdtTgdhAzAxqoDaE6D\n\n* feat: annuler une quête cochée, statut d'habitude périmé ignoré\n\n- Toast « Annuler » (4 s) qui remet la quête dans son statut précédent\n- « Statut aujourd'hui » n'est affiché que si la page a été modifiée aujourd'hui\n- Fix : le toast restait en mouvement (bouton difficile à toucher)\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01CFC4JdtTgdhAzAxqoDaE6D\n\n---------\n\nCo-authored-by: Claude <noreply@anthropic.com>"
+  },
+  {
+    "repo": "DeepDiver1975/rex-ruckus",
+    "url": "https://github.com/DeepDiver1975/rex-ruckus/commit/5bf2dc4d0c753eb63ae8fee5af8671e65938a6ff",
+    "message": "feat: M1 foundation — sector engine core and walkable test level (#1)\n\n* build: add cargo workspace with rr-core crate\n\nCo-Authored-By: Claude Haiku 4.5 <noreply@anthropic.com>\nSigned-off-by: Thomas Müller <1005065+DeepDiver1975@users.noreply.github.com>\n\n* feat(core): add RON level format with automatic portal linking\n\nCo-Authored-By: Claude Haiku 4.5 <noreply@anthropic.com>\nSigned-off-by: Thomas Müller <1005065+DeepDiver1975@users.noreply.github.com>\n\n* feat(core): extrude sectors into floor, ceiling, wall and step meshes\n\nCo-Authored-By: Claude Haiku 4.5 <noreply@anthropic.com>\nSigned-off-by: Thomas Müller <1005065+DeepDiver1975@users.noreply.github.com>\n\n* feat(core): add sector lookup and segment helpers\n\nCo-Authored-By: Claude Haiku 4.5 <noreply@anthropic.com>\nSigned-off-by: Thomas Müller <1005065+DeepDiver1975@users.noreply.github.com>\n\n* feat(core): add Build-style clip_move and z_range collision\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>\nSigned-off-by: Thomas Müller <1005065+DeepDiver1975@users.noreply.github.com>\n\n* fix(core): use feet height for portal headroom and let bodies leave cramped sectors\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>\nSigned-off-by: Thomas Müller <1005065+DeepDiver1975@users.noreply.github.com>\n\n* feat(core): add player movement with step-up, jump, gravity and crouch\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>\nSigned-off-by: Thomas Müller <1005065+DeepDiver1975@users.noreply.github.com>\n\n* feat(assets): add test yard level with stairs, ledge, doorway and pillar\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>\nSigned-off-by: Thomas Müller <1005065+DeepDiver1975@users.noreply.github.com>\n\n* feat(game): render extruded test level with procedural pixel-art textures\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>\nSigned-off-by: Thomas Müller <1005065+DeepDiver1975@users.noreply.github.com>\n\n* feat(game): add first-person player with fixed-tick movement and interpolated camera\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>\nSigned-off-by: Thomas Müller <1005065+DeepDiver1975@users.noreply.github.com>\n\n* docs: document M1 controls\n\nCo-Authored-By: Claude Haiku 4.5 <noreply@anthropic.com>\nSigned-off-by: Thomas Müller <1005065+DeepDiver1975@users.noreply.github.com>\n\n* docs: add license, credits, build prerequisites and dependabot config\n\nCo-Authored-By: Claude Haiku 4.5 <noreply@anthropic.com>\nSigned-off-by: Thomas Müller <1005065+DeepDiver1975@users.noreply.github.com>\n\n---------\n\nSigned-off-by: Thomas Müller <1005065+DeepDiver1975@users.noreply.github.com>\nCo-authored-by: Claude Haiku 4.5 <noreply@anthropic.com>"
+  },
+  {
+    "repo": "yxxhixx/wasmou-docs",
+    "url": "https://github.com/yxxhixx/wasmou-docs/commit/9c62d812c19c61ce428198c9bcc3a190a181aca7",
+    "message": "Rewrite docs for Wasmou V3 on Mintlify\n\n- New guides: quickstart, authentication, delivery modes, per-client stock, pricing,\n  catalog sync, fulfilment automation, game top-ups, errors, changelog\n- OpenAPI reference for account, catalog, orders, stock, Free Fire and PUBG\n- Wasmou branding (yellow on black), logo and favicon\n- API host is now https://api.wasmou.net\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>"
+  },
+  {
+    "repo": "ErzenXz/lodestar",
+    "url": "https://github.com/ErzenXz/lodestar/commit/7fd406bc52707d4f48e084eafe4ee06f1fa55228",
+    "message": "Codex fix batches A + D: install integrity and renderer performance\n\nBatch A (downloads/installer, from the gpt-6.1-sol review):\n- Folder ownership markers; cancel only deletes folders the job created\n- Cancel/pause await the run, drain chunk workers, close handles; generation\n  IDs stop late progress from overwriting paused/queued state\n- Every existing-file replacement is staged; resume entries bound to the\n  manifest hash and size-checked; manifests written atomically\n- Short writes looped and verified; streamed bandwidth throttling with no\n  oversized bypass; 128 MiB hard chunk-memory budget with eviction\n- Path-boundary checks against junction/symlink escapes; bounded manifest\n  and chunk parsing; third-party titles skipped by auto-update\n- 19 offline regression tests (npm test)\n\nBatch D (renderer):\n- Row-virtualized library grid and windowed shelves (600 games: ~48 tiles\n  mounted instead of 600, ~615 DOM nodes on Home)\n- Shared entity indexes and keyed subscriptions; GamePage, collections and\n  route CSS lazy-loaded (startup CSS 112 KB -> 74 KB)\n- Store unload on idle/game start/hidden window, URL restore, crash reload\n- Properties tab, bootstrap snapshot, storage and collection-edit fixes\n- 9 renderer regression tests\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
+  }
+]

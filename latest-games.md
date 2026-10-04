@@ -4,6 +4,53 @@ Compare when each source repository was created with when this collection first 
 
 [Back to the game collection](README.md) · [Source data](games.json)
 
+## Added 2026-10-04 (UTC)
+
+| Added to this repo (UTC) | Game | Source repository | Original repository created (UTC) | Model | Quality |
+| --- | --- | --- | --- | --- | ---: |
+| 2026-10-04 | [¡Que viene mamá!](games/que-viene-mama/readme.md) | [kokellara12-maker/apps-k4m9q2](https://github.com/kokellara12-maker/apps-k4m9q2) | 2026-10-03 08:22:54 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-04 | [Basket Flick](games/basket-flick/readme.md) | [kokellara12-maker/apps-k4m9q2](https://github.com/kokellara12-maker/apps-k4m9q2) | 2026-10-03 08:22:54 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-04 | [Block Blast](games/block-blast/readme.md) | [kokellara12-maker/apps-k4m9q2](https://github.com/kokellara12-maker/apps-k4m9q2) | 2026-10-03 08:22:54 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-04 | [Carreras 3D](games/carreras-3d/readme.md) | [kokellara12-maker/apps-k4m9q2](https://github.com/kokellara12-maker/apps-k4m9q2) | 2026-10-03 08:22:54 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-04 | [Color Rush](games/color-rush/readme.md) | [kokellara12-maker/apps-k4m9q2](https://github.com/kokellara12-maker/apps-k4m9q2) | 2026-10-03 08:22:54 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-04 | [CubeCraft](games/cubecraft/readme.md) | [kokellara12-maker/apps-k4m9q2](https://github.com/kokellara12-maker/apps-k4m9q2) | 2026-10-03 08:22:54 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-04 | [De Vagabundo a Millonario](games/de-vagabundo-a-millonario/readme.md) | [kokellara12-maker/apps-k4m9q2](https://github.com/kokellara12-maker/apps-k4m9q2) | 2026-10-03 08:22:54 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-04 | [Drift King](games/drift-king/readme.md) | [kokellara12-maker/apps-k4m9q2](https://github.com/kokellara12-maker/apps-k4m9q2) | 2026-10-03 08:22:54 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-04 | [Drift Runner](games/drift-runner/readme.md) | [kokellara12-maker/apps-k4m9q2](https://github.com/kokellara12-maker/apps-k4m9q2) | 2026-10-03 08:22:54 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-04 | [El Búnker Perfecto](games/el-bunker-perfecto/readme.md) | [kokellara12-maker/apps-k4m9q2](https://github.com/kokellara12-maker/apps-k4m9q2) | 2026-10-03 08:22:54 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-04 | [El Impostor](games/el-impostor/readme.md) | [kokellara12-maker/apps-k4m9q2](https://github.com/kokellara12-maker/apps-k4m9q2) | 2026-10-03 08:22:54 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-04 | [Fishery](games/fishery/readme.md) | [blackout-rain/application-development](https://github.com/blackout-rain/application-development) | 2026-10-04 08:53:57 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-04 | [Gravity Flip](games/gravity-flip/readme.md) | [kokellara12-maker/apps-k4m9q2](https://github.com/kokellara12-maker/apps-k4m9q2) | 2026-10-03 08:22:54 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-04 | [Grow a Garden](games/grow-a-garden/readme.md) | [kokellara12-maker/apps-k4m9q2](https://github.com/kokellara12-maker/apps-k4m9q2) | 2026-10-03 08:22:54 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-04 | [Last Hill](games/last-hill/readme.md) | [kokellara12-maker/apps-k4m9q2](https://github.com/kokellara12-maker/apps-k4m9q2) | 2026-10-03 08:22:54 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-04 | [Mana Wars](games/mana-wars/readme.md) | [IHackedKmart/Mana-Wars](https://github.com/IHackedKmart/Mana-Wars) | 2026-10-03 03:29:19 UTC | Claude Opus 5.5 | 8.4/10 |
+| 2026-10-04 | [Merge Planets](games/merge-planets/readme.md) | [kokellara12-maker/apps-k4m9q2](https://github.com/kokellara12-maker/apps-k4m9q2) | 2026-10-03 08:22:54 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-04 | [Ninja Slice](games/ninja-slice/readme.md) | [kokellara12-maker/apps-k4m9q2](https://github.com/kokellara12-maker/apps-k4m9q2) | 2026-10-03 08:22:54 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-04 | [Odyssey of the Living Cap](games/odyssey-of-the-living-cap/readme.md) | [SathiyabalanSengodan/autogen-odyssey-game-studio](https://github.com/SathiyabalanSengodan/autogen-odyssey-game-studio) | 2026-10-03 01:49:59 UTC | Claude Opus 5.5 | 8.0/10 |
+| 2026-10-04 | [Orbit](games/orbit/readme.md) | [kokellara12-maker/apps-k4m9q2](https://github.com/kokellara12-maker/apps-k4m9q2) | 2026-10-03 08:22:54 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-04 | [ORBITAL — 星環機関](games/orbital/readme.md) | [SunnyWell81-ai-generated/orbital-game](https://github.com/SunnyWell81-ai-generated/orbital-game) | 2026-10-03 02:39:37 UTC | GPT-6.1 Sol | 7.7/10 |
+| 2026-10-04 | [Pengu Ice](games/pengu-ice/readme.md) | [kokellara12-maker/apps-k4m9q2](https://github.com/kokellara12-maker/apps-k4m9q2) | 2026-10-03 08:22:54 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-04 | [Perro Ladrón](games/perro-ladron/readme.md) | [kokellara12-maker/apps-k4m9q2](https://github.com/kokellara12-maker/apps-k4m9q2) | 2026-10-03 08:22:54 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-04 | [Royale Island](games/royale-island/readme.md) | [kokellara12-maker/apps-k4m9q2](https://github.com/kokellara12-maker/apps-k4m9q2) | 2026-10-03 08:22:54 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-04 | [SELF PLAY](games/self-play/readme.md) | [4waiz/self-play](https://github.com/4waiz/self-play) | 2026-10-04 11:05:06 UTC | Claude Opus 5.5 | 8.3/10 |
+| 2026-10-04 | [Slide Ice](games/slide-ice/readme.md) | [kokellara12-maker/apps-k4m9q2](https://github.com/kokellara12-maker/apps-k4m9q2) | 2026-10-03 08:22:54 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-04 | [Space Attack](games/space-attack/readme.md) | [vannorman/space_attack](https://github.com/vannorman/space_attack) | 2026-10-03 02:51:01 UTC | GPT-6.1 Sol | 7.8/10 |
+| 2026-10-04 | [Steal a Brainrot](games/steal-a-brainrot/readme.md) | [kokellara12-maker/apps-k4m9q2](https://github.com/kokellara12-maker/apps-k4m9q2) | 2026-10-03 08:22:54 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-04 | [Survivors](games/survivors/readme.md) | [kokellara12-maker/apps-k4m9q2](https://github.com/kokellara12-maker/apps-k4m9q2) | 2026-10-03 08:22:54 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-04 | [Turno de Noche](games/turno-de-noche/readme.md) | [kokellara12-maker/apps-k4m9q2](https://github.com/kokellara12-maker/apps-k4m9q2) | 2026-10-03 08:22:54 UTC | Claude Sonnet 5.5 | 7.6/10 |
+| 2026-10-04 | [Vecina Siniestra](games/vecina-siniestra/readme.md) | [kokellara12-maker/apps-k4m9q2](https://github.com/kokellara12-maker/apps-k4m9q2) | 2026-10-03 08:22:54 UTC | Claude Sonnet 5.5 | 7.6/10 |
+
+## Added 2026-10-02 (UTC)
+
+| Added to this repo (UTC) | Game | Source repository | Original repository created (UTC) | Model | Quality |
+| --- | --- | --- | --- | --- | ---: |
+| 2026-10-02 | [Auto Zork](games/auto-zork/readme.md) | [petershk/auto-zork](https://github.com/petershk/auto-zork) | 2026-10-02 02:06:13 UTC | Claude Sonnet 5.5 | 8.1/10 |
+| 2026-10-02 | [Death at Blackwood Manor](games/death-at-blackwood-manor/readme.md) | [Kurstin-Cyber/vigilant-telegram](https://github.com/Kurstin-Cyber/vigilant-telegram) | 2026-10-02 01:31:52 UTC | Claude Sonnet 5.5 | 7.7/10 |
+| 2026-10-02 | [Gujarati Play](games/gujarati-play/readme.md) | [bansipatel/gujarati-play](https://github.com/bansipatel/gujarati-play) | 2026-10-02 02:28:08 UTC | Claude Sonnet 5.5 | 7.8/10 |
+| 2026-10-02 | [Sanguine](games/sanguine/readme.md) | [cobmuddybug/sanguine](https://github.com/cobmuddybug/sanguine) | 2026-10-01 13:19:49 UTC | Claude Sonnet 5.5 | 8.0/10 |
+| 2026-10-02 | [Tetris](games/tetris-sena980909-claudecode/readme.md) | [sena980909/claudecode](https://github.com/sena980909/claudecode) | 2026-10-02 01:33:22 UTC | Claude Sonnet 5.5 | 7.3/10 |
+| 2026-10-02 | [Triqui](games/triqui/readme.md) | [vescobars/tic-tac-toe](https://github.com/vescobars/tic-tac-toe) | 2026-10-02 01:17:23 UTC | Claude Sonnet 5.5 | 7.8/10 |
+
 ## Added 2026-09-30 (UTC)
 
 | Added to this repo (UTC) | Game | Source repository | Original repository created (UTC) | Model | Quality |

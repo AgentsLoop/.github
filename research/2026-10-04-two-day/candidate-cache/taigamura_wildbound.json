@@ -1,0 +1,11 @@
+{
+  "repo": "taigamura/wildbound",
+  "created_at": "2026-10-03T01:04:44Z",
+  "pushed_at": "2026-10-04T12:42:55Z",
+  "description": null,
+  "homepage": null,
+  "default_branch": "main",
+  "language": "GDScript",
+  "readme": "# Wildbound\n\nA quickfire HD-2D creature roguelite for iPhone: real-time card combat where your team is your deck, an eight-floor run (about five minutes) ending at a boss that shifts element, and loot that upgrades your collection.\n\n**[CLAUDE.md](CLAUDE.md) is the single source of truth**: the game design spec (rules, numbers, roster), the code map, the rules for changing code and the release process. This README only covers setup.\n\n| Folder | What it is | Stack |\n| --- | --- | --- |\n| `godot/` | The game. | Godot 4.7.2, GDScript, Mobile renderer |\n| `eas/` | EAS project link for `eas submit`, plus the downloaded signing credentials (gitignored). No app code. | eas-cli |\n\n## Quick start\n\nInstall [Godot 4.7.2](https://godotengine.org/download) (standard, not .NET) and put `godot` on your PATH.\n\n```bash\ngodot --path godot -e                     # open the editor\ngodot --path godot                        # run the game (portrait 390×844)\ngodot --headless --path godot --script res://tests/test_core.gd   # logic tests\n```\n\n## Shipping to TestFlight\n\nBuilds run on a Mac build server over SSH and are submitted from this machine with `eas submit`. One-time, in a terminal: download the signing credentials with `cd eas && npx eas-cli@24.10.0 credentials -p ios` (production → credentials.json → Download). Then:\n\n```bash\nscripts/ship-ios-godot.sh --no-submit   # signed ipa, no upload\nscripts/ship-ios-godot.sh               # build, submit, bump godot/ios/build-number.txt\n```\n\nDetails: CLAUDE.md, \"Releasing\".",
+  "commits": []
+}

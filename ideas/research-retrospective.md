@@ -99,3 +99,11 @@ Require a written caveat whenever a record uses inferred prompts, repository-lev
 - List reVCDOS separately from reVC; the DOS.Zone page says users must provide game data after a DMCA takedown.
 - Correct DiabloWeb's base attribution to Devilution, not DevilutionX, and record TechSpot's dated shareware/full-game description as independent evidence.
 - Count only browser entries with direct Play pages, and update the validator whenever that count changes.
+
+## Game-hub source mapping — 2026-10-04
+
+- Follow fresh creator hubs through first-party app manifests and route indexes; do not stop at the repository's top-level README.
+- Map every listed game to a distinct checked-in entry point, then look up the file's addition commit and exact model trailer.
+- Keep one repository row, but give every contained game its own name, source path, and live route. Record count exclusions with their source reason and timestamp.
+- Distinguish HTTP availability from playing the game. Use sample status checks to corroborate a build, not to claim a full playtest.
+- Validate one explicit contained-game source URL per named unit. Preserve the source list, candidate cache, date cutoff, and rejected routes as a reproducible audit.

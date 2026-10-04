@@ -1,0 +1,11 @@
+{
+  "repo": "project143gh-lang/target-shooting-game",
+  "created_at": "2026-10-04T12:38:59Z",
+  "pushed_at": "2026-10-04T12:54:40Z",
+  "description": "Browser target shooting game with economy loop",
+  "homepage": null,
+  "default_branch": "master",
+  "language": "JavaScript",
+  "readme": "# Target Shooting Game\n\nA browser-based target shooting game with an economy loop. Hit targets, earn credits, buy guns, skins, scopes, and loot crates!\n\n## Features\n\n- **Target Shooting**: Click on moving targets to score points\n- **Economy System**: Earn credits per hit, spend on upgrades\n- **Shop**: Buy guns, skins, and scopes with credits\n- **Loot Crates**: Open crates for random rewards\n- **Vault**: Persistent loadout that saves across sessions\n\n## How to Play\n\n1. Open `index.html` in your browser\n2. Click on targets to shoot them\n3. Earn credits for each hit\n4. Visit the Shop to buy new equipment\n5. Open Loot Crates for random rewards\n6. Equip your loadout in the Vault\n\n## Tech Stack\n\n- Vanilla HTML + CSS + JavaScript\n- Canvas 2D for rendering\n- localStorage for persistence\n- No dependencies, no build step\n\n## Quick Start\n\n```bash\n# Just open in browser\nopen index.html\n\n# Or serve with any static server\nnpx serve .\n```\n\n## Project Structure\n\n```\ngameofnow/\n├── index.html          # Main UI\n├── styles/\n│   └── main.css        # All styles\n└── src/\n    ├── config.js       # Game configuration\n    ├── data.js         # Items catalog\n    ├── economy.js      # Buy/sell logic\n    ├── game.js         # Game engine\n    ├── icons.js        # Icon assets\n    ├── main.js         # Entry point\n    ├── selfcheck.js   # Validation checks\n    └── vault.js        # Persistent storage\n```\n\n## License\n\nMIT",
+  "commits": []
+}

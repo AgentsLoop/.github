@@ -1,0 +1,11 @@
+{
+  "repo": "MarketForgeX/tiny-trader",
+  "created_at": "2026-10-04T12:18:42Z",
+  "pushed_at": "2026-10-04T12:46:19Z",
+  "description": "A simple, colorful trading basics game designed for toddlers to learn Buy, Sell, Price, Profit, Loss, and Patience through playful interactions.",
+  "homepage": "https://marketforgex.github.io/tiny-trader/",
+  "default_branch": "main",
+  "language": "HTML",
+  "readme": "# Tiny Trader\n\n**Learn. Tap. Trade.** 🎮\n\nTiny Trader is a simple, colorful web game that introduces young children to basic market ideas through large touch-friendly interactions.\n\n### Concepts\n- Buy and sell\n- Price going up and down\n- Profit and loss\n- Patience and waiting\n- Virtual coins only\n\n### Run locally\nOpen `index.html` in a browser.\n\n### GitHub Pages\nThis is a static website and can be hosted with GitHub Pages.\n\n### Educational note\nThis is a playful learning experience, not a real trading or investment tool.\n\n## License\nMIT",
+  "commits": []
+}

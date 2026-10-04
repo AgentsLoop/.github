@@ -1,0 +1,153 @@
+{
+  "verified_on": "2026-10-04",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "window_start": "2026-10-03",
+  "window_end": "2026-10-04",
+  "expected_repositories": 7,
+  "expected_game_units": 31,
+  "date_basis": "Use repository creation timestamps as freshness proxies and individual game-addition commit timestamps for the Koke Phone Games hub. The local date window starts 2026-10-02T17:00:00Z and ends at the research cutoff 2026-10-04T12:54:00Z. Do not claim exact publication dates except where an initial game-addition commit is cited. Count 25 named games in one Sonnet 5.5 hub, five additional single-game projects, and one additional playable output in a separate Opus 5.5 game-generator repository: 31 units across 7 repositories.",
+  "records": [
+    {
+      "name": "Koke Phone Games",
+      "github_url": "https://github.com/kokellara12-maker/apps-k4m9q2",
+      "repository_id": 1402881772,
+      "repository_created_at": "2026-10-03T08:22:54Z",
+      "counted_game_units": 25,
+      "evidence_url": "https://github.com/kokellara12-maker/apps-k4m9q2/blob/main/apps.json",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/kokellara12-maker/apps-k4m9q2/blob/main/carreras3d.html",
+        "https://github.com/kokellara12-maker/apps-k4m9q2/blob/main/pengu.html",
+        "https://github.com/kokellara12-maker/apps-k4m9q2/blob/main/slideice.html",
+        "https://github.com/kokellara12-maker/apps-k4m9q2/blob/main/ninja.html",
+        "https://github.com/kokellara12-maker/apps-k4m9q2/blob/main/colorrush.html",
+        "https://github.com/kokellara12-maker/apps-k4m9q2/blob/main/planets.html",
+        "https://github.com/kokellara12-maker/apps-k4m9q2/blob/main/survivors.html",
+        "https://github.com/kokellara12-maker/apps-k4m9q2/blob/main/lasthill.html",
+        "https://github.com/kokellara12-maker/apps-k4m9q2/blob/main/gravityflip.html",
+        "https://github.com/kokellara12-maker/apps-k4m9q2/blob/main/orbit.html",
+        "https://github.com/kokellara12-maker/apps-k4m9q2/blob/main/basket.html",
+        "https://github.com/kokellara12-maker/apps-k4m9q2/blob/main/driftking.html",
+        "https://github.com/kokellara12-maker/apps-k4m9q2/blob/main/royale.html",
+        "https://github.com/kokellara12-maker/apps-k4m9q2/blob/main/driftrunner.html",
+        "https://github.com/kokellara12-maker/apps-k4m9q2/blob/main/impostor.html",
+        "https://github.com/kokellara12-maker/apps-k4m9q2/blob/main/cubecraft.html",
+        "https://github.com/kokellara12-maker/apps-k4m9q2/blob/main/blockblast.html",
+        "https://github.com/kokellara12-maker/apps-k4m9q2/blob/main/growgarden.html",
+        "https://github.com/kokellara12-maker/apps-k4m9q2/blob/main/stealbrainrot.html",
+        "https://github.com/kokellara12-maker/apps-k4m9q2/blob/main/bunker.html",
+        "https://github.com/kokellara12-maker/apps-k4m9q2/blob/main/casa.html",
+        "https://github.com/kokellara12-maker/apps-k4m9q2/blob/main/vecina.html",
+        "https://github.com/kokellara12-maker/apps-k4m9q2/blob/main/cuarto.html",
+        "https://github.com/kokellara12-maker/apps-k4m9q2/blob/main/noche.html",
+        "https://github.com/kokellara12-maker/apps-k4m9q2/blob/main/hermana.html"
+      ],
+      "model_family": [
+        "Claude Sonnet 5.5"
+      ]
+    },
+    {
+      "name": "SELF PLAY",
+      "github_url": "https://github.com/4waiz/self-play",
+      "repository_id": 1404273531,
+      "repository_created_at": "2026-10-04T11:05:06Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/4waiz/self-play/commit/bca0e6442664508f061d9c775a895abe1171eb53",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/4waiz/self-play/blob/bca0e6442664508f061d9c775a895abe1171eb53/index.html",
+        "https://github.com/4waiz/self-play/blob/bca0e6442664508f061d9c775a895abe1171eb53/src/main.js",
+        "https://github.com/4waiz/self-play/blob/bca0e6442664508f061d9c775a895abe1171eb53/src/brain.js",
+        "https://github.com/4waiz/self-play/blob/bca0e6442664508f061d9c775a895abe1171eb53/src/nn.js"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ]
+    },
+    {
+      "name": "Mana Wars",
+      "github_url": "https://github.com/IHackedKmart/Mana-Wars",
+      "repository_id": 1402612363,
+      "repository_created_at": "2026-10-03T03:29:19Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/IHackedKmart/Mana-Wars/commit/e74f24a5ea685c2a1430efae41be592d5fb901ea",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/IHackedKmart/Mana-Wars/blob/e74f24a5ea685c2a1430efae41be592d5fb901ea/default.project.json",
+        "https://github.com/IHackedKmart/Mana-Wars/blob/e74f24a5ea685c2a1430efae41be592d5fb901ea/build/ManaWars.rbxlx",
+        "https://github.com/IHackedKmart/Mana-Wars/blob/e74f24a5ea685c2a1430efae41be592d5fb901ea/src/server/Services/MatchService.lua",
+        "https://github.com/IHackedKmart/Mana-Wars/blob/e74f24a5ea685c2a1430efae41be592d5fb901ea/src/server/Services/SpellExecutor.lua",
+        "https://github.com/IHackedKmart/Mana-Wars/blob/e74f24a5ea685c2a1430efae41be592d5fb901ea/src/client/init.client.lua"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ]
+    },
+    {
+      "name": "Fishery",
+      "github_url": "https://github.com/blackout-rain/application-development",
+      "repository_id": 1404164891,
+      "repository_created_at": "2026-10-04T08:53:57Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/blackout-rain/application-development/commit/dc674b41a13e5fe021f17e9dc8448973ec86f61a",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/blackout-rain/application-development/blob/claude/gracious-rubin-gl8amj/fishery-game/index.html"
+      ],
+      "model_family": [
+        "Claude Sonnet 5.5"
+      ]
+    },
+    {
+      "name": "Space Attack",
+      "github_url": "https://github.com/vannorman/space_attack",
+      "repository_id": 1402579375,
+      "repository_created_at": "2026-10-03T02:51:01Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/vannorman/space_attack/blob/main/README.md",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/vannorman/space_attack/blob/main/index.html",
+        "https://github.com/vannorman/space_attack/blob/main/game.js"
+      ],
+      "model_family": [
+        "GPT-6.1 Sol"
+      ]
+    },
+    {
+      "name": "ORBITAL — 星環機関",
+      "github_url": "https://github.com/SunnyWell81-ai-generated/orbital-game",
+      "repository_id": 1402571142,
+      "repository_created_at": "2026-10-03T02:39:37Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/SunnyWell81-ai-generated/orbital-game/blob/main/README.md",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/SunnyWell81-ai-generated/orbital-game/blob/main/index.html",
+        "https://github.com/SunnyWell81-ai-generated/orbital-game/blob/main/js/main.js",
+        "https://github.com/SunnyWell81-ai-generated/orbital-game/blob/main/js/economy.js",
+        "https://github.com/SunnyWell81-ai-generated/orbital-game/blob/main/js/state.js",
+        "https://github.com/SunnyWell81-ai-generated/orbital-game/blob/main/js/ui.js"
+      ],
+      "model_family": [
+        "GPT-6.1 Sol"
+      ]
+    },
+    {
+      "name": "Odyssey of the Living Cap",
+      "github_url": "https://github.com/SathiyabalanSengodan/autogen-odyssey-game-studio",
+      "repository_id": 1402532417,
+      "repository_created_at": "2026-10-03T01:49:59Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/SathiyabalanSengodan/autogen-odyssey-game-studio/blob/main/README.md",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/SathiyabalanSengodan/autogen-odyssey-game-studio/blob/main/coding/odyssey.py",
+        "https://github.com/SathiyabalanSengodan/autogen-odyssey-game-studio/blob/main/README.md"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ]
+    }
+  ]
+}

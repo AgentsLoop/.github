@@ -1,5 +1,26 @@
 # Search experiments
 
+## Two-day game-hub and model-commit pass — 2026-10-04
+
+- Search October 3–4 in `Asia/Ho_Chi_Minh`; bound the UTC interval to `2026-10-02T17:00:00Z` through the captured research cutoff `2026-10-04T12:54:00Z`.
+- Run broad recent-game repository searches and exact model-attributed commit searches sequentially. Save capped search receipts and candidate metadata under [the research directory](../research/2026-10-04-two-day/); treat 100-result partitions as incomplete.
+- Follow fresh app hubs past their landing page. Read the first-party `apps.json`, `games.json`, or route index; map each game entry to its own source page, then inspect input, state changes, and scoring, progression, or a win/loss outcome.
+- Verify model authorship at the game-addition commit. Inspect every contained game's initial commit or shared batch commit for the exact model trailer; do not infer game authorship from a repository name or a later unrelated media commit.
+- Keep one dataset record per repository. Set `counted_game_units`, `contained_games`, `contained_game_links`, and `live_demo_urls` to the verified game units; make the repository/game distinction visible in the batch report.
+- Use repository creation as a freshness proxy when no exact public game-creation date exists. Check every accepted source commit against the local date window, and reject commits outside the captured cutoff.
+- Test public route availability serially and record HTTP status without calling it a playtest. Do not claim 25 successful playthroughs because two hub routes returned HTTP 200.
+- Count 31 verified game units across 7 repositories: 25 Sonnet 5.5 games in one app hub; 1 Sonnet 5.5 fishing game; 3 Opus 5.5 games; and 2 GPT-6.1 Sol games. Keep GPT-6.1 Sol separate from GPT-6 Astra.
+- Exclude the app hub's physics lab for lacking a player objective and its Benalmádena game because its addition commit landed after the cutoff. Exclude `Kickoffy` because all 50 pages said “Coming soon”; exclude `Golem` because it is an asset/physics demo without a game loop; keep browser reimplementations of preserved original engines in the separate browser-port catalog.
+- Validate [the batch](../research/2026-10-04-two-day/game-batch.json) against `games.json`, run `node scripts/validate-games.mjs`, and generate per-game notes from the same source.
+
+### Critique
+
+Score this method 8.7/10 for source quality and yield. A single app manifest exposed 25 independently scoped games and commit trailers supplied direct Sonnet attribution, but repository counts understate game totals and the broad GitHub searches were capped. Treat this as a successful discovery route, not an exhaustive census; no full playthrough covered the hub.
+
+### Next experiment
+
+Search recent manifests and route lists in fresh multi-game repositories. Use exact game-addition commit links to verify attribution and freshness. Add a validator check that every explicitly mapped contained game has one direct source link, and preserve each hub's counted game list and exclusions.
+
 ## Two-day Sonnet/Sol expansion — 2026-09-30
 
 - Preserve September 29–30 in Asia/Ho_Chi_Minh; accept 30 game units from 29 source repositories without widening the window. Use all repository creation timestamps as proxies, not proven game creation dates.

@@ -34,6 +34,15 @@ for (const entry of batch.records) {
     assert.equal(new URL(url).protocol, 'https:', `${record.name}: invalid evidence URL`);
   }
   assert(Number.isInteger(record.counted_game_units) && record.counted_game_units > 0);
+  if (record.contained_game_links !== undefined) {
+    assert.equal(record.contained_game_links.length, record.counted_game_units,
+      `${record.name}: one direct source link is required per counted game`);
+    assert.equal(new Set(record.contained_game_links).size, record.counted_game_units,
+      `${record.name}: duplicate contained-game source link`);
+    for (const url of record.contained_game_links) {
+      assert.equal(new URL(url).protocol, 'https:', `${record.name}: invalid contained-game source URL`);
+    }
+  }
   units += record.counted_game_units;
 }
 assert.equal(units, batch.expected_game_units);

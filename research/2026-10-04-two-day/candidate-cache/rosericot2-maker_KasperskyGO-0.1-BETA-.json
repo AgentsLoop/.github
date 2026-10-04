@@ -1,0 +1,11 @@
+{
+  "repo": "rosericot2-maker/KasperskyGO-0.1-BETA-",
+  "created_at": "2026-10-03T22:52:38Z",
+  "pushed_at": "2026-10-04T12:39:09Z",
+  "description": "A arcade game in SDL (Simple DirectMedia Layers) — defend against falling sanction blocks.",
+  "homepage": "kgo.com",
+  "default_branch": "main",
+  "language": null,
+  "readme": "# KasperskyGO 0.1 (beta)\nAn arcade game in SDL (Simple DirectMedia Layer) — defend against falling sanction blocks.\n__________________________\nWARN: This game is BETA ",
+  "commits": []
+}

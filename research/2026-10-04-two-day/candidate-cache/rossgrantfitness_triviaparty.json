@@ -1,0 +1,11 @@
+{
+  "repo": "rossgrantfitness/triviaparty",
+  "created_at": "2026-10-04T11:23:52Z",
+  "pushed_at": "2026-10-04T12:55:03Z",
+  "description": null,
+  "homepage": null,
+  "default_branch": "claude/vibrant-wright-ddb63o",
+  "language": "GDScript",
+  "readme": "# Trivia Party (working title)\n\nA high-stakes party trivia game for Steam. Players join from their phones; the\nGodot host runs on the TV. See `docs/MANIFEST.md` for the full plan and\n`docs/PROGRESS.md` for where things stand.\n\n## Quick start\n\nYou need [Node.js](https://nodejs.org/) 22 or newer and [Godot](https://godotengine.org/download) 4.7 (standard build).\n\n```sh\nnpm install      # once\nnpm run dev      # starts the server, the phone page, and the Godot host window\n```\n\n- Godot window: shows \"Trivia Party\" and **Connected to server**.\n- Phone page: open http://localhost:5173 on this computer, or `http://<this computer's IP>:5173`\n  on a phone on the same Wi-Fi (the IP is printed in the terminal as \"Network\"). It also says **Connected to server**.\n\nIf Godot isn't found, create a file named `.godot-path` in this folder containing the\nfull path to the Godot program (e.g. `C:\\Users\\you\\Godot\\Godot_v4.7.2-stable_win64.exe`).\n\n## Playing a test game\n\n1. `npm run dev`. The TV window shows a room code and an address like `http://192.168.1.20:5173`.\n2. On your phone (same Wi-Fi), open that address, type the code and your name, pick an animal, tap **Join**.\n3. No friends handy? In a second terminal: `npm run bots -- ABCD 5` (use the code on the TV).\n4. Press **Enter** (or click **Start game**) on the TV.\n\nTV keys: **Enter** start / play again · **Space** pause · **N** skip ahead · **Tab** players (remove someone) · **F11** fullscreen.\n\nTweak timers and points in `host/config/game_rules.json`, then restart.\n\n## Tests\n\n```sh\nnpm test            # TypeScript tests\nnpm run test:host   # Godot tests (headless)\nnpm run typecheck\n```",
+  "commits": []
+}

@@ -1,6 +1,6 @@
 # Top Games This Week
 
-> Rank source-verified games with a creation signal in the last seven calendar days, **2026-09-24–2026-09-30** (Asia/Ho_Chi_Minh). Label repository creation as a proxy when no creator-reported game-creation date exists; exclude older creation dates even when gameplay evidence is recent.
+> Rank source-verified games with a creation signal in the last seven calendar days, **2026-09-28–2026-10-04** (Asia/Ho_Chi_Minh). Label repository creation as a proxy when no creator-reported game-creation date exists; exclude older creation dates even when gameplay evidence is recent.
 
 ## Coverage
 
@@ -12,16 +12,16 @@
 
 | Rank | Game | Score | Date basis | Model | Technology | Links |
 | ---: | --- | ---: | --- | --- | --- | --- |
-| 1 | **Barista Shift** | ⭐ **9.5** | 2026-09-24 · repository_creation_proxy | Claude Opus 5.5 | JavaScript, HTML, Three.js, WebGL, Browser | [source](https://github.com/swan4er/opus-100-projects/blob/main/103-barista-shift/index.html) · [evidence](https://github.com/swan4er/opus-100-projects) · [play](https://swan4er.github.io/opus-100-projects/103-barista-shift/) |
-| 2 | **The Hourglass City** | ⭐ **9.1** | 2026-09-25 · repository_creation_proxy | Claude Opus 5.5 | JavaScript, Canvas 2D, Browser | [source](https://github.com/Odiriuss/PixelArtGameOpus/blob/main/hourglass_city.html) · [evidence](https://github.com/Odiriuss/PixelArtGameOpus) · [play](https://odiriuss.github.io/PixelArtGameOpus/hourglass_city.html) |
-| 3 | **Ashes of Aether — Act I: The Unravelling** | ⭐ **9.1** | 2026-09-24 · repository_creation_proxy | Claude Opus 5.5 | Python, JavaScript, Three.js, HTML/CSS, Browser | [source](https://github.com/0xPatrickMartin/AshesOfAether/blob/main/ashes/engine/game.py) · [evidence](https://github.com/0xPatrickMartin/AshesOfAether) |
-| 4 | **Fall Line** | ⭐ **9.0** | 2026-09-24 · repository_creation_proxy | Claude Opus 5.5 | Three.js, JavaScript, WebGL, Browser | [source](https://github.com/Nipale-ai/opus-5-5-overnight-builds/blob/main/fall-line/index.html) · [evidence](https://github.com/Nipale-ai/opus-5-5-overnight-builds) · [play](https://nipale-ai.github.io/opus-5-5-overnight-builds/fall-line/) |
-| 5 | **Long Wind** | ⭐ **9.0** | 2026-09-26 · repository_creation_proxy | Claude Opus 5.5 | Three.js, JavaScript, WebGL, Browser | [source](https://github.com/jbang2004/long-wind/blob/main/src/game/game.js) · [evidence](https://github.com/jbang2004/long-wind) · [play](https://jbang2004.github.io/long-wind/) |
-| 6 | **QQ Speed** | ⭐ **9.0** | 2026-09-25 · repository_creation_proxy | Claude Opus 5.5 | Three.js, JavaScript, WebGL, Browser | [source](https://github.com/xiiyioozzz/opus55-3d-games/blob/main/qq-speed/src/main.js) · [evidence](https://github.com/xiiyioozzz/opus55-3d-games) · [play](https://games.xdullboy.com/qq-speed/) |
-| 7 | **Ponpoko Kart** | ⭐ **8.8** | 2026-09-26 · repository_creation_proxy | Claude Opus 5.5 | Three.js, JavaScript, WebGL, Browser | [source](https://github.com/tanuu5/ponpoko-kart/blob/main/src/main.js) · [evidence](https://github.com/tanuu5/ponpoko-kart) · [play](https://tanuu5.github.io/ponpoko-kart/) |
-| 8 | **Dead Signal: Exclusion Zone** | ⭐ **8.7** | 2026-09-29 · repository_creation_proxy | Claude Sonnet 5.5 | Three.js, TypeScript, Vite, Vitest | [source](https://github.com/bridge-mind/sonnet-5-5-zombies-game/blob/9294d67a8548cb851acfd1a5aafdc6d68b008ee4/src/main.ts) · [evidence](https://github.com/bridge-mind/sonnet-5-5-zombies-game) |
-| 9 | **Wreckyard** | ⭐ **8.7** | 2026-09-29 · repository_creation_proxy | Claude Sonnet 5.5 | Three.js, TypeScript, Vite, Node.js, WebSocket | [source](https://github.com/guiguito/DestructionDerbySonnet/blob/a69c209c707e800efc210d2e4cb21242b3d8069b/src/server/round.ts) · [evidence](https://github.com/guiguito/DestructionDerbySonnet) |
-| 10 | **Nova Lancer** | ⭐ **8.7** | 2026-09-24 · repository_creation_proxy | Claude Opus 5.5 | Three.js, JavaScript, WebGL, Browser | [source](https://github.com/tanuu5/nova-lancer/blob/main/src/main.js) · [evidence](https://github.com/tanuu5/nova-lancer) · [play](https://tanuu5.github.io/nova-lancer/) |
+| 1 | **Dead Signal: Exclusion Zone** | ⭐ **8.7** | 2026-09-29 · repository_creation_proxy | Claude Sonnet 5.5 | Three.js, TypeScript, Vite, Vitest | [source](https://github.com/bridge-mind/sonnet-5-5-zombies-game/blob/9294d67a8548cb851acfd1a5aafdc6d68b008ee4/src/main.ts) · [evidence](https://github.com/bridge-mind/sonnet-5-5-zombies-game) |
+| 2 | **Wreckyard** | ⭐ **8.7** | 2026-09-29 · repository_creation_proxy | Claude Sonnet 5.5 | Three.js, TypeScript, Vite, Node.js, WebSocket | [source](https://github.com/guiguito/DestructionDerbySonnet/blob/a69c209c707e800efc210d2e4cb21242b3d8069b/src/server/round.ts) · [evidence](https://github.com/guiguito/DestructionDerbySonnet) |
+| 3 | **Last Courier** | ⭐ **8.6** | 2026-09-30 · repository_creation_proxy | Claude Opus 5.5 | Three.js, JavaScript, Web Audio | [source](https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/index.html) · [evidence](https://github.com/tanuu5/last-courier) · [play](https://tanuu5.github.io/last-courier/) |
+| 4 | **Outpace** | ⭐ **8.6** | 2026-09-30 · repository_creation_proxy | Claude Opus 5.5, Claude Sonnet 5.5 | JavaScript, Canvas 2D, Node.js | [source](https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/public/index.html) · [evidence](https://github.com/ethanplusai/outpace) · [play](https://outpace.ethanplus.ai/) |
+| 5 | **Open Backrooms** | ⭐ **8.5** | 2026-09-30 · repository_creation_proxy | Claude Opus 5.5 | Three.js, TypeScript, Vite, WebSocket | [source](https://github.com/awn3x/Open-Backrooms/blob/15c7a727dd37133c8a95b5abe50769a656abb934/src/game/main.ts) · [evidence](https://github.com/awn3x/Open-Backrooms) · [play](https://awn3x.github.io/Open-Backrooms/) |
+| 6 | **Putt Quest — Adventure Mini Golf** | ⭐ **8.5** | 2026-09-30 · repository_creation_proxy | Claude Opus 5.5 | Three.js, JavaScript, Vite, Web Audio | [source](https://github.com/leonvanzyl/3d-golf-sonnet/blob/1ac26b49faa4686236c46128550fd32f2ea357a7/src/main.js) · [evidence](https://github.com/leonvanzyl/3d-golf-sonnet) · [play](https://3d-golf-sonnet.vercel.app/) |
+| 7 | **Gloaming Vale** | ⭐ **8.5** | 2026-09-30 · repository_creation_proxy | Claude Sonnet 5.5 | Three.js, JavaScript, Vite, Web Audio | [source](https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/src/main.js) · [evidence](https://github.com/juan504n/spyro-game) |
+| 8 | **NPC Village** | ⭐ **8.5** | 2026-09-30 · repository_creation_proxy | Claude Opus 5.5 | Godot 4.7, GDScript, Native desktop | [source](https://github.com/LJAguil/Npc-Village/blob/3dbbe7348c5abf69c2a1846d3f3cc3d7352f74e3/project.godot) · [evidence](https://github.com/LJAguil/Npc-Village) |
+| 9 | **Dynamite Mole** | ⭐ **8.5** | 2026-09-29 · repository_creation_proxy | Claude Sonnet 5.5 | JavaScript, Canvas 2D, Web Audio | [source](https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples/blob/29197247452de992b69b161bf258f02b2ab9ada5/games/dynamite-mole/impl/max/dist/js/game.js) · [evidence](https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples) · [play](https://daikikobayashi.github.io/sonnet-5-5-web-game-samples/games/dynamite-mole/max/) |
+| 10 | **Elden Kart** | ⭐ **8.5** | 2026-09-30 · repository_creation_proxy | Claude Sonnet 5.5 | Three.js, JavaScript, Vite, Web Audio | [source](https://github.com/Manoz/elden-kart/blob/17d7212e143c88a47bc0e2d396d7247b4a8e033d/src/main.js) · [evidence](https://github.com/Manoz/elden-kart) · [play](https://elden-kart.vercel.app/) |
 
 
 ## Date policy
@@ -31,5 +31,5 @@
 - Exclude entries outside the seven-day window or without either creation signal.
 - Keep this report generated; do not edit it manually.
 
-Period: **2026-09-24 through 2026-09-30**
-As of: **2026-09-30**
+Period: **2026-09-28 through 2026-10-04**
+As of: **2026-10-04**

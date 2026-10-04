@@ -1,0 +1,1015 @@
+{
+  "timezone": "Asia/Ho_Chi_Minh",
+  "window_start": "2026-10-03",
+  "window_end": "2026-10-04",
+  "queries": [
+    {
+      "query": "\"Claude Sonnet 5.5\" game committer-date:2026-10-02..2026-10-04",
+      "received": 100,
+      "possibly_capped": true
+    },
+    {
+      "query": "\"GPT-6.1\" game committer-date:2026-10-02..2026-10-04",
+      "received": 100,
+      "possibly_capped": true
+    }
+  ],
+  "candidates": [
+    {
+      "repository_hint": "SkeeveAN/Aion-DPS-Meter",
+      "discovery_sources": [
+        "https://github.com/SkeeveAN/Aion-DPS-Meter/commit/68eabea18180ab48065e796ebbcca6b27c0831d5",
+        "https://github.com/SkeeveAN/Aion-DPS-Meter/commit/a18df462d00a1ba68ad27143ae7306186fb695c9",
+        "https://github.com/SkeeveAN/Aion-DPS-Meter/commit/492fa72391700aa729ea98c22e0689b49cc1eb17",
+        "https://github.com/SkeeveAN/Aion-DPS-Meter/commit/7d28d8e8afcf942e62206bc80b5b1f9b98d890da"
+      ],
+      "repository_id": 1343867391,
+      "github_url": "https://github.com/SkeeveAN/Aion-DPS-Meter",
+      "repository_created_at": "2026-08-23T14:38:53Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "peachycream/football_db_v2",
+      "discovery_sources": [
+        "https://github.com/peachycream/football_db_v2/commit/9d2cfd0e49b767239fbef61acee6837ce6c0ed8d"
+      ],
+      "repository_id": 1389575458,
+      "github_url": "https://github.com/peachycream/football_db_v2",
+      "repository_created_at": "2026-09-26T17:22:06Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "stasHrytsko/stazzi",
+      "discovery_sources": [
+        "https://github.com/stasHrytsko/stazzi/commit/9190055b3628d6553b3381d70e7d005aa575a63f",
+        "https://github.com/stasHrytsko/stazzi/commit/973940a5d6bb0b4b476d5fc0a49fe1460c346a41"
+      ],
+      "repository_id": 1384087709,
+      "github_url": "https://github.com/stasHrytsko/stazzi",
+      "repository_created_at": "2026-09-23T19:24:28Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "Wnt/kernel-hive",
+      "discovery_sources": [
+        "https://github.com/Wnt/kernel-hive/commit/8bf45bc56e513527072da33f3816f3b1384f7991"
+      ],
+      "repository_id": 1326554263,
+      "github_url": "https://github.com/Wnt/kernel-hive",
+      "repository_created_at": "2026-08-07T10:53:25Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "blackout-rain/application-development",
+      "discovery_sources": [
+        "https://github.com/blackout-rain/application-development/commit/edcadc995e03a4184f8b18d9c174fa55b93a7a6b",
+        "https://github.com/blackout-rain/application-development/commit/65487a026da6954b12663bdf30d579d7cff1a87b",
+        "https://github.com/blackout-rain/application-development/commit/04451833725c5b0b0e4276f1f683641832ff7456"
+      ],
+      "repository_id": 1404164891,
+      "github_url": "https://github.com/blackout-rain/application-development",
+      "repository_created_at": "2026-10-04T08:53:57Z",
+      "status": "inspect_source_and_attribution"
+    },
+    {
+      "repository_hint": "yarross/DataOpen",
+      "discovery_sources": [
+        "https://github.com/yarross/DataOpen/commit/184f0271b09b48b3329e0129eda4543c60fd0c9f",
+        "https://github.com/yarross/DataOpen/commit/fae0fdaa545f0b1bfdb7a586db498db1bfa404f3",
+        "https://github.com/yarross/DataOpen/commit/650ebf28fc23f52b33eefb2b1e18203bc6a13563",
+        "https://github.com/yarross/DataOpen/commit/1f9ee029438dad106044ac9bc2f7609bad2aaaa4",
+        "https://github.com/yarross/DataOpen/commit/8bc0988966313bd501f7f00f8607b7545114a0d7",
+        "https://github.com/yarross/DataOpen/commit/db44ab5d7ef2dc25ce6c6d64adc863b758b0990e"
+      ],
+      "repository_id": 1404245729,
+      "github_url": "https://github.com/yarross/DataOpen",
+      "repository_created_at": "2026-10-04T10:28:59Z",
+      "status": "inspect_source_and_attribution"
+    },
+    {
+      "repository_hint": "azikfail/Escape-From-Ilnur",
+      "discovery_sources": [
+        "https://github.com/azikfail/Escape-From-Ilnur/commit/13bea9260cc54f85ca6df915a663e419d6e21443"
+      ],
+      "repository_id": 1404359819,
+      "github_url": "https://github.com/azikfail/Escape-From-Ilnur",
+      "repository_created_at": "2026-10-04T12:16:44Z",
+      "status": "inspect_source_and_attribution"
+    },
+    {
+      "repository_hint": "zinx110/turftab",
+      "discovery_sources": [
+        "https://github.com/zinx110/turftab/commit/3cfdeb8434c3409e1a2169a4c3bcb0e9729c99a9"
+      ],
+      "repository_id": 1404363250,
+      "github_url": "https://github.com/zinx110/turftab",
+      "repository_created_at": "2026-10-04T12:20:14Z",
+      "status": "inspect_source_and_attribution"
+    },
+    {
+      "repository_hint": "diegobrego/BoardGameNight",
+      "discovery_sources": [
+        "https://github.com/diegobrego/BoardGameNight/commit/940d9c64e609f22a36ea0eb4fe8feff2e57a3a0b",
+        "https://github.com/diegobrego/BoardGameNight/commit/6412eb20eae201325abe7a689a6b0e8d3bce81c4"
+      ],
+      "repository_id": 1404013518,
+      "github_url": "https://github.com/diegobrego/BoardGameNight",
+      "repository_created_at": "2026-10-04T06:31:03Z",
+      "status": "inspect_source_and_attribution"
+    },
+    {
+      "repository_hint": "fainta7x/Newmafiabot",
+      "discovery_sources": [
+        "https://github.com/fainta7x/Newmafiabot/commit/e8694b5a0394764807e720825b6851df66c20a26",
+        "https://github.com/fainta7x/Newmafiabot/commit/f4949ddde7f35099548ed00b4755fcae5a3316e7"
+      ],
+      "repository_id": 1303099124,
+      "github_url": "https://github.com/fainta7x/Newmafiabot",
+      "repository_created_at": "2026-07-16T18:06:47Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "ckopp22/Turtle-Tides",
+      "discovery_sources": [
+        "https://github.com/ckopp22/Turtle-Tides/commit/22dd98483819501c0ac65d7ddf9f8dfc0cdb1b72"
+      ],
+      "repository_id": 1381444602,
+      "github_url": "https://github.com/ckopp22/Turtle-Tides",
+      "repository_created_at": "2026-09-22T12:13:15Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "mrrickyspanish/lnls-rebuild",
+      "discovery_sources": [
+        "https://github.com/mrrickyspanish/lnls-rebuild/commit/a09d4060889a87dcec5ff315635232a424e30e43"
+      ],
+      "repository_id": 1085363600,
+      "github_url": "https://github.com/mrrickyspanish/lnls-rebuild",
+      "repository_created_at": "2025-10-29T00:02:56Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "MCOJulaton/MICE-English-Learning-Hub",
+      "discovery_sources": [
+        "https://github.com/MCOJulaton/MICE-English-Learning-Hub/commit/2d141c3f60de2aaf77a1056b2ad6709b0854142b"
+      ],
+      "repository_id": 1337457284,
+      "github_url": "https://github.com/MCOJulaton/MICE-English-Learning-Hub",
+      "repository_created_at": "2026-08-17T17:34:49Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "piotr-zloch/eurovolley-bracket",
+      "discovery_sources": [
+        "https://github.com/piotr-zloch/eurovolley-bracket/commit/b74327b441f0e05b355d00f3c9e1d1bfc2893097"
+      ],
+      "repository_id": 1350488409,
+      "github_url": "https://github.com/piotr-zloch/eurovolley-bracket",
+      "repository_created_at": "2026-08-29T10:25:48Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "DatJikun/paddock-principal",
+      "discovery_sources": [
+        "https://github.com/DatJikun/paddock-principal/commit/fe7893fe94b2256420d5d0f51ac3a72769130cfb"
+      ],
+      "repository_id": 1387768826,
+      "github_url": "https://github.com/DatJikun/paddock-principal",
+      "repository_created_at": "2026-09-25T15:24:07Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "Minamium/Convergence-Mod",
+      "discovery_sources": [
+        "https://github.com/Minamium/Convergence-Mod/commit/35e3dcce41cea908e4a906e7f3b96a8d9024d0f1"
+      ],
+      "repository_id": 1343676803,
+      "github_url": "https://github.com/Minamium/Convergence-Mod",
+      "repository_created_at": "2026-08-23T11:06:39Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "takashi145/chess-sandbox",
+      "discovery_sources": [
+        "https://github.com/takashi145/chess-sandbox/commit/7c8271f67ba659000e6afbf9969502a4b4a0e5ee",
+        "https://github.com/takashi145/chess-sandbox/commit/c66f800a28419cf9c14a1a2380576450c77e1dc9"
+      ],
+      "repository_id": 1402547764,
+      "github_url": "https://github.com/takashi145/chess-sandbox",
+      "repository_created_at": "2026-10-03T02:11:58Z",
+      "status": "inspect_source_and_attribution"
+    },
+    {
+      "repository_hint": "vgroenhuis/LynXP",
+      "discovery_sources": [
+        "https://github.com/vgroenhuis/LynXP/commit/9c46b309b1776e4c73f7208b07245fdeea74ad8a"
+      ],
+      "repository_id": 1353696203,
+      "github_url": "https://github.com/vgroenhuis/LynXP",
+      "repository_created_at": "2026-09-01T14:56:00Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "JacobDSiler/math-adventure",
+      "discovery_sources": [
+        "https://github.com/JacobDSiler/math-adventure/commit/5b30fd1b3fe3e3a7c631e7fd54e22a42e766a27d",
+        "https://github.com/JacobDSiler/math-adventure/commit/b13c324f5c2eef22eb0f013f487d4be8adb17bf6"
+      ],
+      "repository_id": 1163644328,
+      "github_url": "https://github.com/JacobDSiler/math-adventure",
+      "repository_created_at": "2026-02-21T23:33:21Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "serhatBilal/serhatBilal.github.io",
+      "discovery_sources": [
+        "https://github.com/serhatBilal/serhatBilal.github.io/commit/02a5652ccbcc2cfc16f409d6ca0ba4fabe5d878e"
+      ],
+      "repository_id": 1224736757,
+      "github_url": "https://github.com/serhatBilal/serhatBilal.github.io",
+      "repository_created_at": "2026-04-29T15:19:11Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "robertpotau/robertpotau.github.io",
+      "discovery_sources": [
+        "https://github.com/robertpotau/robertpotau.github.io/commit/3a7ceaa248b7029a5d5d3ffb6f73473f5df16fe5",
+        "https://github.com/robertpotau/robertpotau.github.io/commit/359cce6417ae82bf52055c93e39086a4b2ae47fa",
+        "https://github.com/robertpotau/robertpotau.github.io/commit/ef8e96753b3d5d4afed64e2951f87d27d1c5bb48"
+      ],
+      "repository_id": 1288711935,
+      "github_url": "https://github.com/robertpotau/robertpotau.github.io",
+      "repository_created_at": "2026-07-03T22:17:24Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "KudbeeZero/Devbiz",
+      "discovery_sources": [
+        "https://github.com/KudbeeZero/Devbiz/commit/72b3318380f21c0ab22e58492891852e3c4313d7"
+      ],
+      "repository_id": 1246064456,
+      "github_url": "https://github.com/KudbeeZero/Devbiz",
+      "repository_created_at": "2026-05-21T20:51:16Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "kokellara12-maker/apps-k4m9q2",
+      "discovery_sources": [
+        "https://github.com/kokellara12-maker/apps-k4m9q2/commit/057c295429815e0b09037a81db524b6071c4c274"
+      ],
+      "repository_id": 1402881772,
+      "github_url": "https://github.com/kokellara12-maker/apps-k4m9q2",
+      "repository_created_at": "2026-10-03T08:22:54Z",
+      "status": "inspect_source_and_attribution"
+    },
+    {
+      "repository_hint": "yares28/Sofix",
+      "discovery_sources": [
+        "https://github.com/yares28/Sofix/commit/9b12563750c20328fae499cb403bd008fc002d8b"
+      ],
+      "repository_id": 1379686427,
+      "github_url": "https://github.com/yares28/Sofix",
+      "repository_created_at": "2026-09-21T12:22:57Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "kkotsop/BasketballSchedule",
+      "discovery_sources": [
+        "https://github.com/kkotsop/BasketballSchedule/commit/22e692852fb7db27fb952cc0e88c89c2474a6ddf"
+      ],
+      "repository_id": 1398524869,
+      "github_url": "https://github.com/kkotsop/BasketballSchedule",
+      "repository_created_at": "2026-09-30T17:25:52Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "alimuqeem/esp32-chess-timer",
+      "discovery_sources": [
+        "https://github.com/alimuqeem/esp32-chess-timer/commit/c42ef447f8fcb956e920c3cbd012e98e6ebefdfa"
+      ],
+      "repository_id": 1404323152,
+      "github_url": "https://github.com/alimuqeem/esp32-chess-timer",
+      "repository_created_at": "2026-10-04T11:43:29Z",
+      "status": "inspect_source_and_attribution"
+    },
+    {
+      "repository_hint": "sultanmaliki/portfolio",
+      "discovery_sources": [
+        "https://github.com/sultanmaliki/portfolio/commit/1224e6bc65d814e1c93a81342be5b4e13d4bde41"
+      ],
+      "repository_id": 1314937506,
+      "github_url": "https://github.com/sultanmaliki/portfolio",
+      "repository_created_at": "2026-07-28T12:11:17Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "thorOdinson16/multiplayer-infra",
+      "discovery_sources": [
+        "https://github.com/thorOdinson16/multiplayer-infra/commit/b065952f67aa536e21c70b96a8a94f1e1c6fbe67",
+        "https://github.com/thorOdinson16/multiplayer-infra/commit/e6c8a1fc7e7f9492120981138b09ec2b3a1fa6f4"
+      ],
+      "repository_id": 1254225315,
+      "github_url": "https://github.com/thorOdinson16/multiplayer-infra",
+      "repository_created_at": "2026-05-30T09:48:26Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "autobleem2/autobleem",
+      "discovery_sources": [
+        "https://github.com/autobleem2/autobleem/commit/38e3257c3967092405f28566e35af31c7456d7c8"
+      ],
+      "repository_id": 1376462185,
+      "github_url": "https://github.com/autobleem2/autobleem",
+      "repository_created_at": "2026-09-18T21:45:17Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "autobleem2/autobleem-core",
+      "discovery_sources": [
+        "https://github.com/autobleem2/autobleem-core/commit/0dab37d6428a62b60d9ee544fed16153ed97c221"
+      ],
+      "repository_id": 1382409836,
+      "github_url": "https://github.com/autobleem2/autobleem-core",
+      "repository_created_at": "2026-09-22T22:09:17Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "NizarAbuahmad/Iqraa",
+      "discovery_sources": [
+        "https://github.com/NizarAbuahmad/Iqraa/commit/537a0f6fa8185ac22502fb9c5b1eed2b6676d964"
+      ],
+      "repository_id": 1318751293,
+      "github_url": "https://github.com/NizarAbuahmad/Iqraa",
+      "repository_created_at": "2026-07-31T21:06:57Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "hm1061998/the-lexicon-files-game",
+      "discovery_sources": [
+        "https://github.com/hm1061998/the-lexicon-files-game/commit/1e084890a9ad0dc8b8b7c7a3ad569d07675ad457",
+        "https://github.com/hm1061998/the-lexicon-files-game/commit/e5e7bcad7e5cdcc581d36aee4ed14ece4aac35b6"
+      ],
+      "repository_id": 1390990626,
+      "github_url": "https://github.com/hm1061998/the-lexicon-files-game",
+      "repository_created_at": "2026-09-27T14:55:54Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "WxstedGOTY/reminth-launcher",
+      "discovery_sources": [
+        "https://github.com/WxstedGOTY/reminth-launcher/commit/3a8be0c70928b4f8f445a8a280bb96f767fb8355",
+        "https://github.com/WxstedGOTY/reminth-launcher/commit/fe786168e77460cdd30687bcb44b4d15aab16c81"
+      ],
+      "repository_id": 1377031028,
+      "github_url": "https://github.com/WxstedGOTY/reminth-launcher",
+      "repository_created_at": "2026-09-19T10:37:58Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "pondkung444/quizmon",
+      "discovery_sources": [
+        "https://github.com/pondkung444/quizmon/commit/b0491d5341e31bda41d88c62b2631fe5d92a00ec"
+      ],
+      "repository_id": 1293106345,
+      "github_url": "https://github.com/pondkung444/quizmon",
+      "repository_created_at": "2026-07-08T05:39:16Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "slowikowskiarkadiusz/catan-noter",
+      "discovery_sources": [
+        "https://github.com/slowikowskiarkadiusz/catan-noter/commit/169cee2e24a8dbaf54a18ef2d91fdc82b0ca4b40",
+        "https://github.com/slowikowskiarkadiusz/catan-noter/commit/68b5c3d08629c9e9fe6a97c241a956f9586572d9"
+      ],
+      "repository_id": 1403554237,
+      "github_url": "https://github.com/slowikowskiarkadiusz/catan-noter",
+      "repository_created_at": "2026-10-03T19:10:06Z",
+      "status": "inspect_source_and_attribution"
+    },
+    {
+      "repository_hint": "fidgetrope/chess-ai",
+      "discovery_sources": [
+        "https://github.com/fidgetrope/chess-ai/commit/7322d2fe163c2ed88c7432e5fa35959086c2a22b"
+      ],
+      "repository_id": 1404307113,
+      "github_url": "https://github.com/fidgetrope/chess-ai",
+      "repository_created_at": "2026-10-04T11:31:27Z",
+      "status": "inspect_source_and_attribution"
+    },
+    {
+      "repository_hint": "shivvrudra-cmd/beatmy11.com",
+      "discovery_sources": [
+        "https://github.com/shivvrudra-cmd/beatmy11.com/commit/c46df206bbd091a88ffdbc61eecb8a819803d747"
+      ],
+      "repository_id": 1373868776,
+      "github_url": "https://github.com/shivvrudra-cmd/beatmy11.com",
+      "repository_created_at": "2026-09-17T03:10:54Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "BanPickMod/BanPickMod.github.io",
+      "discovery_sources": [
+        "https://github.com/BanPickMod/BanPickMod.github.io/commit/bdaee986a400407118d220f20146c55d16df6c10",
+        "https://github.com/BanPickMod/BanPickMod.github.io/commit/f2cf4c4eafb63189bba3132e079ea885247f792d"
+      ],
+      "repository_id": 1367433906,
+      "github_url": "https://github.com/BanPickMod/BanPickMod.github.io",
+      "repository_created_at": "2026-09-12T15:39:07Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "Lynder063/rac-deadlocked-decomp",
+      "discovery_sources": [
+        "https://github.com/Lynder063/rac-deadlocked-decomp/commit/0f5d80201a07740d78abc9b8e30070a8265e9b7e",
+        "https://github.com/Lynder063/rac-deadlocked-decomp/commit/867310c2f8419c7a65de1d8b2d646ff3d7ebbfe1"
+      ],
+      "repository_id": 1404277274,
+      "github_url": "https://github.com/Lynder063/rac-deadlocked-decomp",
+      "repository_created_at": "2026-10-04T11:08:11Z",
+      "status": "inspect_source_and_attribution"
+    },
+    {
+      "repository_hint": "Epinikion/PalPop",
+      "discovery_sources": [
+        "https://github.com/Epinikion/PalPop/commit/36f2cad844e7815361aac499d6848d3417f12e67"
+      ],
+      "repository_id": 1402036321,
+      "github_url": "https://github.com/Epinikion/PalPop",
+      "repository_created_at": "2026-10-02T15:59:52Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "kayhase015497/war-industry-news",
+      "discovery_sources": [
+        "https://github.com/kayhase015497/war-industry-news/commit/6dde92773060bd421dddf13aacced2ee2ca7ede9"
+      ],
+      "repository_id": 933202457,
+      "github_url": "https://github.com/kayhase015497/war-industry-news",
+      "repository_created_at": "2025-02-15T11:59:46Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "buicongnguyen/3D_game_scene",
+      "discovery_sources": [
+        "https://github.com/buicongnguyen/3D_game_scene/commit/e628ca37923b6570be39cd64176e7d23e40b65f3"
+      ],
+      "repository_id": 1328903550,
+      "github_url": "https://github.com/buicongnguyen/3D_game_scene",
+      "repository_created_at": "2026-08-09T14:49:38Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "MadvillainQuas/website",
+      "discovery_sources": [
+        "https://github.com/MadvillainQuas/website/commit/8e51d1f4f7dd843665a85d85e5c2cbee875157f0"
+      ],
+      "repository_id": 1233231605,
+      "github_url": "https://github.com/MadvillainQuas/website",
+      "repository_created_at": "2026-05-08T18:28:02Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "scootsmagoo/skyrome",
+      "discovery_sources": [
+        "https://github.com/scootsmagoo/skyrome/commit/6edc71fcc1408567100fbf21cbbadcdc6c45e6c4"
+      ],
+      "repository_id": 1403360873,
+      "github_url": "https://github.com/scootsmagoo/skyrome",
+      "repository_created_at": "2026-10-03T15:44:27Z",
+      "status": "inspect_source_and_attribution"
+    },
+    {
+      "repository_hint": "Heladoo/WebGames",
+      "discovery_sources": [
+        "https://github.com/Heladoo/WebGames/commit/0cc98a2d518665030d2c41e61ae077def947fdc2"
+      ],
+      "repository_id": 1394520890,
+      "github_url": "https://github.com/Heladoo/WebGames",
+      "repository_created_at": "2026-09-29T06:25:30Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "mpiek/jaardle",
+      "discovery_sources": [
+        "https://github.com/mpiek/jaardle/commit/911d92cb737ca272e0e1c2d3a5ed9254d39c2523",
+        "https://github.com/mpiek/jaardle/commit/27ac406dd31b44f86cbf162e29d740455eee60b2",
+        "https://github.com/mpiek/jaardle/commit/d6d6041d73c9a12a4f4a7b01a3a82f54c82716b7",
+        "https://github.com/mpiek/jaardle/commit/a15fb1d990561c7d0f5192232905cc8d660c5175"
+      ],
+      "repository_id": 1247775008,
+      "github_url": "https://github.com/mpiek/jaardle",
+      "repository_created_at": "2026-05-23T19:04:35Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "EMChess007/EM-Chess",
+      "discovery_sources": [
+        "https://github.com/EMChess007/EM-Chess/commit/5ee4d3b690e9087273fb9f67471bef1fff888654"
+      ],
+      "repository_id": 1388216003,
+      "github_url": "https://github.com/EMChess007/EM-Chess",
+      "repository_created_at": "2026-09-25T21:42:12Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "userneon/legacyxxx-frontend",
+      "discovery_sources": [
+        "https://github.com/userneon/legacyxxx-frontend/commit/589b8da654d190b036b24b1a5aa9a81e8961b4be"
+      ],
+      "repository_id": 1339932170,
+      "github_url": "https://github.com/userneon/legacyxxx-frontend",
+      "repository_created_at": "2026-08-19T19:00:41Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "Mlysign/fandex",
+      "discovery_sources": [
+        "https://github.com/Mlysign/fandex/commit/bc3f2d2fa1cda481efd7754c54133133a4dd53a9"
+      ],
+      "repository_id": 1261099920,
+      "github_url": "https://github.com/Mlysign/fandex",
+      "repository_created_at": "2026-06-06T08:29:52Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "KDR9MGR/sabalive",
+      "discovery_sources": [
+        "https://github.com/KDR9MGR/sabalive/commit/5944a420a3e892e5233427a58db20821965a9363"
+      ],
+      "repository_id": 1352455252,
+      "github_url": "https://github.com/KDR9MGR/sabalive",
+      "repository_created_at": "2026-08-31T13:36:30Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "mlhollestelle/ntc-muziekles",
+      "discovery_sources": [
+        "https://github.com/mlhollestelle/ntc-muziekles/commit/cbcdaccc5cefe41557276eaa92acf3f3f8415fcd"
+      ],
+      "repository_id": 1152343916,
+      "github_url": "https://github.com/mlhollestelle/ntc-muziekles",
+      "repository_created_at": "2026-02-07T18:27:26Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "Bensberry/Fading",
+      "discovery_sources": [
+        "https://github.com/Bensberry/Fading/commit/bfa5842f1370601d6c1d879dbb5425ea6ee670ee"
+      ],
+      "repository_id": 1402085560,
+      "github_url": "https://github.com/Bensberry/Fading",
+      "repository_created_at": "2026-10-02T16:44:47Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "trasher-is/awt",
+      "discovery_sources": [
+        "https://github.com/trasher-is/awt/commit/e24aae3deed72ff28fbcd623b0a61b3234207475"
+      ],
+      "repository_id": 1215183675,
+      "github_url": "https://github.com/trasher-is/awt",
+      "repository_created_at": "2026-04-19T15:36:16Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "Kx121999/rafiq-alhifz",
+      "discovery_sources": [
+        "https://github.com/Kx121999/rafiq-alhifz/commit/e16f7b52a8edf9421af098c5067eef0b5657b5a9"
+      ],
+      "repository_id": 1404075530,
+      "github_url": "https://github.com/Kx121999/rafiq-alhifz",
+      "repository_created_at": "2026-10-04T07:29:55Z",
+      "status": "inspect_source_and_attribution"
+    },
+    {
+      "repository_hint": "hogiahuyml2/english-with-tom",
+      "discovery_sources": [
+        "https://github.com/hogiahuyml2/english-with-tom/commit/fbab647e6c35549b706becf10bf49b3f4e3c176b"
+      ],
+      "repository_id": 1272455275,
+      "github_url": "https://github.com/hogiahuyml2/english-with-tom",
+      "repository_created_at": "2026-06-17T16:15:10Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "Patrick-Hammond/logic-incubator",
+      "discovery_sources": [
+        "https://github.com/Patrick-Hammond/logic-incubator/commit/5c1ba8b09aa46269f88b409be3f8f99cbba77872"
+      ],
+      "repository_id": 161105492,
+      "github_url": "https://github.com/Patrick-Hammond/logic-incubator",
+      "repository_created_at": "2018-12-10T02:33:26Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "yoods81/EnglishWordsPractice",
+      "discovery_sources": [
+        "https://github.com/yoods81/EnglishWordsPractice/commit/70e55666b117c31d69c126dcf0e5e0367db4ded9"
+      ],
+      "repository_id": 1358466519,
+      "github_url": "https://github.com/yoods81/EnglishWordsPractice",
+      "repository_created_at": "2026-09-05T18:39:19Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "alfonsograziano/gliner-decide",
+      "discovery_sources": [
+        "https://github.com/alfonsograziano/gliner-decide/commit/39374be8d2d564996da4edc54b427c9295a996e0",
+        "https://github.com/alfonsograziano/gliner-decide/commit/76fd85e3d3cc4b27a226bbc8167b4209970924aa"
+      ],
+      "repository_id": 1404254650,
+      "github_url": "https://github.com/alfonsograziano/gliner-decide",
+      "repository_created_at": "2026-10-04T10:40:40Z",
+      "status": "inspect_source_and_attribution"
+    },
+    {
+      "repository_hint": "BiofaCode/life-game",
+      "discovery_sources": [
+        "https://github.com/BiofaCode/life-game/commit/45f5edad3b3ac15b4e7c08496de820893ddf7d20"
+      ],
+      "repository_id": 1403585931,
+      "github_url": "https://github.com/BiofaCode/life-game",
+      "repository_created_at": "2026-10-03T19:51:25Z",
+      "status": "inspect_source_and_attribution"
+    },
+    {
+      "repository_hint": "Francx2088/Jet-Racing-Game",
+      "discovery_sources": [
+        "https://github.com/Francx2088/Jet-Racing-Game/commit/606d95dbf894c849947b6801681e13935e469e11"
+      ],
+      "repository_id": 1351676997,
+      "github_url": "https://github.com/Francx2088/Jet-Racing-Game",
+      "repository_created_at": "2026-08-30T19:06:48Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "azumag/docich",
+      "discovery_sources": [
+        "https://github.com/azumag/docich/commit/3fc3e2a3d109089d126ff5e96a8b0d698719eef9"
+      ],
+      "repository_id": 1327276249,
+      "github_url": "https://github.com/azumag/docich",
+      "repository_created_at": "2026-08-08T00:16:46Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "supershivas/pixel-studio",
+      "discovery_sources": [
+        "https://github.com/supershivas/pixel-studio/commit/c64045ae466302fdf7fdbefac4bb2d22e96803d4"
+      ],
+      "repository_id": 1326281745,
+      "github_url": "https://github.com/supershivas/pixel-studio",
+      "repository_created_at": "2026-08-07T06:12:09Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "Warfishfish/CHUCK-IT",
+      "discovery_sources": [
+        "https://github.com/Warfishfish/CHUCK-IT/commit/9d3b402bd11e4427d373c706402f3bd3f4fbd8e4"
+      ],
+      "repository_id": 1389580053,
+      "github_url": "https://github.com/Warfishfish/CHUCK-IT",
+      "repository_created_at": "2026-09-26T17:26:42Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "andx640/trumpfgame",
+      "discovery_sources": [
+        "https://github.com/andx640/trumpfgame/commit/751dd8a2f057a8aa01cdf967a6a83905b01f06b9"
+      ],
+      "repository_id": 1133017384,
+      "github_url": "https://github.com/andx640/trumpfgame",
+      "repository_created_at": "2026-01-12T19:09:10Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "lauriesmith20/mysite",
+      "discovery_sources": [
+        "https://github.com/lauriesmith20/mysite/commit/b6136a744c7a4cf0e016e7193b46302545e7d790"
+      ],
+      "repository_id": 1361968308,
+      "github_url": "https://github.com/lauriesmith20/mysite",
+      "repository_created_at": "2026-09-08T22:34:31Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "artem-xox/tavern",
+      "discovery_sources": [
+        "https://github.com/artem-xox/tavern/commit/3b37e99ab01cf0785846bc4e0880b9379af8d8a9"
+      ],
+      "repository_id": 1399762565,
+      "github_url": "https://github.com/artem-xox/tavern",
+      "repository_created_at": "2026-10-01T10:39:16Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "Kabuto0421/ALAKAZAR",
+      "discovery_sources": [
+        "https://github.com/Kabuto0421/ALAKAZAR/commit/b5e0588e6cb93e99530ecfb4001c7ae59e0b18e7"
+      ],
+      "repository_id": 1384416837,
+      "github_url": "https://github.com/Kabuto0421/ALAKAZAR",
+      "repository_created_at": "2026-09-24T01:25:45Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "JoshuavanGelder/freaking-rpg",
+      "discovery_sources": [
+        "https://github.com/JoshuavanGelder/freaking-rpg/commit/aefe6c8e219d5e77b248610a0d9ae73f00e768c3"
+      ],
+      "repository_id": 1400054085,
+      "github_url": "https://github.com/JoshuavanGelder/freaking-rpg",
+      "repository_created_at": "2026-10-01T13:36:56Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "Dmr77680/DEN",
+      "discovery_sources": [
+        "https://github.com/Dmr77680/DEN/commit/16c032d4b1d3cdbd53bf5e6cbcd58d4c055d56c7"
+      ],
+      "repository_id": 1397430803,
+      "github_url": "https://github.com/Dmr77680/DEN",
+      "repository_created_at": "2026-09-30T08:49:58Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "DeepDiver1975/rex-ruckus",
+      "discovery_sources": [
+        "https://github.com/DeepDiver1975/rex-ruckus/commit/5bf2dc4d0c753eb63ae8fee5af8671e65938a6ff"
+      ],
+      "repository_id": 1404252485,
+      "github_url": "https://github.com/DeepDiver1975/rex-ruckus",
+      "repository_created_at": "2026-10-04T10:37:54Z",
+      "status": "inspect_source_and_attribution"
+    },
+    {
+      "repository_hint": "ramsesoriginal/lorenzo",
+      "discovery_sources": [
+        "https://github.com/ramsesoriginal/lorenzo/commit/0a9f483eb22847d02591c7f1998e29c14a43f8c7"
+      ],
+      "repository_id": 1278234280,
+      "github_url": "https://github.com/ramsesoriginal/lorenzo",
+      "repository_created_at": "2026-06-23T15:39:37Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "yxxhixx/wasmou-docs",
+      "discovery_sources": [
+        "https://github.com/yxxhixx/wasmou-docs/commit/9c62d812c19c61ce428198c9bcc3a190a181aca7"
+      ],
+      "repository_id": 1404216563,
+      "github_url": "https://github.com/yxxhixx/wasmou-docs",
+      "repository_created_at": "2026-10-04T09:51:16Z",
+      "status": "inspect_source_and_attribution"
+    },
+    {
+      "repository_hint": "stevensnoeijen/drotr",
+      "discovery_sources": [
+        "https://github.com/stevensnoeijen/drotr/commit/d267192a289b899558b96bea086168e4391fa721"
+      ],
+      "repository_id": 21014289,
+      "github_url": "https://github.com/stevensnoeijen/drotr",
+      "repository_created_at": "2014-06-19T20:21:07Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "Raynos/project-wildshard-singleplayer",
+      "discovery_sources": [
+        "https://github.com/Raynos/project-wildshard-singleplayer/commit/8b122a5d9f2567f5d6ffc9943ad799a04b805a53",
+        "https://github.com/Raynos/project-wildshard-singleplayer/commit/af371f6f3e1299ef66367da0a962ee652c8e133a",
+        "https://github.com/Raynos/project-wildshard-singleplayer/commit/d6ca38bb87e77ab68bd0a7821008c95368e7bf46",
+        "https://github.com/Raynos/project-wildshard-singleplayer/commit/1332b12430e770b13957d99d3d345415bfbe9bbb",
+        "https://github.com/Raynos/project-wildshard-singleplayer/commit/28999b9fbcd95c37d9c764ff28fa540af8333c21",
+        "https://github.com/Raynos/project-wildshard-singleplayer/commit/e452b2320a7efe7cc2081a0e4a98c55025245d67",
+        "https://github.com/Raynos/project-wildshard-singleplayer/commit/c38755341555fcf546abb2d040a89b7805f7556e",
+        "https://github.com/Raynos/project-wildshard-singleplayer/commit/93563b5b0424a2ace6d655172705292fa26e8bc6",
+        "https://github.com/Raynos/project-wildshard-singleplayer/commit/9fb6010b44d2274ec3a03f40c5018060b7f1918b",
+        "https://github.com/Raynos/project-wildshard-singleplayer/commit/0789f54b842a546aa6f2d3ae80695dfa8e2ff548",
+        "https://github.com/Raynos/project-wildshard-singleplayer/commit/f81e824cdbf22aa09270961070cbb806aec70382",
+        "https://github.com/Raynos/project-wildshard-singleplayer/commit/7bbabd96c103fc1d3fc07d0c5488a1f1cac31d7b",
+        "https://github.com/Raynos/project-wildshard-singleplayer/commit/c1cfd80ecb08027a94021659329a8ddddd4f4206",
+        "https://github.com/Raynos/project-wildshard-singleplayer/commit/f03ad528acf131a400aaff3b46363c4d935822f0",
+        "https://github.com/Raynos/project-wildshard-singleplayer/commit/8d8fe6d457e4e2fe4bcecf68935f4a41536ff4b7",
+        "https://github.com/Raynos/project-wildshard-singleplayer/commit/405254a082723f3416da1d020e902139a7f691f0",
+        "https://github.com/Raynos/project-wildshard-singleplayer/commit/ccbc5d62f19a337a6aa6027ed3864af92f83cde6",
+        "https://github.com/Raynos/project-wildshard-singleplayer/commit/592a070ed1de70c9754c415662e513cb20620d3b",
+        "https://github.com/Raynos/project-wildshard-singleplayer/commit/08352b519198a0e55adfb3f5caf32d80d1155fc8"
+      ],
+      "repository_id": 1373933792,
+      "github_url": "https://github.com/Raynos/project-wildshard-singleplayer",
+      "repository_created_at": "2026-09-17T04:36:22Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "willy92wins/DayZ-Modding-Knowledge-Pack",
+      "discovery_sources": [
+        "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack/commit/42f6a08b86b5815af5fc74260f6632796f617020",
+        "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack/commit/71dbb2341ea1765c53d0357137bb4be2719f0bf4",
+        "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack/commit/4572aa629c58fc9b79591479ad094173879f5ae4",
+        "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack/commit/988e2b81cc8362e2177502c47bfc6bc62f20caff",
+        "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack/commit/f42f5035ac90a55c224cced46ae4d31646ea13a9",
+        "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack/commit/75f6dacdca7a6f5a02c9060bc6b2b29e2222849a"
+      ],
+      "repository_id": 1335250747,
+      "github_url": "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack",
+      "repository_created_at": "2026-08-15T16:43:15Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "exgota/super-mario-3d-land-browser",
+      "discovery_sources": [
+        "https://github.com/exgota/super-mario-3d-land-browser/commit/825f0a0208dfa7ff3489be0ef948bc0916f18176",
+        "https://github.com/exgota/super-mario-3d-land-browser/commit/3338cf90f6d67347826ecbf28d3c32c39de438fa",
+        "https://github.com/exgota/super-mario-3d-land-browser/commit/ae1ac070e5df7d68282269b26d7b3ae6d14eb0e1",
+        "https://github.com/exgota/super-mario-3d-land-browser/commit/e42828d16dee8a5eea446eaf24861324c9000c38",
+        "https://github.com/exgota/super-mario-3d-land-browser/commit/8bc5f6b20ad1e96ccd4447d6a0a4054fbc890f3a",
+        "https://github.com/exgota/super-mario-3d-land-browser/commit/73ada2e9ab0c18c7b73c01afb6be227046d5d8c8",
+        "https://github.com/exgota/super-mario-3d-land-browser/commit/77524a0a0051e6607197f09f5f4333fd0f5d28b3",
+        "https://github.com/exgota/super-mario-3d-land-browser/commit/7709bb02a3ec3b238b6f60f33107600f5a72a03b",
+        "https://github.com/exgota/super-mario-3d-land-browser/commit/6e5ccb27e0cd443b12abf3776ef85fa677af2431",
+        "https://github.com/exgota/super-mario-3d-land-browser/commit/65b302635729a6d2911333ae83ce2271b551890c",
+        "https://github.com/exgota/super-mario-3d-land-browser/commit/98257349305942d9f9af8be0604a3300f453ef22",
+        "https://github.com/exgota/super-mario-3d-land-browser/commit/7daf7b4001b063f1edd85bdb8740f3f2442e702b",
+        "https://github.com/exgota/super-mario-3d-land-browser/commit/b9c8b1a0c3a8201eba07696e17f9be2e204d78c7",
+        "https://github.com/exgota/super-mario-3d-land-browser/commit/a44b95f706a3baf1f6a4d8e34f06849eaab1ba6f",
+        "https://github.com/exgota/super-mario-3d-land-browser/commit/65c4b43ab0acca5e189476a024db332c1b0a210a",
+        "https://github.com/exgota/super-mario-3d-land-browser/commit/64bd2d7febf9dcf856ec9651cd9d9467152ef00e",
+        "https://github.com/exgota/super-mario-3d-land-browser/commit/382d27fa1b4fe9d75611c811da7a0aafaa249f30",
+        "https://github.com/exgota/super-mario-3d-land-browser/commit/e8aed30aee065242017960e1bb3b53293ac2c1d4",
+        "https://github.com/exgota/super-mario-3d-land-browser/commit/eb3de7e09732580c3a9e75ea28a0303a4fd402ed",
+        "https://github.com/exgota/super-mario-3d-land-browser/commit/c428af43d7f2fef00bb52ec956d7d8a45ff7cbe9",
+        "https://github.com/exgota/super-mario-3d-land-browser/commit/ca2e4bd335a186f5d156465c8e9dab02a4f508a9",
+        "https://github.com/exgota/super-mario-3d-land-browser/commit/4bf44acfa7226eaf45cd2cd58ad1d837b54f4022",
+        "https://github.com/exgota/super-mario-3d-land-browser/commit/9657eee27c479ba248516b6acca198cee18e7b59",
+        "https://github.com/exgota/super-mario-3d-land-browser/commit/06271418bbf6e5d757803e41eea6792b162d7cd5",
+        "https://github.com/exgota/super-mario-3d-land-browser/commit/bd86111fdd9111fb4f22fd41c60c44ae18ad3bb4"
+      ],
+      "repository_id": 1399258828,
+      "github_url": "https://github.com/exgota/super-mario-3d-land-browser",
+      "repository_created_at": "2026-10-01T06:02:58Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "diegoami/game-archaeologist",
+      "discovery_sources": [
+        "https://github.com/diegoami/game-archaeologist/commit/3c2d6a3855ffda8c01280c11430697937e982d30"
+      ],
+      "repository_id": 1400768606,
+      "github_url": "https://github.com/diegoami/game-archaeologist",
+      "repository_created_at": "2026-10-01T22:08:05Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "PietroFilippo/torrent-finder-cli",
+      "discovery_sources": [
+        "https://github.com/PietroFilippo/torrent-finder-cli/commit/64d9a929b05f9cc6cdb43b8837d63d69a955ba34"
+      ],
+      "repository_id": 1190100122,
+      "github_url": "https://github.com/PietroFilippo/torrent-finder-cli",
+      "repository_created_at": "2026-03-24T01:01:28Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "RoryODonovan/unciv-luau",
+      "discovery_sources": [
+        "https://github.com/RoryODonovan/unciv-luau/commit/72295fe4f51a4d8df817e75d8290bd846a86ba3f"
+      ],
+      "repository_id": 1398829499,
+      "github_url": "https://github.com/RoryODonovan/unciv-luau",
+      "repository_created_at": "2026-09-30T23:25:01Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "Chris-E-Shaw/BopItAccess",
+      "discovery_sources": [
+        "https://github.com/Chris-E-Shaw/BopItAccess/commit/ef98af12b3afcc1542ba7c1b21b0f501b11aefe5"
+      ],
+      "repository_id": 1398725225,
+      "github_url": "https://github.com/Chris-E-Shaw/BopItAccess",
+      "repository_created_at": "2026-09-30T20:45:50Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "Raynos/rockhop",
+      "discovery_sources": [
+        "https://github.com/Raynos/rockhop/commit/b4871271c53bdba6e796c7927e7794ccf1f5ba33",
+        "https://github.com/Raynos/rockhop/commit/5566797ee62d57d70183b99e26e73c5eb9b5885c",
+        "https://github.com/Raynos/rockhop/commit/ad0a0b21678536179ef8629f832ac0cd8d564e20",
+        "https://github.com/Raynos/rockhop/commit/b9e6d3f4df716d487df081b8608999677689b8e9",
+        "https://github.com/Raynos/rockhop/commit/06d575aff39a2664a530a4d78035a30246f1ab3c",
+        "https://github.com/Raynos/rockhop/commit/7af8972056291cd410ea9d21e9fb2c8a6a473dd0",
+        "https://github.com/Raynos/rockhop/commit/4af960e9a1865dbb1a0533dc8cc2031df0ad28f0",
+        "https://github.com/Raynos/rockhop/commit/4c3d8dedec7ab94f1aa3eb6cda14357618e265b1",
+        "https://github.com/Raynos/rockhop/commit/65790245a972ea5b3a6857ffc74b2edbb6fa8edd",
+        "https://github.com/Raynos/rockhop/commit/7a9630cd3baae4d3fa103d45e6b12f0e3a5d92c5",
+        "https://github.com/Raynos/rockhop/commit/e850f93bfb17ec118a19c99c97c0f2f8c651cb87",
+        "https://github.com/Raynos/rockhop/commit/56d838f19073bd9584c765ca28003e64a2c5b9cc",
+        "https://github.com/Raynos/rockhop/commit/0910f5421cd77151bff7cd5d8ce23c545afc88a9",
+        "https://github.com/Raynos/rockhop/commit/15ac156a58987aff6feb6e8ee490fcbe8af32c83",
+        "https://github.com/Raynos/rockhop/commit/6431e32041960c1401c90bd4e8d6f64bda134670",
+        "https://github.com/Raynos/rockhop/commit/1d6ce4ca2b3b5e0a2da54b211c5dd7885a49748c",
+        "https://github.com/Raynos/rockhop/commit/6863df11f3f5f4c03bac15e863f9ecc2f7fa4518",
+        "https://github.com/Raynos/rockhop/commit/15ca51af00bae6b7379c36e8cccc6be576a9335d",
+        "https://github.com/Raynos/rockhop/commit/0274a084ce7b317614158cd708140430a50143bc",
+        "https://github.com/Raynos/rockhop/commit/bf60b2af45d782f3da98df143e3383fd35e67ff2",
+        "https://github.com/Raynos/rockhop/commit/a030c89d8375f386d6e2e87f64ff1744837b51c7",
+        "https://github.com/Raynos/rockhop/commit/d05dab7cb6ccbee1928e8dbd0dee430930fff7ce",
+        "https://github.com/Raynos/rockhop/commit/df086e8f265ad3536a5ba52a681e1a4c2693b834",
+        "https://github.com/Raynos/rockhop/commit/0b4c549e4e62329d7cc9664f7578993c5e4a43de",
+        "https://github.com/Raynos/rockhop/commit/bb4e8f4fdcff2204dd6bb4d8153613ec3f752ac1",
+        "https://github.com/Raynos/rockhop/commit/3ba4d6e0a1c490dcf9e69ab233f01ca0e1023e65",
+        "https://github.com/Raynos/rockhop/commit/7b94077dd64e2c2713a4c7155f3f1377bc124ee4",
+        "https://github.com/Raynos/rockhop/commit/c74783ad21d25d2b8edfc9bb20eb7079dbc78f17",
+        "https://github.com/Raynos/rockhop/commit/598e53d4f046fe423c8847f19052f24c17efa398",
+        "https://github.com/Raynos/rockhop/commit/91306711be93e928db110b883afc0634a99789b1",
+        "https://github.com/Raynos/rockhop/commit/090675c8ca629ee520429e0dc79e5005ec7469dc"
+      ],
+      "repository_id": 1373934787,
+      "github_url": "https://github.com/Raynos/rockhop",
+      "repository_created_at": "2026-09-17T04:37:28Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "danillogical/poison-jam",
+      "discovery_sources": [
+        "https://github.com/danillogical/poison-jam/commit/d2c584f6556bcce9eeb5eb1fe81d0a6502d40f13"
+      ],
+      "repository_id": 1393914243,
+      "github_url": "https://github.com/danillogical/poison-jam",
+      "repository_created_at": "2026-09-28T22:28:22Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "ErzenXz/lodestar",
+      "discovery_sources": [
+        "https://github.com/ErzenXz/lodestar/commit/7fd406bc52707d4f48e084eafe4ee06f1fa55228"
+      ],
+      "repository_id": 1403388147,
+      "github_url": "https://github.com/ErzenXz/lodestar",
+      "repository_created_at": "2026-10-03T16:12:01Z",
+      "status": "inspect_source_and_attribution"
+    },
+    {
+      "repository_hint": "N0zoM1z0/th075",
+      "discovery_sources": [
+        "https://github.com/N0zoM1z0/th075/commit/7ed1918a4d5e6121a71398f192e71e8d1840a9cc",
+        "https://github.com/N0zoM1z0/th075/commit/e02340a0ef0fd8c596a550f51bb7ac2d54c9da95",
+        "https://github.com/N0zoM1z0/th075/commit/9762d0e3c9c6dd3aebb0d794e6f77b38c91c9bf9",
+        "https://github.com/N0zoM1z0/th075/commit/e62da696924cb344820a2c3fc747bec851554e8f",
+        "https://github.com/N0zoM1z0/th075/commit/08ada7f20d5da4379409a2f4bd3e2bc59d48e4e9",
+        "https://github.com/N0zoM1z0/th075/commit/708949a15682a34bb5646947b5b314b6306fc0ed",
+        "https://github.com/N0zoM1z0/th075/commit/2405c32048d0d8ddbc7b09dcbda6f09d30e285a9"
+      ],
+      "repository_id": 1401311912,
+      "github_url": "https://github.com/N0zoM1z0/th075",
+      "repository_created_at": "2026-10-02T07:27:23Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "octopollux/machine-violet",
+      "discovery_sources": [
+        "https://github.com/octopollux/machine-violet/commit/9de864001f147b7b82434d5c4ac2243039410607"
+      ],
+      "repository_id": 1157575565,
+      "github_url": "https://github.com/octopollux/machine-violet",
+      "repository_created_at": "2026-02-14T01:35:52Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "coolking70/BrogueJS",
+      "discovery_sources": [
+        "https://github.com/coolking70/BrogueJS/commit/a8f9c17129dfe30c5d37bbc965d913c988fd534a",
+        "https://github.com/coolking70/BrogueJS/commit/fbc346e92c6b9e26da37e99dfe08b965fb91d043"
+      ],
+      "repository_id": 1394141757,
+      "github_url": "https://github.com/coolking70/BrogueJS",
+      "repository_created_at": "2026-09-29T03:01:54Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "scarf005/orca-class",
+      "discovery_sources": [
+        "https://github.com/scarf005/orca-class/commit/5fc77db50b6884a874966d04b739ae214bb7b15e",
+        "https://github.com/scarf005/orca-class/commit/9e4e96f739a5f1ecc8427f06acd3caf18bf19761"
+      ],
+      "repository_id": 1393531254,
+      "github_url": "https://github.com/scarf005/orca-class",
+      "repository_created_at": "2026-09-28T18:12:33Z",
+      "status": "outside_creation_window"
+    },
+    {
+      "repository_hint": "wingedsheep/argentum-engine",
+      "discovery_sources": [
+        "https://github.com/wingedsheep/argentum-engine/commit/11d6f2a4dcd095fe98a2337844d96c3989f23c23"
+      ],
+      "repository_id": 1136926560,
+      "github_url": "https://github.com/wingedsheep/argentum-engine",
+      "repository_created_at": "2026-01-18T16:00:36Z",
+      "status": "outside_creation_window"
+    }
+  ],
+  "captured_timezone": "Asia/Ho_Chi_Minh",
+  "window_start_utc": "2026-10-02T17:00:00Z",
+  "research_cutoff_utc": "2026-10-04T12:54:00Z",
+  "date_window_note": "Freeze the freshness cutoff at the start of this pass. A later update in a candidate repo is not evidence that the new game existed before the cutoff; check the actual game-addition commit."
+}

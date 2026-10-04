@@ -1,0 +1,11 @@
+{
+  "repo": "lukashoerup/gridmaster",
+  "created_at": "2026-10-04T05:38:50Z",
+  "pushed_at": "2026-10-04T12:57:21Z",
+  "description": null,
+  "homepage": null,
+  "default_branch": "main",
+  "language": "TypeScript",
+  "readme": "# Gridmaster (working title)\n\nA renewable-energy tycoon game for PC — Windows and macOS, on Steam.\n\nStart in 1990 with a few solar panels somewhere in Europe. Grow through wind,\nstorage, hydro, nuclear and experimental technology, in electricity markets\nand weather that behave like the real thing — and push back when everyone\nbuilds the same thing.\n\n**Status:** Phases 1 and 2 in parallel (October 2026). The market simulation\nand its explorer page run on placeholder inputs; real data and the calibration\nagainst published prices are next. The first playable slice of the one-zone\nprototype (Western Denmark, 1995–2025) is built on top of it: `play.html`.\nRound 1 of the fun core is testing cheap toys against it: \"The board\"\n(`board.html`), and slice 1 tuned for comparison (`play.html?tuned=1`).\n\n## Where to look\n| If you want… | Open |\n|---|---|\n| The idea, in Lukas's own words | [Original brief](docs/original-brief.md) |\n| What the game is | [Vision](docs/vision.md) |\n| The plan, step by step, with the gates | [Roadmap](docs/roadmap.md) |\n| What is decided, and what is waiting for Lukas | [Decisions](docs/decisions.md) |\n| Similar games, audience, market, data, how to build it | [Research report](docs/research/reports/Renewable%20energy%20tycoon%20game%20research.md) |\n| Work in progress and next up | [Tasks](tasks/) |\n\n\"Gridmaster\" is a working title. The public name will be chosen later; a\nSteam game with that name already exists.",
+  "commits": []
+}
