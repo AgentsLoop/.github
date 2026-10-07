@@ -28,14 +28,14 @@ Use the detailed comparison to distinguish game generators, AI-assisted engines,
 
 ### Feature checklist
 
-| Checklist | Pixelfork | Rosebud | Makko | PocketByte | Wanaka | Gamly | Summer | GDevelop | Buildbox 4 | Genex | OmGithub | Exists | SpawnForge |
+| Checklist | Pixelfork | Rosebud | Makko | PocketByte | Wanaka | Gamly | Summer | GDevelop | Buildbox 4 | Genex | OmGithub | Exists | SpawnForge | Mindblown |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Prompt-to-game | ✅ | ✅ | ✅ | ✅ | ✅ | ◐ | ✅ | ◐ | ◐ | — | ◐ | ◐ | ◐ |
-| AI editing / iteration | ✅ | ✅ | ✅ | ✅ | ✅ | ◐ | ✅ | ✅ | ✅ | ◐ assets only | ✅ | ◐ | ◐ |
-| Browser play / share | ✅ | ✅ | ✅ | ✅ | ✅ | ◐ | ◐ | ✅ | ? | ✅ | ✅ | ◐ | ◐ |
-| Community remix | ✅ | ✅ | ? | ✅ | ✅ | ? | ? | ? | ? | ✅ | ✅ | ? | ? |
-| Readable / editable source | ✅ | ✅ | ? | ? | ? | ◐ | ✅ | ✅ | ? | — external project | ✅ | ? | ◐ |
-| Native game export | ✅ Android | ◐ Windows | ? | ? | ? | ◐ | ◐ | ✅ | ◐ | — web publishing | ? | ? | ◐ ZIP/PWA |
+| Prompt-to-game | ✅ | ✅ | ✅ | ✅ | ✅ | ◐ | ✅ | ◐ | ◐ | — | ◐ | ◐ | ◐ | ✅ |
+| AI editing / iteration | ✅ | ✅ | ✅ | ✅ | ✅ | ◐ | ✅ | ✅ | ✅ | ◐ assets only | ✅ | ◐ | ◐ | ✅ |
+| Browser play / share | ✅ | ✅ | ✅ | ✅ | ✅ | ◐ | ◐ | ✅ | ? | ✅ | ✅ | ◐ | ◐ | ✅ |
+| Community remix | ✅ | ✅ | ? | ✅ | ✅ | ? | ? | ? | ? | ✅ | ✅ | ? | ? | ✅ |
+| Readable / editable source | ✅ | ✅ | ? | ? | ? | ◐ | ✅ | ✅ | ? | — external project | ✅ | ? | ◐ | — |
+| Native game export | ✅ Android | ◐ Windows | ? | ? | ? | ◐ | ◐ | ✅ | ◐ | — web publishing | ? | ? | ◐ ZIP/PWA | — |
 
 **Checklist key:** ✅ explicitly documented; ◐ limited, advertised, or unverified; ? not established by the reviewed evidence; — not offered by the tool or handled by an external project. Treat OmGithub as a project studio/catalog rather than a game engine. Treat Genex as an asset/publishing service, not a game generator. Treat Gamly and SpawnForge as limited-access products; do not present their advertised output as verified.
 
@@ -58,6 +58,7 @@ Keep generator capabilities separate from verified game outputs. Add a generator
 | [Makko AI](https://www.makko.ai/) | Playable 2D browser games built from prompts and a connected character/art workflow. | Publish a shareable browser game; use the same studio to generate and animate art. | [Product](https://www.makko.ai/) |
 | [PocketByte](https://pocketbyte.io/) | Prompt-generated, playable browser games. | Publish, share, and remix games through its creator community. | [Product](https://pocketbyte.io/) |
 | [Wanaka](https://wanaka.app/) | AI-assisted 3D games and worlds from a description. | Edit, test, and publish a browser-playable world. | [Product](https://wanaka.app/) |
+| [Mindblown](https://mindblown.ai/) | Message-driven browser games built by a bot; remix published games or tap “make one like this”. Model undisclosed; by Snark AI. | Play instantly in the browser; share links, likes, remixes, leaderboards, and multiplayer rooms. Free to play and build with a 10M token allowance, then paid. No code needed and no source or GitHub export found. | [Product](https://mindblown.ai/) · [make](https://mindblown.ai/make) · [example game](https://mindblown.ai/games/lofi-bird) · [game API](https://api.mindblown.ai/games/lofi-bird) |
 
 ## AI-assisted game engines
 

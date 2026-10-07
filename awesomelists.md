@@ -24,6 +24,7 @@
 | 16 | [Decomp Games — Decompilations](https://decompgames.com/collections/decompilations/) | **16 listings** | Decompilation and playable-port directory | Count the 16 game listings stated at the top of the collection page. Treat this as a directory count, not 16 verified browser ports; the site labels integrations a development preview. | 2026-10-01 |
 | 17 | [Awesome Opus 5.5 Games](https://github.com/VibeFin/awesome-opus-5.5-games) | **270** | Claude Opus 5.5, Claude Sonnet 5.5, and GPT-6 Astra games | Use the README total: 189 Opus, 11 Sonnet, 69 Astra, and 1 uncertain entry. Preserve the uncertain attribution; this is a curated gallery, not an independently tested benchmark. | 2026-10-04 |
 | 18 | [Awesome Opus 5.5 Video — Games](https://github.com/zhuyansen/awesome-opus-5.5-video) | **214 works** | Social video records classified as games | Count 214 data rows in the linked `cases/game.md` table; exclude the header and separator row and match the README total. Treat these as creator-attributed works, not source-verified game repositories. | 2026-10-04 |
+| 19 | [Mindblown gallery](https://mindblown.ai/explore) | **100 listings** | Message-built browser games | Count 100 `/games/<slug>` URLs in [sitemap.xml](https://mindblown.ai/sitemap.xml); each carries a title, lastmod date, and thumbnail. Treat as gallery listings, not source-verified repositories; no GitHub source or model attribution is published. | 2026-10-07 |
 
 ## Verified small collections — 2026-09-30
 
