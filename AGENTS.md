@@ -6,6 +6,7 @@
 - Read [Screenshot ratings](wiki/screenshot-ratings.md) before rating or ranking game images.
 - Read [Search experiments](wiki/search-experiments.md) before repeating a discovery pass.
 - Read [Fresh model discovery](wiki/fresh-model-discovery.md) before searching model-specific branches or commit frontiers.
+- Read [Markdown tables](wiki/markdown-tables.md) before editing a Markdown table.
 
 ## Search self-improvement
 
