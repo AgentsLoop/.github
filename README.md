@@ -221,7 +221,7 @@ Browse [where to submit a game](game-submission-options.md) to compare publishin
 
 Browse [latest game additions by date](latest-games.md) to compare each source repository's creation time with the date this collection first recorded it.
 
-Browse [AI game generators and engines](ai-game-generators.md) for tools that build or edit playable games from prompts.
+Browse [AI game generators and engines](https://github.com/AgentsLoop/awesome-ai-game-generators) for tools that build or edit playable games from prompts, with verified example games.
 
 Browse [Awesome Game Resources](awesome-game-resources.md) to find game assets, VFX, shaders, sound effects, music, and production tools.
 

@@ -23,7 +23,7 @@
 
 ## AI game generators
 
-- Add AI game generators encountered during other research to `ai-game-generators.md` after verifying a primary source claims playable-game creation.
+- Add AI game generators encountered during other research to [awesome-ai-game-generators](https://github.com/AgentsLoop/awesome-ai-game-generators) after verifying a primary source claims playable-game creation.
 - Record the tool link, creation capability, access or export limits, primary evidence link, and verification date.
 - Keep generator-only tools out of `games.json` unless their repository also contains a playable game.
 
