@@ -1,0 +1,18 @@
+{
+  "repo": "Deepspace000/idlyte",
+  "meta": {
+    "created": "2026-10-06T09:55:47Z",
+    "desc": "Idlyte - idle space shooter",
+    "home": null,
+    "lang": "HTML",
+    "pushed": "2026-10-07T00:04:33Z",
+    "size": 171,
+    "stars": 0
+  },
+  "readme": "",
+  "tree": [
+    "index.html",
+    "ship_designer.html"
+  ],
+  "readme_missing": true
+}

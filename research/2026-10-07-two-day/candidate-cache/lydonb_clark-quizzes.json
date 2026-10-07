@@ -1,0 +1,19 @@
+{
+  "repo": "lydonb/clark-quizzes",
+  "meta": {
+    "created": "2026-10-06T23:54:29Z",
+    "desc": null,
+    "home": null,
+    "lang": "HTML",
+    "pushed": "2026-10-07T00:01:14Z",
+    "size": 21,
+    "stars": 0
+  },
+  "readme": "",
+  "tree": [
+    "CLAUDE.md",
+    "american-revolution/index.html",
+    "index.html"
+  ],
+  "readme_missing": true
+}

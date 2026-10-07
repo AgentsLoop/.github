@@ -256,6 +256,147 @@
     ]
   },
   {
+    "id": "cmuwtcyew04ra3eokyxlc4ih7",
+    "name": "mooncatmarket",
+    "slug": "mooncatmarket",
+    "game_url": "https://mooncatmarket.genex.technology/",
+    "screenshot_urls": [
+      "https://cdn.genex.technology/covers/cmuwtcyew04ra3eokyxlc4ih7.webp?v=1791299318998"
+    ],
+    "description": null,
+    "github_source_url": null,
+    "categories": [
+      "games"
+    ]
+  },
+  {
+    "id": "cmuwrgh0103yl3eokk90mml7k",
+    "name": "Genex-7da0c1",
+    "slug": "genex-7da0c1",
+    "game_url": "https://genex-7da0c1.genex.technology/",
+    "screenshot_urls": [
+      "https://cdn.genex.technology/covers/cmuwrgh0103yl3eokk90mml7k.webp?v=1791297157467"
+    ],
+    "description": null,
+    "github_source_url": null,
+    "categories": [
+      "games"
+    ]
+  },
+  {
+    "id": "cmuwnczrd02qy3eoktuqln4ey",
+    "name": "MIDNIGHT APEX",
+    "slug": "midnight-apex",
+    "game_url": "https://midnight-apex.genex.technology/",
+    "screenshot_urls": [
+      "https://cdn.genex.technology/covers/cmuwnczrd02qy3eoktuqln4ey.webp?v=1791289243196"
+    ],
+    "description": "A rain-soaked, neon-lit night street race. Drive a mid-engine supercar against four AI rivals over 3 laps of a 2.9 km downtown circuit: drift, nitrous, slipstream and launch control, with wet-asphalt reflections and a synthesized V8. Every mesh, texture and sound is generated in code. Keyboard or gamepad; desktop browser recommended.",
+    "github_source_url": null,
+    "categories": [
+      "games",
+      "vfx"
+    ]
+  },
+  {
+    "id": "cmuwnchas02qh3eoktfwkphtg",
+    "name": "hyper-realistic-racing-demo",
+    "slug": "hyper-realistic-racing-demo",
+    "game_url": "https://hyper-realistic-racing-demo.genex.technology/",
+    "screenshot_urls": [
+      "https://cdn.genex.technology/covers/cmuwnchas02qh3eoktfwkphtg.webp?v=1791289217432"
+    ],
+    "description": null,
+    "github_source_url": null,
+    "categories": [
+      "games"
+    ]
+  },
+  {
+    "id": "cmuwk6ala01hn3eokpgl40l62",
+    "name": "c-vua-i-u-3d",
+    "slug": "c-vua-i-u-3d",
+    "game_url": "https://c-vua-i-u-3d.genex.technology/",
+    "screenshot_urls": [
+      "https://cdn.genex.technology/covers/cmuwk6ala01hn3eokpgl40l62.webp?v=1791283891231"
+    ],
+    "description": null,
+    "github_source_url": null,
+    "categories": [
+      "games"
+    ]
+  },
+  {
+    "id": "cmuwg6mr700au3eo6ms4yblxm",
+    "name": "farm-parade",
+    "slug": "farm-parade",
+    "game_url": "https://farm-parade.genex.technology/",
+    "screenshot_urls": [
+      "https://cdn.genex.technology/covers/cmuwg6mr700au3eo6ms4yblxm.webp?v=1791277194231"
+    ],
+    "description": null,
+    "github_source_url": null,
+    "categories": [
+      "games"
+    ]
+  },
+  {
+    "id": "cmuwfwq1u007k3eokzgehp0i8",
+    "name": "m-cevher-tuvali",
+    "slug": "m-cevher-tuvali",
+    "game_url": "https://m-cevher-tuvali.genex.technology/",
+    "screenshot_urls": [
+      "https://cdn.genex.technology/covers/cmuwfwq1u007k3eokzgehp0i8.webp?v=1791276726672"
+    ],
+    "description": null,
+    "github_source_url": null,
+    "categories": [
+      "games"
+    ]
+  },
+  {
+    "id": "cmuwaanuo0adl2pmojtwypvuu",
+    "name": "game--f5f35d",
+    "slug": "game-f5f35d",
+    "game_url": "https://game-f5f35d.genex.technology/",
+    "screenshot_urls": [
+      "https://cdn.genex.technology/covers/cmuwaanuo0adl2pmojtwypvuu.webp?v=1791267297325"
+    ],
+    "description": null,
+    "github_source_url": null,
+    "categories": [
+      "games"
+    ]
+  },
+  {
+    "id": "cmuvtvxwr05773ap1e9b0uwyd",
+    "name": "explore-create-discover",
+    "slug": "explore-create-discover",
+    "game_url": "https://explore-create-discover.genex.technology/",
+    "screenshot_urls": [
+      "https://cdn.genex.technology/covers/cmuvtvxwr05773ap1e9b0uwyd.webp?v=1791239740790"
+    ],
+    "description": null,
+    "github_source_url": null,
+    "categories": [
+      "games"
+    ]
+  },
+  {
+    "id": "cmuvthvbw054k2pmo765yqkve",
+    "name": "little-playtime-adventures",
+    "slug": "little-playtime-adventures",
+    "game_url": "https://little-playtime-adventures.genex.technology/",
+    "screenshot_urls": [
+      "https://cdn.genex.technology/covers/cmuvthvbw054k2pmo765yqkve.webp?v=1791239082452"
+    ],
+    "description": null,
+    "github_source_url": null,
+    "categories": [
+      "games"
+    ]
+  },
+  {
     "id": "cmub269ab050m2qrxj5my5iq9",
     "name": "Snowball",
     "slug": "snowball",

@@ -1,0 +1,21 @@
+{
+  "repo": "Ryujaehyeon/Order-History",
+  "meta": {
+    "created": "2026-10-07T00:31:24Z",
+    "desc": null,
+    "home": null,
+    "lang": "Python",
+    "pushed": "2026-10-07T00:38:10Z",
+    "size": 0,
+    "stars": 0
+  },
+  "readme": "",
+  "tree": [
+    ".gitignore",
+    "README.md",
+    "convert.py",
+    "make_sample.py",
+    "requirements.txt"
+  ],
+  "readme_missing": true
+}

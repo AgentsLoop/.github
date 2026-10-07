@@ -7,6 +7,13 @@
 - Read [Search experiments](wiki/search-experiments.md) before repeating a discovery pass.
 - Read [Fresh model discovery](wiki/fresh-model-discovery.md) before searching model-specific branches or commit frontiers.
 
+## Search self-improvement
+
+- Auto-improve every search pass: when a query returns capped, empty, or mostly overlapping results, change one dimension (date partition, model alias, keyword, source family, topic, or creator) before retrying. Never repeat a completed query key unchanged.
+- Split capped commit partitions into single-day ranges and cover all three model aliases (Opus 5.5, Sonnet 5.5, GPT-6.1 Sol) instead of rerunning the same query.
+- Record each query key, hit count, cap flag, and verified yield in the research log. Retire a query form only after two consecutive empty passes with 90%+ overlap.
+- Treat slow scripts as slow, not dead: run searching scripts with session polling beyond the 30s output cap before judging them. `discover-fresh-commit-frontier.sh` needs 60s or more. Delete a searching script only after a failing run proves it broken.
+
 ## Game collections
 
 - Add every verified game collection or awesome list you find to `awesomelists.md`.

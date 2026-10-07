@@ -1,5 +1,24 @@
 # Search experiments
 
+## Two-day exact-phrase and commit-pool pass — 2026-10-07
+
+- Search October 6–7 in `Asia/Ho_Chi_Minh`; bound the UTC interval to `2026-10-05T17:00:00Z` through `2026-10-07T16:59:59Z`. Reject older repos with fresh commits (kids-english-reader, 2026-08-21) and out-of-window creations (IDFvHamas FPS, Oct 5 evening) even when their trailers are strong.
+- New technique 1: exact-phrase repository search. Query `"Claude Opus 5.5"`, `"Claude Sonnet 5.5"`, `"GPT-6.1 Sol"`, and `"Built with Claude"` with `created:2026-10-06..2026-10-07`. Small, high-precision partitions replace capped broad queries (go-bombjack, Turbo Kart Rally, Trig-game, VLAK, ATC Game, DEAD AIR, Tetris hold).
+- New technique 2: commit-pool freshness join. Pool capped commit-search hits across all models and date partitions (209 repos), then filter by repository creation timestamp instead of trusting commit dates. This surfaced the 4X, Catan, tennis, horror-XR, and motion-arcade games the two-model frontier script missed.
+- New technique 3: reverse join. When commit partitions cap out, start from fresh `game` repositories and check each for model trailers or creator statements instead of starting from attribution. Low yield here (1 AI signal in 100) but it rules out a blind spot.
+- Auto-improve while searching: split capped partitions by single day, then change dimension (exact phrase, pool filter, reverse join) instead of rerunning. Retire no-yield forms after two empty passes.
+- Verify trailers at the commit level and record the exact model: reject Sonnet 5, Sonnet 4.6, and Fable 5.1 trailers (komovia_shogi, tutorial-da-vida, agent-chess) and route ports, mods, emulators, tools, and scaffolds out of `games.json` (megatouch-port, ModsClaudeVelz, 90S-GAME patch site, claudeasis skeleton, Logika-Pemrograman unattributed).
+- Count 37 verified game units across 34 repositories: 14 Sonnet 5.5, 17 Opus 5.5, 2 GPT-6.1 Sol, and 4 mixed Opus/Sonnet. Count NoCap Games as 2 (Cor, Tempo) and Motion Arcade as 3 (Flappy Raccoon, Snack Attack, Hole in the Wall). Keep Sol separate from Astra.
+- Validate [the batch](../research/2026-10-07-two-day/game-batch.json) against `games.json`, run `node scripts/validate-games.mjs`, and regenerate notes, README, model pages, rankings, and profile from the same source.
+
+### Critique
+
+Score this method 8.8/10 for precision and yield. Exact-phrase partitions convert small result sets at high precision, and the pool join recovers games outside the two-model frontier. Commit-message `game` matching still produces heavy false positives (dashboards, trackers, gateways), and the README endpoint rate-limits under burst, so pace metadata reads. Treat HTTP 200 as availability, not a playtest.
+
+### Next experiment
+
+Mine the Genex gallery delta (38 to 48 listings) for GitHub-backed games with fresh creation dates. Trace X/Reddit posts from Oct 6–7 to repositories, preserving post URLs in `discovery_sources`.
+
 ## Two-day game-hub and model-commit pass — 2026-10-04
 
 - Search October 3–4 in `Asia/Ho_Chi_Minh`; bound the UTC interval to `2026-10-02T17:00:00Z` through the captured research cutoff `2026-10-04T12:54:00Z`.

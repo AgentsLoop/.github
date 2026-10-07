@@ -1,0 +1,19 @@
+{
+  "repo": "ouattaraymichel/Gamescar",
+  "meta": {
+    "created": "2026-10-06T23:28:42Z",
+    "desc": "Jeu de voitures",
+    "home": "https://gamescar.vercel.app",
+    "lang": "JavaScript",
+    "pushed": "2026-10-06T23:30:17Z",
+    "size": 14,
+    "stars": 0
+  },
+  "readme": "",
+  "tree": [
+    "game.js",
+    "index.html",
+    "style.css"
+  ],
+  "readme_missing": true
+}

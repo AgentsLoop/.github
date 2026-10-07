@@ -37147,7 +37147,7 @@
     ],
     "verification_notes": "The repository contains a runnable Pygame platform adventure in coding/odyssey.py with three kingdoms, 15 Power Moons, enemy capture and copyable powers, and an ending path. The creator identifies the approved build as produced by a four-agent AutoGen team and states Opus 5.5 wrote the game file; Claude model and effort are configurable for future runs. Count this playable output once, not the studio/generator as another game. It requires Python/Pygame and is not hosted. The smoke-test tooling executes generated code locally without a sandbox; inspect it before running. No runtime playtest was performed.",
     "gauntlet_loop": false,
-    "quality_estimate_10": 8.0,
+    "quality_estimate_10": 8,
     "quality_estimate_basis": "Source and creator documentation describe a platformer with multiple kingdoms, collectible progression, capture abilities, enemy interaction and an ending path; no independent playtest.",
     "quality_category": "curated_games",
     "flops_estimate_raw": 100000000,
@@ -37158,5 +37158,1917 @@
     "prompt_origin": "unknown",
     "prompt_evidence_url": null,
     "runtime_test_status": "Runnable instructions and source verified; no execution or playtest performed."
+  },
+  {
+    "name": "Bomb Jack",
+    "github_url": "https://github.com/teedjay/go-bombjack",
+    "repository_id": 1407406049,
+    "repository_created_at": "2026-10-06T14:03:42Z",
+    "evidence_url": "https://github.com/teedjay/go-bombjack/commit/e76b535f50116e07eb35385b8ea0271638dcaad0",
+    "game_links": [
+      "https://github.com/teedjay/go-bombjack/blob/main/cmd/bombjack/main.go",
+      "https://github.com/teedjay/go-bombjack/blob/main/internal/game/play.go",
+      "https://github.com/teedjay/go-bombjack/blob/main/web/index.html"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "Go",
+      "Ebitengine",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub repository search: Claude Opus 5.5 created 2026-10-06..2026-10-07",
+      "https://github.com/teedjay/go-bombjack",
+      "https://github.com/teedjay/go-bombjack/commit/e76b535f50116e07eb35385b8ea0271638dcaad0"
+    ],
+    "verification_notes": "Bomb Jack style platformer in Go and Ebitengine with levels, SID style music, high scores and a browser build; every inspected game commit co-authors Claude Opus 5.5.",
+    "quality_estimate_10": 8.2,
+    "quality_estimate_basis": "Complete platformer loop with levels, music, scoring and a browser build, all under exact Opus trailers; no independent playtest.",
+    "flops_estimate_raw": 400000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "Bomb Jack"
+    ],
+    "contained_game_links": [
+      "https://github.com/teedjay/go-bombjack/blob/main/cmd/bombjack/main.go"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "Road Fury",
+    "github_url": "https://github.com/ouattaraymichel/Gamescar",
+    "repository_id": 1408018510,
+    "repository_created_at": "2026-10-06T23:28:42Z",
+    "evidence_url": "https://github.com/ouattaraymichel/Gamescar/commit/344ff5c16a66a1c6cc226e5867590a04e279efa8",
+    "game_links": [
+      "https://github.com/ouattaraymichel/Gamescar/blob/main/index.html",
+      "https://github.com/ouattaraymichel/Gamescar/blob/main/game.js"
+    ],
+    "live_demo_url": "https://gamescar.vercel.app",
+    "technology": [
+      "HTML",
+      "JavaScript",
+      "Canvas",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit frontier: Sonnet/GPT-6.1 game commits joined to Oct 6-7 creations (Asia/Ho_Chi_Minh)",
+      "https://github.com/ouattaraymichel/Gamescar",
+      "https://github.com/ouattaraymichel/Gamescar/commit/344ff5c16a66a1c6cc226e5867590a04e279efa8"
+    ],
+    "verification_notes": "Road Fury car game; the initial commit co-authors Claude Sonnet 5.5 and the Vercel demo returned HTTP 200.",
+    "quality_estimate_10": 7.4,
+    "quality_estimate_basis": "Source backed driving game with a live demo; no full playthrough performed.",
+    "flops_estimate_raw": 300000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Live demo URL returned HTTP 200; no full playthrough performed.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "Road Fury"
+    ],
+    "contained_game_links": [
+      "https://github.com/ouattaraymichel/Gamescar/blob/main/index.html"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [
+      "https://gamescar.vercel.app"
+    ],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "Chess",
+    "github_url": "https://github.com/tg2032/chess",
+    "repository_id": 1408016575,
+    "repository_created_at": "2026-10-06T23:25:39Z",
+    "evidence_url": "https://github.com/tg2032/chess/commit/db3c5288b48f17ce14204723728c12df5ba7d549",
+    "game_links": [
+      "https://github.com/tg2032/chess/blob/main/index.html",
+      "https://github.com/tg2032/chess/blob/main/game.js",
+      "https://github.com/tg2032/chess/blob/main/ui.js"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "HTML",
+      "JavaScript",
+      "Chess",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit frontier: Sonnet/GPT-6.1 game commits joined to Oct 6-7 creations (Asia/Ho_Chi_Minh)",
+      "https://github.com/tg2032/chess",
+      "https://github.com/tg2032/chess/commit/db3c5288b48f17ce14204723728c12df5ba7d549"
+    ],
+    "verification_notes": "Browser chess with a CPU opponent; the game commit co-authors Claude Sonnet 5.5.",
+    "quality_estimate_10": 7.5,
+    "quality_estimate_basis": "Full chess rules with a CPU opponent in a self contained page; no playtest.",
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "Chess"
+    ],
+    "contained_game_links": [
+      "https://github.com/tg2032/chess/blob/main/index.html"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "Idlyte",
+    "github_url": "https://github.com/Deepspace000/idlyte",
+    "repository_id": 1407067238,
+    "repository_created_at": "2026-10-06T09:55:47Z",
+    "evidence_url": "https://github.com/Deepspace000/idlyte/commit/593d84c446a8df374259cf551154d6be4ce3b2f8",
+    "game_links": [
+      "https://github.com/Deepspace000/idlyte/blob/main/index.html",
+      "https://github.com/Deepspace000/idlyte/blob/main/ship_designer.html"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "HTML",
+      "JavaScript",
+      "Idle",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit frontier: Sonnet/GPT-6.1 game commits joined to Oct 6-7 creations (Asia/Ho_Chi_Minh)",
+      "https://github.com/Deepspace000/idlyte",
+      "https://github.com/Deepspace000/idlyte/commit/593d84c446a8df374259cf551154d6be4ce3b2f8"
+    ],
+    "verification_notes": "Idle space shooter with missions, ship designer, bank interest and bosses; a long Sonnet 5.5 trailered commit series.",
+    "quality_estimate_10": 7.8,
+    "quality_estimate_basis": "Deep idle progression with missions, economy and bosses; no playtest.",
+    "flops_estimate_raw": 200000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "Idlyte"
+    ],
+    "contained_game_links": [
+      "https://github.com/Deepspace000/idlyte/blob/main/index.html"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "Sushi Match",
+    "github_url": "https://github.com/timpyorke/sushi-match",
+    "repository_id": 1406804952,
+    "repository_created_at": "2026-10-06T06:23:05Z",
+    "evidence_url": "https://github.com/timpyorke/sushi-match/commit/01205dce03091bf026a1112dd702574e93562c02",
+    "game_links": [
+      "https://github.com/timpyorke/sushi-match/blob/main/lib/main.dart",
+      "https://github.com/timpyorke/sushi-match/blob/main/README.md"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "Flutter",
+      "Dart",
+      "Mobile"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit frontier: Sonnet/GPT-6.1 game commits joined to Oct 6-7 creations (Asia/Ho_Chi_Minh)",
+      "https://github.com/timpyorke/sushi-match",
+      "https://github.com/timpyorke/sushi-match/commit/01205dce03091bf026a1112dd702574e93562c02"
+    ],
+    "verification_notes": "Match-3 restaurant game with 100 levels, boosters, events, shop and audio; Sonnet 5.5 trailers with session links.",
+    "quality_estimate_10": 8,
+    "quality_estimate_basis": "Complete match-3 structure with levels, events and audio assets; no playtest.",
+    "flops_estimate_raw": 300000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "Sushi Match"
+    ],
+    "contained_game_links": [
+      "https://github.com/timpyorke/sushi-match/blob/main/lib/main.dart"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "Pong",
+    "github_url": "https://github.com/nvalencio/teste",
+    "repository_id": 1408041404,
+    "repository_created_at": "2026-10-07T00:05:16Z",
+    "evidence_url": "https://github.com/nvalencio/teste/commit/6002785bb01a1fde7f4730748e9a0b1fbbda950f",
+    "game_links": [
+      "https://github.com/nvalencio/teste/blob/main/pingpong.py",
+      "https://github.com/nvalencio/teste/blob/main/README.md"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "Python"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit frontier: Sonnet/GPT-6.1 game commits joined to Oct 6-7 creations (Asia/Ho_Chi_Minh)",
+      "https://github.com/nvalencio/teste",
+      "https://github.com/nvalencio/teste/commit/6002785bb01a1fde7f4730748e9a0b1fbbda950f"
+    ],
+    "verification_notes": "Pong clone built commit by commit (paddles, ball physics, scoring, win condition, restart) under Sonnet 5.5 trailers; README documents controls and rules.",
+    "quality_estimate_10": 7,
+    "quality_estimate_basis": "Minimal but complete Pong loop with scoring and restart; no playtest.",
+    "flops_estimate_raw": 50000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "Pong"
+    ],
+    "contained_game_links": [
+      "https://github.com/nvalencio/teste/blob/main/pingpong.py"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "Dice Bingo",
+    "github_url": "https://github.com/pradhanmantrielectionsgame/dice-bingo",
+    "repository_id": 1408016698,
+    "repository_created_at": "2026-10-06T23:25:51Z",
+    "evidence_url": "https://github.com/pradhanmantrielectionsgame/dice-bingo/commit/d0e560a4eeebd7f10fe8a9a73832bda123772998",
+    "game_links": [
+      "https://github.com/pradhanmantrielectionsgame/dice-bingo/blob/main/index.html"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "HTML",
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit frontier: Sonnet/GPT-6.1 game commits joined to Oct 6-7 creations (Asia/Ho_Chi_Minh)",
+      "https://github.com/pradhanmantrielectionsgame/dice-bingo",
+      "https://github.com/pradhanmantrielectionsgame/dice-bingo/commit/d0e560a4eeebd7f10fe8a9a73832bda123772998"
+    ],
+    "verification_notes": "3D top-down dice bingo; the creation commit carries a Sonnet 5.5 trailer and session link.",
+    "quality_estimate_10": 7.4,
+    "quality_estimate_basis": "Described 3D bingo loop in a single page build; no playtest.",
+    "flops_estimate_raw": 400000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "Dice Bingo"
+    ],
+    "contained_game_links": [
+      "https://github.com/pradhanmantrielectionsgame/dice-bingo/blob/main/index.html"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "Revolution Quest",
+    "github_url": "https://github.com/lydonb/clark-quizzes",
+    "repository_id": 1408034554,
+    "repository_created_at": "2026-10-06T23:54:29Z",
+    "evidence_url": "https://github.com/lydonb/clark-quizzes/commit/59805d056b24c85e82559d07d9f1ca1f9c8d0ed1",
+    "game_links": [
+      "https://github.com/lydonb/clark-quizzes/blob/main/american-revolution/index.html",
+      "https://github.com/lydonb/clark-quizzes/blob/main/index.html"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "HTML",
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit frontier: Sonnet/GPT-6.1 game commits joined to Oct 6-7 creations (Asia/Ho_Chi_Minh)",
+      "https://github.com/lydonb/clark-quizzes",
+      "https://github.com/lydonb/clark-quizzes/commit/59805d056b24c85e82559d07d9f1ca1f9c8d0ed1"
+    ],
+    "verification_notes": "Revolution Quest study game with landing page; Sonnet 5.5 trailers on the game commits.",
+    "quality_estimate_10": 7.3,
+    "quality_estimate_basis": "Structured quiz game with landing page; no playtest.",
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "Revolution Quest"
+    ],
+    "contained_game_links": [
+      "https://github.com/lydonb/clark-quizzes/blob/main/american-revolution/index.html"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "Pathfinder AI",
+    "github_url": "https://github.com/mzeeshanaltaf/pathfinder-ai",
+    "repository_id": 1406943853,
+    "repository_created_at": "2026-10-06T08:13:32Z",
+    "evidence_url": "https://github.com/mzeeshanaltaf/pathfinder-ai/commit/48a6993482dfab5afa10e65090abde5b3e84233a",
+    "game_links": [
+      "https://github.com/mzeeshanaltaf/pathfinder-ai/blob/main/app/page.tsx",
+      "https://github.com/mzeeshanaltaf/pathfinder-ai/blob/main/components/Game.tsx"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "TypeScript",
+      "React",
+      "Next.js",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5",
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit frontier: Sonnet/GPT-6.1 game commits joined to Oct 6-7 creations (Asia/Ho_Chi_Minh)",
+      "https://github.com/mzeeshanaltaf/pathfinder-ai",
+      "https://github.com/mzeeshanaltaf/pathfinder-ai/commit/48a6993482dfab5afa10e65090abde5b3e84233a"
+    ],
+    "verification_notes": "First-person learning world with a mini-game framework and 12 concept simulations; phases 1-3 co-author Opus 5.5 and phases 4-5 Sonnet 5.5.",
+    "quality_estimate_10": 7.6,
+    "quality_estimate_basis": "Explorable world with a dozen playable mini simulations; no playtest.",
+    "flops_estimate_raw": 300000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "Pathfinder AI"
+    ],
+    "contained_game_links": [
+      "https://github.com/mzeeshanaltaf/pathfinder-ai/blob/main/app/page.tsx"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "Samgukji RPG",
+    "github_url": "https://github.com/moonhyungjin/samgukji-rpg",
+    "repository_id": 1407010656,
+    "repository_created_at": "2026-10-06T09:08:23Z",
+    "evidence_url": "https://github.com/moonhyungjin/samgukji-rpg/commit/3afba1ad0068cf2c9e1b631c75ef7ab4ab339311",
+    "game_links": [
+      "https://github.com/moonhyungjin/samgukji-rpg/blob/main/apps/game/index.html",
+      "https://github.com/moonhyungjin/samgukji-rpg/blob/main/apps/game/src/App.tsx",
+      "https://github.com/moonhyungjin/samgukji-rpg/blob/main/packages/battle-engine/src/index.ts"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "TypeScript",
+      "React",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit frontier: Sonnet/GPT-6.1 game commits joined to Oct 6-7 creations (Asia/Ho_Chi_Minh)",
+      "https://github.com/moonhyungjin/samgukji-rpg",
+      "https://github.com/moonhyungjin/samgukji-rpg/commit/3afba1ad0068cf2c9e1b631c75ef7ab4ab339311"
+    ],
+    "verification_notes": "Three Kingdoms RPG combat sandbox with a game screen, guard mechanic and balance lab; Sonnet 5.5 trailers.",
+    "quality_estimate_10": 7.7,
+    "quality_estimate_basis": "Battle sandbox with units, buffs and rebalance history; no playtest.",
+    "flops_estimate_raw": 500000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "Samgukji RPG"
+    ],
+    "contained_game_links": [
+      "https://github.com/moonhyungjin/samgukji-rpg/blob/main/apps/game/index.html"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "Kingdom Strategy",
+    "github_url": "https://github.com/mojojo82/kingdom-strategy",
+    "repository_id": 1407807182,
+    "repository_created_at": "2026-10-06T19:06:59Z",
+    "evidence_url": "https://github.com/mojojo82/kingdom-strategy/commit/00c48b9ed03f99035b8d05f269f450699d73e2d9",
+    "game_links": [
+      "https://github.com/mojojo82/kingdom-strategy/blob/main/index.html",
+      "https://github.com/mojojo82/kingdom-strategy/blob/main/admin/index.html"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "HTML",
+      "JavaScript",
+      "Firebase",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5",
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit frontier: Sonnet/GPT-6.1 game commits joined to Oct 6-7 creations (Asia/Ho_Chi_Minh)",
+      "https://github.com/mojojo82/kingdom-strategy",
+      "https://github.com/mojojo82/kingdom-strategy/commit/00c48b9ed03f99035b8d05f269f450699d73e2d9"
+    ],
+    "verification_notes": "Strategy game past v900 with isometric map, gems wallet, in-game mail and CI tests; mostly Opus 5.5 with Sonnet 5.5 commits.",
+    "quality_estimate_10": 7.8,
+    "quality_estimate_basis": "Long iteration history with map, economy and tests; no playtest.",
+    "flops_estimate_raw": 800000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "Kingdom Strategy"
+    ],
+    "contained_game_links": [
+      "https://github.com/mojojo82/kingdom-strategy/blob/main/index.html"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "Quillquest",
+    "github_url": "https://github.com/CptCliff/quillquest",
+    "repository_id": 1407092840,
+    "repository_created_at": "2026-10-06T10:19:08Z",
+    "evidence_url": "https://github.com/CptCliff/quillquest/commit/a83ad7c6f7d7306b3904a9c384575f3cf3fd033a",
+    "game_links": [
+      "https://github.com/CptCliff/quillquest/blob/main/apps/web/app/page.tsx",
+      "https://github.com/CptCliff/quillquest/blob/main/apps/sync/src/game/service.ts"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "TypeScript",
+      "Next.js",
+      "Node"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit frontier: Sonnet/GPT-6.1 game commits joined to Oct 6-7 creations (Asia/Ho_Chi_Minh)",
+      "https://github.com/CptCliff/quillquest",
+      "https://github.com/CptCliff/quillquest/commit/a83ad7c6f7d7306b3904a9c384575f3cf3fd033a"
+    ],
+    "verification_notes": "Story and card game platform with a rules engine, dice rolls, sync server, web client and game tests; Sonnet 5.5 trailers with session links.",
+    "quality_estimate_10": 7.5,
+    "quality_estimate_basis": "Rules engine plus client with tested game routes; no live play session.",
+    "flops_estimate_raw": 200000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "Quillquest"
+    ],
+    "contained_game_links": [
+      "https://github.com/CptCliff/quillquest/blob/main/apps/web/app/page.tsx"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "Latinha Retro",
+    "github_url": "https://github.com/Meduse64/latinha-retro-game",
+    "repository_id": 1406119443,
+    "repository_created_at": "2026-10-05T17:06:05Z",
+    "evidence_url": "https://github.com/Meduse64/latinha-retro-game/commit/8eef8557ef068326f621016d196ee459f270acc6",
+    "game_links": [
+      "https://github.com/Meduse64/latinha-retro-game/blob/claude/retro-game-proposal-07kbyg/firmware/cydboy_fw/cydboy_fw.ino",
+      "https://github.com/Meduse64/latinha-retro-game/blob/claude/retro-game-proposal-07kbyg/MANUAL.md"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "C++",
+      "Arduino",
+      "ESP32",
+      "Firmware"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit frontier: Sonnet/GPT-6.1 game commits joined to Oct 6-7 creations (Asia/Ho_Chi_Minh)",
+      "https://github.com/Meduse64/latinha-retro-game",
+      "https://github.com/Meduse64/latinha-retro-game/commit/8eef8557ef068326f621016d196ee459f270acc6"
+    ],
+    "verification_notes": "Retro handheld firmware for cheap yellow display boards with Game Boy and Sega 8-bit support, menus and a user manual; Sonnet 5.5 trailers. Needs the hardware to play.",
+    "quality_estimate_10": 7.6,
+    "quality_estimate_basis": "Real firmware game system with manual; hardware gated, no device test.",
+    "flops_estimate_raw": 50000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "Latinha Retro"
+    ],
+    "contained_game_links": [
+      "https://github.com/Meduse64/latinha-retro-game/blob/claude/retro-game-proposal-07kbyg/firmware/cydboy_fw/cydboy_fw.ino"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "Fish Running",
+    "github_url": "https://github.com/EDMOK/fishrunning",
+    "repository_id": 1406921996,
+    "repository_created_at": "2026-10-06T07:55:38Z",
+    "evidence_url": "https://github.com/EDMOK/fishrunning/commit/c25aaa2cef12aa32b1c1cbb7d22ed29dc40bb52e",
+    "game_links": [
+      "https://github.com/EDMOK/fishrunning/blob/github-public/index.html",
+      "https://github.com/EDMOK/fishrunning/blob/github-public/src/game.js"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "HTML",
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "GPT-6.1 Sol"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit frontier: Sonnet/GPT-6.1 game commits joined to Oct 6-7 creations (Asia/Ho_Chi_Minh)",
+      "https://github.com/EDMOK/fishrunning",
+      "https://github.com/EDMOK/fishrunning/commit/c25aaa2cef12aa32b1c1cbb7d22ed29dc40bb52e"
+    ],
+    "verification_notes": "Mobile runner with tracks, districts and touch input; trailers name gpt-6.1-sol through a third-party router address. Keep Sol separate from Astra.",
+    "quality_estimate_10": 7.7,
+    "quality_estimate_basis": "Runner loop with mobile input hardening; no playtest.",
+    "flops_estimate_raw": 200000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "Fish Running"
+    ],
+    "contained_game_links": [
+      "https://github.com/EDMOK/fishrunning/blob/github-public/index.html"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "BoK16-9HD",
+    "github_url": "https://github.com/rhamillnz/BoK16-9HD",
+    "repository_id": 1407904504,
+    "repository_created_at": "2026-10-06T20:49:44Z",
+    "evidence_url": "https://github.com/rhamillnz/BoK16-9HD/commit/1f8f3a8245b0b53482b509d7e1d6d622f142e4f1",
+    "game_links": [
+      "https://github.com/rhamillnz/BoK16-9HD/blob/main/index.html",
+      "https://github.com/rhamillnz/BoK16-9HD/blob/main/src/game/main.ts"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "TypeScript",
+      "Browser",
+      "WebGL"
+    ],
+    "model_family": [
+      "Claude Opus 5.5",
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit pool: Opus/Sonnet game commits filtered to repos created Oct 6-7 (Asia/Ho_Chi_Minh)",
+      "https://github.com/rhamillnz/BoK16-9HD",
+      "https://github.com/rhamillnz/BoK16-9HD/commit/1f8f3a8245b0b53482b509d7e1d6d622f142e4f1"
+    ],
+    "verification_notes": "3D medieval world with dialogue, teleports, zone transitions and an encounter runner; Opus 5.5 world building with Sonnet 5.5 systems commits.",
+    "quality_estimate_10": 8,
+    "quality_estimate_basis": "Large explorable 3D world with quests and encounters; no playtest.",
+    "flops_estimate_raw": 1200000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "BoK16-9HD"
+    ],
+    "contained_game_links": [
+      "https://github.com/rhamillnz/BoK16-9HD/blob/main/index.html"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "Trig Trainer",
+    "github_url": "https://github.com/olifeless/Trig-game",
+    "repository_id": 1407895034,
+    "repository_created_at": "2026-10-06T20:39:09Z",
+    "evidence_url": "https://github.com/olifeless/Trig-game/commit/a71b658617d3be89b86e7bc75a3b26366637329e",
+    "game_links": [
+      "https://github.com/olifeless/Trig-game/blob/main/trig_trainer.py"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "Python"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "creator-reported",
+    "model_evidence": "creator-reported",
+    "discovery_sources": [
+      "GitHub repository search: Claude Sonnet 5.5 created 2026-10-06..2026-10-07",
+      "https://github.com/olifeless/Trig-game",
+      "https://github.com/olifeless/Trig-game/commit/a71b658617d3be89b86e7bc75a3b26366637329e"
+    ],
+    "verification_notes": "Exact trigonometry values study game; README and description state it was entirely generated by Claude Sonnet 5.5. No commit trailer found.",
+    "quality_estimate_10": 7.2,
+    "quality_estimate_basis": "Self described study game loop; no playtest.",
+    "flops_estimate_raw": 50000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "Trig Trainer"
+    ],
+    "contained_game_links": [
+      "https://github.com/olifeless/Trig-game/blob/main/trig_trainer.py"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "VLAK",
+    "github_url": "https://github.com/rostaklein/vlak",
+    "repository_id": 1407956426,
+    "repository_created_at": "2026-10-06T21:55:23Z",
+    "evidence_url": "https://github.com/rostaklein/vlak/commit/b938899d1c370f058a0f83ff4b484b4c83c94c8f",
+    "game_links": [
+      "https://github.com/rostaklein/vlak/blob/main/src/main.rs",
+      "https://github.com/rostaklein/vlak/blob/main/src/game.rs"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "Rust",
+      "Native Windows"
+    ],
+    "model_family": [
+      "GPT-6.1 Sol"
+    ],
+    "method_evidence": "creator-reported",
+    "model_evidence": "creator-reported",
+    "discovery_sources": [
+      "GitHub repository search: GPT-6.1 Sol created 2026-10-06..2026-10-07",
+      "https://github.com/rostaklein/vlak",
+      "https://github.com/rostaklein/vlak/commit/b938899d1c370f058a0f83ff4b484b4c83c94c8f"
+    ],
+    "verification_notes": "Recreation of the 1993 Czech train game in Rust with a Windows executable and screenshots; the author reports a few prompts to GPT 6.1 Sol. Keep Sol separate from Astra.",
+    "quality_estimate_10": 7.9,
+    "quality_estimate_basis": "Shippable remake with binary and screenshots; no runtime test.",
+    "flops_estimate_raw": 200000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "VLAK"
+    ],
+    "contained_game_links": [
+      "https://github.com/rostaklein/vlak/blob/main/src/main.rs"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "Turbo Kart Rally",
+    "github_url": "https://github.com/exclusiveabhi/turbo-kart-rally-game",
+    "repository_id": 1406722280,
+    "repository_created_at": "2026-10-06T05:05:09Z",
+    "evidence_url": "https://github.com/exclusiveabhi/turbo-kart-rally-game/commit/5335cdb314ec5db4d86df679c91e15d9bb684149",
+    "game_links": [
+      "https://github.com/exclusiveabhi/turbo-kart-rally-game/blob/main/turbo-kart-rally/index.html",
+      "https://github.com/exclusiveabhi/turbo-kart-rally-game/blob/main/turbo-kart-rally/src/main.js",
+      "https://github.com/exclusiveabhi/turbo-kart-rally-game/blob/main/turbo-kart-rally/src/race.js"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "JavaScript",
+      "Three.js",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "creator-reported",
+    "model_evidence": "creator-reported",
+    "discovery_sources": [
+      "GitHub repository search: Claude Opus 5.5 created 2026-10-06..2026-10-07",
+      "https://github.com/exclusiveabhi/turbo-kart-rally-game",
+      "https://github.com/exclusiveabhi/turbo-kart-rally-game/commit/5335cdb314ec5db4d86df679c91e15d9bb684149"
+    ],
+    "verification_notes": "Mario Kart style 3D racer with AI, items, menus and screenshots; the description credits five Claude Opus 5.5 subagents. Single upload commit, no trailer.",
+    "quality_estimate_10": 8.4,
+    "quality_estimate_basis": "Full racer codebase with AI, items and screenshots; no playtest.",
+    "flops_estimate_raw": 1200000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "Turbo Kart Rally"
+    ],
+    "contained_game_links": [
+      "https://github.com/exclusiveabhi/turbo-kart-rally-game/blob/main/turbo-kart-rally/index.html"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "ATC Game",
+    "github_url": "https://github.com/zubcodes/ATC_Game",
+    "repository_id": 1407104200,
+    "repository_created_at": "2026-10-06T10:29:13Z",
+    "evidence_url": "https://github.com/zubcodes/ATC_Game/commit/a3a837a7ffa455e68c175bf660d957ae8f337556",
+    "game_links": [
+      "https://github.com/zubcodes/ATC_Game/blob/main/index.html"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "HTML",
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "creator-reported",
+    "model_evidence": "creator-reported",
+    "discovery_sources": [
+      "GitHub repository search: Claude Opus 5.5 created 2026-10-06..2026-10-07",
+      "https://github.com/zubcodes/ATC_Game",
+      "https://github.com/zubcodes/ATC_Game/commit/a3a837a7ffa455e68c175bf660d957ae8f337556"
+    ],
+    "verification_notes": "Air traffic control game in one file; the description says one prompt vibe coded game with Opus 5.5. Commit message agrees but carries no trailer.",
+    "quality_estimate_10": 7.2,
+    "quality_estimate_basis": "Single file ATC loop as described; no playtest.",
+    "flops_estimate_raw": 200000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "ATC Game"
+    ],
+    "contained_game_links": [
+      "https://github.com/zubcodes/ATC_Game/blob/main/index.html"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "Sonnet 5.5 Chess",
+    "github_url": "https://github.com/stevemaughan/sonnet-5.5-chess-24hrs",
+    "repository_id": 1406558107,
+    "repository_created_at": "2026-10-06T01:33:27Z",
+    "evidence_url": "https://github.com/stevemaughan/sonnet-5.5-chess-24hrs/commit/fa7a0cdc9d966a70ea758494c87163ee24b3e0e8",
+    "game_links": [
+      "https://github.com/stevemaughan/sonnet-5.5-chess-24hrs/blob/main/README.md",
+      "https://github.com/stevemaughan/sonnet-5.5-chess-24hrs/blob/main/final/Sonnet55chess24hrs.exe"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "C++",
+      "UCI",
+      "Native"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "creator-reported",
+    "model_evidence": "creator-reported",
+    "discovery_sources": [
+      "GitHub repository search: Claude Sonnet 5.5 created 2026-10-06..2026-10-07",
+      "https://github.com/stevemaughan/sonnet-5.5-chess-24hrs",
+      "https://github.com/stevemaughan/sonnet-5.5-chess-24hrs/commit/fa7a0cdc9d966a70ea758494c87163ee24b3e0e8"
+    ],
+    "verification_notes": "UCI chess engine written in a 24 hour Sonnet 5.5 run with a 3420 rating, sources, networks and log. The run commit subject and README credit Sonnet 5.5 while the trailer names Opus 5.5. Engine only: needs a UCI host, no bundled UI.",
+    "quality_estimate_10": 7.2,
+    "quality_estimate_basis": "Rated engine with sources and binary; engine only, no UI playtest.",
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "Sonnet 5.5 Chess"
+    ],
+    "contained_game_links": [
+      "https://github.com/stevemaughan/sonnet-5.5-chess-24hrs/blob/main/README.md"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "DEAD AIR",
+    "github_url": "https://github.com/PieterMey/theboys",
+    "repository_id": 1407372722,
+    "repository_created_at": "2026-10-06T13:41:19Z",
+    "evidence_url": "https://github.com/PieterMey/theboys/commit/d4cb042d9493e086084858afff54c92b2de2d79c",
+    "game_links": [
+      "https://github.com/PieterMey/theboys/blob/main/apps/client/index.html",
+      "https://github.com/PieterMey/theboys/blob/main/apps/client/src/main.ts"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "TypeScript",
+      "Browser",
+      "WebRTC"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub repository search: Built with Claude created 2026-10-06..2026-10-07",
+      "https://github.com/PieterMey/theboys",
+      "https://github.com/PieterMey/theboys/commit/d4cb042d9493e086084858afff54c92b2de2d79c"
+    ],
+    "verification_notes": "Co-op proximity-voice browser horror with levels, objectives, monsters, voice lures and 58 recorded playtest fixes; Opus 5.5 trailers throughout.",
+    "quality_estimate_10": 8.5,
+    "quality_estimate_basis": "Ambitious co-op horror with playtest history; no independent session.",
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "DEAD AIR"
+    ],
+    "contained_game_links": [
+      "https://github.com/PieterMey/theboys/blob/main/apps/client/index.html"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "Real Tournament",
+    "github_url": "https://github.com/nurullinm/real-tournament",
+    "repository_id": 1407552400,
+    "repository_created_at": "2026-10-06T15:40:19Z",
+    "evidence_url": "https://github.com/nurullinm/real-tournament/commit/28ab143144c7ae20925ae83f505c17a864a14544",
+    "game_links": [
+      "https://github.com/nurullinm/real-tournament/blob/main/index.html",
+      "https://github.com/nurullinm/real-tournament/blob/main/src/main.ts"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "TypeScript",
+      "Browser",
+      "Multiplayer"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit pool: Opus/Sonnet game commits filtered to repos created Oct 6-7 (Asia/Ho_Chi_Minh)",
+      "https://github.com/nurullinm/real-tournament",
+      "https://github.com/nurullinm/real-tournament/commit/28ab143144c7ae20925ae83f505c17a864a14544"
+    ],
+    "verification_notes": "Online capture the flag 2v2 with rollback, lobbies, bots and a Telegram bot; Sonnet 5.5 trailers.",
+    "quality_estimate_10": 8.1,
+    "quality_estimate_basis": "Real multiplayer systems with bots and lobby; no live match test.",
+    "flops_estimate_raw": 800000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "Real Tournament"
+    ],
+    "contained_game_links": [
+      "https://github.com/nurullinm/real-tournament/blob/main/index.html"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "Chessy",
+    "github_url": "https://github.com/garder500/chessy",
+    "repository_id": 1407675933,
+    "repository_created_at": "2026-10-06T17:12:18Z",
+    "evidence_url": "https://github.com/garder500/chessy/commit/2076304f3a837a78985822c22b74c55c2083b48c",
+    "game_links": [
+      "https://github.com/garder500/chessy/blob/main/web/index.html",
+      "https://github.com/garder500/chessy/blob/main/web/src/App.tsx"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "TypeScript",
+      "Rust",
+      "Chess",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit pool: Opus/Sonnet game commits filtered to repos created Oct 6-7 (Asia/Ho_Chi_Minh)",
+      "https://github.com/garder500/chessy",
+      "https://github.com/garder500/chessy/commit/2076304f3a837a78985822c22b74c55c2083b48c"
+    ],
+    "verification_notes": "Chess variant with skills, decks, rated games, replays and sounds; Sonnet 5.5 trailers.",
+    "quality_estimate_10": 8,
+    "quality_estimate_basis": "Deep variant systems with rated play; no playtest.",
+    "flops_estimate_raw": 400000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "Chessy"
+    ],
+    "contained_game_links": [
+      "https://github.com/garder500/chessy/blob/main/web/index.html"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "Slime Heist: Steal and Merge",
+    "github_url": "https://github.com/Matthew-Uhlar/Roblox-Test",
+    "repository_id": 1408049428,
+    "repository_created_at": "2026-10-07T00:18:15Z",
+    "evidence_url": "https://github.com/Matthew-Uhlar/Roblox-Test/commit/5b74663b11c80d83ea7f386232ff6e5759846817",
+    "game_links": [
+      "https://github.com/Matthew-Uhlar/Roblox-Test/blob/claude/jolly-archimedes-9usphg/default.project.json",
+      "https://github.com/Matthew-Uhlar/Roblox-Test/blob/claude/jolly-archimedes-9usphg/src/client/Main.client.luau"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "Luau",
+      "Roblox",
+      "Rojo"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit pool: Opus/Sonnet game commits filtered to repos created Oct 6-7 (Asia/Ho_Chi_Minh)",
+      "https://github.com/Matthew-Uhlar/Roblox-Test",
+      "https://github.com/Matthew-Uhlar/Roblox-Test/commit/5b74663b11c80d83ea7f386232ff6e5759846817"
+    ],
+    "verification_notes": "Roblox slime game with map builder, progression, monetization and publishing pipeline; Opus 5.5 trailers with session links. Needs Roblox to play.",
+    "quality_estimate_10": 7.7,
+    "quality_estimate_basis": "Packaged Roblox game with progression; no in-experience test.",
+    "flops_estimate_raw": 800000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "Slime Heist: Steal and Merge"
+    ],
+    "contained_game_links": [
+      "https://github.com/Matthew-Uhlar/Roblox-Test/blob/claude/jolly-archimedes-9usphg/default.project.json"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "Tennis Go",
+    "github_url": "https://github.com/hartwigcam98-star/Tennis-go",
+    "repository_id": 1406659649,
+    "repository_created_at": "2026-10-06T03:52:01Z",
+    "evidence_url": "https://github.com/hartwigcam98-star/Tennis-go/commit/841acbdadc8f26ace95519e3fbbb99cc28e6024a",
+    "game_links": [
+      "https://github.com/hartwigcam98-star/Tennis-go/blob/main/index.html"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "HTML",
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit pool: Opus/Sonnet game commits filtered to repos created Oct 6-7 (Asia/Ho_Chi_Minh)",
+      "https://github.com/hartwigcam98-star/Tennis-go",
+      "https://github.com/hartwigcam98-star/Tennis-go/commit/841acbdadc8f26ace95519e3fbbb99cc28e6024a"
+    ],
+    "verification_notes": "Tennis career game with tournaments, rankings, rivals, sounds and ceremonies; Opus 5.5 trailers with session links.",
+    "quality_estimate_10": 8.2,
+    "quality_estimate_basis": "Full career systems in one line of builds; no playtest.",
+    "flops_estimate_raw": 600000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "Tennis Go"
+    ],
+    "contained_game_links": [
+      "https://github.com/hartwigcam98-star/Tennis-go/blob/main/index.html"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "MUTE",
+    "github_url": "https://github.com/dippy34/Ai-vr-game",
+    "repository_id": 1406458238,
+    "repository_created_at": "2026-10-05T22:55:07Z",
+    "evidence_url": "https://github.com/dippy34/Ai-vr-game/commit/cbd6dd0b0345775604a404ca3e880d35d13a9637",
+    "game_links": [
+      "https://github.com/dippy34/Ai-vr-game/blob/claude/vigilant-gates-rfgepm/src/main.ts",
+      "https://github.com/dippy34/Ai-vr-game/blob/claude/vigilant-gates-rfgepm/src/game/game.ts"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "TypeScript",
+      "WebXR",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit pool: Opus/Sonnet game commits filtered to repos created Oct 6-7 (Asia/Ho_Chi_Minh)",
+      "https://github.com/dippy34/Ai-vr-game",
+      "https://github.com/dippy34/Ai-vr-game/commit/cbd6dd0b0345775604a404ca3e880d35d13a9637"
+    ],
+    "verification_notes": "Horror game for VR and desktop with rounds, jumpscare, multiplayer netcode and tests; Opus 5.5 trailers with session links.",
+    "quality_estimate_10": 8.4,
+    "quality_estimate_basis": "Large tested horror codebase with netcode; no runtime session.",
+    "flops_estimate_raw": 1500000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "MUTE"
+    ],
+    "contained_game_links": [
+      "https://github.com/dippy34/Ai-vr-game/blob/claude/vigilant-gates-rfgepm/src/main.ts"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "Dawnmark",
+    "github_url": "https://github.com/Funashigiri/dawnmark",
+    "repository_id": 1406429651,
+    "repository_created_at": "2026-10-05T22:12:10Z",
+    "evidence_url": "https://github.com/Funashigiri/dawnmark/commit/036a24d4a4bb8cc155d0030f89fe44c424b6a039",
+    "game_links": [
+      "https://github.com/Funashigiri/dawnmark/blob/main/src/main.odin",
+      "https://github.com/Funashigiri/dawnmark/blob/main/README.md"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "Odin",
+      "Native"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit pool: Opus/Sonnet game commits filtered to repos created Oct 6-7 (Asia/Ho_Chi_Minh)",
+      "https://github.com/Funashigiri/dawnmark",
+      "https://github.com/Funashigiri/dawnmark/commit/036a24d4a4bb8cc155d0030f89fe44c424b6a039"
+    ],
+    "verification_notes": "2D turn-based 4X strategy on a made-up planet, versioned 0.002 to 0.018 with menu and screenshots; Opus 5.5 trailers.",
+    "quality_estimate_10": 8.1,
+    "quality_estimate_basis": "Versioned 4X with screenshots; no playtest.",
+    "flops_estimate_raw": 400000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "Dawnmark"
+    ],
+    "contained_game_links": [
+      "https://github.com/Funashigiri/dawnmark/blob/main/src/main.odin"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "Catan",
+    "github_url": "https://github.com/joelraj18/catan",
+    "repository_id": 1406353637,
+    "repository_created_at": "2026-10-05T20:35:24Z",
+    "evidence_url": "https://github.com/joelraj18/catan/commit/56df81e3ed6711a0c25058f7f4bdffa08f5b1d1d",
+    "game_links": [
+      "https://github.com/joelraj18/catan/blob/main/public/index.html"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit pool: Opus/Sonnet game commits filtered to repos created Oct 6-7 (Asia/Ho_Chi_Minh)",
+      "https://github.com/joelraj18/catan",
+      "https://github.com/joelraj18/catan/commit/56df81e3ed6711a0c25058f7f4bdffa08f5b1d1d"
+    ],
+    "verification_notes": "Colonist style Catan with smart bots, 2 to 6 players, trading, dice and voice chat; Opus 5.5 trailers with session links.",
+    "quality_estimate_10": 8.3,
+    "quality_estimate_basis": "Complete Catan rules with bots and multiplayer; no live game test.",
+    "flops_estimate_raw": 600000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "Catan"
+    ],
+    "contained_game_links": [
+      "https://github.com/joelraj18/catan/blob/main/public/index.html"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "Astorids",
+    "github_url": "https://github.com/Crunchy000/astorids",
+    "repository_id": 1407498334,
+    "repository_created_at": "2026-10-06T15:06:09Z",
+    "evidence_url": "https://github.com/Crunchy000/astorids/commit/89ffe0086c0bc9e945b674b07c0e143771fe59a8",
+    "game_links": [
+      "https://github.com/Crunchy000/astorids/blob/ccr-ccbf1ca0-erm5dw/index.html",
+      "https://github.com/Crunchy000/astorids/blob/ccr-ccbf1ca0-erm5dw/asteroids_gym/env.py"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "Python",
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit pool: Opus/Sonnet game commits filtered to repos created Oct 6-7 (Asia/Ho_Chi_Minh)",
+      "https://github.com/Crunchy000/astorids",
+      "https://github.com/Crunchy000/astorids/commit/89ffe0086c0bc9e945b674b07c0e143771fe59a8"
+    ],
+    "verification_notes": "Asteroids style browser game plus a training gym with bots, league Elo and a PPO agent that beats the bot; Opus 5.5 trailers.",
+    "quality_estimate_10": 7.9,
+    "quality_estimate_basis": "Playable browser game plus training gym; no playtest.",
+    "flops_estimate_raw": 300000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "Astorids"
+    ],
+    "contained_game_links": [
+      "https://github.com/Crunchy000/astorids/blob/ccr-ccbf1ca0-erm5dw/index.html"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "Idle Skiller",
+    "github_url": "https://github.com/KingHempel/idle-skiller",
+    "repository_id": 1408045559,
+    "repository_created_at": "2026-10-07T00:11:57Z",
+    "evidence_url": "https://github.com/KingHempel/idle-skiller/commit/8988f87f044298c169033626e827d7811f679ee1",
+    "game_links": [
+      "https://github.com/KingHempel/idle-skiller/blob/main/index.html"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "TypeScript",
+      "Phaser",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit pool: Opus/Sonnet game commits filtered to repos created Oct 6-7 (Asia/Ho_Chi_Minh)",
+      "https://github.com/KingHempel/idle-skiller",
+      "https://github.com/KingHempel/idle-skiller/commit/8988f87f044298c169033626e827d7811f679ee1"
+    ],
+    "verification_notes": "Idle OSRS style skilling game in a pixel world with 9 skills, map and camera; Opus 5.5 trailers.",
+    "quality_estimate_10": 7.9,
+    "quality_estimate_basis": "Playable idle world as committed; no playtest.",
+    "flops_estimate_raw": 200000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "Idle Skiller"
+    ],
+    "contained_game_links": [
+      "https://github.com/KingHempel/idle-skiller/blob/main/index.html"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "Shipped",
+    "github_url": "https://github.com/madebynova/Shipped",
+    "repository_id": 1407614703,
+    "repository_created_at": "2026-10-06T16:24:54Z",
+    "evidence_url": "https://github.com/madebynova/Shipped/commit/3122e187d5cf866a36c25844adddec6a31d17909",
+    "game_links": [
+      "https://github.com/madebynova/Shipped/blob/main/index.html",
+      "https://github.com/madebynova/Shipped/blob/main/src/engine/game.ts"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "TypeScript",
+      "React",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit pool: Opus/Sonnet game commits filtered to repos created Oct 6-7 (Asia/Ho_Chi_Minh)",
+      "https://github.com/madebynova/Shipped",
+      "https://github.com/madebynova/Shipped/commit/3122e187d5cf866a36c25844adddec6a31d17909"
+    ],
+    "verification_notes": "Game-dev sim with economy, reviews, live events and bots plus engine tests; Sonnet 5.5 trailers.",
+    "quality_estimate_10": 7.7,
+    "quality_estimate_basis": "Sim systems with tests and tutorial runs; no playtest.",
+    "flops_estimate_raw": 150000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "Shipped"
+    ],
+    "contained_game_links": [
+      "https://github.com/madebynova/Shipped/blob/main/index.html"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "The Vims",
+    "github_url": "https://github.com/slamcoderpt/the-vims",
+    "repository_id": 1407753098,
+    "repository_created_at": "2026-10-06T18:17:44Z",
+    "evidence_url": "https://github.com/slamcoderpt/the-vims/commit/24743ca3c570bc5e0054cfae9957befcc9cc9fc7",
+    "game_links": [
+      "https://github.com/slamcoderpt/the-vims/blob/claude/optimistic-newton-y10zky/scenes/main.tscn",
+      "https://github.com/slamcoderpt/the-vims/blob/claude/optimistic-newton-y10zky/scripts/core/game.gd"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "Godot",
+      "GDScript"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit pool: Opus/Sonnet game commits filtered to repos created Oct 6-7 (Asia/Ho_Chi_Minh)",
+      "https://github.com/slamcoderpt/the-vims",
+      "https://github.com/slamcoderpt/the-vims/commit/24743ca3c570bc5e0054cfae9957befcc9cc9fc7"
+    ],
+    "verification_notes": "Voxel life sim in early construction with home, market and festival scenes and a game core; Opus 5.5 trailers. Early prototype: the loop is still being built.",
+    "quality_estimate_10": 6.8,
+    "quality_estimate_basis": "Real scenes and core systems but unfinished loop; no playtest.",
+    "flops_estimate_raw": 600000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 1,
+    "contained_games": [
+      "The Vims"
+    ],
+    "contained_game_links": [
+      "https://github.com/slamcoderpt/the-vims/blob/claude/optimistic-newton-y10zky/scenes/main.tscn"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "bad_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "NoCap Games",
+    "github_url": "https://github.com/olucasfl/nocap-app",
+    "repository_id": 1407912194,
+    "repository_created_at": "2026-10-06T20:58:26Z",
+    "evidence_url": "https://github.com/olucasfl/nocap-app/commit/d5deb45935b7307875dd7cc821fb2e9b19646562",
+    "game_links": [
+      "https://github.com/olucasfl/nocap-app/blob/main/apps/web/src/games/color/ColorGame.tsx",
+      "https://github.com/olucasfl/nocap-app/blob/main/apps/web/src/games/time/TimeGame.tsx"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "TypeScript",
+      "React",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit frontier: Sonnet/GPT-6.1 game commits joined to Oct 6-7 creations (Asia/Ho_Chi_Minh)",
+      "https://github.com/olucasfl/nocap-app",
+      "https://github.com/olucasfl/nocap-app/commit/d5deb45935b7307875dd7cc821fb2e9b19646562"
+    ],
+    "verification_notes": "Two multiplayer party games with rooms, rankings and tests; Sonnet 5.5 trailers.",
+    "quality_estimate_10": 7.8,
+    "quality_estimate_basis": "Two complete game clients with server logic; no live match test.",
+    "flops_estimate_raw": 200000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 2,
+    "contained_games": [
+      "Cor",
+      "Tempo"
+    ],
+    "contained_game_links": [
+      "https://github.com/olucasfl/nocap-app/blob/main/apps/web/src/games/color/ColorGame.tsx",
+      "https://github.com/olucasfl/nocap-app/blob/main/apps/web/src/games/time/TimeGame.tsx"
+    ],
+    "counted_game_units": 2,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
+  },
+  {
+    "name": "Motion Arcade",
+    "github_url": "https://github.com/mirrash7/Games",
+    "repository_id": 1407450806,
+    "repository_created_at": "2026-10-06T14:35:36Z",
+    "evidence_url": "https://github.com/mirrash7/Games/commit/e6faac61241e0ea4d389a8f169e075b8f6d32043",
+    "game_links": [
+      "https://github.com/mirrash7/Games/blob/main/src/kpapp/game/flappy/game.py",
+      "https://github.com/mirrash7/Games/blob/main/src/kpapp/game/fruitninja/game.py",
+      "https://github.com/mirrash7/Games/blob/main/src/kpapp/game/holeinwall/game.py"
+    ],
+    "live_demo_url": null,
+    "technology": [
+      "Python",
+      "OpenCV"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "discovery_sources": [
+      "GitHub commit pool: Opus/Sonnet game commits filtered to repos created Oct 6-7 (Asia/Ho_Chi_Minh)",
+      "https://github.com/mirrash7/Games",
+      "https://github.com/mirrash7/Games/commit/e6faac61241e0ea4d389a8f169e075b8f6d32043"
+    ],
+    "verification_notes": "Body-controlled arcade on a pose backbone with three tested games; Opus 5.5 trailers. Needs a camera to play.",
+    "quality_estimate_10": 7.8,
+    "quality_estimate_basis": "Three tested motion games; camera gated, no playtest.",
+    "flops_estimate_raw": 300000000,
+    "flops_estimate_basis": "Static order-of-magnitude estimate for the observed stack; not measured.",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "runtime_test_status": "Source inspected; no live demo or runtime playtest.",
+    "added_to_repo_on": "2026-10-07",
+    "verified_on": "2026-10-07",
+    "publication_date_status": "repository_created_only",
+    "game_count": 3,
+    "contained_games": [
+      "Flappy Raccoon",
+      "Snack Attack",
+      "Hole in the Wall"
+    ],
+    "contained_game_links": [
+      "https://github.com/mirrash7/Games/blob/main/src/kpapp/game/flappy/game.py",
+      "https://github.com/mirrash7/Games/blob/main/src/kpapp/game/fruitninja/game.py",
+      "https://github.com/mirrash7/Games/blob/main/src/kpapp/game/holeinwall/game.py"
+    ],
+    "counted_game_units": 3,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "live_demo_urls": [],
+    "gauntlet_loop": false,
+    "quality_category": "curated_games",
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "prompt_evidence_url": null
   }
 ]

@@ -1,0 +1,29 @@
+{
+  "repo": "rhya-games/game-data-tools",
+  "meta": {
+    "created": "2026-10-06T23:15:27Z",
+    "desc": "Command-line tools for cross-checking game database values across sources",
+    "home": null,
+    "lang": "Python",
+    "pushed": "2026-10-06T23:44:46Z",
+    "size": 18,
+    "stars": 0
+  },
+  "readme": "",
+  "tree": [
+    ".gitignore",
+    "LICENSE",
+    "README.md",
+    "bin/common.py",
+    "bin/compare_item.py",
+    "bin/compare_mob.py",
+    "bin/compare_skill.py",
+    "bin/drops.py",
+    "bin/parse_irowiki_item.py",
+    "bin/parse_iteminfo.py",
+    "bin/parse_sprites.py",
+    "bin/save_page.sh",
+    "setup.sh"
+  ],
+  "readme_missing": true
+}

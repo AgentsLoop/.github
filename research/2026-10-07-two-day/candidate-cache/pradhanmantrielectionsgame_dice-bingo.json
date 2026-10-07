@@ -1,0 +1,23 @@
+{
+  "repo": "pradhanmantrielectionsgame/dice-bingo",
+  "meta": {
+    "created": "2026-10-06T23:25:51Z",
+    "desc": null,
+    "home": null,
+    "lang": "HTML",
+    "pushed": "2026-10-06T23:26:34Z",
+    "size": 117,
+    "stars": 0
+  },
+  "readme": "",
+  "tree": [
+    ".github/workflows/deploy.yml",
+    ".gitignore",
+    "icons/icon-192.png",
+    "icons/icon-512.png",
+    "index.html",
+    "package.json",
+    "scripts/dev.mjs"
+  ],
+  "readme_missing": true
+}

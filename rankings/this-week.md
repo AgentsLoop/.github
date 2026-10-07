@@ -1,6 +1,6 @@
 # Top Games This Week
 
-> Rank source-verified games with a creation signal in the last seven calendar days, **2026-09-28–2026-10-04** (Asia/Ho_Chi_Minh). Label repository creation as a proxy when no creator-reported game-creation date exists; exclude older creation dates even when gameplay evidence is recent.
+> Rank source-verified games with a creation signal in the last seven calendar days, **2026-10-01–2026-10-07** (Asia/Ho_Chi_Minh). Label repository creation as a proxy when no creator-reported game-creation date exists; exclude older creation dates even when gameplay evidence is recent.
 
 ## Coverage
 
@@ -12,16 +12,16 @@
 
 | Rank | Game | Score | Date basis | Model | Technology | Links |
 | ---: | --- | ---: | --- | --- | --- | --- |
-| 1 | **Dead Signal: Exclusion Zone** | ⭐ **8.7** | 2026-09-29 · repository_creation_proxy | Claude Sonnet 5.5 | Three.js, TypeScript, Vite, Vitest | [source](https://github.com/bridge-mind/sonnet-5-5-zombies-game/blob/9294d67a8548cb851acfd1a5aafdc6d68b008ee4/src/main.ts) · [evidence](https://github.com/bridge-mind/sonnet-5-5-zombies-game) |
-| 2 | **Wreckyard** | ⭐ **8.7** | 2026-09-29 · repository_creation_proxy | Claude Sonnet 5.5 | Three.js, TypeScript, Vite, Node.js, WebSocket | [source](https://github.com/guiguito/DestructionDerbySonnet/blob/a69c209c707e800efc210d2e4cb21242b3d8069b/src/server/round.ts) · [evidence](https://github.com/guiguito/DestructionDerbySonnet) |
-| 3 | **Last Courier** | ⭐ **8.6** | 2026-09-30 · repository_creation_proxy | Claude Opus 5.5 | Three.js, JavaScript, Web Audio | [source](https://github.com/tanuu5/last-courier/blob/54c03e750419218b7fb42f545a9e23e061c80747/index.html) · [evidence](https://github.com/tanuu5/last-courier) · [play](https://tanuu5.github.io/last-courier/) |
-| 4 | **Outpace** | ⭐ **8.6** | 2026-09-30 · repository_creation_proxy | Claude Opus 5.5, Claude Sonnet 5.5 | JavaScript, Canvas 2D, Node.js | [source](https://github.com/ethanplusai/outpace/blob/9500d7d52279c1b770257c979847e3559196d99a/public/index.html) · [evidence](https://github.com/ethanplusai/outpace) · [play](https://outpace.ethanplus.ai/) |
-| 5 | **Open Backrooms** | ⭐ **8.5** | 2026-09-30 · repository_creation_proxy | Claude Opus 5.5 | Three.js, TypeScript, Vite, WebSocket | [source](https://github.com/awn3x/Open-Backrooms/blob/15c7a727dd37133c8a95b5abe50769a656abb934/src/game/main.ts) · [evidence](https://github.com/awn3x/Open-Backrooms) · [play](https://awn3x.github.io/Open-Backrooms/) |
-| 6 | **Putt Quest — Adventure Mini Golf** | ⭐ **8.5** | 2026-09-30 · repository_creation_proxy | Claude Opus 5.5 | Three.js, JavaScript, Vite, Web Audio | [source](https://github.com/leonvanzyl/3d-golf-sonnet/blob/1ac26b49faa4686236c46128550fd32f2ea357a7/src/main.js) · [evidence](https://github.com/leonvanzyl/3d-golf-sonnet) · [play](https://3d-golf-sonnet.vercel.app/) |
-| 7 | **Gloaming Vale** | ⭐ **8.5** | 2026-09-30 · repository_creation_proxy | Claude Sonnet 5.5 | Three.js, JavaScript, Vite, Web Audio | [source](https://github.com/juan504n/spyro-game/blob/92bbe27dd36c6f347db07e734a281591fb09c1c4/src/main.js) · [evidence](https://github.com/juan504n/spyro-game) |
-| 8 | **NPC Village** | ⭐ **8.5** | 2026-09-30 · repository_creation_proxy | Claude Opus 5.5 | Godot 4.7, GDScript, Native desktop | [source](https://github.com/LJAguil/Npc-Village/blob/3dbbe7348c5abf69c2a1846d3f3cc3d7352f74e3/project.godot) · [evidence](https://github.com/LJAguil/Npc-Village) |
-| 9 | **Dynamite Mole** | ⭐ **8.5** | 2026-09-29 · repository_creation_proxy | Claude Sonnet 5.5 | JavaScript, Canvas 2D, Web Audio | [source](https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples/blob/29197247452de992b69b161bf258f02b2ab9ada5/games/dynamite-mole/impl/max/dist/js/game.js) · [evidence](https://github.com/DaikiKobayashi/sonnet-5-5-web-game-samples) · [play](https://daikikobayashi.github.io/sonnet-5-5-web-game-samples/games/dynamite-mole/max/) |
-| 10 | **Elden Kart** | ⭐ **8.5** | 2026-09-30 · repository_creation_proxy | Claude Sonnet 5.5 | Three.js, JavaScript, Vite, Web Audio | [source](https://github.com/Manoz/elden-kart/blob/17d7212e143c88a47bc0e2d396d7247b4a8e033d/src/main.js) · [evidence](https://github.com/Manoz/elden-kart) · [play](https://elden-kart.vercel.app/) |
+| 1 | **DEAD AIR** | ⭐ **8.5** | 2026-10-06 · repository_creation_proxy | Claude Opus 5.5 | TypeScript, Browser, WebRTC | [source](https://github.com/PieterMey/theboys/blob/main/apps/client/index.html) · [evidence](https://github.com/PieterMey/theboys) |
+| 2 | **Mana Wars** | ⭐ **8.4** | 2026-10-03 · repository_creation_proxy | Claude Opus 5.5 | Roblox, Luau, Rojo | [source](https://github.com/IHackedKmart/Mana-Wars/blob/e74f24a5ea685c2a1430efae41be592d5fb901ea/default.project.json) · [evidence](https://github.com/IHackedKmart/Mana-Wars) |
+| 3 | **MUTE** | ⭐ **8.4** | 2026-10-06 · repository_creation_proxy | Claude Opus 5.5 | TypeScript, WebXR, Browser | [source](https://github.com/dippy34/Ai-vr-game/blob/claude/vigilant-gates-rfgepm/src/main.ts) · [evidence](https://github.com/dippy34/Ai-vr-game) |
+| 4 | **Turbo Kart Rally** | ⭐ **8.4** | 2026-10-06 · repository_creation_proxy | Claude Opus 5.5 | JavaScript, Three.js, Browser | [source](https://github.com/exclusiveabhi/turbo-kart-rally-game/blob/main/turbo-kart-rally/index.html) · [evidence](https://github.com/exclusiveabhi/turbo-kart-rally-game) |
+| 5 | **SELF PLAY** | ⭐ **8.3** | 2026-10-04 · repository_creation_proxy | Claude Opus 5.5 | Three.js, JavaScript, WebGL, Browser | [source](https://github.com/4waiz/self-play/blob/bca0e6442664508f061d9c775a895abe1171eb53/index.html) · [evidence](https://github.com/4waiz/self-play) · [play](https://4waiz.github.io/self-play/) |
+| 6 | **Catan** | ⭐ **8.3** | 2026-10-06 · repository_creation_proxy | Claude Opus 5.5 | JavaScript, Browser | [source](https://github.com/joelraj18/catan/blob/main/public/index.html) · [evidence](https://github.com/joelraj18/catan) |
+| 7 | **Bomb Jack** | ⭐ **8.2** | 2026-10-06 · repository_creation_proxy | Claude Opus 5.5 | Go, Ebitengine, Browser | [source](https://github.com/teedjay/go-bombjack/blob/main/cmd/bombjack/main.go) · [evidence](https://github.com/teedjay/go-bombjack) |
+| 8 | **Tennis Go** | ⭐ **8.2** | 2026-10-06 · repository_creation_proxy | Claude Opus 5.5 | HTML, JavaScript, Browser | [source](https://github.com/hartwigcam98-star/Tennis-go/blob/main/index.html) · [evidence](https://github.com/hartwigcam98-star/Tennis-go) |
+| 9 | **Auto Zork** | ⭐ **8.1** | 2026-10-02 · repository_creation_proxy | Claude Sonnet 5.5 | Python, Flask, HTML, JavaScript, MCP, Browser dashboard | [source](https://github.com/petershk/auto-zork/blob/9fcff8f705b9c98589766e9bbac9532c037309a4/README.md) · [evidence](https://github.com/petershk/auto-zork) |
+| 10 | **Dawnmark** | ⭐ **8.1** | 2026-10-06 · repository_creation_proxy | Claude Opus 5.5 | Odin, Native | [source](https://github.com/Funashigiri/dawnmark/blob/main/src/main.odin) · [evidence](https://github.com/Funashigiri/dawnmark) |
 
 
 ## Date policy
@@ -31,5 +31,5 @@
 - Exclude entries outside the seven-day window or without either creation signal.
 - Keep this report generated; do not edit it manually.
 
-Period: **2026-09-28 through 2026-10-04**
-As of: **2026-10-04**
+Period: **2026-10-01 through 2026-10-07**
+As of: **2026-10-07**

@@ -1,0 +1,31 @@
+{
+  "repo": "lazyloafs/eldenringpoise",
+  "meta": {
+    "created": "2026-10-06T22:40:12Z",
+    "desc": null,
+    "home": null,
+    "lang": "HTML",
+    "pushed": "2026-10-07T00:26:08Z",
+    "size": 465,
+    "stars": 0
+  },
+  "readme": "",
+  "tree": [
+    "README.md",
+    "data/aow_anims.json",
+    "data/dlc_ids.json",
+    "data/frames.json",
+    "data/game_names.json",
+    "data/npc_names.json",
+    "data/wiki_data.json",
+    "index.html",
+    "tools/__pycache__/aow_hits.cpython-313.pyc",
+    "tools/aow_hits.py",
+    "tools/build.py",
+    "tools/er.py",
+    "tools/extract_frames.py",
+    "tools/extract_params.py",
+    "tools/index.template.html"
+  ],
+  "readme_missing": true
+}
