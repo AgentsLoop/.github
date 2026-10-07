@@ -1,6 +1,6 @@
 # AI Game Generators and Engines
 
-> Backup copy of the original index. The maintained version lives in [AgentsLoop/awesome-ai-game-generators](https://github.com/AgentsLoop/awesome-ai-game-generators).
+> Backup copy of the original index. The maintained version lives in [AgentsLoop/awesome-ai-game-maker](https://github.com/AgentsLoop/awesome-ai-game-maker).
 
 > Compare AI-assisted game-creation tools, adjacent game-development services, and game-discovery platforms here. Treat every capability as a vendor or project claim unless this index states that it was independently tested.
 

@@ -76,4 +76,4 @@ Use the primary links below; treat **2026-09-27** as the verification date for e
 - Add direct creator, catalog, or official tool links with a concrete use case and verification date.
 - Separate downloadable assets, asset-search catalogs, and authoring tools.
 - Preserve per-item license caveats; avoid blanket commercial-use claims for marketplaces.
-- Browse [AI game generators](https://github.com/AgentsLoop/awesome-ai-game-generators) for prompt-to-game systems and [game collections](awesomelists.md) for playable-game discovery.
+- Browse [AI game generators](https://github.com/AgentsLoop/awesome-ai-game-maker) for prompt-to-game systems and [game collections](awesomelists.md) for playable-game discovery.
